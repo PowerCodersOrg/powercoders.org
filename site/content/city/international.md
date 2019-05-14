@@ -95,7 +95,10 @@ text: >-
 
   </div>
 
-  </div><!-- end container -->
+  </div>
+
+
+  <!-- end container -->
 
   <hr class="whitespace">
 
@@ -158,11 +161,21 @@ text: >-
 
   </iframe>
 
-  </div>
+  </div> 
+
+  <div style ="text-align: center;" class="btn-box pwc-red"><a
+  href="https://forms.gle/6fh9FjN2gvP6U7fQ7" class="btn waves-effect
+  waves-light">Apply</a>
 
   </div>
 
   </div>
+
+  <!-- end row-->
+
+  </div>
+
+  <!-- end container -->
 events: []
 apply_as: []
 team:
