@@ -161,9 +161,12 @@ text: >-
 
   </iframe>
 
-  </div> 
+  </div>
 
-  <div style ="text-align: center;" class="btn-box pwc-red"><a
+  <hr class="whitespace">
+
+  <div style ="text-align: center; margin: 10px 100px;" class="col s12 btn-box
+  pwc-red"><a style= "color: white; padding: 20px 100px;"
   href="https://forms.gle/6fh9FjN2gvP6U7fQ7" class="btn waves-effect
   waves-light">Apply</a>
 
