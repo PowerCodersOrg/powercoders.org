@@ -165,9 +165,9 @@ text: >-
 
   <hr class="whitespace">
 
-  <div style ="text-align: center; margin: auto; padding: 10px" class="col s12
-  pwc-red"><a " href="https://forms.gle/6fh9FjN2gvP6U7fQ7" class="btn
-  waves-effect waves-light pwc-red">Apply</a>
+  <div style ="text-align: center; padding: 10px" class="btn col s12 pwc-red"><a
+  " href="https://forms.gle/6fh9FjN2gvP6U7fQ7" class="btn waves-effect
+  waves-light pwc-red">Apply</a>
 
   </div>
 
