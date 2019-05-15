@@ -84,6 +84,18 @@ latest:
     text: >-
       Watch the interview with Christian Hirsig and Hussam Eddin Allaham on
       CNNMoney Switzerland to learn more about what we are doing.
+  - fade_in: Up
+    header: Meetup in Lausanne
+    header_icon: fa-calendar-plus
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScV4v5h1Slz4eM3IvFvlStWEAGA5bBg8Sf9db0enVbpdynoQg/viewform
+    link_text: More
+    text: >-
+      Two current Powercoders students will have a presentation followed by a
+      short introduction to blockchain by Elisa Pasquali. 
+
+
+      May 21, 6 pm, Studio Banana in Lausanne
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
