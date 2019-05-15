@@ -233,5 +233,18 @@ city_program:
         list to receive the latest news and updates.
 past_program:
   header: Past Programs
+  items:
+    - header: Bern
+      link: /city/bern/
+      text: Graduation 7.4.2017
+    - header: Zürich
+      link: /city/zuerich002/
+      text: Graduation 22.12.17
+    - header: Lausanne
+      link: /city/lausanne-003/
+      text: Graduation 20.07.18
+    - header: Basel
+      link: /city/basel/
+      text: Graduation 08.03.18
 ---
 
