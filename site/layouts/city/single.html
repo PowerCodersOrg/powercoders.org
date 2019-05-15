@@ -29,6 +29,10 @@
                         <object>
                             <a href="{{$el.link}}"
                                class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
+			    {{if $el.meetup_link}}
+			    <a href="{{$el.meetup_link}}"
+                               class="btn waves-effect waves-light pwc-red" target="_blank">meetup.com <i style="vertical-align: bottom;" class="fab fa-meetup"></i></a>
+			    {{end}}
                         </object>
                     </a>
                 </div>
