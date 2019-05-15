@@ -58,33 +58,6 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Career Day Bern
-    header_icon: fa-signature
-    link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
-    link_text: Join
-    text: >-
-      Could you offer an internship in web or software development? Join our
-      career day on June 18, 2019 in Bern and meet our talented and motivated
-      students. Let's impact lives!
-  - fade_in: Down
-    header: Impact report 2018
-    header_icon: fa-file
-    link: >-
-      https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing
-    link_text: Read
-    text: >-
-      71 students, 80% estimated job integration rate - Check our impact report
-      2018 for more facts on what we achieved in the last year. 
-  - fade_in: Down
-    header: Interview on CNN money
-    header_icon: fa-video
-    link: >-
-      https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market?fbclid=IwAR3pCoIuHHlQvgQ9Jlsv08rJmIR4cXsdEfD5olMzzRMysy0jOg3XJPJDh2o
-    link_text: Watch
-    text: >-
-      Watch the interview with Christian Hirsig and Hussam Eddin Allaham on
-      CNNMoney Switzerland to learn more about what we are doing.
-  - fade_in: Up
     header: Meetup in Lausanne
     header_icon: fa-calendar-plus
     link: >-
@@ -96,6 +69,24 @@ latest:
 
 
       May 21, 6 pm, Studio Banana in Lausanne
+  - fade_in: Up
+    header: Career Day Bern
+    header_icon: fa-signature
+    link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
+    link_text: Join
+    text: >-
+      Could you offer an internship in web or software development? Join our
+      career day on June 18, 2019 in Bern and meet our talented and motivated
+      students. Let's impact lives!
+  - fade_in: Down
+    header: Interview on CNN money
+    header_icon: fa-video
+    link: >-
+      https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market?fbclid=IwAR3pCoIuHHlQvgQ9Jlsv08rJmIR4cXsdEfD5olMzzRMysy0jOg3XJPJDh2o
+    link_text: Watch
+    text: >-
+      Watch the interview with Christian Hirsig and Hussam Eddin Allaham on
+      CNNMoney Switzerland to learn more about what we are doing.
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
