@@ -204,7 +204,7 @@ city_program:
       color: teal lighten-4
       fade_in: Up
       header: Zurich
-      link: /city/zuerich
+      link: /city/zurich
       text: The program is starting in fall 2019. Applications will soon be open.
     - call_to_action: More
       color: teal lighten-4
