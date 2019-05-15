@@ -18,7 +18,7 @@ apply_as:
       * Get your IT-job
 
 
-      <h5>What we expect</h5>
+      <b>What we expect</b>
 
 
       * Passion for IT and technology
@@ -30,7 +30,7 @@ apply_as:
       * Full-time availability
 
 
-      <h5>What we offer</h5>
+      <b>What we offer</b>
 
 
       * Three month intensive programming course
