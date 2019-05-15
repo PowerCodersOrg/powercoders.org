@@ -18,6 +18,30 @@ apply_as:
       * Get your IT-job
 
 
+      <h5>What we expect</h5>
+
+
+      * Passion for IT and technology
+
+      * English fluency
+
+      * Commitment
+
+      * Full-time availability
+
+
+      <h5>What we offer</h5>
+
+
+      * Three month intensive programming course
+
+      * Additional support with laptop, food, and transportation if needed
+
+      * Coaching programme
+
+      * Access to an internship lasting between 6 and 12 months
+
+
       The application process will start soon. If you are interested, sign up
       [here](https://forms.gle/Mo6GYiQw9ZSsSDSd9) and make sure to sign up to
       our
