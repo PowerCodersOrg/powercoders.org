@@ -122,7 +122,7 @@ team:
     - description: Industry Lead
       image: /img/magaly-mathis.jpg
       name: Magaly Mathys
-    - description: Social Lead
+    - description: Social Lead / coline.sauzet@powercoders.org
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
     - description: Teaching Lead
