@@ -1,6 +1,6 @@
 ---
 title: Basel
-section_title: Basel Program
+section_title: 'Basel Programm '
 text: >-
   <h4 class="center">Powercoders Basel (004) batch start is on November 26 with
   20 new participants, 4 females, 16 males and from 7 nations.</h4>
