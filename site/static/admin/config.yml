@@ -210,9 +210,6 @@ collections:
               - label: Call to action
                 name: call_to_action
                 widget: string
-              - label: Meetup Link (Full URL)
-                name: meetup_link
-                widget: string
 
       - file: site/content/donate/_index.md
         label: Donate
@@ -476,6 +473,9 @@ collections:
             widget: string
           - label: Call to action
             name: call_to_action
+            widget: string
+          - label: Meetup Link (Full URL)
+            name: meetup_link
             widget: string
       - label: Apply as
         name: apply_as
