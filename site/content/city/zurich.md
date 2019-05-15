@@ -37,9 +37,7 @@ events:
     meetup_link: 'https://www.meetup.com/Powercoders/events/261483359/'
     text: >-
       22 May 2019 at 5.30pm, join us for an info session and dinner at Impact
-      Hub Bern. [Sign up
-      here](https://docs.google.com/forms/d/e/1FAIpQLSdqFaS5-EGVlq1i_iStujB-EIeR0UwSa-xtC9ZoIl7cPez3og/viewform)
-      or via [Meetup](https://www.meetup.com/Powercoders/events/261483359/).
+      Hub Bern.
 apply_as:
   - header: Participant
     text: >-
