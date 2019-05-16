@@ -57,6 +57,12 @@ program:
       Are you an IT company looking for talent no matter from where it comes
       from?
 latest:
+  - fade_in: Left
+    header: Apply for Zurich
+    header_icon: graduation-cap
+    link: 'https://powercoders.org/city/zurich/'
+    link_text: More
+    text: Applications for the September course in Zurich are now open.
   - fade_in: Up
     header: Meetup in Lausanne
     header_icon: fa-calendar-plus
