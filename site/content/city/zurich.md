@@ -12,11 +12,7 @@ text: >-
 
   * Probation and preparation: July / August 2019
 
-  * Launch party: September 6th 2019
-
   * School: September 9th 2019 - December 6th 2019
-
-  * Graduation party: December 6th 2019
 
   * IT Internship: From December 2019 (6-12 months)
 events:
