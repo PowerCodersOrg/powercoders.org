@@ -49,6 +49,10 @@ roles:
       closest to your place of residence. Our current programs: 
 
 
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">Zurich</a>
+
+
       <a href="/city/lausanne/#participant" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
 
@@ -93,6 +97,10 @@ roles:
 
       If you are interested in being a job coach to one of our participants,
       check our current programs for opportunities.
+
+
+      <a href="/city/zurich/#coach" class="btn waves-effect waves-light
+      pwc-red">Zurich</a>
 
 
       <a href="/city/lausanne/#coach" class="btn waves-effect waves-light
@@ -140,6 +148,10 @@ roles:
       current programs for opportunities.
 
 
+      <a href="/city/zurich/#trainer" class="btn waves-effect waves-light
+      pwc-red">Zurich</a>
+
+
       <a href="/city/lausanne/#trainer" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
 
@@ -178,6 +190,10 @@ roles:
       in empowering
           refugees, please fill in the following form and share it with other companies who can
           support us.
+
+      <a href="/city/zurich#company" class="btn waves-effect waves-light
+      pwc-red">Zurich</a>
+
 
       <a href="/city/lausanne/" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
