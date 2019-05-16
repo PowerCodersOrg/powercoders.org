@@ -59,7 +59,7 @@ program:
 latest:
   - fade_in: Left
     header: Apply for Zurich
-    header_icon: graduation-cap
+    header_icon: fa-graduation-cap
     link: 'https://powercoders.org/city/zurich/'
     link_text: More
     text: Applications for the September course in Zurich are now open.
