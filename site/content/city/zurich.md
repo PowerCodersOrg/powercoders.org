@@ -85,13 +85,11 @@ apply_as:
       * Access to an internship lasting between 6 and 12 months
 
 
-      <a href="https://form.jotformeu.com/91283757751365" class="btn
-      waves-effect waves-light pwc-red" target="_blank">Apply</a>
-
-
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
+    application_link: >-
+      https://form.jotformeu.com/91283757751365
   - header: Coach
     text: >-
       Our participants need more than technical knowledge to successfully find

@@ -47,8 +47,8 @@ apply_as:
       * Get your IT-job 
 
 
-      <a href="https://form.jotformeu.com/90632993486369" class="btn
-      waves-effect waves-light pwc-red" target="_blank">Apply</a>
+    application_link: >-
+      https://form.jotformeu.com/90632993486369
   - header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
@@ -68,9 +68,8 @@ apply_as:
 
       As soon as you apply, we will contact you soon for the next steps.
 
-
-      <a href="https://form.jotformeu.com/83392375181360" class="btn
-      waves-effect waves-light pwc-red" target="_blank">Apply</a>
+    application_link: >-
+      https://form.jotformeu.com/83392375181360
   - header: Trainer
     text: >-
       If you are an IT professional, like to support our participants solving IT
@@ -88,9 +87,8 @@ apply_as:
       Please apply via the link below. We will contact you soon to present our
       curriculum.
 
-
-      <a href="https://goo.gl/forms/aCR5QVVe66Spk8HG3" class="btn waves-effect
-      waves-light pwc-red" target="_blank">Apply</a>
+    application_link: >-
+      https://goo.gl/forms/aCR5QVVe66Spk8HG3
   - header: Company
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
@@ -113,9 +111,8 @@ apply_as:
       You must apply via the link below. We will contact you soon to schedule a
       meeting or a call.
 
-
-      <a href="https://goo.gl/forms/X5GYC5HDE79jjy5F3" class="btn waves-effect
-      waves-light pwc-red" target="_blank">Apply</a>
+    application_link: >-
+      https://goo.gl/forms/X5GYC5HDE79jjy5F3
 team:
   header: Team Lausanne
   members:

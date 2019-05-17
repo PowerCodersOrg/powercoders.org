@@ -58,7 +58,10 @@
                     </div>
                     {{if $el.text}}
                     <div class="collapsible-body markdown">
-                        {{ $el.text | markdownify }}
+                      {{ $el.text | markdownify }}
+		      {{if $el.application_link }}
+		        <p><a href="{{$el.application_link}}" class="btn waves-effect waves-light pwc-red" target="_blank">Apply</a></p>
+		      {{end}}
                     </div>
                     {{end}}
                 </li>

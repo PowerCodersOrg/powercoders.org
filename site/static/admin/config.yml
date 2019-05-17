@@ -488,6 +488,10 @@ collections:
           - label: Text
             name: text
             widget: markdown
+          - label: Application link
+            name: application_link
+            widget: string
+            hint: URL people will go to in order to apply
       - label: Team
         name: team
         widget: object
