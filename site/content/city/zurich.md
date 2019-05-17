@@ -32,7 +32,7 @@ events:
       https://docs.google.com/forms/d/e/1FAIpQLSdqFaS5-EGVlq1i_iStujB-EIeR0UwSa-xtC9ZoIl7cPez3og/viewform
     meetup_link: 'https://www.meetup.com/Powercoders/events/261483359/'
     text: >-
-      22 May 2019 at 5.30pm, join us for an info session and snacks at Impact
+      29 May 2019 at 5.30pm, join us for an info session and snacks at Impact
       Hub Bern.
   - call_to_action: Sign up
     header: 'Info Session, Zurich'
@@ -41,7 +41,7 @@ events:
       https://docs.google.com/forms/d/e/1FAIpQLSd1u_OWxtkxjovmLqAbz15_Sgv3ZTpwzQpl496pq1kBxU8reA/viewform
     meetup_link: 'https://www.meetup.com/Powercoders/events/261480287/'
     text: >-
-      14 June 2019 at 5.30pm, join us for an info session and snacks at Impact
+      14 June 2019 at 6.30pm, join us for an info session and snacks at Impact
       Hub Viadukt, Zurich.
 apply_as:
   - header: Participant
