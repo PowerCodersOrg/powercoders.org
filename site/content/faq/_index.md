@@ -73,7 +73,7 @@ sections:
           by our internship companies.
       - header: Is a trainer paid?
         text: >-
-          The training is voluntary workaPowercoders is covering parts of the
+          The training is voluntary work. Powercoders is covering parts of the
           expenses.
       - header: What is the career day?
         text: >-
