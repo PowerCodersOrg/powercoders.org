@@ -140,7 +140,7 @@ apply_as:
 
       * Interview sessions with students
 
-      * Start of internship of 6 - 12 month
+      * Start of internship of 6 - 12 months
 
 
       The application will start soon. If you are interested, sign up on our
