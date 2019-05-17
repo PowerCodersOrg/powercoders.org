@@ -26,14 +26,14 @@ events:
       22 May 2019 at 5pm, join us for an info session and dinner at
       Solidaritätshaus St. Gallen.
   - call_to_action: Sign up
-    header: 'Info Session, Berne'
+    header: 'Info Session, Bern'
     header_icon: fa-info-circle
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdqFaS5-EGVlq1i_iStujB-EIeR0UwSa-xtC9ZoIl7cPez3og/viewform
     meetup_link: 'https://www.meetup.com/Powercoders/events/261483359/'
     text: >-
       29 May 2019 at 5.30pm, join us for an info session and snacks at Impact
-      Hub Berne.
+      Hub Bern.
   - call_to_action: Sign up
     header: 'Info Session, Zurich'
     header_icon: fa-info-circle
