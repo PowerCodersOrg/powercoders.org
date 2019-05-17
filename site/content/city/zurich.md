@@ -80,13 +80,53 @@ apply_as:
       * Access to an internship lasting between 6 and 12 months
 
 
-      To apply, complete the [Powercoders Zurich Fall 2019 application
-      form](https://form.jotformeu.com/91283757751365). and make sure to sign up
-      to our
+      <a href="https://form.jotformeu.com/91283757751365" class="btn
+      waves-effect waves-light pwc-red" target="_blank">Apply</a>
+
+
+      Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to keep informed.
+      to stay informed.
   - header: Coach
-    text: "Our participants need more than technical knowledge to successfully find their way into the IT industry. That’s why our program includes coaching. Each participant is accompanied by one volunteer coach.\r\n\n\rAre you a local willing to support a refugee achieve his / her professional goals? Are you keen to gain and practice your coaching skills? \r\n\n<b>What to expect</b>\n\n* Be matched with a participant by the end of the school phase\n* Get ready by several coaching workshops\n* Meet your coachee regularly during their internship and help them to achieve their goals\n\n<b>Details</b>\n\n* You connect well to people from diverse cultures\n* You have a good understanding of the Swiss labour market and work culture\n* You can commit to invest time for (bi-)weekly meetings with your coachee\n\nThe application will start soon. If you are interested, sign up on our \"[Register your interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)\" form and make sure to sign up to our [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8) to be kept informed."
+    text: >-
+      Our participants need more than technical knowledge to successfully find
+      their way into the IT industry. That’s why our program includes coaching.
+      Each participant is accompanied by one volunteer coach.
+
+
+      Are you a local willing to support a refugee achieve his / her
+      professional goals? Are you keen to gain and practice your coaching
+      skills? 
+
+
+      <b>What to expect</b>
+
+
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
+
+
+      <b>Details</b>
+
+
+      * You connect well to people from diverse cultures
+
+      * You have a good understanding of the Swiss labour market and work
+      culture
+
+      * You can commit to invest time for (bi-)weekly meetings with your coachee
+
+
+      The application will start soon. If you are interested, sign up on our
+      "[Register your
+      interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
+      form and make sure to sign up to our
+      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
+      to stay informed.
   - header: Trainer
     text: >-
       Teachers in the classroom are supported by volunteer trainers (2+ half day
@@ -123,7 +163,7 @@ apply_as:
       interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
       form and make sure to sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to be kept informed.
+      to stay informed.
   - header: Company
     text: >-
       If you are an IT company, an agency or an IT department in the
@@ -148,7 +188,7 @@ apply_as:
       interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
       form and make sure to sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to be kept informed.
+      to stay informed.
 team:
   header: Team Zurich
   members:
