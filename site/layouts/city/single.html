@@ -60,7 +60,15 @@
                     <div class="collapsible-body markdown">
                       {{ $el.text | markdownify }}
 		      {{if $el.application_link }}
-		        <p><a href="{{$el.application_link}}" class="btn waves-effect waves-light pwc-red" target="_blank">Apply</a></p>
+		        <p><a href="{{$el.application_link}}"
+			    onclick="dataLayer.push({
+                              'event': 'viewApplicationForm',
+                              'eventCategory': '{{ $el.header | safeJS }}',
+                              'eventAction': 'click',
+                              'eventLabel': '{{ $.Title | safeJS }}',
+                              'eventValue': undefined
+		            });"
+			    class="btn waves-effect waves-light pwc-red" target="_blank">Apply</a></p>
 		      {{end}}
                     </div>
                     {{end}}
