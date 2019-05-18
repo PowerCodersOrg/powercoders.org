@@ -453,6 +453,7 @@ collections:
             name: application_link
             widget: string
             hint: URL people will go to in order to apply
+            required: false
       - label: Team
         name: team
         widget: object
