@@ -2,10 +2,8 @@
 title: Zurich
 section_title: Zurich
 text: >-
-  <h4 class="center">Powercoders is returning to Zurich in September 2019 as a
+  <h4 class="center">Powercoders returns to Zurich in September 2019 as a
   digital learning hub for refugees in German-speaking Switzerland. </h4>
-
-
 
 
   The timeline for the next batch:
@@ -49,7 +47,8 @@ events:
       14 June 2019 at 6.30pm, join us for an info session and snacks at Impact
       Hub Viadukt, Zurich.
 apply_as:
-  - header: Participant
+  - application_link: 'https://form.jotformeu.com/91283757751365'
+    header: Participant
     text: >-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
@@ -88,8 +87,6 @@ apply_as:
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-    application_link: >-
-      https://form.jotformeu.com/91283757751365
   - header: Coach
     text: >-
       Our participants need more than technical knowledge to successfully find
