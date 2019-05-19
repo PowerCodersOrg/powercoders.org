@@ -261,6 +261,6 @@ past_program:
       text: Graduation 20.07.18
     - header: Basel
       link: /city/basel/
-      text: Graduation 08.03.18
+      text: Graduation 08.03.19
 ---
 
