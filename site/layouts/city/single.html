@@ -28,9 +28,23 @@
                         {{end}}
                         <object>
                             <a href="{{$el.link}}"
+  			       onclick="dataLayer.push({
+                                        'event': 'GAEvent',
+                                        'eventCategory': 'Event Signup',
+                                        'eventAction': 'Click call to action',
+                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
+                                        'eventValue': undefined
+ 		                        });"
                                class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
 			    {{if $el.meetup_link}}
 			    <a href="{{$el.meetup_link}}"
+  			       onclick="dataLayer.push({
+                                        'event': 'GAEvent',
+                                        'eventCategory': 'Event Signup',
+                                        'eventAction': 'Click Meetup event',
+                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
+                                        'eventValue': undefined
+ 		                        });"
                                class="btn waves-effect waves-light pwc-red" target="_blank">meetup.com <i style="vertical-align: bottom;" class="fab fa-meetup"></i></a>
 			    {{end}}
                         </object>
@@ -62,9 +76,9 @@
 		      {{if $el.application_link }}
 		        <p><a href="{{$el.application_link}}"
 			    onclick="dataLayer.push({
-                              'event': 'viewApplicationForm',
-                              'eventCategory': 'ApplicationForms',
-                              'eventAction': 'view',
+                              'event': 'GAEvent',
+                              'eventCategory': 'Application Forms',
+                              'eventAction': 'Click to view',
                               'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
                               'eventValue': undefined
 		            });"
