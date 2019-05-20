@@ -32,7 +32,7 @@ sections:
           To cover our costs, we are supported by the Swiss government,
           foundations, companies and individuals. However, Powercoders
           appreciates every donation.
-      - header: Why is a coaching included?
+      - header: Why is coaching included?
         text: >-
           Our participants need more than technical knowledge in order to
           achieve a sustainable integration into employment. Entering a new
@@ -43,22 +43,22 @@ sections:
       - header: Who can become a coach?
         text: >-
           Everyone who is a local in the specific city, motivated to learn about
-          other cultures and willing to spend time with their menteeonce every
-          week. There are no IT skills needed, just a open and supportive
+          other cultures and willing to spend time with their mentee once every
+          week. There are no IT skills needed, just an open and supportive
           attitude!
-      - header: How long does the coaching lasts?
+      - header: How long is the coaching period?
         text: >-
           Coaching starts towards the end of the courses and lasts until the end
           of the internship.
       - header: Is a coach paid?
         text: >-
-          The coaching is voluntary work. Powercoders is covering parts of the
+          The coaching is voluntary work. Powercoders covers part of the
           expenses.
       - header: Who can become a trainer?
         text: >-
           IT professionals who want to support participants in solving IT
-          challenges and help with the teaching for some days in the afternoons.
-          There is no teaching experience needed.
+          challenges and help with the teaching. There is no teaching experience
+          needed.
       - header: What IT skills are needed for a trainer?
         text: >-
           We are always looking for different skill sets, so everyone willing to
@@ -73,7 +73,7 @@ sections:
           by our internship companies.
       - header: Is a trainer paid?
         text: >-
-          The training is voluntary work. Powercoders is covering parts of the
+          The training is voluntary work. Powercoders covers part of the
           expenses.
       - header: What is the career day?
         text: >-
@@ -125,8 +125,8 @@ sections:
         text: >-
           We work to ensure that this is achieved at the career day, where we
           simulate a real job seeking event. Every company presents the
-          internship they are offering, . after which each company has a booth
-          that  participants are expected to stop by at and ask questions about
+          internship they are offering, after which each company has a booth
+          that participants are expected to stop by at and ask questions about
           the company and internship. The goal of a participating company is to
           invite 3 to 5 participants for an second interview in the following
           week.
@@ -144,14 +144,13 @@ sections:
           us.](mailto:info@powercoders.org)
       - header: Why offer an internship for Powercoders?
         text: >-
-          An internship for Powercoders is, on the one hand, is a way to offer
-          an  talented people from a refugee background the opportunity to
-          access a doorway into the IT labour market of Switzerland. On the
-          other hand, it is the unique chance for companies to get access to raw
-          talent, get in touch with a person from a refugee background, and have
-          a strong impact on his or her unusual life story. Almost every company
-          who offered an internship has told us that it was a very enriching
-          experience for all their employees.
+          An internship for Powercoders is a way to offer talented people from a
+          refugee background the opportunity to access a doorway into the IT
+          labour market of Switzerland. It is the unique chance for companies to
+          get access to raw talent, get in touch with a person from a refugee
+          background, and have a strong impact on his or her unusual life story.
+          Almost every company who offered an internship has told us that it was
+          a very enriching experience for all their employees.
       - header: How long should an internship last?
         text: >-
           The average duration of an internship is 6 - 12 months. However you
@@ -161,8 +160,8 @@ sections:
           At the Career Day, we simulate a real job-finding situation. Each
           company has five minutes to present the internship they wish to offer.
           Afterwards, each company has a booth and the participants can stop by
-          to ask questions and introduce themselves. The goal is to invite 3 to
-          5 participants for an interview in the following week.
+          to ask questions and introduce themselves. The goal is to invite three
+          to five participants for an interview in the following week.
       - header: Are the refugees allowed to work in Switzerland?
         text: "Yes. Refugees with B or F permits are considered almost like Swiss welfare recipients. The state wants them to be integrated, have a job and become independent. The same goes for temporarily-admitted foreigners with F status.\r\n\nAsylum seekers with permit N are theoretically allowed to work, but have more difficulties getting a work permit because of the priority for people living in Switzerland."
       - header: How to get the job permit for interns?
@@ -200,7 +199,7 @@ sections:
           several alternative options:
 
 
-          * prolong the internship upto one year 
+          * prolong the internship up to one year 
 
           * offer a part-time internship or job and let the intern study German
           part-time 
@@ -250,6 +249,5 @@ sections:
           Temporarily admitted persons with permit F and Asylum seekers with
           permit N often receive much less.
     name: Company
-international: none
 ---
 
