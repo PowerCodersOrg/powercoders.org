@@ -69,7 +69,7 @@ latest:
     link: 'https://powercoders.org/city/lausanne/'
     link_text: More
     text: >-
-      Applications for the course in Zurich starting in October 2019 are now
+      Applications for the course in Lausanne starting in October 2019 are now
       open.
   - fade_in: Up
     header: Meetup in Lausanne
