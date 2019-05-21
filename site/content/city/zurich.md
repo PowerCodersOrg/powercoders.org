@@ -49,7 +49,8 @@ events:
       14 June 2019 at 6.30pm, join us for an info session and snacks at Impact
       Hub Viadukt, Zurich.
 apply_as:
-  - header: Participant
+  - application_link: 'https://form.jotformeu.com/91283757751365'
+    header: Participant
     text: >-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
@@ -88,8 +89,6 @@ apply_as:
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-    application_link: >-
-      https://form.jotformeu.com/91283757751365
   - header: Coach
     text: >-
       Our participants need more than technical knowledge to successfully find
@@ -167,7 +166,8 @@ apply_as:
       form and make sure to sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-  - header: Company
+  - application_link: 'https://forms.gle/s3FMAenR8fLFh87B8'
+    header: Company
     text: >-
       If you are an IT company, an agency or an IT department in the
       German-speaking Switzerland, and eager to support a refugee during an
@@ -186,10 +186,7 @@ apply_as:
       * Start of internship of 6 - 12 months
 
 
-      The application will start soon. If you are interested, sign up on our
-      "[Register your
-      interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
-      form and make sure to sign up to our
+      Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
 team:
