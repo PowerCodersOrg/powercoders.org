@@ -129,7 +129,8 @@ apply_as:
       form and make sure to sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-  - header: Trainer
+  - application_link: 'https://powercoders.knack.com/portal#volunteers/'
+    header: Trainer
     text: >-
       Teachers in the classroom are supported by volunteer trainers (2+ half day
       commitment) to to help answer questions from the student group and provide
