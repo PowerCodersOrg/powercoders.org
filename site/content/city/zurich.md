@@ -159,14 +159,6 @@ apply_as:
       covered
 
       * No prior teaching experience required
-
-
-      The application will start soon. If you are interested, sign up on our
-      "[Register your
-      interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
-      form and make sure to sign up to our
-      [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
-      to stay informed.
   - application_link: 'https://forms.gle/s3FMAenR8fLFh87B8'
     header: Company
     text: >-
