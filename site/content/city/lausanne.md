@@ -17,20 +17,9 @@ events:
 
 
       June 18, Impact Hub Bern
-  - call_to_action: Sign up
-    header: Community meetup
-    header_icon: fa-calendar-plus
-    link: 'https://forms.gle/4d8Ez3Ae7DExGDJX6'
-    text: >-
-      2 current Powercoders students will have a presentation followed by a
-      short introduction to blockchain by Elisa Pasquali, founder of Arcadia
-      Blockchain.
-
-
-      May 21, 6 p.m., Studio Banana Lausanne (avenue des Acacias 7,  1006
-      Lausanne)
 apply_as:
-  - header: Participant
+  - application_link: 'https://form.jotformeu.com/90632993486369'
+    header: Participant
     text: >-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
@@ -45,11 +34,8 @@ apply_as:
       * Do an internship from December 2019 - June 2020
 
       * Get your IT-job 
-
-
-    application_link: >-
-      https://form.jotformeu.com/90632993486369
-  - header: Coach
+  - application_link: 'https://form.jotformeu.com/83392375181360'
+    header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
       participant in her or his professional integration as a jobcoach, please
@@ -67,10 +53,8 @@ apply_as:
 
 
       As soon as you apply, we will contact you soon for the next steps.
-
-    application_link: >-
-      https://form.jotformeu.com/83392375181360
-  - header: Trainer
+  - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
+    header: Trainer
     text: >-
       If you are an IT professional, like to support our participants solving IT
       challenges and like to work in teams, join us. Check the job description
@@ -86,10 +70,8 @@ apply_as:
 
       Please apply via the link below. We will contact you soon to present our
       curriculum.
-
-    application_link: >-
-      https://goo.gl/forms/aCR5QVVe66Spk8HG3
-  - header: Company
+  - application_link: 'https://goo.gl/forms/X5GYC5HDE79jjy5F3'
+    header: Company
     text: >-
       If you are an IT company, an agency or an IT department in Romandie, are
       eager to support a refugee during an internship and are eventually able to
@@ -110,9 +92,6 @@ apply_as:
 
       You must apply via the link below. We will contact you soon to schedule a
       meeting or a call.
-
-    application_link: >-
-      https://goo.gl/forms/X5GYC5HDE79jjy5F3
 team:
   header: Team Lausanne
   members:
