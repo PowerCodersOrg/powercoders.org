@@ -17,21 +17,21 @@ events:
 
 
       June 18, Impact Hub Bern
-  - call_to_action: Join
+  - call_to_action: ''
     header: Meetup
     header_icon: fa-meetup
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/261505609/'
     text: >-
-      Thursday 13th of June, [EdTech
-      Collider](https://goo.gl/maps/CwDxY8DC7wD6itTn8) (Chemin de la Dent d'Oche
-      1b, 1024 Ecublens), 6pm
+      Thursday 13th of June, EdTech Collider (Chemin de la Dent d'Oche 1b, 1024
+      Ecublens), 6pm
 
 
       Program:\
 
-      - Presentation by 2 current Powercoders students\
 
-      - A short introduction to AI by the Machine Learning team of the EPFL
+      * Presentation by 2 current Powercoders students\
+
+      * A short introduction to AI by the Machine Learning team of the EPFL
       Extension School
 apply_as:
   - application_link: 'https://form.jotformeu.com/90632993486369'
