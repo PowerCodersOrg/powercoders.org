@@ -6,9 +6,7 @@ text: >-
   digital learning hub for refugees in German-speaking Switzerland. </h4>
 
 
-
-
-  The timeline for the next batch:
+  The timeline for the next batch is:
 
 
   * Applications: May - 30 June 2019
