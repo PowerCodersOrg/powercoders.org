@@ -19,7 +19,7 @@ events:
       June 18, Impact Hub Bern
   - call_to_action: ''
     header: Meetup
-    header_icon: fa-meetup
+    header_icon: fa-calendar-plus
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/261505609/'
     text: >-
       Thursday 13th of June, EdTech Collider (Chemin de la Dent d'Oche 1b, 1024
