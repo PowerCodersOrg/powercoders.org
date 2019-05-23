@@ -31,6 +31,15 @@ events:
       29 May 2019 at 5.30pm, join us for an info session and snacks at Impact
       Hub Bern.
   - call_to_action: Sign up
+    header: 'Info Session, Lucerne'
+    header_icon: fa-info-circle
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSe0Fc1eY5PpbHSFBfKM8UlmClmxdQ7YeXtP_gk2EM_6FHpE6Q/viewform
+    meetup_link: 'https://www.meetup.com/Powercoders/events/261706907/'
+    text: >-
+      12 June 2019 at 6pm, join us for an info session and snacks at
+      HelloWelcome, Lucerne.
+  - call_to_action: Sign up
     header: 'Info Session, Zurich'
     header_icon: fa-info-circle
     link: >-
