@@ -22,15 +22,6 @@ text: >-
   * IT Internship: From December 2019 (6-12 months)
 events:
   - call_to_action: Sign up
-    header: 'Info Session, St. Gallen'
-    header_icon: fa-info-circle
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSe0K_FTPm_RKxE9DLW_HJGT4YeBp_322-bPTyy_-iddPGS34w/viewform
-    meetup_link: 'https://www.meetup.com/Powercoders/events/261480287/'
-    text: >-
-      22 May 2019 at 5pm, join us for an info session and dinner at
-      Solidaritätshaus St. Gallen.
-  - call_to_action: Sign up
     header: 'Info Session, Bern'
     header_icon: fa-info-circle
     link: >-
