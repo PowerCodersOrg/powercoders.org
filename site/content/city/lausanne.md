@@ -38,7 +38,7 @@ events:
       Ecublens), 6pm
 
 
-      Program:\
+      Program:
 
 
       * Presentation by 2 current Powercoders students\
