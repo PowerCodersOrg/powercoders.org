@@ -47,7 +47,7 @@ events:
       Extension School
   - call_to_action: Sign up
     header: Graduation Party
-    header_icon: fa-graduation
+    header_icon: fa-graduation-cap
     link: >-
       https://docs.google.com/forms/d/1gXd0JPo4GvIpYswNzyKnAbnlWcX7e-B0YBAWC-df890/edit
     text: >-
