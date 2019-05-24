@@ -432,12 +432,15 @@ collections:
           - label: link
             name: link
             widget: string
+            required: false
           - label: Call to action
             name: call_to_action
             widget: string
+            required: false
           - label: Meetup Link (Full URL)
             name: meetup_link
             widget: string
+            required: false
       - label: Apply as
         name: apply_as
         widget: list

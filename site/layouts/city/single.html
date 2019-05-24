@@ -27,6 +27,7 @@
                         {{$el.text | markdownify}}
                         {{end}}
                         <object>
+                            {{if $el.link}}
                             <a href="{{$el.link}}"
   			       onclick="dataLayer.push({
                                         'event': 'GAEvent',
@@ -36,6 +37,7 @@
                                         'eventValue': undefined
  		                        });"
                                class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
+                            {{end}}
 			    {{if $el.meetup_link}}
 			    <a href="{{$el.meetup_link}}"
   			       onclick="dataLayer.push({
