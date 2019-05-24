@@ -4,6 +4,18 @@ section_title: Lausanne
 text: >-
   <h4 class="center">Powercoders Lausanne (005) started in April 2019. It is
   addressed to the French-speaking part of Switzerland.</h4>
+
+
+  The timeline for the next batch:
+
+
+  Application: June - July 19\
+
+  Preparation and probation: August - September 19\
+
+  Coding school in Lausanne: September - December 19\
+
+  IT internship: From January 2020
 events:
   - call_to_action: Join
     header: Career Day in Bern
