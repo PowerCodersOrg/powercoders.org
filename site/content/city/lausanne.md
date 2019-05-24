@@ -45,6 +45,18 @@ events:
 
       * A short introduction to AI by the Machine Learning team of the EPFL
       Extension School
+  - call_to_action: Sign up
+    header: Graduation Party
+    header_icon: fa-graduation
+    link: >-
+      https://docs.google.com/forms/d/1gXd0JPo4GvIpYswNzyKnAbnlWcX7e-B0YBAWC-df890/edit
+    text: >-
+      27 June 2019
+
+
+      We are celebrating the end of the 2nd program in Lausanne with the
+      graduation party. Sign up and spend an evening with good people &
+      delicious food.
 apply_as:
   - application_link: 'https://form.jotformeu.com/90632993486369'
     header: Participant
