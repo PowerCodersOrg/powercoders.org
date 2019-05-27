@@ -20,6 +20,9 @@ module.exports = {
   performance: {
     hints: false
   },
+  resolve: {
+    modules: ["node_modules"]
+  },
   module: {
     rules: [
       {
