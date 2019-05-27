@@ -170,8 +170,8 @@ media:
       - date: 1. 12. 2016
         links:
           - link: >-
-              href="http://www.bernerzeitung.ch/region/kanton-bern/itloesung-fuer-fluechtlinge/story/29590976
-            link_text: Vom Flüchtling zum Computercrack
+              https://www.bernerzeitung.ch/region/kanton-bern/it-loesung-fuer-fluechtlinge/story/29590976
+            link_text: IT-Lösung für Flüchtlinge
             title: 'Berner Zeitung (newspaper / German):'
     year: 2016
 ---
