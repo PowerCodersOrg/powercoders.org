@@ -17,7 +17,7 @@ text: >-
 
   IT internship: From January 2020
 events:
-  - header: Info session in Fribourg
+  - header: Info session
     header_icon: fa-info
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262002834/'
     text: >-
