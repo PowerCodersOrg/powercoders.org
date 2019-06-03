@@ -17,25 +17,25 @@ text: >-
 
   IT internship: From January 2020
 events:
-  - call_to_action: Join
-    header: Career Day in Bern
-    header_icon: fa-signature
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+  - header: Info session in Fribourg
+    header_icon: fa-info
+    meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262002834/'
     text: >-
-      Could you offer an internship in web or software development? Join our
-      career day on June 18, 2019 and meet our talented and motivated students.
-      Let's impact lives!
+      18 Juin 2019\
+
+      Espace multiculturel, Blue Factory, Passage du Cardinal 1, 1700 Fribourg
 
 
-      June 18, Impact Hub Bern
+      Learn more about our next program in Lausanne, starting in fall 2019, at
+      our info session.
   - call_to_action: ''
     header: Meetup
     header_icon: fa-calendar-plus
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/261505609/'
     text: >-
-      Thursday 13th of June, EdTech Collider (Chemin de la Dent d'Oche 1b, 1024
-      Ecublens), 6pm
+      Thursday 13th of June\
+
+      EdTech Collider (Chemin de la Dent d'Oche 1b, 1024 Ecublens), 6pm
 
 
       Program:
@@ -45,6 +45,20 @@ events:
 
       * A short introduction to AI by the Machine Learning team of the EPFL
       Extension School
+  - call_to_action: Join
+    header: Career Day in Bern
+    header_icon: fa-signature
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
+    text: >-
+      18 June 2019 \
+
+      Impact Hub Bern
+
+
+      Could you offer an internship in web or software development? Join our
+      career day on June 18, 2019 and meet our talented and motivated students.
+      Let's impact lives!
   - call_to_action: Sign up
     header: Graduation Party
     header_icon: fa-graduation-cap
