@@ -1,4 +1,5 @@
 /* Custom Stylesheet */
+@import url(cookieconsent/build/cookieconsent.min.css);
 
 /**
  * Use this file to override Materialize files so you can update

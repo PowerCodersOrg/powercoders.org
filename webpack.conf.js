@@ -1,38 +1,61 @@
-import webpack from "webpack";
-import path from "path";
+const path = require('path');
+const webpack = require('webpack');
 
-export default {
-  module: {
-    loaders: [
-      {
-        test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: "file-loader?name=/[hash].[ext]"
-      },
-      {
-        loader: "babel-loader",
-        test: /\.js?$/,
-        exclude: /node_modules/,
-        query: {cacheDirectory: true}
-      }
-    ]
-  },
-
-  plugins: [
-    new webpack.ProvidePlugin({
-      "fetch": "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
-    })
-  ],
-
-  context: path.join(__dirname, "src"),
+module.exports = {
+  mode: "production",
   entry: {
-    app: ["./js/app"],
-    cms: ["./js/cms"]
+    app: "./src/js/app.js",
+    cms: "./src/js/cms.js"
   },
   output: {
-    path: path.join(__dirname, "dist"),
+    path: path.resolve(__dirname, 'dist'),
     publicPath: "/",
     filename: "[name].js"
   },
+  performance: {
+    hints: false
+  },
+  resolve: {
+    modules: ["node_modules"]
+  },
+  module: {
+    rules: [
+      {
+        enforce: "pre",
+        test: /app\.(js|jsx)$/,
+        exclude: /node_modules/,
+        use: "eslint-loader"
+      },
+      {
+	test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
+	loader: "file-loader?name=/[hash].[ext]"
+      },
+      {
+        test: /\.js$/,
+        exclude: /node_modules/,
+        use: {
+          loader: "babel-loader",
+          options: {
+            presets: [
+              "env"
+            ]
+          }
+        }
+      },
+      {
+        test: /\.css$/,
+        use: [
+          "style-loader",
+          "css-loader"
+        ]
+      }
+    ]
+  },
+  plugins: [
+    new webpack.ProvidePlugin({
+      fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+    })
+  ],
   externals: {
     jquery: "jQuery"
   }
