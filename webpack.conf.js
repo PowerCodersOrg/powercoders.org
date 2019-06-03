@@ -12,11 +12,6 @@ module.exports = {
     publicPath: "/",
     filename: "[name].js"
   },
-  optimization: {
-    splitChunks: {
-      chunks: "all"
-    }
-  },
   performance: {
     hints: false
   },
