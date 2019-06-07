@@ -80,7 +80,8 @@ apply_as:
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-  - header: Coach
+  - application_link: 'https://forms.gle/muC2L6m4HekjS1ix7'
+    header: Coach
     text: >-
       Our participants need more than technical knowledge to successfully find
       their way into the IT industry. That’s why our program includes coaching.
@@ -114,10 +115,7 @@ apply_as:
       * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
-      The application will start soon. If you are interested, sign up on our
-      "[Register your
-      interest](https://docs.google.com/forms/d/e/1FAIpQLSeQRxEUk19mwrT2BDctBqUvayxus743NhERPBrQLyrKnRr-rw/viewform)"
-      form and make sure to sign up to our
+      Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
   - application_link: 'https://powercoders.knack.com/portal#volunteers/'
