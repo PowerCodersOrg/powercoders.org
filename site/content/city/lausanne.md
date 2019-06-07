@@ -33,7 +33,7 @@ events:
     header_icon: fa-calendar-plus
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/261505609/'
     text: >-
-      Thursday 13th of June\
+      13 June 2019\
 
       EdTech Collider (Chemin de la Dent d'Oche 1b, 1024 Ecublens), 6pm
 
@@ -76,7 +76,7 @@ events:
     header_icon: fa-info
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262091597/'
     text: >-
-      4 Juli 2019, 6 pm\
+      4 July 2019, 6 pm\
 
       Liip SA, Rue Etraz 4, 1003 Lausanne
 
