@@ -71,6 +71,19 @@ events:
       We are celebrating the end of the 2nd program in Lausanne with the
       graduation party. Sign up and spend an evening with good people &
       delicious food.
+  - call_to_action: Join
+    header: 'Info session '
+    header_icon: fa-info
+    meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262091597/'
+    text: >-
+      4 Juli 2019, 6 pm\
+
+      Liip SA, Rue Etraz 4, 1003 Lausanne
+
+
+      Powercoders, the programming academy for refugees, is preparing a new
+      session (Fall 2019) in Lausanne for the French-speaking regions in
+      Switzerland.Come to this info session.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
