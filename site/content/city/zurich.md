@@ -40,7 +40,7 @@ events:
       14 June 2019 at 6.30pm, join us for an info session and snacks at Impact
       Hub Viadukt, Zurich.
 apply_as:
-  - application_link: 'https://form.jotformeu.com/91283757751365'
+  - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
     text: >-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
