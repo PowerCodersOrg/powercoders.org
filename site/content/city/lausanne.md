@@ -83,7 +83,7 @@ events:
 
       Powercoders, the programming academy for refugees, is preparing a new
       session (Fall 2019) in Lausanne for the French-speaking regions in
-      Switzerland.Come to this info session.
+      Switzerland. Come to this info session.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
