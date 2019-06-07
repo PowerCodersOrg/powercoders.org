@@ -72,7 +72,7 @@ events:
       graduation party. Sign up and spend an evening with good people &
       delicious food.
 apply_as:
-  - application_link: 'https://form.jotformeu.com/90632993486369'
+  - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
     text: >-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
