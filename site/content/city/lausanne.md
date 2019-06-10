@@ -101,25 +101,23 @@ apply_as:
       * Do an internship from December 2019 - June 2020
 
       * Get your IT-job 
-  - application_link: 'https://form.jotformeu.com/83392375181360'
+  - application_link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform
     header: Coach
     text: >-
       If you are a local in Lausanne or surroundings and would like to support a
-      participant in her or his professional integration as a jobcoach, please
-      join us.
+      participant in her or his professional integration as a job coach, please
+      join us:
 
 
-      Apply on our website
+      * Be matched with a participant: 4 December, 2019
+
+      * Coaching workshop: 11 December, 2019
+
+      * End of the coaching: September 2020
 
 
-      * Be matched with a participant June 12th 2019 
-
-      * Coaching workshop June 19th 2019
-
-      * End of the coaching March 2020
-
-
-      As soon as you apply, we will contact you soon for the next steps.
+      As soon as you apply, we will contact you asap for the next steps.
   - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
     header: Trainer
     text: >-
