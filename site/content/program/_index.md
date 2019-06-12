@@ -227,10 +227,7 @@ city_program:
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: >-
-        The program is starting in April, 2019. Application for participants is
-        already closed, but we are still looking for job coaches, trainers and
-        companies.
+      text: The program is starting in September 2019. Applications are open now.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
