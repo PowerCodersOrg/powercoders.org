@@ -161,11 +161,11 @@ apply_as:
       For the next batch, we have the following schedule:
 
 
-      * Career Day on May 7, 2019 
+      * Career Day on November 5, 2019
 
-      * 2nd Interviews end of May, 2019
+      * 2nd Interviews in November, 2019
 
-      * Start internship by July, 2019
+      * Start internship by January, 2020
 
 
       You must apply via the link below. We will contact you soon to schedule a
