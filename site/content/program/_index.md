@@ -203,9 +203,9 @@ roles:
 
 
       If you are interested in offering an internship and becoming our partner
-      in empowering
-          refugees, please fill in the following form and share it with other companies who can
-          support us.
+      in empowering refugees, please fill in the following form and share it
+      with other companies who can support us.
+
 
       <a href="/city/zurich#company" class="btn waves-effect waves-light
       pwc-red">Zurich</a>
