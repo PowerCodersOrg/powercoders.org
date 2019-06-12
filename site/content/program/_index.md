@@ -131,22 +131,33 @@ roles:
       ##### You support our teachers as assistants.
 
 
-      Teaching sessions usually take place in the mornings. In the afternoons,
-      the participants focus on practising the things they learned in the
-      morning. That’s where our “trainers” come
-
-      in, helping them individually or in groups to get their exercises and
-      “homework” done.
+      Teachers in the classroom are supported by volunteer trainers (2+ half day
+      commitment) to to help answer questions from the student group and provide
+      1:1 support during exercises.
 
 
-      ###### What we are looking for
+      If you are an IT professional, like to support our participants solving IT
+      challenges and like to work in teams, join us.
 
 
-      * IT professionals who wants to support participants solving IT challenges
+      **What to expect**
 
-      * Trainers who help teaching for some days in the afternoons
 
-      * No teaching experience needed
+      * A classroom of students eager to learn
+
+      * An opportunity to stretch your own knowledge by answering questions
+
+
+      **Details**
+
+
+      * You have an understanding of some web development technologies
+      (Javascript, CSS, HTML, Frameworks, Python, SQL, etc)
+
+      * We match your skills to the time in the programme where that material is
+      covered
+
+      * No prior teaching experience required
 
 
       If you are interested in training our participants, please check our
