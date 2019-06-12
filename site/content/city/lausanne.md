@@ -143,7 +143,7 @@ apply_as:
 
 
       Sign up to our newsletter to stay informed.
-  - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
+  - application_link: 'https://forms.gle/FaLcrAt1bjXFyqsV6'
     header: Trainer
     text: >-
       Teachers in the classroom are supported by volunteer trainers (2+ half day
