@@ -73,26 +73,31 @@ roles:
       pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Coach
     text: >-
-      ##### Our participants need more than technical knowledge in order to
-      achieve a sustainable integration into employment.
+      Our participants need more than technical knowledge in order to achieve a
+      sustainable integration into employment. That’s why our program includes
+      coaching. Each participant is accompanied by one volunteer coach.
 
 
-      That’s why our program includes coaching. Each participant is accompanied
-      by one volunteer coach.
+      ###### What to expect
+
+
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
 
 
       ###### Details
 
 
-      * you connect well to people from diverse cultures
+      * You connect well to people from diverse cultures
 
-      * you are working and are well integrated in the Swiss labour market
+      * You have a good understanding of the Swiss labour market and work
+      culture
 
-      * you can commit to invest time for weekly meetings with your mentee
-
-      * you are interested in the topics of jobcoaching and mentoring. The
-      coaching starts at the end of the programming course and last until the
-      end of the internship.
+      * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
       If you are interested in being a job coach to one of our participants,
