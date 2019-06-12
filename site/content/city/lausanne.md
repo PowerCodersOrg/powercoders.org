@@ -87,20 +87,22 @@ events:
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
-    text: >-
+    text: |-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
+      **What we expect**
 
-      We are running 2 programs each year in Lausanne. For the one in spring
-      2019, the application is already closed. You can now apply for the program
-      in autumn 
+      * Passion for IT and technology
+      * English fluency
+      * Commitment
+      * Full-time availability
 
+      **What we offer**
 
-      * Learn or improve coding September - November 2019
-
-      * Do an internship from December 2019 - June 2020
-
-      * Get your IT-job 
+      * Three month intensive programming course
+      * Additional support with laptop, food, and transportation if needed
+      * Coaching programme
+      * Access to an internship lasting between 6 and 12 months
   - application_link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform
     header: Coach
