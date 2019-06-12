@@ -87,38 +87,63 @@ events:
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
-    text: >-
+    text: |-
       <h4>Are you a refugee eager to find your way to the IT industry?</h4>
 
+      **What we expect**
 
-      We are running 2 programs each year in Lausanne. For the one in spring
-      2019, the application is already closed. You can now apply for the program
-      in autumn 
+      * Passion for IT and technology
+      * English fluency
+      * Commitment
+      * Full-time availability
 
+      **What we offer**
 
-      * Learn or improve coding September - November 2019
-
-      * Do an internship from December 2019 - June 2020
-
-      * Get your IT-job 
+      * Three month intensive programming course
+      * Additional support with laptop, food, and transportation if needed
+      * Coaching programme
+      * Access to an internship lasting between 6 and 12 months
   - application_link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform
     header: Coach
     text: >-
-      If you are a local in Lausanne or surroundings and would like to support a
-      participant in her or his professional integration as a job coach, please
-      join us:
+      Our participants need more than technical knowledge to successfully find
+      their way into the IT industry. That’s why our program includes coaching.
+      Each participant is accompanied by one volunteer coach.
 
 
-      * Be matched with a participant: 4 December, 2019
+      Are you a local willing to support a refugee achieve his / her
+      professional goals? Are you keen to gain and practice your coaching
+      skills?
 
-      * Coaching workshop: 11 December, 2019
 
-      * End of the coaching: September 2020
+      **What to expect**
+
+
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
+
+
+      **Details**
+
+
+      * You connect well to people from diverse cultures
+
+      * You have a good understanding of the Swiss labour market and work
+      culture
+
+      * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
       As soon as you apply, we will contact you asap for the next steps.
-  - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
+
+
+      Sign up to our newsletter to stay informed.
+  - application_link: 'https://forms.gle/FaLcrAt1bjXFyqsV6'
     header: Trainer
     text: >-
       Teachers in the classroom are supported by volunteer trainers (2+ half day
@@ -161,11 +186,11 @@ apply_as:
       For the next batch, we have the following schedule:
 
 
-      * Career Day on May 7, 2019 
+      * Career Day on November 5, 2019
 
-      * 2nd Interviews end of May, 2019
+      * 2nd Interviews in November, 2019
 
-      * Start internship by July, 2019
+      * Start internship by January, 2020
 
 
       You must apply via the link below. We will contact you soon to schedule a
