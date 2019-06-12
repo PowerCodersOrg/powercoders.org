@@ -121,20 +121,33 @@ apply_as:
   - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
     header: Trainer
     text: >-
+      Teachers in the classroom are supported by volunteer trainers (2+ half day
+      commitment) to to help answer questions from the student group and provide
+      1:1 support during exercises.
+
+
       If you are an IT professional, like to support our participants solving IT
-      challenges and like to work in teams, join us. Check the job description
-      here
+      challenges and like to work in teams, join us.
 
 
-      * Apply now
-
-      * Get a slot in class  from April 2019 - June 2019
-
-      * Join graduation June 28th 2019 (evening)
+      **What to expect**
 
 
-      Please apply via the link below. We will contact you soon to present our
-      curriculum.
+      * A classroom of students eager to learn
+
+      * An opportunity to stretch your own knowledge by answering questions
+
+
+      **Details**
+
+
+      * You have an understanding of some web development technologies
+      (Javascript, CSS, HTML, Frameworks, Python, SQL, etc)
+
+      * We match your skills to the time in the programme where that material is
+      covered
+
+      * No prior teaching experience required
   - application_link: 'https://goo.gl/forms/X5GYC5HDE79jjy5F3'
     header: Company
     text: >-
