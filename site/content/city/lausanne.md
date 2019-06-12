@@ -107,19 +107,42 @@ apply_as:
       https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform
     header: Coach
     text: >-
-      If you are a local in Lausanne or surroundings and would like to support a
-      participant in her or his professional integration as a job coach, please
-      join us:
+      Our participants need more than technical knowledge to successfully find
+      their way into the IT industry. That’s why our program includes coaching.
+      Each participant is accompanied by one volunteer coach.
 
 
-      * Be matched with a participant: 4 December, 2019
+      Are you a local willing to support a refugee achieve his / her
+      professional goals? Are you keen to gain and practice your coaching
+      skills?
 
-      * Coaching workshop: 11 December, 2019
 
-      * End of the coaching: September 2020
+      **What to expect**
+
+
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
+
+
+      **Details**
+
+
+      * You connect well to people from diverse cultures
+
+      * You have a good understanding of the Swiss labour market and work
+      culture
+
+      * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
       As soon as you apply, we will contact you asap for the next steps.
+
+
+      Sign up to our newsletter to stay informed.
   - application_link: 'https://goo.gl/forms/aCR5QVVe66Spk8HG3'
     header: Trainer
     text: >-
