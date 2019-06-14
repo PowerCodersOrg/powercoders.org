@@ -20,25 +20,7 @@ text: >-
   * School: September 9th 2019 - December 6th 2019
 
   * IT Internship: From December 2019 (6-12 months)
-events:
-  - call_to_action: Sign up
-    header: 'Info Session, Lucerne'
-    header_icon: fa-info-circle
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSe0Fc1eY5PpbHSFBfKM8UlmClmxdQ7YeXtP_gk2EM_6FHpE6Q/viewform
-    meetup_link: 'https://www.meetup.com/Powercoders/events/261706907/'
-    text: >-
-      12 June 2019 at 6pm, join us for an info session and snacks at
-      HelloWelcome, Lucerne.
-  - call_to_action: Sign up
-    header: 'Info Session, Zurich'
-    header_icon: fa-info-circle
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSd1u_OWxtkxjovmLqAbz15_Sgv3ZTpwzQpl496pq1kBxU8reA/viewform
-    meetup_link: 'https://www.meetup.com/Powercoders/events/261509584/'
-    text: >-
-      14 June 2019 at 6.30pm, join us for an info session and snacks at Impact
-      Hub Viadukt, Zurich.
+events: []
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
