@@ -63,7 +63,7 @@ events:
     header: Graduation Party
     header_icon: fa-graduation-cap
     link: >-
-      https://docs.google.com/forms/d/1gXd0JPo4GvIpYswNzyKnAbnlWcX7e-B0YBAWC-df890/edit
+      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
     text: >-
       27 June 2019
 
