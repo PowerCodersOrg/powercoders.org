@@ -28,23 +28,6 @@ events:
 
       Learn more about our next program in Lausanne, starting in fall 2019, at
       our info session.
-  - call_to_action: ''
-    header: Meetup
-    header_icon: fa-calendar-plus
-    meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/261505609/'
-    text: >-
-      13 June 2019\
-
-      EdTech Collider (Chemin de la Dent d'Oche 1b, 1024 Ecublens), 6pm
-
-
-      Program:
-
-
-      * Presentation by 2 current Powercoders students\
-
-      * A short introduction to AI by the Machine Learning team of the EPFL
-      Extension School
   - call_to_action: Join
     header: Career Day in Bern
     header_icon: fa-signature
