@@ -39,6 +39,12 @@ media:
               https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view?usp=sharing
             link_text: Ils s’intègrent grâce à l’informatique.
             title: La Liberté (newspaper / French); story about our student Tenzin
+      - date: 18.06.2019
+        links:
+          - link: >-
+              https://www.telebaern.tv/telebaern-news/speed-dating-fuer-fluechtlinge-auf-jobsuche-134634806
+            link_text: Speed-Dating für Flüchtlinge auf Jobsuche
+            title: 'Tele Bärn (TV/German):'
     year: '2019'
   - entries:
       - date: 22.12.2018
