@@ -28,20 +28,6 @@ events:
 
       Learn more about our next program in Lausanne, starting in fall 2019, at
       our info session.
-  - call_to_action: Join
-    header: Career Day in Bern
-    header_icon: fa-signature
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform
-    text: >-
-      18 June 2019 \
-
-      Impact Hub Bern
-
-
-      Could you offer an internship in web or software development? Join our
-      career day on June 18, 2019 and meet our talented and motivated students.
-      Let's impact lives!
   - call_to_action: Sign up
     header: Graduation Party
     header_icon: fa-graduation-cap
