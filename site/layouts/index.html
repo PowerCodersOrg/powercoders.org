@@ -48,8 +48,9 @@
 <div class="container">
     <div class="row section">
         <div class="col s12 offset-l2 l8">
-            <h2>{{.Params.story.header}}</h2>
+            {{if .Params.story.text}}
             <p class="markdown">{{.Params.story.text | markdownify}}</p>
+            {{end}}
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
                         allow="autoplay; encrypted-media" allowfullscreen></iframe>

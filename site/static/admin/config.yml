@@ -107,6 +107,7 @@ collections:
               - label: Text
                 name: text
                 widget: markdown
+                required: false
               - label: Video Id
                 name: video_id
                 widget: string
