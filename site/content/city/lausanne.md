@@ -48,7 +48,7 @@ events:
     header: Info Session Genèva
     header_icon: fa-info
     link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
+      https://docs.google.com/forms/d/e/1FAIpQLSeR0YLv0zJzi6xOwVpx5ZOL6QZw5rhF4h8hHQ8cZr97JBO_tA/viewform
     meetup_link: >-
       https://www.meetup.com/fr-FR/Powercoders/events/262380156/?fbclid=IwAR3LUlgwyQ6EtPjDAHigERUqwPXs_lEqpasY56wF7z_Pn7rzAs-Dz_osfw4
     text: >-
