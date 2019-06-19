@@ -17,17 +17,6 @@ text: >-
 
   IT internship: From January 2020
 events:
-  - header: Info session
-    header_icon: fa-info
-    meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262002834/'
-    text: >-
-      18 Juin 2019\
-
-      Espace multiculturel, Blue Factory, Passage du Cardinal 1, 1700 Fribourg
-
-
-      Learn more about our next program in Lausanne, starting in fall 2019, at
-      our info session.
   - call_to_action: Sign up
     header: Graduation Party
     header_icon: fa-graduation-cap
