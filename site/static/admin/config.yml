@@ -38,8 +38,8 @@ collections:
             widget: object
             fields:
               - label: Image
-              - name: image
-              - widget: image
+                name: image
+                widget: image
           - label: Get Involved
             name: get_involved
             widget: object
