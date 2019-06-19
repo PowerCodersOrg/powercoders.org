@@ -83,24 +83,13 @@ latest:
 
 
       May 21, 6 pm, Studio Banana in Lausanne
-  - fade_in: Up
-    header: Career Day Bern
-    header_icon: fa-signature
-    link: 'https://forms.gle/Kn2RQ7dkC191XAtC9'
-    link_text: Join
-    text: >-
-      Could you offer an internship in web or software development? Join our
-      career day on June 18, 2019 in Bern and meet our talented and motivated
-      students. Let's impact lives!
   - fade_in: Down
-    header: Interview on CNN money
+    header: TeleBärn visited our Career Day
     header_icon: fa-video
     link: >-
-      https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market?fbclid=IwAR3pCoIuHHlQvgQ9Jlsv08rJmIR4cXsdEfD5olMzzRMysy0jOg3XJPJDh2o
+      https://www.telebaern.tv/telebaern-news/speed-dating-fuer-fluechtlinge-auf-jobsuche-134634806?utm_source=shared-twitter&fbclid=IwAR02OOUtKNmn8sd1Y1VBSxLNq5ipL_nK-POYdAi57gR7x_HMD2kDmA2oo2s
     link_text: Watch
-    text: >-
-      Watch the interview with Christian Hirsig and Hussam Eddin Allaham on
-      CNNMoney Switzerland to learn more about what we are doing.
+    text: 'Watch the video made by the TV station TeleBärn about our Career Day.  '
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
@@ -111,9 +100,11 @@ partner:
   - image: /img/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
     name: Schweizerische Eidgenossenschaft
+    size: s6 m2
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
+    size: s6 m2
   - image: /img/Adobe.png
     link: 'https://www.adobe.com'
     name: Adobe
