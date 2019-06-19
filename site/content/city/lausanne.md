@@ -32,6 +32,8 @@ events:
   - call_to_action: Join
     header: 'Info session '
     header_icon: fa-info
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
     meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262091597/'
     text: >-
       4 July 2019, 6 pm\
