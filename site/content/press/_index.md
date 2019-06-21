@@ -15,7 +15,7 @@ media:
           - link: >-
               https://www.bluewin.ch/de/digital/swisscom/hier-kann-ich-mich-frei-bewegen-262642.html
             link_text: '"Hier kann ich mich frei bewegen"'
-            title: 'Bluewin (newsportal / German):'
+            title: 'Bluewin (newsportal / German), Interview with Jamila:'
       - date: 18.06.2019
         links:
           - link: >-
