@@ -10,6 +10,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 20.06.2019
+        links:
+          - link: >-
+              https://www.bluewin.ch/de/digital/swisscom/hier-kann-ich-mich-frei-bewegen-262642.html
+            link_text: '"Hier kann ich mich frei bewegen"'
+            title: 'Bluewin (newsportal / German):'
       - date: 18.06.2019
         links:
           - link: >-
