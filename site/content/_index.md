@@ -113,5 +113,9 @@ partner:
     link: 'http://www.impacthub.net'
     name: ImpactHub
     size: s6 m2
+  - image: /img/swissdevjobs-logo.png
+    link: 'https://swissdevjobs.ch/'
+    name: Swissdevjobs.ch
+    size: s6 m2
 ---
 
