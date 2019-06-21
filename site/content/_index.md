@@ -117,9 +117,5 @@ partner:
     link: 'https://swissdevjobs.ch/'
     name: Swissdevjobs.ch
     size: s6 m2
-  - image: /img/sms-logo-1h-300dpi_rgb.png
-    link: 'https://www.swissmadesoftware.org/'
-    name: Swiss made software
-    size: s6 m2
 ---
 
