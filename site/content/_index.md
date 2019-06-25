@@ -72,17 +72,14 @@ latest:
       Applications for the course in Lausanne starting in October 2019 are now
       open.
   - fade_in: Up
-    header: Meetup in Lausanne
-    header_icon: fa-calendar-plus
+    header: Graduation in Lausanne
+    header_icon: fa-graduation-cap
     link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScV4v5h1Slz4eM3IvFvlStWEAGA5bBg8Sf9db0enVbpdynoQg/viewform
-    link_text: More
+      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
+    link_text: Join
     text: >-
-      Two current Powercoders students will have a presentation followed by a
-      short introduction to blockchain by Elisa Pasquali. 
-
-
-      May 21, 6 pm, Studio Banana in Lausanne
+      We are celebrating the end of the 2nd program in Lausanne. Spend an
+      evening with good people & delicious food.
   - fade_in: Down
     header: TeleBärn visited our Career Day
     header_icon: fa-video
