@@ -23,7 +23,9 @@ events:
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
     text: >-
-      27 June 2019
+      27 June 2019\
+
+      La Ferme du Désert, Chemin Pierrefleur 74, 1004 Lausanne
 
 
       We are celebrating the end of the 2nd program in Lausanne with the
