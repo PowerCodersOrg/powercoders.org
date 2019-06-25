@@ -46,22 +46,6 @@ events:
       Powercoders, the programming academy for refugees, is preparing a new
       session (Fall 2019) in Lausanne for the French-speaking regions in
       Switzerland. Come to this info session.
-  - call_to_action: Join
-    header: Info Session Genèva
-    header_icon: fa-info
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSeR0YLv0zJzi6xOwVpx5ZOL6QZw5rhF4h8hHQ8cZr97JBO_tA/viewform
-    meetup_link: >-
-      https://www.meetup.com/fr-FR/Powercoders/events/262380156/?fbclid=IwAR3LUlgwyQ6EtPjDAHigERUqwPXs_lEqpasY56wF7z_Pn7rzAs-Dz_osfw4
-    text: >-
-      24 June 2019, 6 pm\
-
-      Voisins - Coworking café, Rue des Voisins 8, 1205 Genève
-
-
-      Powercoders, the programming academy for refugees, is preparing a new
-      session (Fall 2019) in Lausanne for the French-speaking regions in
-      Switzerland. Come to this info session.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
