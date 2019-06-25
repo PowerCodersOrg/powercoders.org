@@ -57,6 +57,17 @@ program:
       Are you an IT company looking for talent no matter from where it comes
       from?
 latest:
+  - fade_in: Up
+    header: Graduation in Lausanne
+    header_icon: fa-graduation-cap
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
+    link_text: Join
+    text: >-
+      27 June 2019, Lausanne: 
+
+      We are celebrating the end of the 2nd program in Lausanne. Spend an
+      evening with good people & delicious food.
   - fade_in: Left
     header: Apply for Zurich
     header_icon: fa-graduation-cap
@@ -71,15 +82,6 @@ latest:
     text: >-
       Applications for the course in Lausanne starting in October 2019 are now
       open.
-  - fade_in: Up
-    header: Graduation in Lausanne
-    header_icon: fa-graduation-cap
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
-    link_text: Join
-    text: >-
-      We are celebrating the end of the 2nd program in Lausanne. Spend an
-      evening with good people & delicious food.
   - fade_in: Down
     header: TeleBärn visited our Career Day
     header_icon: fa-video
