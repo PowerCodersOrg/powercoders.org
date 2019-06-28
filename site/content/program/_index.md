@@ -204,20 +204,12 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#company" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
-
-
       Sign up for our newsletters so we keep you posted about our events and
       next steps.
 
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
 city_program:
   header: City Program
   items:
