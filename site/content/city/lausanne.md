@@ -17,20 +17,6 @@ text: >-
 
   IT internship: From January 2020
 events:
-  - call_to_action: Sign up
-    header: Graduation Party
-    header_icon: fa-graduation-cap
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
-    text: >-
-      27 June 2019\
-
-      La Ferme du Désert, Chemin Pierrefleur 74, 1004 Lausanne
-
-
-      We are celebrating the end of the 2nd program in Lausanne with the
-      graduation party. Sign up and spend an evening with good people &
-      delicious food.
   - call_to_action: Join
     header: Info session Lausanne
     header_icon: fa-info
