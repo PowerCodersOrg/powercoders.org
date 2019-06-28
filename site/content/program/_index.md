@@ -45,6 +45,12 @@ roles:
       * Access to an internship lasting between 6 and 12 months
 
 
+      **For social workers**: download the factsheet in
+      [German](https://drive.google.com/file/d/1fBV2uPcaGBQmyDmf6-lcQ0bLzjvjHQXf/view?usp=sharing)
+      or
+      [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view?usp=sharing)
+
+
       If the above mentioned information applies to you, apply to the program
       closest to your place of residence. Our current programs: 
 
@@ -55,12 +61,6 @@ roles:
 
       <a href="/city/lausanne/#participant" class="btn waves-effect waves-light
       pwc-red">Lausanne</a>
-
-
-      **For social workers**: download the factsheet in
-      [German](https://drive.google.com/file/d/1fBV2uPcaGBQmyDmf6-lcQ0bLzjvjHQXf/view?usp=sharing)
-      or
-      [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view?usp=sharing)
 
 
       Sign up for our newsletters so we keep you posted about our events and
