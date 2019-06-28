@@ -57,8 +57,10 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#participant" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
+      **For social workers**: download the factsheet in
+      [German](https://drive.google.com/file/d/1fBV2uPcaGBQmyDmf6-lcQ0bLzjvjHQXf/view?usp=sharing)
+      or
+      [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view?usp=sharing)
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -67,32 +69,38 @@ roles:
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Coach
     text: >-
-      ##### Our participants need more than technical knowledge in order to
-      achieve a sustainable integration into employment.
+      Our participants need more than technical knowledge in order to achieve a
+      sustainable integration into employment. That’s why our program includes
+      coaching. Each participant is accompanied by one volunteer coach.
 
 
-      That’s why our program includes coaching. Each participant is accompanied
-      by one volunteer coach.
+      ###### What to expect
+
+
+      * Be matched with a participant by the end of the school phase
+
+      * Get ready by several coaching workshops
+
+      * Meet your coachee regularly during their internship and help them to
+      achieve their goals
 
 
       ###### Details
 
 
-      * you connect well to people from diverse cultures
+      * You connect well to people from diverse cultures
 
-      * you are working and are well integrated in the Swiss labour market
+      * You have a good understanding of the Swiss labour market and work
+      culture
 
-      * you can commit to invest time for weekly meetings with your mentee
+      * You can commit to invest time for (bi-)weekly meetings with your coachee
 
-      * you are interested in the topics of jobcoaching and mentoring. The
-      coaching starts at the end of the programming course and last until the
-      end of the internship.
+
+      Check also our
+      [factsheet](https://drive.google.com/file/d/1iPA4JT5G2Tra9uMTj-yZvcF_OtN5Hs5O/view?usp=sharing)
+      for more information.
 
 
       If you are interested in being a job coach to one of our participants,
@@ -107,8 +115,6 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#coach" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -117,31 +123,38 @@ roles:
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Trainer
     text: >-
       ##### You support our teachers as assistants.
 
 
-      Teaching sessions usually take place in the mornings. In the afternoons,
-      the participants focus on practising the things they learned in the
-      morning. That’s where our “trainers” come
-
-      in, helping them individually or in groups to get their exercises and
-      “homework” done.
+      Teachers in the classroom are supported by volunteer trainers (2+ half day
+      commitment) to to help answer questions from the student group and provide
+      1:1 support during exercises.
 
 
-      ###### What we are looking for
+      If you are an IT professional, like to support our participants solving IT
+      challenges and like to work in teams, join us.
 
 
-      * IT professionals who wants to support participants solving IT challenges
+      **What to expect**
 
-      * Trainers who help teaching for some days in the afternoons
 
-      * No teaching experience needed
+      * A classroom of students eager to learn
+
+      * An opportunity to stretch your own knowledge by answering questions
+
+
+      **Details**
+
+
+      * You have an understanding of some web development technologies
+      (Javascript, CSS, HTML, Frameworks, Python, SQL, etc)
+
+      * We match your skills to the time in the programme where that material is
+      covered
+
+      * No prior teaching experience required
 
 
       If you are interested in training our participants, please check our
@@ -187,9 +200,9 @@ roles:
 
 
       If you are interested in offering an internship and becoming our partner
-      in empowering
-          refugees, please fill in the following form and share it with other companies who can
-          support us.
+      in empowering refugees, please fill in the following form and share it
+      with other companies who can support us.
+
 
       <a href="/city/zurich#company" class="btn waves-effect waves-light
       pwc-red">Zurich</a>
