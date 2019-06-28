@@ -59,7 +59,7 @@ program:
 latest:
   - fade_in: Up
     header: Info Session in Lausanne
-    header_icon: fa-graduation-cap
+    header_icon: fa-info
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
     link_text: More
