@@ -57,8 +57,10 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#participant" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
+      **For social workers**: download the factsheet in
+      [German](https://drive.google.com/file/d/1fBV2uPcaGBQmyDmf6-lcQ0bLzjvjHQXf/view?usp=sharing)
+      or
+      [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view?usp=sharing)
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -67,10 +69,6 @@ roles:
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Coach
     text: >-
       Our participants need more than technical knowledge in order to achieve a
