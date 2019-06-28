@@ -98,6 +98,11 @@ roles:
       * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
+      Check also our
+      [factsheet](https://drive.google.com/file/d/1iPA4JT5G2Tra9uMTj-yZvcF_OtN5Hs5O/view?usp=sharing)
+      for more information.
+
+
       If you are interested in being a job coach to one of our participants,
       check our current programs for opportunities.
 
@@ -110,8 +115,6 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#coach" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
 
 
       Sign up for our newsletters so we keep you posted about our events and
@@ -120,10 +123,6 @@ roles:
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Trainer
     text: >-
       ##### You support our teachers as assistants.
