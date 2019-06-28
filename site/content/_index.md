@@ -58,16 +58,14 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Graduation in Lausanne
+    header: Info Session in Lausanne
     header_icon: fa-graduation-cap
     link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLScCCxMI6g65XFIxZAAlDu2eyqD6toxBmLeYvnOjd-DBOOvmxw/viewform
-    link_text: Join
+      https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
+    link_text: More
     text: >-
-      27 June 2019, Lausanne: 
-
-      We are celebrating the end of the 2nd program in Lausanne. Spend an
-      evening with good people & delicious food.
+      For more information about our program in Lausanne starting in fall 2019,
+      come to our info session on the 4 July 2019. 
   - fade_in: Left
     header: Apply for Zurich
     header_icon: fa-graduation-cap
