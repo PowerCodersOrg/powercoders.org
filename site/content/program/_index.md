@@ -169,20 +169,12 @@ roles:
       pwc-red">Lausanne</a>
 
 
-      <a href="/city/istanbul/#trainer" class="btn waves-effect waves-light
-      pwc-red">Istanbul</a>
-
-
       Sign up for our newsletters so we keep you posted about our events and
       next steps.
 
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-
-
-      <a href="http://eepurl.com/dNCmyY" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Turkey Newsletter</a>
   - header: Company
     text: >-
       ##### Our participants are highly qualified refugees and they are looking
