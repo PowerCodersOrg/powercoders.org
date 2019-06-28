@@ -246,9 +246,7 @@ city_program:
       fade_in: Right
       header: Istanbul
       link: /city/istanbul/
-      text: >-
-        The program is starting in March, 2019. Application for participants is
-        now closed!
+      text: 'The program started in March, 2019.'
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
