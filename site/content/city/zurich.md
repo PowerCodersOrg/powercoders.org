@@ -6,12 +6,8 @@ text: >-
   digital learning hub for refugees in German-speaking Switzerland. </h4>
 
 
-
-
   The timeline for the next batch:
 
-
-  * Applications: May - 30 June 2019
 
   * Interviews: July 2019
 
@@ -20,6 +16,9 @@ text: >-
   * School: September 9th 2019 - December 6th 2019
 
   * IT Internship: From December 2019 (6-12 months)
+
+
+  We accept applications on an ongoing base.
 events: []
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
