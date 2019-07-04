@@ -24,7 +24,7 @@ roles:
       ###### What we Expect
 
 
-      * Basic knowledge in IT
+      * Passion for IT and technology
 
       * English fluency
 
