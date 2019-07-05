@@ -16,22 +16,7 @@ text: >-
   Coding school in Lausanne: September - December 19\
 
   IT internship: From January 2020
-events:
-  - call_to_action: Join
-    header: Info session Lausanne
-    header_icon: fa-info
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
-    meetup_link: 'https://www.meetup.com/fr-FR/Powercoders/events/262091597/'
-    text: >-
-      4 July 2019, 6 pm\
-
-      Liip SA, Rue Etraz 4, 1003 Lausanne
-
-
-      Powercoders, the programming academy for refugees, is preparing a new
-      session (Fall 2019) in Lausanne for the French-speaking regions in
-      Switzerland. Come to this info session.
+events: []
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
