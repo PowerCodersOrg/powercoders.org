@@ -58,14 +58,13 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Info Session in Lausanne
-    header_icon: fa-info
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSftJ0ViE7V3e40232uj1DGgOLcQp9jDzCZV1LNWSmLEzu57sg/viewform
+    header: Shout out to female refugees
+    header_icon: fa-venus
+    link: 'https://powercoders.org/program/#participant'
     link_text: More
     text: >-
-      For more information about our program in Lausanne starting in fall 2019,
-      come to our info session on the 4 July 2019. 
+      Powercoders is supporting specially female refugees in discovering their
+      potential in IT. Apply now for the next program in Lausanne or Zurich.
   - fade_in: Left
     header: Apply for Zurich
     header_icon: fa-graduation-cap
