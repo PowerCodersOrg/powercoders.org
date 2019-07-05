@@ -14,11 +14,11 @@ get_involved:
     # Our mission
 
 
-    At Powercoders, we offer an intensive coding program to refugees with the
-    end goal of having all our participants secure a permanent and full time job
-    in the IT sector. In order to best achieve this goal, our program offers our
-    students three months of courses and then the opportunity to do an
-    internship.
+    At Powercoders, we offer an intensive coding program to female and male
+    refugees with the end goal of having all our participants secure a permanent
+    and full time job in the IT sector. In order to best achieve this goal, our
+    program offers our students three months of courses and then the opportunity
+    to do an internship.
 
 
     Our talented team of experts and volunteers has worked to build a program
