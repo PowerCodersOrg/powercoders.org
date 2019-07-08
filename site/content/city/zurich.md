@@ -142,7 +142,8 @@ apply_as:
       What to expect:  
 
 
-      * Join career day to get to know the students (week 7 of school phase)
+      * Join career day on the 23rd of October to get to know the students (week
+      7 of school phase)
 
       * Interview sessions with students
 
