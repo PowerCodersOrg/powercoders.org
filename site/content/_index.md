@@ -113,5 +113,9 @@ partner:
     link: 'https://swissdevjobs.ch/'
     name: Swissdevjobs.ch
     size: s6 m2
+  - image: /img/logo_baern-haeckt_quer_farbig.png
+    link: 'https://www.bernhackt.ch/'
+    name: BärnHäckt
+    size: s6 m2
 ---
 
