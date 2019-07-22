@@ -105,15 +105,15 @@ partner:
     link: 'https://www.adobe.com'
     name: Adobe
     size: s6 m2
-  - image: /img/impacthub.jpg
+  - image: /img/impacthub_logo.png
     link: 'http://www.impacthub.net'
     name: ImpactHub
     size: s6 m2
-  - image: /img/swissdevjobs-logo.png
+  - image: /img/swissdevjobs_logo.png
     link: 'https://swissdevjobs.ch/'
     name: Swissdevjobs.ch
     size: s6 m2
-  - image: /img/logo_baern-haeckt_quer_farbig.png
+  - image: /img/baernhaeckt_logo.png
     link: 'https://www.bernhackt.ch/'
     name: BärnHäckt
     size: s6 m2
