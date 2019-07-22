@@ -10,6 +10,14 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 12.07.2019
+        links:
+          - link: >-
+              https://www.francetvinfo.fr/replay-radio/en-direct-du-monde/en-suisse-une-association-forme-les-refugies-au-codage-informatique_3510993.html?fbclid=IwAR2I6hywClpVfa_9eiJf_Wgml5x7hR6LLx6HnXIKkVH62WX7XC-2shxiOsg
+            link_text: >-
+              En Suisse, une association forme les réfugiés au codage
+              informatique
+            title: 'Franceinfo (radio / French): '
       - date: 20.06.2019
         links:
           - link: >-
