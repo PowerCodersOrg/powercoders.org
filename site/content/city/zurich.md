@@ -15,7 +15,7 @@ text: >-
 
   * School: September 9th 2019 - December 6th 2019
 
-  * IT Internship: From December 2019 (6-12 months)
+  * IT Internship: From January 2020 (6-12 months)
 
 
   We accept applications on an ongoing base.
