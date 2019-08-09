@@ -135,8 +135,15 @@ apply_as:
       If you are an IT company, an agency or an IT department in the
       German-speaking Switzerland, and eager to support a refugee during an
       internship and eventually able to offer an IT job in the long-run, join
-      us. For more information, have a look at our [slide
-      deck](https://docs.google.com/presentation/d/12O6Q7EjJzIlWUo4zK3dO2nLZXIiPtW2kGrqYyvWsuBw/edit?usp=sharing).
+      us. 
+
+
+      Check the companies factsheet
+      [her](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view?usp=sharing).
+
+
+      For more information, have a look at our [slide
+      deck](https://docs.google.com/presentation/d/12O6Q7EjJzIlWUo4zK3dO2nLZXIiPtW2kGrqYyvWsuBw/edit?usp=sharing). 
 
 
       What to expect:  
