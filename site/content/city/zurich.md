@@ -138,9 +138,9 @@ apply_as:
       us. 
 
 
-      For more information about offering an internship, check the companies
-      factsheet
-      [her](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view?usp=sharing).
+      For more information about offering an internship, have a lokk at the
+      [companies
+      factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view?usp=sharing).
 
 
       For more information about Powercoders, have a look at our [slide
