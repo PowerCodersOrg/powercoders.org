@@ -138,7 +138,7 @@ apply_as:
       us. 
 
 
-      For more information about offering an internship, have a lokk at the
+      For more information about offering an internship, have a look at the
       [companies
       factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view?usp=sharing).
 
