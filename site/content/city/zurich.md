@@ -100,7 +100,8 @@ apply_as:
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
-  - application_link: 'https://powercoders.knack.com/portal#volunteers/'
+  - application_link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform?usp=sf_link
     header: Trainer
     text: >-
       Teachers in the classroom are supported by volunteer trainers (2+ half day
