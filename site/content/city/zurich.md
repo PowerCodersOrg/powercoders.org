@@ -18,7 +18,8 @@ text: >-
   * IT Internship: From January 2020 (6-12 months)
 
 
-  We accept applications on an ongoing base.
+  We accept applications on an ongoing basis for the program starting early
+  2020.
 events: []
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
