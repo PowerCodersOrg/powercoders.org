@@ -63,7 +63,7 @@ latest:
     link: 'https://powercoders.org/program/'
     link_text: More
     text: >-
-      We are looking for people eager to support us: as Job Coach for our
+      We are looking for people eager to support us, as Job Coach for our
       participants or as IT trainer. Check for more information.
   - fade_in: Left
     header: Launch Party Zurich
