@@ -29,6 +29,9 @@ events:
       Join us and let's celebrate together the start of a new batch in Zürich
       and meet our new participants, the team and enjoy the traditional food and
       drinks.
+
+
+      5 September, 17.30, TGIM Zurich
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
