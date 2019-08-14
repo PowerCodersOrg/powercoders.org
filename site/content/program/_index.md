@@ -191,6 +191,10 @@ roles:
       * IT professionals who are interested in cultural exchange
 
 
+      For more information, check our
+      [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view). 
+
+
       If you are interested in offering an internship and becoming our partner
       in empowering refugees, please fill in the following form and share it
       with other companies who can support us.
