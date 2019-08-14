@@ -58,19 +58,26 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Shout out to female refugees
-    header_icon: fa-venus
-    link: 'https://powercoders.org/program/#participant'
+    header: Volunteering
+    header_icon: fa-hands-helping
+    link: 'https://powercoders.org/program/'
     link_text: More
     text: >-
-      Powercoders is supporting specially female refugees in discovering their
-      potential in IT. Apply now for the next program in Lausanne or Zurich.
+      We are looking for people eager to support us: as Job Coach for our
+      participants or as IT trainer. Check for more information.
   - fade_in: Left
-    header: Apply for Zurich
-    header_icon: fa-graduation-cap
-    link: 'https://powercoders.org/city/zurich/'
+    header: Launch Party Zurich
+    header_icon: fa-rocket
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSfxC343Up8JwZ8fQDMrW7d8xjZI-YB5tdvI2qKaeXnaplvP_g/viewform
     link_text: More
-    text: Applications for the September course in Zurich are now open.
+    text: >-
+      We are back in Zurich with a program starting September 2019. Let's
+      celebrate the launch of the new batch with our new participants and the
+      community. 
+
+
+      5 September, 17.30, TGIM Zurich
   - fade_in: Left
     header: Apply for Lausanne
     header_icon: fa-envelope
