@@ -58,13 +58,13 @@ program:
       from?
 latest:
   - fade_in: Up
-    header: Shout out to female refugees
-    header_icon: fa-venus
-    link: 'https://powercoders.org/program/#participant'
+    header: Volunteering
+    header_icon: fa-hands-helping
+    link: 'https://powercoders.org/program/'
     link_text: More
     text: >-
-      Powercoders is supporting specially female refugees in discovering their
-      potential in IT. Apply now for the next program in Lausanne or Zurich.
+      We are looking for people eager to support us: as Job Coach for our
+      participants or as IT trainer. Check for more information.
   - fade_in: Left
     header: Launch Party Zurich
     header_icon: fa-rocket
