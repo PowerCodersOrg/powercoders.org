@@ -87,12 +87,12 @@ latest:
       Applications for the course in Lausanne starting in October 2019 are now
       open.
   - fade_in: Down
-    header: TeleBärn visited our Career Day
-    header_icon: fa-video
+    header: Teaching Assistant wanted
+    header_icon: fa-angle-double-right
     link: >-
-      https://www.telebaern.tv/telebaern-news/speed-dating-fuer-fluechtlinge-auf-jobsuche-134634806?utm_source=shared-twitter&fbclid=IwAR02OOUtKNmn8sd1Y1VBSxLNq5ipL_nK-POYdAi57gR7x_HMD2kDmA2oo2s
-    link_text: Watch
-    text: 'Watch the video made by the TV station TeleBärn about our Career Day.  '
+      https://drive.google.com/file/d/1ne7pxxwX0IlNE0jNyC87OuqMJMKD0r3x/view?usp=sharing
+    link_text: More
+    text: 'We are looking for a Teaching Assistant (Civil Servant 100%) in Zurich. '
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
