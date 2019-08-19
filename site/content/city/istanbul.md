@@ -16,7 +16,7 @@ team:
   header: Team Istanbul
   members:
     - description: CEO MENA Region
-      image: /img/hussam-allaham.jpg
+      image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
     - description: Social Lead
       image: /img/sule-celik.jpg
