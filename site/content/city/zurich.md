@@ -192,7 +192,7 @@ team:
       image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
-      image: /img/hussam-allaham_0.jpg
+      image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 partner: []
 industry_partner: []
