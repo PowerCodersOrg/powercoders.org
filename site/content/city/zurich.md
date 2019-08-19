@@ -181,7 +181,7 @@ team:
       image: /img/andrina_portray_001-1-.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
-      image: /img/dsc_2228.jpg
+      image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
       image: /img/hussam-allaham.jpg
