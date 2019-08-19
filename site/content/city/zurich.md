@@ -181,8 +181,8 @@ team:
       image: /img/andrina_portray_001-1-.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
-      image: /img/nik_clayton.jpg
-      name: Nik Clayton
+      image: /img/dsc_2228.jpg
+      name: Susanne König
     - description: Industry Lead
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
