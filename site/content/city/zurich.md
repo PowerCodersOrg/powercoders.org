@@ -32,6 +32,14 @@ events:
 
 
       5 September, 17.30, TGIM Zurich
+  - call_to_action: Join
+    header: Career Day
+    header_icon: fa-handshake
+    link: 'https://powercoders.org/city/zurich/#company'
+    text: >-
+      The Career Day is a chance for companies to meet all our students and
+      select their top candidates to invite for an on-site interview. If you are
+      a company interested in offering offering an internship, join us.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
