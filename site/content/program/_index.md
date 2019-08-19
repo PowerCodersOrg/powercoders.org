@@ -229,12 +229,6 @@ city_program:
       header: Lausanne
       link: /city/lausanne/
       text: The program is starting in September 2019. Applications are open now.
-    - call_to_action: More
-      color: teal lighten-4
-      fade_in: Right
-      header: Istanbul
-      link: /city/istanbul/
-      text: 'The program started in March, 2019.'
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
@@ -258,5 +252,8 @@ past_program:
     - header: Basel
       link: /city/basel/
       text: Graduation 08.03.19
+    - header: Istanbul
+      link: /city/istanbul
+      text: Graduation 01.07.19
 ---
 
