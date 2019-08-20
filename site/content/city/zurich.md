@@ -39,7 +39,7 @@ events:
     text: >-
       The Career Day is a chance for companies to meet all our students and
       select their top candidates to invite for an on-site interview. If you are
-      a company interested in offering offering an internship, join us.
+      a company interested in offering an internship, join us.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
