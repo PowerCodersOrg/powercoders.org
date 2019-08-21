@@ -16,7 +16,21 @@ text: >-
   Coding school in Lausanne: September - December 19\
 
   IT internship: From January 2020
-events: []
+events:
+  - call_to_action: Sign up
+    header: Women coding workshop
+    header_icon: fa-venus
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSet-e_b5UE23-MgejfSWA_rpPtPpFL0vbr7isS5nfJps_mwGg/viewform
+    text: >-
+      Are you a female immigrant or refugee who has no idea about coding and is
+      curious to know more about it? This presentation is for you!
+
+
+      The event is FREE - Sign up now!
+
+
+      27 August, 13.30 - 15.30, Futurekids in Lausanne
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
