@@ -18,7 +18,7 @@ text: >-
   IT internship: From January 2020
 events:
   - call_to_action: Sign up
-    header: Women coding workshop
+    header: Coding workshop for women
     header_icon: fa-venus
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSet-e_b5UE23-MgejfSWA_rpPtPpFL0vbr7isS5nfJps_mwGg/viewform
