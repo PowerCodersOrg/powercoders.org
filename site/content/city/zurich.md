@@ -192,6 +192,7 @@ team:
       image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
+      email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 partner:
