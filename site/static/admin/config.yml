@@ -478,6 +478,10 @@ collections:
               - label: Description
                 name: description
                 widget: string
+              - label: Email
+                name: email
+                widget: string
+                required: false
       - label: Partner
         name: partner
         widget: list
