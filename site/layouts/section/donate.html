@@ -12,6 +12,7 @@
     <!-- end row -->
 </div>
 
+{{ range .Params.causes }}
 <div class="lighten-4 section">
     <div class="container">
         <div class="row">
@@ -43,4 +44,5 @@
         {{ end }}
     </div>
 </div>
+{{ end }}
 {{ end }}
