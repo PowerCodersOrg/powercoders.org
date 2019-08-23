@@ -194,7 +194,15 @@ team:
     - description: Industry Lead
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
-partner: []
+partner:
+  - image: /img/digicomp.png
+    link: 'http://digitec.ch'
+    name: Digicomp
+    size: s6 m2
+  - image: /img/logo-durchstartup_transparent-klein.png
+    link: 'http://digitec.ch'
+    name: Durchstartup
+    size: s6 m2
 industry_partner: []
 ---
 
