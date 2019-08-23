@@ -138,6 +138,6 @@ partner:
   - image: /img/baernhaeckt_logo.png
     link: 'https://www.bernhackt.ch/'
     name: BärnHäckt
-    size: s6 m2
+    size: s6 m4
 ---
 
