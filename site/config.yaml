@@ -23,11 +23,6 @@ menu:
     title: Get involved
     url: /program/
     weight: 3
-  - identifier: membership
-    name: Membership
-    title: Join out community
-    url: /membership/
-    weight: 4
   - identifier: donate
     name: Donate
     title: Help us create a better future
