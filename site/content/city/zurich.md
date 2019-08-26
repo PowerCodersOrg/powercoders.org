@@ -205,7 +205,7 @@ partner:
     name: Digicomp
     size: s6 m2
   - image: /img/logo-durchstartup_transparent-klein.png
-    link: 'http://digitec.ch'
+    link: 'http://durchstartup.ch'
     name: Durchstartup
     size: s6 m2
 industry_partner: []
