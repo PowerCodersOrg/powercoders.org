@@ -37,9 +37,10 @@ events:
     header_icon: fa-handshake
     link: 'mailto:hussam.allaham@powercoders.org'
     text: >-
-      The Career Day is a chance for companies to meet all our students and
-      select their top candidates to invite for an on-site interview. If you are
-      a company interested in offering an internship, join us.
+      The Career Day is the day when companies have the chance to meet all our
+      students and select their top candidates to invite for an on-site
+      interview. If you are a company interested in offering an internship, get
+      in touch with us.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
