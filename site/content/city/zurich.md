@@ -41,6 +41,13 @@ events:
       students and select their top candidates to invite for an on-site
       interview. If you are a company interested in offering an internship, get
       in touch with us.
+  - call_to_action: Join
+    header: Graduation Party
+    header_icon: ' fa-graduation-cap'
+    link: 'https://forms.gle/a2kSkH64VdxeBkR29'
+    text: >-
+      Join the big day with our particpants and celebrate the end of the batch
+      in Zürich and enjoy the food from the countries our participants from.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
