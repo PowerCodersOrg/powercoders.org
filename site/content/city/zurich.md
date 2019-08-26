@@ -48,6 +48,11 @@ events:
     text: >-
       Join the big day with our particpants and celebrate the end of the batch
       in Zürich and enjoy the food from the countries our participants from.
+
+
+
+
+      6 December, 17.00, TGIM Zurich
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
