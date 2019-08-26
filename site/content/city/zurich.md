@@ -35,7 +35,7 @@ events:
   - call_to_action: Get in Touch
     header: Career Day
     header_icon: fa-handshake
-    link: hussam.allaham@powercoders.org
+    link: 'mailto:hussam.allaham@powercoders.org'
     text: >-
       The Career Day is a chance for companies to meet all our students and
       select their top candidates to invite for an on-site interview. If you are
