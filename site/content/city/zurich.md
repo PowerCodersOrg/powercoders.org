@@ -192,9 +192,14 @@ team:
       image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
+      email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 partner:
+  - image: /img/logo_itsg_rbg_kontur_schwarz.jpg
+    link: 'https://www.itrockt.ch/'
+    name: IT rockt
+    size: s6 m2
   - image: /img/digicomp.png
     link: 'http://digitec.ch'
     name: Digicomp
