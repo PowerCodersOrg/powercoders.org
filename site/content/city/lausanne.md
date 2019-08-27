@@ -2,8 +2,8 @@
 title: Lausanne
 section_title: Lausanne
 text: >-
-  <h4 class="center">Powercoders Lausanne (005) started in April 2019. It is
-  addressed to the French-speaking part of Switzerland.</h4>
+  <h4 class="center">Powercoders Lausanne is having programs on an ongoing
+  basis. It is addressed to the French-speaking part of Switzerland.</h4>
 
 
   The timeline for the next batch:
@@ -16,6 +16,10 @@ text: >-
   Coding school in Lausanne: September - December 19\
 
   IT internship: From January 2020
+
+
+  We accept applications on an ongoing basis for the program starting early
+  2020.
 events:
   - call_to_action: Sign up
     header: Launch party
