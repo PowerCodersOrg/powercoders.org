@@ -192,8 +192,9 @@ apply_as:
       * Start of internship of 6 - 12 months
 
 
-      If you still need more information, get in touch with us and we will get
-      back to you. [Get in Touch](https://forms.gle/HKvze4URRztc13aV6)
+      If you still need more information, [Get in
+      Touch](https://forms.gle/HKvze4URRztc13aV6) with us and we will get back
+      to you. 
 
 
       If all is clear, we are looking forward to receiving your application.
