@@ -196,6 +196,7 @@ apply_as:
       back to you. [Get in Touch](https://forms.gle/HKvze4URRztc13aV6)
 
 
+      If all is clear, we are looking forward to receiving your application.
 
 
       Sign up to our
