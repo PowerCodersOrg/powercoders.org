@@ -23,7 +23,7 @@ text: >-
 events:
   - call_to_action: Sign up
     header: Launch party
-    header_icon: fa-glass-cheers
+    header_icon: fa-rocket
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
     text: >-
