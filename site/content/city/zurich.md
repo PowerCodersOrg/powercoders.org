@@ -192,6 +192,12 @@ apply_as:
       * Start of internship of 6 - 12 months
 
 
+      If you still need more information, get in touch with us and we will get
+      back to you. [Get in Touch](https://forms.gle/HKvze4URRztc13aV6)
+
+
+
+
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
