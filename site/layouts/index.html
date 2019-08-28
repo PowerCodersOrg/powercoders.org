@@ -61,7 +61,9 @@
                 <div class="col s12">
                     <h2>Partner</h2>
                 </div>
-                {{ partial "partner" (dict "partner" .Params.partner )}}
+                {{ partial "partner" (dict "partner" .Params.partner "title" "Powercoders is supported by")}}
+                {{ partial "partner" (dict "partner" .Params.community_partner "title" "Community Partners")}}
+                {{ partial "partner" (dict "partner" .Params.company_member "title" "Company Members")}}
             </div>
             <!-- end row -->
         </div>

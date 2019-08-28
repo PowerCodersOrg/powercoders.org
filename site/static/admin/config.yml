@@ -132,6 +132,48 @@ collections:
                     - { label: "Large", value: "s12 m6" }
                     - { label: "Medium", value: "s6 m4" }
                     - { label: "Small", value: "s6 m2" }
+          - label: Community Partner
+            name: community_partner
+            widget: list
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: link
+                name: link
+                widget: string
+              - label: Size
+                name: size
+                widget: select
+                default: "s12 m6"
+                options:
+                    - { label: "Large", value: "s12 m6" }
+                    - { label: "Medium", value: "s6 m4" }
+                    - { label: "Small", value: "s6 m2" }
+          - label: Company Member
+            name: company_member
+            widget: list
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: link
+                name: link
+                widget: string
+              - label: Size
+                name: size
+                widget: select
+                default: "s12 m6"
+                options:
+                    - { label: "Large", value: "s12 m6" }
+                    - { label: "Medium", value: "s6 m4" }
+                    - { label: "Small", value: "s6 m2" }
       - file: site/content/about/_index.md
         label: About
         name: about

@@ -100,6 +100,7 @@ partner:
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
     size: s12 m6
+commmunity_partner:
   - image: /img/adobe_logo.jpg
     link: 'https://www.adobe.com'
     name: Adobe

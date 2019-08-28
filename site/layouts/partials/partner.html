@@ -1,3 +1,5 @@
+{{ if .partner }}
+<h3 class="col s12">{{ .title }}</h3>
 {{ range $el := .partner }}
 <div class="col {{if $el.size }}{{$el.size}}{{else}}s12 m6{{end}}">
     <a href="{{$el.link}}" target="_blank">
@@ -5,4 +7,5 @@
                 alt="{{$el.name}}" class="responsive"></p>
     </a>
 </div>
+{{ end }}
 {{ end }}
