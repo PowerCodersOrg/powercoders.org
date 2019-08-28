@@ -102,8 +102,20 @@ partner:
     size: s12 m6
 community_partner:
   - image: /img/adobe_logo.jpg
-    link: 'https://www.adobe.com/'
+    link: 'https://www.adobe.com'
     name: Adobe
+    size: s6 m2
+  - image: /img/impacthub_logo.png
+    link: 'http://www.impacthub.net'
+    name: ImpactHub
+    size: s6 m2
+  - image: /img/swissdevjobs_logo.png
+    link: 'https://swissdevjobs.ch/'
+    name: Swissdevjobs.ch
+    size: s6 m2
+  - image: /img/baernhaeckt_logo.png
+    link: 'https://www.bernhackt.ch/'
+    name: BärnHäckt
     size: s6 m2
 ---
 
