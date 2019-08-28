@@ -2,8 +2,8 @@
 title: Lausanne
 section_title: Lausanne
 text: >-
-  <h4 class="center">Powercoders Lausanne (005) started in April 2019. It is
-  addressed to the French-speaking part of Switzerland.</h4>
+  <h4 class="center">Powercoders Lausanne is having programs on an ongoing
+  basis. It is addressed to the French-speaking part of Switzerland.</h4>
 
 
   The timeline for the next batch:
@@ -16,21 +16,22 @@ text: >-
   Coding school in Lausanne: September - December 19\
 
   IT internship: From January 2020
+
+
+  We accept applications on an ongoing basis for the program starting early
+  2020.
 events:
   - call_to_action: Sign up
-    header: Women coding workshop
-    header_icon: fa-venus
+    header: Launch party
+    header_icon: fa-rocket
     link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSet-e_b5UE23-MgejfSWA_rpPtPpFL0vbr7isS5nfJps_mwGg/viewform
+      https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
     text: >-
-      Are you a female immigrant or refugee who has no idea about coding and is
-      curious to know more about it? This presentation is for you!
+      Join us and let's celebrate the start of a new program. Also meet the new
+      participants, the team and enjoy traditional food and drinks.  
 
 
-      The event is FREE - Sign up now!
-
-
-      27 August, 13.30 - 15.30, Futurekids in Lausanne
+      19 September, 17.30, Lausanne
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant

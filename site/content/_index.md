@@ -78,14 +78,6 @@ latest:
 
 
       5 September, 17.30, TGIM Zurich
-  - fade_in: Left
-    header: Apply for Lausanne
-    header_icon: fa-envelope
-    link: 'https://powercoders.org/city/lausanne/'
-    link_text: More
-    text: >-
-      Applications for the course in Lausanne starting in October 2019 are now
-      open.
   - fade_in: Down
     header: Teaching Assistant wanted
     header_icon: fa-angle-double-right
@@ -93,21 +85,6 @@ latest:
       https://drive.google.com/file/d/1ne7pxxwX0IlNE0jNyC87OuqMJMKD0r3x/view?usp=sharing
     link_text: More
     text: 'We are looking for a Teaching Assistant (Civil Servant 100%) in Zurich. '
-  - fade_in: Up
-    header: Coding workshop for women
-    header_icon: fa-venus
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSet-e_b5UE23-MgejfSWA_rpPtPpFL0vbr7isS5nfJps_mwGg/viewform
-    link_text: Sign up
-    text: >-
-      Are you a female immigrant or refugee who has no idea about coding and is
-      curious to know more about it? This presentation is for you!
-
-
-      The event is FREE - Sign up now!
-
-
-      27 August, 13.30 - 15.30, Futurekids in Lausanne
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.

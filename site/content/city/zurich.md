@@ -32,14 +32,27 @@ events:
 
 
       5 September, 17.30, TGIM Zurich
-  - call_to_action: Join
+  - call_to_action: Get in Touch
     header: Career Day
     header_icon: fa-handshake
-    link: 'https://powercoders.org/city/zurich/#company'
+    link: 'mailto:hussam.allaham@powercoders.org'
     text: >-
-      The Career Day is a chance for companies to meet all our students and
-      select their top candidates to invite for an on-site interview. If you are
-      a company interested in offering an internship, join us.
+      The Career Day is the day when companies have the chance to meet all our
+      students and select their top candidates to invite for an on-site
+      interview. If you are a company interested in offering an internship, get
+      in touch with us.
+  - call_to_action: Join
+    header: Graduation Party
+    header_icon: ' fa-graduation-cap'
+    link: 'https://forms.gle/a2kSkH64VdxeBkR29'
+    text: >-
+      Join the big day with our particpants and celebrate the end of the batch
+      in Zürich and enjoy the food from the countries our participants from.
+
+
+
+
+      6 December, 17.00, TGIM Zurich
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
@@ -179,6 +192,14 @@ apply_as:
       * Start of internship of 6 - 12 months
 
 
+      If you still need more information, [Get in
+      Touch](https://forms.gle/HKvze4URRztc13aV6) with us and we will get back
+      to you. 
+
+
+      If all is clear, we are looking forward to receiving your application.
+
+
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
@@ -192,15 +213,20 @@ team:
       image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
+      email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 partner:
+  - image: /img/logo_itsg_rbg_kontur_schwarz.jpg
+    link: 'https://www.itrockt.ch/'
+    name: IT rockt
+    size: s6 m2
   - image: /img/digicomp.png
-    link: 'http://digitec.ch'
+    link: 'http://digicomp.ch'
     name: Digicomp
     size: s6 m2
   - image: /img/logo-durchstartup_transparent-klein.png
-    link: 'http://digitec.ch'
+    link: 'http://durchstartup.ch'
     name: Durchstartup
     size: s6 m2
 industry_partner: []
