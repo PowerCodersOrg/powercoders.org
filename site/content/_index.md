@@ -79,12 +79,17 @@ latest:
 
       5 September, 17.30, TGIM Zurich
   - fade_in: Down
-    header: Teaching Assistant wanted
-    header_icon: fa-angle-double-right
+    header: Launch Party Lausanne
+    header_icon: fa-rocket
     link: >-
-      https://drive.google.com/file/d/1ne7pxxwX0IlNE0jNyC87OuqMJMKD0r3x/view?usp=sharing
-    link_text: More
-    text: 'We are looking for a Teaching Assistant (Civil Servant 100%) in Zurich. '
+      https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
+    link_text: Sign up
+    text: >-
+      Join us and celebrate the start of the new program. Also meet the new
+      participants, the team and enjoy good food & drinks. 
+
+
+      19 September, 17.30, Lausanne
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
@@ -100,22 +105,5 @@ partner:
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
     size: s12 m6
-community_partner:
-  - image: /img/adobe_logo.jpg
-    link: 'https://www.adobe.com'
-    name: Adobe
-    size: s6 m2
-  - image: /img/impacthub_logo.png
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
-    size: s6 m2
-  - image: /img/swissdevjobs_logo.png
-    link: 'https://swissdevjobs.ch/'
-    name: Swissdevjobs.ch
-    size: s6 m2
-  - image: /img/baernhaeckt_logo.png
-    link: 'https://www.bernhackt.ch/'
-    name: BärnHäckt
-    size: s6 m2
 ---
 
