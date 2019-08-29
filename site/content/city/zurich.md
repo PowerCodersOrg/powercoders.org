@@ -6,16 +6,8 @@ text: >-
   digital learning hub for refugees in German-speaking Switzerland. </h4>
 
 
-  The timeline for the next batch:
-
-
-  * Interviews: July 2019
-
-  * Probation and preparation: July / August 2019
-
-  * School: September 9th 2019 - December 6th 2019
-
-  * IT Internship: From January 2020 (6-12 months)
+  The 2019 Zurich batch runs from 9 September to 6 December 2019 (school phase),
+  followed by a 6-12 month internship from January 2020. 
 
 
   We accept applications on an ongoing basis for the program starting early
@@ -207,9 +199,11 @@ team:
   header: Team Zurich
   members:
     - description: Social Lead
+      email: andrina.beuggert@powercoders.org
       image: /img/andrina_portray_001-1-.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
+      email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
     - description: Industry Lead
