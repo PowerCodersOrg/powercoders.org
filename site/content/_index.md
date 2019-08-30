@@ -54,8 +54,8 @@ program:
     link: 'program/#company'
     link_text: more
     text: >-
-      Are you an IT company looking for talent no matter from where it comes
-      from?
+      Are you an IT company looking for talented people no matter where they
+      come from?
 latest:
   - fade_in: Up
     header: Volunteering
@@ -63,8 +63,8 @@ latest:
     link: 'https://powercoders.org/program/'
     link_text: More
     text: >-
-      We are looking for people eager to support us, as Job Coach for our
-      participants or as IT trainer. Check for more information.
+      We are looking for people eager to support us either as a Job Coach for
+      our participants or as an IT trainer. Check for more information.
   - fade_in: Left
     header: Launch Party Zurich
     header_icon: fa-rocket
