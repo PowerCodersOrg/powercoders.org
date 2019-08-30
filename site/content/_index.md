@@ -15,10 +15,10 @@ get_involved:
 
 
     At Powercoders, we offer an intensive coding program to female and male
-    refugees with the end goal of having all our participants secure a permanent
-    and full time job in the IT sector. In order to best achieve this goal, our
-    program offers our students three months of courses and then the opportunity
-    to do an internship.
+    refugees with the ultimate goal of having all our participants secure a
+    permanent and full time job in the IT sector. In order to best achieve this
+    goal, our program offers our students three months of courses and then the
+    opportunity to do an internship.
 
 
     Our talented team of experts and volunteers has worked to build a program
@@ -40,7 +40,7 @@ program:
     link: 'program/#coach'
     link_text: more
     text: >-
-      Do you want to support a refugee in becoming successfully integrated in
+      Do you want to support a refugee with becoming successfully integrated in
       the local IT labor market?
   - fade_in: Up
     header: Trainer
@@ -54,8 +54,8 @@ program:
     link: 'program/#company'
     link_text: more
     text: >-
-      Are you an IT company looking for talent no matter from where it comes
-      from?
+      Are you an IT company looking for talented people no matter where they
+      come from?
 latest:
   - fade_in: Up
     header: Volunteering
@@ -63,14 +63,14 @@ latest:
     link: 'https://powercoders.org/program/'
     link_text: More
     text: >-
-      We are looking for people eager to support us, as Job Coach for our
-      participants or as IT trainer. Check for more information.
+      We are looking for people eager to support us either as a Job Coach for
+      our participants or as an IT trainer. Check for more information.
   - fade_in: Left
     header: Launch Party Zurich
     header_icon: fa-rocket
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSfxC343Up8JwZ8fQDMrW7d8xjZI-YB5tdvI2qKaeXnaplvP_g/viewform
-    link_text: More
+    link_text: Sign up
     text: >-
       We are back in Zurich with a program starting September 2019. Let's
       celebrate the launch of the new batch with our new participants and the
