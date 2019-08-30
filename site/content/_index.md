@@ -70,7 +70,7 @@ latest:
     header_icon: fa-rocket
     link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSfxC343Up8JwZ8fQDMrW7d8xjZI-YB5tdvI2qKaeXnaplvP_g/viewform
-    link_text: More
+    link_text: Sign up
     text: >-
       We are back in Zurich with a program starting September 2019. Let's
       celebrate the launch of the new batch with our new participants and the
