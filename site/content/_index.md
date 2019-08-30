@@ -40,7 +40,7 @@ program:
     link: 'program/#coach'
     link_text: more
     text: >-
-      Do you want to support a refugee in becoming successfully integrated in
+      Do you want to support a refugee with becoming successfully integrated in
       the local IT labor market?
   - fade_in: Up
     header: Trainer
