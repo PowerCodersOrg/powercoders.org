@@ -91,7 +91,7 @@ latest:
 
       19 September, 17.30, Lausanne
   - fade_in: Up
-    header: Powercoders video portrait
+    header: Video portrait
     header_icon: fa-video
     link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
     link_text: Watch
