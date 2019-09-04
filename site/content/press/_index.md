@@ -10,6 +10,11 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 03.09.2019
+        links:
+          - link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
+            link_text: Social innovation
+            title: 'Red Bull TV (video / English):'
       - date: 12.07.2019
         links:
           - link: >-
@@ -59,11 +64,6 @@ media:
               https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view?usp=sharing
             link_text: Ils s’intègrent grâce à l’informatique.
             title: La Liberté (newspaper / French); story about our student Tenzin
-      - date: 03.09.2019
-        links:
-          - link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
-            link_text: Social innovation
-            title: 'Red Bull TV (video / English):'
     year: '2019'
   - entries:
       - date: 22.12.2018
