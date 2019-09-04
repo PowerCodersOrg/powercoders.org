@@ -38,10 +38,9 @@ events:
     header_icon: ' fa-graduation-cap'
     link: 'https://forms.gle/a2kSkH64VdxeBkR29'
     text: >-
-      Join the big day with our particpants and celebrate the end of the batch
-      in Zürich and enjoy the food from the countries our participants from.
-
-
+      Join the big day with our participants, celebrate the end of the school
+      phase in Zurich and enjoy the food from the countries our participants are
+      from.
 
 
       6 December, 17.00, TGIM Zurich
