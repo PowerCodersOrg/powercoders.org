@@ -90,6 +90,12 @@ latest:
 
 
       19 September, 17.30, Lausanne
+  - fade_in: Up
+    header: Powercoders video portrait
+    header_icon: fa-video
+    link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
+    link_text: Watch
+    text: "\"We make sure that everyone gets the same opportunity I got\", says our Hussam Allaham. Watch the portrait of Red Bull Switzerland about us \U0001F4AA\U0001F64F."
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
