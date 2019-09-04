@@ -121,6 +121,11 @@ apply_as:
       * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
+      Read our [factsheet on job
+      coaching](https://drive.google.com/file/d/1gvBOA2rkHaKXgGDSfFFC9syQ3V6esBkC/view?usp=sharing)
+      to get more information.
+
+
       Sign up to our
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
