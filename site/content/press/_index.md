@@ -15,6 +15,14 @@ media:
           - link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
             link_text: Portrait about Powercoders
             title: 'Red Bull TV (video / English):'
+      - date: 26.08.2019
+        links:
+          - link: >-
+              https://www.letemps.ch/suisse/un-atelier-codage-informatique-destination-femmes-migrantes
+            link_text: >-
+              Un atelier de codage informatique à destination des femmes
+              migrantes
+            title: 'Le temps (newspaper / French):'
       - date: 12.07.2019
         links:
           - link: >-
