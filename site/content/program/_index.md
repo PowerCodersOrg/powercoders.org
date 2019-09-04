@@ -222,13 +222,17 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: The program is starting in September 2019. Applications are open now.
+      text: >-
+        The 2019 program has started in September 2019. Applications are open
+        now for our classes in 2020.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: The program is starting in September 2019. Applications are open now.
+      text: >-
+        The 2019 program has started in September 2019. Applications are open
+        now for our classes in 2020.
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
