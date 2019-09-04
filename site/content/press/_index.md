@@ -13,7 +13,7 @@ media:
       - date: 03.09.2019
         links:
           - link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
-            link_text: Social innovation
+            link_text: Portrait about Powercoders
             title: 'Red Bull TV (video / English):'
       - date: 12.07.2019
         links:
