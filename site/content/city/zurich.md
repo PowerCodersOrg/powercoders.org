@@ -86,11 +86,11 @@ apply_as:
       [newsletter](https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8)
       to stay informed.
   - application_link: 'https://forms.gle/muC2L6m4HekjS1ix7'
-    header: Coach
+    header: Job Coach
     text: >-
       Our participants need more than technical knowledge to successfully find
       their way into the IT industry. That’s why our program includes coaching.
-      Each participant is accompanied by one volunteer coach.
+      Each participant is accompanied by one volunteer job coach.
 
 
       Are you a local willing to support a refugee achieve his / her
@@ -130,11 +130,11 @@ apply_as:
       to stay informed.
   - application_link: >-
       https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform?usp=sf_link
-    header: Trainer
+    header: IT Trainer
     text: >-
-      Teachers in the classroom are supported by volunteer trainers (2+ half day
-      commitment) to to help answer questions from the student group and provide
-      1:1 support during exercises.
+      Teachers in the classroom are supported by volunteer IT trainers (2+ half
+      day commitment) to help answer questions from the student group and
+      provide 1:1 support during exercises.
 
 
       If you are an IT professional, like to support our participants solving IT
