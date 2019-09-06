@@ -13,17 +13,6 @@ text: >-
   We accept applications on an ongoing basis for the program starting early
   2020.
 events:
-  - call_to_action: Join
-    header: Launch Party
-    header_icon: fa-rocket
-    link: 'https://forms.gle/XvzskPgYCxY2HKRu7'
-    text: >-
-      Join us and let's celebrate together the start of a new batch in Zürich
-      and meet our new participants, the team and enjoy the traditional food and
-      drinks.
-
-
-      5 September, 17.30, TGIM Zurich
   - call_to_action: Get in Touch
     header: Career Day
     header_icon: fa-handshake
