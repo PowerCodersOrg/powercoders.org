@@ -159,12 +159,15 @@ team:
   header: Team Lausanne
   members:
     - description: Industry Lead
+      email: magaly.mathis@powercoders.org
       image: /img/magaly-mathis.jpg
       name: Magaly Mathys
     - description: Social Lead
+      email: coline.sauzet@powercoders.org
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
     - description: Teaching Lead
+      email: sorin.paun@powercoders.org
       image: /img/sorin.jpg
       name: Sorin Paun
 partner: []
