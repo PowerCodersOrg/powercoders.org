@@ -1,22 +1,16 @@
-<a href="#" data-target="nav-mobile" class="sidenav-trigger">
-    <div class="button_container" id="toggle">
-        <span class="top"></span>
-        <span class="middle"></span>
-        <span class="bottom"></span>
-    </div>
-</a>
-<nav role="navigation">
-    <div class="nav-wrapper container">
-        <ul id="nav-mobile" class="sidenav">
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
-                <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-</nav>
-<header>
+<nav class="white">
+  <div class="nav-wrapper">
     <a href="/" class="logo"><img src="/img/powercoders-logo.svg" alt="Powercoders"></a>
-</header>
+    <ul id="nav-mobile" class="right">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}
+      <li {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="active"{{end}}>
+        <a class="black-text" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+      <li>
+        <a class="btn" href="https://donorbox.org/donatepowercoders" target="_top">Donate</a>
+      </li>
+    </ul>
+  </div>
+</nav>

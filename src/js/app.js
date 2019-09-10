@@ -36,10 +36,6 @@ $(function() {
     offset: "80%"
   });
 
-  $(".sidenav").sidenav();
-  $(".sidenav-trigger").click(function() { $("#toggle").addClass("active"); });
-  $(".sidenav-overlay").click(function() { $("#toggle").removeClass("active"); });
-
   $(".parallax").parallax();
 
   $(".collapsible").collapsible();
