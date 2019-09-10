@@ -114,7 +114,6 @@ partner:
 community_partner:
   - image: /img/adobe_logo.jpg
     link: 'https://www.adobe.com/'
-    link: 'https://www.adobe.com'
     name: Adobe
     size: s6 m2
   - image: /img/impacthub_logo.png
