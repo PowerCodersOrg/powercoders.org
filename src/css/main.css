@@ -1,6 +1,7 @@
 /* Custom Stylesheet */
 @import url(cookieconsent/build/cookieconsent.min.css);
 @import url(materialize-css/dist/css/materialize.min.css);
+@import url(lity/dist/lity.min.css);
 
 /**
  * Use this file to override Materialize files so you can update

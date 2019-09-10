@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
 
-{{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text )}}
+{{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text "video_id" .Params.intro.video_id)}}
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image )}}
 

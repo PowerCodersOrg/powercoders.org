@@ -33,6 +33,10 @@ collections:
               - label: Text
                 name: text
                 widget: text
+              - label: Video Id
+                name: video_id
+                widget: string
+                required: false
           - label: Teaser Image
             name: teaser_image
             widget: object

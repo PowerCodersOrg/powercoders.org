@@ -2,6 +2,7 @@ import $ from "jquery";
 import "./jquery.waypoints";
 import "./materialize";
 import "cookieconsent";
+import "lity";
 
 $(function() {
   function scrollToTarget(tid) {

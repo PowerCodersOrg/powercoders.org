@@ -4,6 +4,7 @@
             <div class="col s12 offset-l2 l8 center">
                 <h5 class="light">{{.header}}</h5>
                 <h4>{{.text}}</h4>
+                {{ if .video_id}}<p><a href="https://www.youtube.com/watch?v={{ .video_id}}" data-lity><i class="white-text fab fa-youtube fa-5x"></i></a></p>{{end}}
             </div>
         </div>
     </div>
