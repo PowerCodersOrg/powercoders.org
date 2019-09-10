@@ -159,7 +159,7 @@ team:
   header: Team Lausanne
   members:
     - description: Industry Lead
-      email: magaly.mathis@powercoders.org
+      email: magaly.mathys@powercoders.org
       image: /img/magaly-mathis.jpg
       name: Magaly Mathys
     - description: Social Lead
