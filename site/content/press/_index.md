@@ -57,6 +57,17 @@ media:
             title: Radio SRF Rendez-vous (German)
       - date: 25.04.2019
         links:
+          - link: 'https://www.srf.ch/sendungen/digital-plus/powerpodcast'
+            link_text: Interview with Christian Hirsig
+            title: 'Srf digital (podcast / German): '
+      - date: 25.04.2019
+        links:
+          - link: >-
+              https://www.srf.ch/news/wirtschaft/13-wochen-kurs-wie-aus-gefluechteten-programmierer-werden
+            link_text: Wie aus Geflüchteten Programmierer werden
+            title: 'Srf.ch (online / German), portrait Rami Jumaah:'
+      - date: 25.04.2019
+        links:
           - link: >-
               https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market
             link_text: Interview with Christian and Hussam
