@@ -13,10 +13,11 @@ text: >-
   We accept applications on an ongoing basis for the program starting early
   2020.
 events:
-  - call_to_action: Get in Touch
+  - call_to_action: Sign up
     header: Career Day
     header_icon: fa-handshake
-    link: 'mailto:hussam.allaham@powercoders.org'
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform
     text: >-
       The Career Day is the day when companies have the chance to meet all our
       students and select their top candidates to invite for an on-site
