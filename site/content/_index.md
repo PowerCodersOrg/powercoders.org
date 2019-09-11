@@ -66,19 +66,6 @@ latest:
     text: >-
       We are looking for people eager to support us either as a Job Coach for
       our participants or as an IT trainer. Check for more information.
-  - fade_in: Left
-    header: Launch Party Zurich
-    header_icon: fa-rocket
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSfxC343Up8JwZ8fQDMrW7d8xjZI-YB5tdvI2qKaeXnaplvP_g/viewform
-    link_text: Sign up
-    text: >-
-      We are back in Zurich with a program starting September 2019. Let's
-      celebrate the launch of the new batch with our new participants and the
-      community. 
-
-
-      5 September, 17.30, TGIM Zurich
   - fade_in: Down
     header: Launch Party Lausanne
     header_icon: fa-rocket
@@ -107,20 +94,19 @@ partner:
   - image: /img/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
     name: Schweizerische Eidgenossenschaft
-    size: s12 m6
+    size: s6 m4
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
-    size: s12 m6
+    size: s6 m4
 community_partner:
   - image: /img/adobe_logo.jpg
     link: 'https://www.adobe.com/'
-    link: 'https://www.adobe.com'
     name: Adobe
     size: s6 m2
-  - image: /img/impacthub_logo.png
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
+  - image: /img/digitalswitzerland_logo.jpg
+    link: 'https://digitalswitzerland.com/'
+    name: Digital Switzerland
     size: s6 m2
   - image: /img/swissdevjobs_logo.png
     link: 'https://swissdevjobs.ch/'
@@ -129,6 +115,14 @@ community_partner:
   - image: /img/baernhaeckt_logo.png
     link: 'https://www.bernhackt.ch/'
     name: BärnHäckt
+    size: s6 m2
+  - image: /img/swissmadesoftware_logo.jpg
+    link: 'https://www.swissmadesoftware.org/'
+    name: Swiss made software
+    size: s6 m2
+  - image: /img/impacthub_logo.png
+    link: 'http://www.impacthub.net'
+    name: ImpactHub
     size: s6 m2
 ---
 

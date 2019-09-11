@@ -1,0 +1,19 @@
+---
+title: Launch Party Zurich
+header_icon: fa-rocket
+audience:
+  - student
+  - volunteer
+  - company
+city:
+  - zurich
+text: >-
+  We are back in Zurich a programme starting September 2019. Let's celebrate the
+  launch of the new batch with our new participants and the community, 5th
+  September, 1730, TGIM Zurich
+link: >-
+  https://docs.google.com/forms/d/e/1FAIpQLSfxC343Up8JwZ8fQDMrW7d8xjZI-YB5tdvI2qKaeXnaplvP_g/viewform
+call_to_action: Sign up
+remove_after: 2019-09-05T22:00:00.000Z
+---
+

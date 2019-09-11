@@ -32,6 +32,18 @@ events:
 
 
       19 September, 17.30, Lausanne
+  - call_to_action: Get in touch
+    header: Career day
+    header_icon: fa-handshake
+    link: 'mailto:magaly.mathis@powercoders.org'
+    text: >-
+      The Career Day is the day when companies have the chance to meet all our
+      students and select their top candidates to invite for an on-site
+      interview. If you are a company interested in offering an internship, get
+      in touch with us.
+
+
+      5 November, Lausanne
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
@@ -147,12 +159,15 @@ team:
   header: Team Lausanne
   members:
     - description: Industry Lead
+      email: magaly.mathys@powercoders.org
       image: /img/magaly-mathis.jpg
       name: Magaly Mathys
     - description: Social Lead
+      email: coline.sauzet@powercoders.org
       image: /img/coline-sauzet.jpg
       name: Coline Sauzet
     - description: Teaching Lead
+      email: sorin.paun@powercoders.org
       image: /img/sorin.jpg
       name: Sorin Paun
 partner: []

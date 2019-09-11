@@ -13,21 +13,11 @@ text: >-
   We accept applications on an ongoing basis for the program starting early
   2020.
 events:
-  - call_to_action: Join
-    header: Launch Party
-    header_icon: fa-rocket
-    link: 'https://forms.gle/XvzskPgYCxY2HKRu7'
-    text: >-
-      Join us and let's celebrate together the start of a new batch in Zürich
-      and meet our new participants, the team and enjoy the traditional food and
-      drinks.
-
-
-      5 September, 17.30, TGIM Zurich
-  - call_to_action: Get in Touch
+  - call_to_action: Sign up
     header: Career Day
     header_icon: fa-handshake
-    link: 'mailto:hussam.allaham@powercoders.org'
+    link: >-
+      https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform
     text: >-
       The Career Day is the day when companies have the chance to meet all our
       students and select their top candidates to invite for an on-site
@@ -44,6 +34,15 @@ events:
 
 
       6 December, 17.00, TGIM Zurich
+  - call_to_action: Join
+    header: Culture & Skill Sharing
+    header_icon: fa-users
+    link: 'https://www.facebook.com/events/931648597170910/'
+    meetup_link: 'https://www.meetup.com/Powercoders/events/ftljgryzmbqb/'
+    text: >-
+      Every Thursday at 4:00 pm, we open our class to the community to join us,
+      meet our participants and enjoy a cultural and progress presentation and
+      the snacks and drinks afterwards.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
