@@ -93,11 +93,11 @@ partner:
   - image: /img/schweizerische-eidgenossenschaft.png
     link: 'https://www.sem.admin.ch'
     name: Schweizerische Eidgenossenschaft
-    size: s12 m6
+    size: s6 m4
   - image: /img/arcas.jpg
     link: 'https://www.arcas-foundation.ch'
     name: Arcas
-    size: s12 m6
+    size: s6 m4
 community_partner:
   - image: /img/adobe_logo.jpg
     link: 'https://www.adobe.com/'
