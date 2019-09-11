@@ -118,7 +118,7 @@ community_partner:
   - image: /img/swissmadesoftware_logo.jpg
     link: 'https://www.swissmadesoftware.org/'
     name: Swiss made software
-    size: s6 m4
+    size: s6 m2
   - image: /img/impacthub_logo.png
     link: 'http://www.impacthub.net'
     name: ImpactHub
