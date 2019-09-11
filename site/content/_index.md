@@ -119,5 +119,9 @@ community_partner:
     link: 'https://digitalswitzerland.com/'
     name: Digital Switzerland
     size: s6 m2
+  - image: /img/swissmadesoftware_logo.jpg
+    link: 'https://www.swissmadesoftware.org/'
+    name: Swiss made software
+    size: s6 m2
 ---
 
