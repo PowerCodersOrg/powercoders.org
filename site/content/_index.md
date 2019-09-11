@@ -115,5 +115,9 @@ community_partner:
     link: 'https://www.bernhackt.ch/'
     name: BärnHäckt
     size: s6 m2
+  - image: /img/digitalswitzerland_logo.jpg
+    link: 'https://digitalswitzerland.com/'
+    name: Digital Switzerland
+    size: s6 m2
 ---
 
