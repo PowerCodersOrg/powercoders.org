@@ -35,7 +35,7 @@ events:
       6 December, 17.00, TGIM Zurich
   - call_to_action: Join
     header: Culture & Skill Sharing - Open Doors
-    header_icon: fa-meetup
+    header_icon: fa-users
     link: 'https://www.facebook.com/events/931648597170910/'
     meetup_link: 'https://www.meetup.com/Powercoders/events/ftljgryzmbqb/'
     text: >-
