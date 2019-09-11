@@ -103,9 +103,9 @@ community_partner:
     link: 'https://www.adobe.com/'
     name: Adobe
     size: s6 m2
-  - image: /img/impacthub_logo.png
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
+  - image: /img/digitalswitzerland_logo.jpg
+    link: 'https://digitalswitzerland.com/'
+    name: Digital Switzerland
     size: s6 m2
   - image: /img/swissdevjobs_logo.png
     link: 'https://swissdevjobs.ch/'
@@ -115,9 +115,13 @@ community_partner:
     link: 'https://www.bernhackt.ch/'
     name: BärnHäckt
     size: s6 m2
-  - image: /img/digitalswitzerland_logo.jpg
-    link: 'https://digitalswitzerland.com/'
-    name: Digital Switzerland
+  - image: /img/swissmadesoftware_logo.jpg
+    link: 'https://www.swissmadesoftware.org/'
+    name: Swiss made software
+    size: s6 m2
+  - image: /img/impacthub_logo.png
+    link: 'http://www.impacthub.net'
+    name: ImpactHub
     size: s6 m2
 ---
 
