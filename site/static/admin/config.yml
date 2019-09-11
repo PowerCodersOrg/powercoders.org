@@ -575,6 +575,61 @@ collections:
             name: text
             widget: markdown
 
+  - label: "Events"
+    name: events
+    folder: "data/events"
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+        hint: "1-3 words maximum"
+      - label: Icon
+        name: header_icon
+        widget: select
+        options:
+          - {label: "Graduation Party", value: "fa-graduation-cap"}
+          - {label: "Handshake", value: "fa-handshake"}
+          - {label: "Launch Party", value: "fa-rocket"}
+          - {label: "Video", value: "fa-video"}
+        hint: "Choose an icon for this event"
+      - label: Audience
+        name: audience
+        widget: select
+        multiple: true
+        options: ["student", "volunteer", "company"]
+        hint: "The event will be shown on the home page, and the pages for all the audiences you choose here"
+      - label: City
+        name: city
+        widget: select
+        multiple: true
+        options: ["lausanne", "zurich"]
+        hint: "The event will be shown on the home page, and the pages for all the cities you choose here"
+      - label: Text
+        name: text
+        widget: markdown
+        hint: "1-2 sentences maximum"
+      - label: link
+        name: link
+        widget: string
+        required: false
+      - label: Call to action
+        name: call_to_action
+        widget: string
+        required: false
+        hint: "The text shown on the link. E.g., 'Sign up' or 'Watch', or 'More'"
+      - label: Meetup Link (Full URL)
+        name: meetup_link
+        widget: string
+        required: false
+        hint: "If you don't include a regular link you must include a Meetup link!"
+      - label: Remove after...
+        name: remove_after
+        widget: datetime
+        required: false
+        default: ""
+        hint: "If this is set the event will be removed from the page after this time"
+
   - name: helpers
     label: Helpers
     files:
