@@ -13,17 +13,17 @@ menu:
   - identifier: students
     name: Students
     title: Information for students
-    url: /students/
+    url: /student/
     weight: 1
   - identifier: companies
     name: Companies
     title: Information for companies
-    url: /companies/
+    url: /company/
     weight: 2
   - identifier: volunteers
     name: Volunteers
     title: Information for volunteers
-    url: /volunteers/
+    url: /volunteer/
     weight: 3
   - identifier: about
     name: About
