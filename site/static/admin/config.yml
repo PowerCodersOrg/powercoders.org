@@ -577,7 +577,8 @@ collections:
 
   - label: "Events"
     name: events
-    folder: "data/events"
+    format: json
+    folder: "site/data/events"
     create: true
     fields:
       - label: Title
