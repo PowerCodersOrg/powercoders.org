@@ -26,21 +26,25 @@
 </div>
 
 <div class="container section">
-    <div class="row grow">
-        <div class="col s12 offset-l2 l8">
-            <h2>Latest</h2>
-        </div>
-        {{ range $el := .Params.latest }}
-        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeIn{{$el.fade_in}}">
-            <a href="{{$el.link}}" target="_blank">
-                <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.header}}</h6>
-                <p>{{$el.text}}</p>
-                <p class="latest">{{$el.link_text}} <i class="fas fa-angle-double-right"></i></p>
-            </a>
-        </div>
-        {{ end }}
+  <div class="row grow">
+    <div class="col s12 l8">
+      <h2>Latest</h2>
     </div>
-    <!-- end row -->
+  </div>
+
+  <div class="row">
+    {{ range $el := $.Site.Data.events }}
+      {{ if (or (eq $el.remove_after "") (lt now (time $el.remove_after))) }}
+        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeInUp">
+          <a href="{{$el.link}}" target="_blank">
+            <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
+            <p>{{$el.text}}</p>
+            <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
+          </a>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
 </div>
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
