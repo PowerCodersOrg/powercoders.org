@@ -632,6 +632,36 @@ collections:
         default: ""
         hint: "If this is set the event will be removed from the page after this time"
 
+  - name: partners
+    label: "Partners"
+    format: json
+    folder: "site/data/partners"
+    create: true
+    fields:
+      - label: Name
+        name: name
+        widget: string
+      - label: Image
+        name: image
+        widget: image
+      - label: URL
+        name: link
+        widget: string
+      - label: Type
+        name: type
+        widget: select
+        options:
+          - {label: "Partner", value: "partner"}
+          - {label: "Community Partner", value: "community_partner"}
+          - {label: "Company Member", value: "company_member"}
+        hint: "Choose the type of partner"
+      - label: City
+        name: city
+        widget: select
+        multiple: true
+        options: ["lausanne", "zurich"]
+        hint: "By default partners are shown on all city pages, restrict them to a particular city here"
+
   - name: helpers
     label: Helpers
     files:
