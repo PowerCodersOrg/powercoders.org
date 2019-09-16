@@ -2,12 +2,14 @@
 title: Zurich
 section_title: Zurich
 text: >-
-  <h4 class="center">Powercoders is returning to Zurich in September 2019 as a
-  digital learning hub for refugees in German-speaking Switzerland. </h4>
+  <h4>Powercoders is returning to Zurich in September 2019 as a digital learning
+  hub for refugees in German-speaking Switzerland. </h4>
 
 
   The 2019 Zurich batch runs from 9 September to 6 December 2019 (school phase),
-  followed by a 6-12 month internship from January 2020. 
+  followed by a 6-12 month internship from January 2020. Our classes currently
+  take place at MBSZ in Zurich
+  ([map](https://g.page/MBSZ_MarketingBusinessSchool?share)). 
 
 
   We accept applications on an ongoing basis for the program starting early
@@ -38,7 +40,7 @@ events:
     header: Culture & Skill Sharing
     header_icon: fa-users
     link: 'https://www.facebook.com/events/931648597170910/'
-    meetup_link: 'https://www.meetup.com/Powercoders/events/ftljgryzmbqb/'
+    meetup_link: 'https://www.meetup.com/de-DE/Powercoders/events/mgmwhryzmbzb/'
     text: >-
       Every Thursday at 4:00 pm, we open our class to the community to join us,
       meet our participants and enjoy a cultural and progress presentation and
