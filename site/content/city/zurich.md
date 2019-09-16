@@ -40,7 +40,7 @@ events:
     header: Culture & Skill Sharing
     header_icon: fa-users
     link: 'https://www.facebook.com/events/931648597170910/'
-    meetup_link: 'https://www.meetup.com/Powercoders/events/ftljgryzmbqb/'
+    meetup_link: 'https://www.meetup.com/de-DE/Powercoders/events/mgmwhryzmbzb/'
     text: >-
       Every Thursday at 4:00 pm, we open our class to the community to join us,
       meet our participants and enjoy a cultural and progress presentation and
