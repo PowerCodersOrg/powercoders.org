@@ -638,8 +638,8 @@ collections:
     folder: "site/data/partners"
     create: true
     fields:
-      - label: Name
-        name: name
+      - label: Title
+        name: title
         widget: string
       - label: Image
         name: image
@@ -657,6 +657,7 @@ collections:
         hint: "Choose the type of partner"
       - label: City
         name: city
+        required: false
         widget: select
         multiple: true
         options: ["lausanne", "zurich"]
