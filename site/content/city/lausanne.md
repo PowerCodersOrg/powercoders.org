@@ -35,7 +35,7 @@ events:
   - call_to_action: Get in touch
     header: Career day
     header_icon: fa-handshake
-    link: 'mailto:magaly.mathis@powercoders.org'
+    link: ' https://tiny.cc/powercoders'
     text: >-
       The Career Day is the day when companies have the chance to meet all our
       students and select their top candidates to invite for an on-site
