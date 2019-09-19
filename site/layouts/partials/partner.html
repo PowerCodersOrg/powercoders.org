@@ -1,11 +1,47 @@
-{{ if .partner }}
-<h3 class="col s12">{{ .title }}</h3>
-{{ range $el := .partner }}
-<div class="col {{if $el.size }}{{$el.size}}{{else}}s12 m6{{end}}">
-    <a href="{{$el.link}}" target="_blank">
-        <p><img src="{{$el.image}}"
-                alt="{{$el.name}}" class="responsive"></p>
-    </a>
-</div>
+<!--
+
+Renders a title row and a row showing associated partners.
+
+Call with a dict as the single parameter with the following keys:
+
+"partners" (map[str]partner) - The same structure described in
+  site/static/admin/config.yml.
+
+"type" (str) - The partner types to be used, one of
+  "partner", "community_partner", or "company_member" (see the
+  allowed values in site/static/admin/config.yml).
+
+"title" (str) - The title to show for this section.
+
+"city" (str) - Optional, the city -- if empty, only partners
+  with no city will be shown. If set, partners with no city,
+  and partners matching the city will be shown.
+
+-->
+
+{{ $thesePartners := slice }}
+{{ range $partner := $.partners }}
+  {{ if (and (eq $partner.type $.type) (or (eq $partner.city nil) (in $partner.city $.city))) }}
+    {{ $thesePartners = $thesePartners | append $partner }}
+  {{ end }}
 {{ end }}
+
+{{ $sizes := dict "partner" "s12 m6" "community_partner" "s6 m2" "company_member" "s6 m2"}}
+{{ $size := index $sizes $.type }}
+
+{{ with $thesePartners }}
+  <div class="row">
+    <h3 class="col s12">{{ $.title }}</h3>
+  </div>
+
+  <div class="row left-align valign-wrapper">
+    {{ range $el := $thesePartners }}
+      <div class="col {{ $size }}">
+        <a href="{{$el.link}}" target="_blank">
+          <p><img src="{{$el.image}}"
+                  alt="{{$el.name}}" class="responsive-img"></p>
+        </a>
+      </div>
+    {{ end }}
+  </div>
 {{ end }}

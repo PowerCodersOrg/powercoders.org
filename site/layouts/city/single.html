@@ -145,42 +145,17 @@
 </div>
 {{end}}
 
-{{ if .Params.partner }}
 <div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            <div class="row">
-                <div class="col s12">
-                    <h2>Partner</h2>
-                </div>
-                {{ partial "partner" (dict "partner" .Params.partner )}}
-            </div>
-        </div>
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
     </div>
-</div>
-{{end}}
+  </div>
 
-{{ if .Params.industry_partner }}
-<div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            <div class="row valign-wrapper">
-                <div class="col s12">
-                    <h6>Industry Partner</h6>
-                </div>
-                {{ range $el := .Params.industry_partner }}
-                <div class="col s6 m4">
-                    <a href="{{$el.link}}" target="_blank">
-                        <p><img src="{{$el.image}}"
-                                alt="{{$el.name}}" class="responsive"></p>
-                    </a>
-                </div>
-                {{ end }}
-            </div>
-        </div>
-    </div>
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Powercoders is supported by")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Company Members")}}
 </div>
-{{end}}
 
 <div class="container">
     <div class="row">

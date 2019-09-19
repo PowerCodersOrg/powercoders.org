@@ -50,29 +50,30 @@
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
 
 <div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            {{if .Params.story.text}}
-            <p class="markdown">{{.Params.story.text | markdownify}}</p>
-            {{end}}
-            <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
-                        allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>
-            <hr class="whitespace">
-
-            <div class="row">
-                <div class="col s12">
-                    <h2>Partner</h2>
-                </div>
-                {{ partial "partner" (dict "partner" .Params.partner "title" "Powercoders is supported by")}}
-                {{ partial "partner" (dict "partner" .Params.community_partner "title" "Community Partners")}}
-                {{ partial "partner" (dict "partner" .Params.company_member "title" "Company Members")}}
-            </div>
-            <!-- end row -->
-        </div>
+  <div class="row section">
+    <div class="col s12 offset-l2 l8">
+      {{if .Params.story.text}}
+        <p class="markdown">{{.Params.story.text | markdownify}}</p>
+      {{end}}
+      <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
+          allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </div>
+      <hr class="whitespace">
     </div>
-    <!-- end row -->
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
+    </div>
+  </div>
+
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "partner" "title" "Powercoders is supported by")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "company_member" "title" "Company Members")}}
 </div>
 
 {{ end }}

@@ -90,39 +90,5 @@ teaser_image2:
 story:
   text: ''
   video_id: IKuz7vA30sI
-partner:
-  - image: /img/schweizerische-eidgenossenschaft.png
-    link: 'https://www.sem.admin.ch'
-    name: Schweizerische Eidgenossenschaft
-    size: s6 m4
-  - image: /img/arcas.jpg
-    link: 'https://www.arcas-foundation.ch'
-    name: Arcas
-    size: s6 m4
-community_partner:
-  - image: /img/adobe_logo.jpg
-    link: 'https://www.adobe.com/'
-    name: Adobe
-    size: s6 m2
-  - image: /img/digitalswitzerland_logo.jpg
-    link: 'https://digitalswitzerland.com/'
-    name: Digital Switzerland
-    size: s6 m2
-  - image: /img/swissdevjobs_logo.png
-    link: 'https://swissdevjobs.ch/'
-    name: Swissdevjobs.ch
-    size: s6 m2
-  - image: /img/baernhaeckt_logo.png
-    link: 'https://www.bernhackt.ch/'
-    name: BärnHäckt
-    size: s6 m2
-  - image: /img/swissmadesoftware_logo.jpg
-    link: 'https://www.swissmadesoftware.org/'
-    name: Swiss made software
-    size: s6 m2
-  - image: /img/impacthub_logo.png
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
-    size: s6 m2
 ---
 

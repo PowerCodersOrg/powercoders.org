@@ -170,7 +170,5 @@ team:
       email: sorin.paun@powercoders.org
       image: /img/sorin.jpg
       name: Sorin Paun
-partner: []
-industry_partner: []
 ---
 
