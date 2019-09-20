@@ -138,7 +138,7 @@
 
         <div class="row portrait">
             {{ range $el := .Params.team.members }}
-            <div class="col s6 m3 l2 animated"
+            <div class="col s6 m3 animated"
                  data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
                 <div><img src="{{$el.image}}" class="responsive"
                           alt="{{$el.name}}"></div>
