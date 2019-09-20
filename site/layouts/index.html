@@ -8,6 +8,23 @@
 
 {{ partial "paragraph" (dict "paragraph" .Params.get_involved )}}
 
+{{ if .Params.donuts }}
+  <div class="container">
+    <div class="row flex" style="justify-content:space-evenly;">
+      {{ range $donut := .Params.donuts }}
+        <div class="col s4">
+          <div class="card-image">
+            <canvas data-donut data-percentage="{{ $donut.percentage }}"></canvas>
+          </div>
+          <div class="card-content">
+            <p class="center">{{ $donut.description }}</p>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
+
 <div class="pwc-red-light20">
     <div class="container section">
         <div class="row flex">
@@ -73,7 +90,7 @@
     <!-- TODO: The cards here are very similar to the ones in alumni.html,
          maybe refactor this out in to a partial that takes a size? -->
     {{ range $alumni := first 3 (shuffle $allAlumni)}}
-      <div class="col s4">
+      <div class="col s12 m4">
         <div class="card-image">
           <img src="{{ $alumni.image }}" class="responsive-img">
           <span class="card-title">{{ if $alumni.display_name }}{{ $alumni.display_name }}{{ else }}{{ $alumni.title }}{{ end }}</span>

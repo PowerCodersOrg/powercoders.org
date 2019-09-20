@@ -10381,6 +10381,11 @@ signal-exit@^3.0.0, signal-exit@^3.0.2:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
   integrity sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0=
 
+simple-doughnut-chart@^1.3.2:
+  version "1.3.2"
+  resolved "https://registry.yarnpkg.com/simple-doughnut-chart/-/simple-doughnut-chart-1.3.2.tgz#3c21ab180f5fbb52c3bc6996b3c4eb43fa053a96"
+  integrity sha512-bvof7dujkEvY3Y8uJX7YxPGLMTHpnVh++8yEPesdqpsQk6NdaQrTi2EOmDPQr7CxTk4Mwsni4O6tiFbMi6OO8g==
+
 simple-swizzle@^0.2.2:
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/simple-swizzle/-/simple-swizzle-0.2.2.tgz#a4da6b635ffcccca33f70d17cb92592de95e557a"
