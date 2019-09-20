@@ -55,10 +55,6 @@ events:
 
 
       **Saturday, 26 October, 1-3pm.**
-
-
-      A collaboration with
-      [Tsri.ch](https://tsri.ch/zh/tsigereda-kidane-programmieren-powercoders-workshop-zurich/)
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
