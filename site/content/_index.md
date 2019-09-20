@@ -26,7 +26,7 @@ get_involved:
     that best prepares our students and offers them the opportunity to build a
     life in their new home. We believe that coding skills are a stepping stone
     towards a new beginning and that talented refugees would benefit the
-    technology sector as much as it can benefit them. 
+    technology sector as much as it can benefit them.
 
 
     Get involved.
@@ -74,7 +74,7 @@ latest:
     link_text: Sign up
     text: >-
       Join us and celebrate the start of the new program. Also meet the new
-      participants, the team and enjoy good food & drinks. 
+      participants, the team and enjoy good food & drinks.
 
 
       19 September, 17.30, Lausanne
@@ -87,8 +87,5 @@ latest:
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
-story:
-  text: ''
   video_id: IKuz7vA30sI
 ---
-

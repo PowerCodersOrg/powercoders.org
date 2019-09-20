@@ -105,14 +105,6 @@ collections:
               - label: Text
                 name: text
                 widget: string
-          - label: Story
-            name: story
-            widget: object
-            fields:
-              - label: Text
-                name: text
-                widget: markdown
-                required: false
               - label: Video Id
                 name: video_id
                 widget: string

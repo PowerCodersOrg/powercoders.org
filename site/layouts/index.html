@@ -55,20 +55,7 @@
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
 
-<div class="container">
-  <div class="row section">
-    <div class="col s12 l8">
-      {{if .Params.story.text}}
-        <p class="markdown">{{.Params.story.text | markdownify}}</p>
-      {{end}}
-      <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
-          allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      </div>
-      <hr class="whitespace">
-    </div>
-  </div>
-</div>
+<hr class="whitespace">
 
 <div class="container">
   <div class="row">
