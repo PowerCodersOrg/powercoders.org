@@ -10,40 +10,46 @@
 
 <div class="pwc-red-light20">
     <div class="container section">
-        <div class="row">
+        <div class="row flex">
             {{ range $el := .Params.program }}
-            <div class="col s12 m6 l3 hoverable btn-box animated" data-animation="fadeIn{{$el.fade_in}}">
+            <div class="col s12 m6 l6">
+              <div class="hoverable space btn-box animated" data-animation="fadeIn{{$el.fade_in}}">
                 <a href="{{$el.link}}">
                     <h2>{{$el.header}}</h2>
                     <p>{{$el.text}}</p>
                     <object><a href="{{$el.link}}"
                                class="btn waves-effect waves-light pwc-red">{{$el.link_text}}</a></object>
                 </a>
+              </div>
             </div>
             {{ end }}
         </div>
     </div>
 </div>
 
-<div class="container section">
-  <div class="row grow">
-    <div class="col s12 l8">
+<div class="container">
+  <div class="section">
+  <div class="row">
+    <div class="col s12">
       <h2>Latest</h2>
     </div>
   </div>
 
-  <div class="row">
+  <div class="row flex">
     {{ range $el := $.Site.Data.events }}
       {{ if (or (eq $el.remove_after "") (lt now (time $el.remove_after))) }}
-        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeInUp">
-          <a href="{{$el.link}}" target="_blank">
-            <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
-            <p>{{$el.text}}</p>
-            <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
-          </a>
+        <div class="col s12 m6 l5">
+          <div class="hoverable latest-box animated" data-animation="fadeInUp">
+            <a href="{{$el.link}}" target="_blank">
+              <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
+              <p>{{$el.text}}</p>
+              <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
+            </a>
+          </div>
         </div>
       {{ end }}
     {{ end }}
+  </div>
   </div>
 </div>
 
@@ -51,7 +57,7 @@
 
 <div class="container">
   <div class="row section">
-    <div class="col s12 offset-l2 l8">
+    <div class="col s12 l8">
       {{if .Params.story.text}}
         <p class="markdown">{{.Params.story.text | markdownify}}</p>
       {{end}}

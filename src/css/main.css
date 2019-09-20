@@ -10,11 +10,20 @@
  * Made By Madam Monorom / monorom.com
  * Updates by Nik Clayton / nik@ngo.org.uk
  */
-@import './particles-grid.css';
 @import './animate.css';
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 html {
 	font-size: 16px;
+}
+
+p {
+	text-align: left;
 }
 
 a {
@@ -109,6 +118,33 @@ p,
 	-o-hyphens: auto;
 	hyphens: auto;
 }
+
+.space {
+	padding: 20px !important;
+}
+
+/* ---------------- Flex classes ---------------- */
+
+.row.flex {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	flex-flow: row wrap;
+}
+
+.row.flex .col {
+	margin-left: 0;
+}
+
 
 /* ---------------- colors ---------------- */
 
@@ -333,21 +369,40 @@ a.btn {
 	color: white;
 }
 
+.btn-box {
+  position: relative;
+}
+
 .btn-box > a {
 	display: block;
 	color: #000;
-	padding: 20px 20px 60px;
+	padding-bottom: 60px;
+}
+
+div.col {
+	position: relative;
+}
+
+.col .wrapper {
+	/* 60 px padding at the bottom to absolutely position the button */
+	padding: 0 0 60px 0;
 }
 
 .btn-box object {
 	position: absolute;
-	bottom: 20px;
-	left: 20px;
+	bottom: 1rem;
+	left: 1rem;
 }
 
 .btn-box h2 {
 	font-size: 2rem;
 	margin-top: 0;
+}
+
+.latest-box, .btn-box {
+	margin-right: .5rem;
+	margin-bottom: .5rem;
+	height: 95%; /* Force some space between flex wrapped rows */
 }
 
 .latest-box {
@@ -377,11 +432,6 @@ a.btn {
 
 .border {
 	border: 1px solid rgba(0, 0, 0, 0.5);
-}
-
-.redborder {
-	border: 1px dotted rgb(195, 46, 76);
-	;
 }
 
 /* ---------------- portrait & partner---------------- */
@@ -556,4 +606,3 @@ footer.page-footer i {
 .markdown ul>li {
 	list-style-type: disc;
 }
-
