@@ -25,6 +25,9 @@ events:
       students and select their top candidates to invite for an on-site
       interview. If you are a company interested in offering an internship, get
       in touch with us.
+
+
+      **Wednesday, 23 October**
   - call_to_action: Sign Up
     header: Intro to Coding
     header_icon: fa-laptop
@@ -44,6 +47,9 @@ events:
       Every Thursday at 4:00 pm, we open our class to the community to join us,
       meet our participants and enjoy a cultural and progress presentation and
       the snacks and drinks afterwards.
+
+
+      **Every Thursday, 4-5pm, MBSZ Zurich**
   - call_to_action: Join
     header: Graduation Party
     header_icon: ' fa-graduation-cap'
@@ -54,7 +60,7 @@ events:
       from.
 
 
-      6 December, 17.00, TGIM Zurich
+      **Friday, 6 December, 5pm, TGIM Zurich**
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
