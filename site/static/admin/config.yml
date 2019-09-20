@@ -57,7 +57,7 @@ collections:
             widget: list
             fields:
               - label: Percentage
-                name: Percentage
+                name: percentage
                 widget: number
                 valuetype: "int"
                 min: 1
