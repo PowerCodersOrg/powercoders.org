@@ -27,7 +27,7 @@ events:
       in touch with us.
 
 
-      **Wednesday, 23 October, morning or afternoon**
+      **Wednesday, 23 October**
   - call_to_action: Sign Up
     header: Intro to Coding
     header_icon: fa-laptop
@@ -60,7 +60,7 @@ events:
       from.
 
 
-      6 December, 17.00, TGIM Zurich
+      **Friday, 6 December, 5pm, TGIM Zurich**
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
