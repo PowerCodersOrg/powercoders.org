@@ -65,18 +65,6 @@ latest:
     text: >-
       We are looking for people eager to support us either as a Job Coach for
       our participants or as an IT trainer. Check for more information.
-  - fade_in: Down
-    header: Launch Party Lausanne
-    header_icon: fa-rocket
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
-    link_text: Sign up
-    text: >-
-      Join us and celebrate the start of the new program. Also meet the new
-      participants, the team and enjoy good food & drinks. 
-
-
-      19 September, 17.30, Lausanne
   - fade_in: Up
     header: Video portrait
     header_icon: fa-video
