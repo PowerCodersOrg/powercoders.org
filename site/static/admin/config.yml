@@ -565,6 +565,34 @@ collections:
         options: ["lausanne", "zurich"]
         hint: "By default partners are shown on all city pages, restrict them to a particular city here"
 
+  - name: alumni
+    label: "Alumni"
+    format: json
+    folder: "site/data/alumni"
+    create: true
+    fields:
+      - label: Name
+        name: title
+        widget: string
+        hint: Must be unique across all alumni, use "Display name"
+      - label: "Display Name"
+        name: display_name
+        widget: string
+        required: false
+      - label: Image
+        name: image
+        widget: image
+      - label: Background
+        name: Background
+        widget: string
+      - label: Quote
+        name: quote
+        widget: string
+      - label: Story
+        name: story
+        widget: markdown
+        required: false
+
   - name: helpers
     label: Helpers
     files:
