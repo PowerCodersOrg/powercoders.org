@@ -21,17 +21,6 @@ text: >-
   We accept applications on an ongoing basis for the program starting early
   2020.
 events:
-  - call_to_action: Sign up
-    header: Launch party
-    header_icon: fa-rocket
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
-    text: >-
-      Join us and let's celebrate the start of a new program. Also meet the new
-      participants, the team and enjoy traditional food and drinks.  
-
-
-      19 September, 17.30, Lausanne
   - call_to_action: Get in touch
     header: Career day
     header_icon: fa-handshake
