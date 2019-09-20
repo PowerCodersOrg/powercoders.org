@@ -30,6 +30,11 @@ get_involved:
 
 
     Get involved.
+donuts:
+  - Percentage: 97
+    description: ... success rate for internship placements
+  - Percentage: 60
+    description: ... of participants find a job (ongoing estimation)
 program:
   - fade_in: Left
     header: Participant
@@ -89,3 +94,4 @@ teaser_image2:
   text: A vacant IT job can be filled with a displaced person.
   video_id: IKuz7vA30sI
 ---
+
