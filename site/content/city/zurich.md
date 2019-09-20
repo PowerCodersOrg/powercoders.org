@@ -46,7 +46,7 @@ events:
       meet our participants and enjoy a cultural and progress presentation and
       the snacks and drinks afterwards.
   - call_to_action: Sign Up
-    header: Intro to Coding Workshop (by Powercoders Alumni)
+    header: 'Intro to Coding Workshop (by Powercoders Alumni, with Tsri.ch)'
     header_icon: fa-laptop
     link: 'https://forms.gle/rH3Yz4fi7zFNMYrSA'
     text: >-
@@ -55,10 +55,8 @@ events:
       with their support. 
 
 
-      One course specific for women. One course for all. 
-
-
-      Saturday, 26 October, 1-3pm, Fabrikstrasse 54, 8005 Zurich.
+      Saturday, 26 October, 1-3pm. Collaboration with
+      [Tsri](https://tsri.ch/zh/tsigereda-kidane-programmieren-powercoders-workshop-zurich/).
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
