@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+
+<div class="container">
+  <div class="row">
+    <div class="col s12 markdown">
+      {{ .Params.text | markdownify }}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row flex">
+    {{ range $alumni := $.Site.Data.alumni }}
+      <div class="col s4">
+        <div class="card-image">
+          <img src="{{ $alumni.image }}" class="responsive-img">
+          <h3 class="card-title">{{ if $alumni.display_name }}{{ $alumni.display_name }}{{ else }}{{ $alumni.title }}{{ end }}</h3>
+        </div>
+        <div class="card-content">
+          <p>{{ $alumni.quote }}</p>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}
