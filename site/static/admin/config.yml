@@ -209,20 +209,20 @@ collections:
               - label: Text
                 name: text
                 widget: markdown
-            - label: Programme
-              name: programme
-              widget: object
-              fields:
-                - label: Header
-                  name: header
-                  widget: string
-                - label: Image
-                  name: image
-                  widget: image
-                - label: Text
-                  name: text
-                  widget: markdown
-                  required: false
+          - label: Programme
+            name: programme
+            widget: object
+            fields:
+              - label: Header
+                name: header
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: Text
+                name: text
+                widget: markdown
+                required: false
 
       - file: site/content/membership/_index.md
         label: Membership
