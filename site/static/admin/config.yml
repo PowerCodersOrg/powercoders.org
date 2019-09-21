@@ -183,6 +183,46 @@ collections:
           - label: Text
             name: text
             widget: markdown
+      - file: site/content/company/_index.md
+        label: Company
+        name: company
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Section Title
+            name: section_title
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
+          - label: Support as
+            name: support_as
+            widget: list
+            fields:
+              - label: Header
+                name: header
+                widget: string
+              - label: Text
+                name: text
+                widget: markdown
+            - label: Programme
+              name: programme
+              widget: object
+              fields:
+                - label: Header
+                  name: header
+                  widget: string
+                - label: Image
+                  name: image
+                  widget: image
+                - label: Text
+                  name: text
+                  widget: markdown
+                  required: false
 
       - file: site/content/membership/_index.md
         label: Membership
