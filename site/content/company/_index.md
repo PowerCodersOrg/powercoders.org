@@ -8,17 +8,19 @@ text: >-
   IT-companies and IT-departments.
 
 
-  To run the program for the students we are dependent on volunteers, either
-  as a job coach to ... or as an IT trainer to ... . To place the students
-  in internships...
+  To run the program for the students we are dependent on volunteers, either as
+  a job coach to ... or as an IT trainer to ... . To place the students in
+  internships...
 support_as:
   - header: Corporate Social Responsibility (Internship / Job)
-    text: >-
-      Text for CSR goes here
+    text: Text for CSR goes here
   - header: Corporate Volunteering (IT Trainer)
-    text: >-
-      Text for trainer goes here
+    text: Text for trainer goes here
   - header: Corporate Membership (Sponsorship)
-    text: >-
-      Text for sponsorship goes here
+    text: Text for sponsorship goes here
+programme:
+  header: Our programme
+  image: /img/weihnachts_spende.png
+  text: This is optional text that explains the programme in more detail.
 ---
+
