@@ -1,0 +1,100 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+
+<div class="container">
+  <div class="row">
+    <div class="col s12 markdown">
+      {{ .Params.text | markdownify }}
+    </div>
+  </div>
+</div>
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>How you can support us</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <ul class="collapsible">
+        {{ range $el := .Params.support_as }}
+          <li>
+            <div id="{{ $el.header }}" class="collapsible-header">
+              <h6>{{ $el.header }}</h6>
+            </div>
+
+            <div class="collapsible-body markdown">
+              {{ $el.text | markdownify }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>{{ .Params.programme.header}}</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <img src="{{ .Params.programme.image }}" class="responsive-img">
+    </div>
+  </div>
+
+  {{ if .Params.programme.text}}
+    <div class="row">
+      <div class="col s12">
+        {{ .Params.programme.text | markdownify }}
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+<!-- TODO: This is very similar to the event listing in the home page,
+     and should be turned in to a partial. -->
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Latest</h2>
+    </div>
+  </div>
+
+  <div class="row flex">
+    {{ range $el := $.Site.Data.events }}
+      {{ if (and (in $el.audience "company") (or (eq $el.remove_after "") (lt now (time $el.remove_after)))) }}
+        <div class="col s12 m6 l5">
+          <div class="hoverable latest-box animated" data-animation="fadeInUp">
+            <a href="{{$el.link}}" target="_blank">
+              <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
+              <p>{{$el.text}}</p>
+              <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
+            </a>
+          </div>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
+
+<!-- TODO: This should probably be turned in to a partial that creates the whole
+     section, and takes parameters for the city and the types -->
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
+    </div>
+  </div>
+
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "company_member" "title" "Company Members")}}
+</div>
+
+{{ end }}
