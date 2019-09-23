@@ -442,6 +442,36 @@ collections:
                   - label: Link
                     name: link
                     widget: string
+      - file: site/content/student/_index.md
+        label: Student
+        name: student
+        fields:
+          - label: Title
+            name: title
+            widget: string
+          - label: Image
+            name: image
+            widget: image
+          - label: Section Title
+            name: section_title
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
+          - label: Programme
+            name: programme
+            widget: object
+            fields:
+              - label: Header
+                name: header
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: Text
+                name: text
+                widget: markdown
+                required: false
       - file: site/content/volunteer/_index.md
         label: Volunteer
         name: volunteer
