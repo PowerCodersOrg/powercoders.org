@@ -30,6 +30,15 @@ a {
 	color: #007fb7;
 }
 
+a.brand-logo.left {
+  left: 2rem; /* Absolutely positioned, nudge in a bit. */
+  top: 0.5rem; /* and down slightly */
+}
+
+a.brand-logo.left img {
+  max-width: 360px;
+}
+
 a:hover {
 	color: rgb(195, 46, 76);
 }

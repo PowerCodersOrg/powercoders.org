@@ -1,8 +1,10 @@
 <div class="navbar-fixed">
   <nav class="white">
-    <div class="nav-wrapper container">
-      <a href="/" class="logo"><img src="/img/powercoders-logo.svg" alt="Powercoders" class="responsive-img"></a>
-      <ul id="nav-mobile" class="right">
+    <div class="nav-wrapper">
+      <a href="/" class="brand-logo left"><img class="responsive-image" src="/img/powercoders-logo.svg" alt="Powercoders"></a>
+      <a href="#" data-target="mobile-nav" class="sidenav-trigger right"><i class="fas fa-bars black-text"></i></a>
+
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
         <li {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="active"{{end}}>
@@ -16,3 +18,15 @@
     </div>
   </nav>
 </div>
+
+<ul class="sidenav" id="mobile-nav">
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    <li {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="active"{{end}}>
+      <a class="black-text" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    </li>
+  {{ end }}
+  <li>
+    <a class="btn" href="https://donorbox.org/donatepowercoders" target="_blank" rel="noopener">Donate</a>
+  </li>
+</ul>
