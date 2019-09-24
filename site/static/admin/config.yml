@@ -154,6 +154,20 @@ collections:
                   - label: Description
                     name: description
                     widget: string
+                  - label: Visible
+                    name: visible
+                    widget: select
+                    hint: "Which options should this person be visible under?"
+                    multiple: true
+                    required: false
+                    options:
+                      - {label: "Team Zurich", value: "team_zurich"}
+                      - {label: "Team Lausanne", value: "team_lausanne"}
+                      - {label: "Team Turin", value: "team_turin"}
+                      - {label: "Office Powercoders", value: "office_powercoders"}
+                      - {label: "Switzerland", value: "switzerland"}
+                      - {label: "Board Powercoders", value: "board_powercoders"}
+                      - {label: "Switzerland Community", value: "switzerland_community"}
       - file: site/content/alumni/_index.md
         label: Alumni
         name: alumni
