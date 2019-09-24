@@ -636,6 +636,7 @@ collections:
           - {label: "Graduation Party", value: "fa-graduation-cap"}
           - {label: "Handshake", value: "fa-handshake"}
           - {label: "Launch Party", value: "fa-rocket"}
+          - {label: "People", value: "fa-users"}
           - {label: "Video", value: "fa-video"}
         hint: "Choose an icon for this event"
       - label: Audience
