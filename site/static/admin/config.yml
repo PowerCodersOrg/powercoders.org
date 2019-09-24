@@ -95,29 +95,6 @@ collections:
                 name: fade_in
                 widget: select
                 options: ["Left", "Right", "Up", "Down"]
-          - label: Latest
-            name: latest
-            widget: list
-            fields:
-              - label: Heading
-                name: header
-                widget: string
-              - label: Heading Icon
-                name: header_icon
-                widget: string
-              - label: Text
-                name: text
-                widget: text
-              - label: link
-                name: link
-                widget: string
-              - label: Link Text
-                name: link_text
-                widget: string
-              - label: Fade In Animation
-                name: fade_in
-                widget: select
-                options: ["Left", "Right", "Up", "Down"]
           - label: Teaser Image 2
             name: teaser_image2
             widget: object

@@ -64,36 +64,8 @@ program:
     text: >-
       Are you an IT company looking for talented people no matter where they
       come from?
-latest:
-  - fade_in: Up
-    header: Volunteering
-    header_icon: fa-hands-helping
-    link: 'https://powercoders.org/program/'
-    link_text: More
-    text: >-
-      We are looking for people eager to support us either as a Job Coach for
-      our participants or as an IT trainer. Check for more information.
-  - fade_in: Down
-    header: Launch Party Lausanne
-    header_icon: fa-rocket
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform
-    link_text: Sign up
-    text: >-
-      Join us and celebrate the start of the new program. Also meet the new
-      participants, the team and enjoy good food & drinks.
-
-
-      19 September, 17.30, Lausanne
-  - fade_in: Up
-    header: Video portrait
-    header_icon: fa-video
-    link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
-    link_text: Watch
-    text: "\"We make sure that everyone gets the same opportunity I got\", says our Hussam Allaham. Watch the portrait of Red Bull Switzerland about us \U0001F4AA\U0001F64F."
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
   video_id: IKuz7vA30sI
 ---
-
