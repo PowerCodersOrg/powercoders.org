@@ -54,7 +54,7 @@
   <div class="row flex">
     {{ range $el := $.Site.Data.events }}
       {{ if (or (eq $el.remove_after "") (lt now (time $el.remove_after))) }}
-        <div class="col s12 m6 l5">
+        <div class="col s12 m6">
           <div class="hoverable latest-box animated" data-animation="fadeInUp">
             <a href="{{$el.link}}" target="_blank">
               <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
