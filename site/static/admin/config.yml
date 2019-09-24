@@ -21,6 +21,16 @@ collections:
           - label: Subtitle
             name: subtitle
             widget: string
+          - label: Link text
+            name: link_text
+            required: false
+            widget: string
+            hint: If set, the text to show on a button on the main image
+          - label: Link URL
+            name: link_url
+            required: false
+            widget: string
+            hint: (required if link_text is set) The link to go to when the user clicks the button
           - label: Image
             name: image
             widget: image
