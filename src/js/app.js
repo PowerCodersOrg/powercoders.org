@@ -82,6 +82,7 @@ $(function() {
   });
 
   $(".sidenav").sidenav();
+  $("select").formSelect();
 }); // end of document ready
 
 // Initialise cookie consent
