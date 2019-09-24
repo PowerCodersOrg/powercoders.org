@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title "link_text" .Params.link_text "link_url" .Params.link_url) }}
 
 {{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text "video_id" .Params.intro.video_id)}}
 
