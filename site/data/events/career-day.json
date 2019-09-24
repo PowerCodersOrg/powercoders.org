@@ -1,0 +1,15 @@
+{
+  "title": "Career Day",
+  "header_icon": "fa-handshake",
+  "audience": [
+    "student",
+    "company"
+  ],
+  "city": [
+    "zurich"
+  ],
+  "text": "The Career Day is the day when companies have the chance to meet all our students and select their top candidates to invite for an on-site interview. If you are a company interested in offering an internship, get in touch with us",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform",
+  "call_to_action": "Sign Up",
+  "remove_after": ""
+}
