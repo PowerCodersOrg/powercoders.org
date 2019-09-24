@@ -7,7 +7,7 @@
     <li>
         <div class="collapsible-header">{{$el.header}}</div>
         <div class="collapsible-body markdown">
-            {{$el.text | markdownify}}
+            {{ partial "markdownify-block" $el.text }}
         </div>
     </li>
     {{end}}

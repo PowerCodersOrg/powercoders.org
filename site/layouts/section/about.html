@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 markdown">
-            {{ .Params.text | markdownify }}
+            {{ partial "markdownify-block" .Params.text }}
             <hr class="whitespace">
             <h2>Timeline</h2>
             <ul class="timeline">
@@ -25,7 +25,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 markdown">
-            {{ .Params.team.text | markdownify }}
+            {{ partial "markdownify-block" .Params.team.text }}
         </div>
     </div>
 

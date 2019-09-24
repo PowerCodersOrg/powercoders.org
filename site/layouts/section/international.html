@@ -6,7 +6,7 @@
     <div class="row section">
         <div class="col s12">
             <h2>{{.Params.story.header}}</h2>
-            <p class="markdown">{{.Params.story.text | markdownify}}</p>
+            {{ partial "markdownify-block" .Params.story.text }}
             <div class="video-container">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
                         allow="autoplay; encrypted-media" allowfullscreen></iframe>

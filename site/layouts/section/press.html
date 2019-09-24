@@ -5,7 +5,7 @@
 <div class="container">
     <div class="row">
         <div class="col s12 markdown">
-            {{.Params.text | markdownify}}
+            {{ partial "markdownify-block" .Params.text }}
             <hr class="whitespace">
             <h2>Media Coverage</h2>
             <div class="row">
