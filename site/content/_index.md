@@ -1,6 +1,8 @@
 ---
 title: Startpage
 subtitle: Impacting lives by teaching how to code
+link_text: Our programme
+link_url: /program
 image: /img/homepage_01_1440x960.jpg
 intro:
   header: >-
@@ -31,10 +33,10 @@ get_involved:
 
     Get involved.
 donuts:
-  - percentage: 97
-    description: ... success rate for internship placements
-  - percentage: 60
-    description: ... of participants find a job (ongoing estimation)
+  - description: ... success rate for internship placements
+    percentage: 97
+  - description: ... of participants find a job (ongoing estimation)
+    percentage: 60
 program:
   - fade_in: Left
     header: Participant
@@ -94,3 +96,4 @@ teaser_image2:
   text: A vacant IT job can be filled with a displaced person.
   video_id: IKuz7vA30sI
 ---
+
