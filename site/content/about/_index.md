@@ -70,12 +70,20 @@ team:
     - description: Vice-President
       image: /img/bettina-hirsig.jpg
       name: Bettina Hirsig
+      visible:
+        - office_powercoders
+        - board_powercoders
+        - switzerland
     - description: Student / Zürich
       image: /img/chiar-evdi.jpg
       name: Chiar Evdi
     - description: President
       image: /img/christian-hirsig.jpg
       name: Christian Hirsig
+      visible:
+        - office_powercoders
+        - board_powercoders
+        - switzerland
     - description: Coach / Bern
       image: /img/christian-zosel.jpg
       name: Christian Zosel
@@ -103,11 +111,14 @@ team:
     - description: Lead Teacher / Lausanne
       image: /img/helene-portier.jpg
       name: Hélène Portier
-    - image: /img/hermi.jpg
+    - description: Hermi
+      image: /img/hermi.jpg
       name: Hermi
     - description: Program Manager
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
+      visible:
+        - team_zurich
     - description: Coach / Zürich
       image: /img/ilya-shumilin.jpg
       name: Ilya Shumilin
