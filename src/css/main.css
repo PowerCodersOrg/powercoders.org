@@ -206,6 +206,21 @@ p,
 	color: #000;
 }
 
+/* ---------------- Card ---------------- */
+
+/* Treat cards as flex containers */
+div.row.flex .card {
+  height: 95%;  /* Force cards to be the same height in a row */
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure the content section grows to force the card-action
+   section to the bottom */
+div.row.flex .card .card-content {
+  flex-grow: 10;
+}
+
 /* ---------------- Logo ---------------- */
 
 .logo img {

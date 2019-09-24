@@ -7,42 +7,11 @@ text: >-
 
 
   The 2019 Zurich batch runs from 9 September to 6 December 2019 (school phase),
-  followed by a 6-12 month internship from January 2020. 
+  followed by a 6-12 month internship from January 2020.
 
 
   We accept applications on an ongoing basis for the program starting early
   2020.
-events:
-  - call_to_action: Sign up
-    header: Career Day
-    header_icon: fa-handshake
-    link: >-
-      https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform
-    text: >-
-      The Career Day is the day when companies have the chance to meet all our
-      students and select their top candidates to invite for an on-site
-      interview. If you are a company interested in offering an internship, get
-      in touch with us.
-  - call_to_action: Join
-    header: Graduation Party
-    header_icon: ' fa-graduation-cap'
-    link: 'https://forms.gle/a2kSkH64VdxeBkR29'
-    text: >-
-      Join the big day with our participants, celebrate the end of the school
-      phase in Zurich and enjoy the food from the countries our participants are
-      from.
-
-
-      6 December, 17.00, TGIM Zurich
-  - call_to_action: Join
-    header: Culture & Skill Sharing
-    header_icon: fa-users
-    link: 'https://www.facebook.com/events/931648597170910/'
-    meetup_link: 'https://www.meetup.com/Powercoders/events/ftljgryzmbqb/'
-    text: >-
-      Every Thursday at 4:00 pm, we open our class to the community to join us,
-      meet our participants and enjoy a cultural and progress presentation and
-      the snacks and drinks afterwards.
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
@@ -94,7 +63,7 @@ apply_as:
 
       Are you a local willing to support a refugee achieve his / her
       professional goals? Are you keen to gain and practice your coaching
-      skills? 
+      skills?
 
 
       <b>What to expect</b>
@@ -164,7 +133,7 @@ apply_as:
       If you are an IT company, an agency or an IT department in the
       German-speaking Switzerland, and eager to support a refugee during an
       internship and eventually able to offer an IT job in the long-run, join
-      us. 
+      us.
 
 
       For more information about offering an internship, have a look at the
@@ -173,10 +142,10 @@ apply_as:
 
 
       For more information about Powercoders, have a look at our [slide
-      deck](https://docs.google.com/presentation/d/12O6Q7EjJzIlWUo4zK3dO2nLZXIiPtW2kGrqYyvWsuBw/edit?usp=sharing). 
+      deck](https://docs.google.com/presentation/d/12O6Q7EjJzIlWUo4zK3dO2nLZXIiPtW2kGrqYyvWsuBw/edit?usp=sharing).
 
 
-      What to expect:  
+      What to expect:
 
 
       * Join career day on the 23rd of October to get to know the students (week
@@ -189,7 +158,7 @@ apply_as:
 
       If you still need more information, [Get in
       Touch](https://forms.gle/HKvze4URRztc13aV6) with us and we will get back
-      to you. 
+      to you.
 
 
       If all is clear, we are looking forward to receiving your application.
@@ -214,4 +183,3 @@ team:
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 ---
-
