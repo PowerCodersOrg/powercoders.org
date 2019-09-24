@@ -63,7 +63,7 @@
   <div class="row flex">
     {{ range $el := $.Site.Data.events }}
       {{ if (and (in $el.city $.Page.File.BaseFileName) (or (eq $el.remove_after "") (lt now (time $el.remove_after)))) }}
-        <div class="col s12 m6">
+        <div class="col s12 m6 xl4">
           <div class="card">
             <div class="card-content">
               <div class="card-title"><i class="fas {{$el.header_icon}}"></i> {{(or $el.display_name $el.title)}}</div>
