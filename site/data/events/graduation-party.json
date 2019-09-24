@@ -1,0 +1,16 @@
+{
+  "title": "Graduation Party",
+  "header_icon": "fa-graduation-cap",
+  "audience": [
+    "student",
+    "company",
+    "volunteer"
+  ],
+  "city": [
+    "zurich"
+  ],
+  "text": "Join the big day with our participants, celebrate the end of the school phase in Zurich, and enjoy the food from the countries our participants are from.\n\n6 December, 17.00, TGIM Zurich",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSc3BCSpe6vi6RxtPmx6rYwGNo5jc5mAm2sQs5X3NGBtph53Lw/viewform",
+  "call_to_action": "Join",
+  "remove_after": "2019-12-06T23:00:00.000Z"
+}
