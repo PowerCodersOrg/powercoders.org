@@ -12,8 +12,8 @@
   <div class="container">
     <div class="row flex" style="justify-content:space-evenly;">
       {{ range $donut := .Params.donuts }}
-        <div class="col s4">
-          <div class="card-image">
+        <div class="col s12 m6">
+          <div class="card-image center">
             <canvas data-donut data-percentage="{{ $donut.percentage }}"></canvas>
           </div>
           <div class="card-content">
