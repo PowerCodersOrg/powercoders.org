@@ -629,6 +629,11 @@ collections:
         name: title
         widget: string
         hint: "1-3 words maximum"
+      - label: "Display name"
+        name: display_name
+        widget: string
+        required: false
+        hint: "If set, this will be displayed instead of the title"
       - label: Icon
         name: header_icon
         widget: select
