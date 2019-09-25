@@ -27,6 +27,10 @@ text: >-
 
 
   [TedX Talk of Founder](https://youtu.be/kILDP3NmA6A)
+video:
+  image: /img/ted-zh.jpg
+  text: Opening doors for refugees in the IT industry
+  video_id: kILDP3NmA6A
 timeline:
   - date: JUN 2016
     text: incorporation non-profit
