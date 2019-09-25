@@ -24,9 +24,9 @@ get_involved:
 
     **Impacting lives by teaching how to code**
 donuts:
-  - description: ... success rate for internship placements
+  - description: success rate for internship placements
     percentage: 97
-  - description: ... of participants find a job (ongoing estimation)
+  - description: of participants find a job (ongoing estimation)
     percentage: 60
 program:
   - fade_in: Left
