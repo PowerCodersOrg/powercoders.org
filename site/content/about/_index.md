@@ -24,9 +24,6 @@ text: >-
 
   [Impact report
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
-
-
-  [TedX Talk of Founder](https://youtu.be/kILDP3NmA6A)
 video:
   image: /img/ted-zh.jpg
   text: Opening doors for refugees in the IT industry
@@ -256,4 +253,3 @@ team:
     who are making a difference. Not all of our students, mentors and coaches
     are listed. Pictures to come.
 ---
-
