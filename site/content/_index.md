@@ -17,21 +17,12 @@ get_involved:
     # Our mission
 
 
-    At Powercoders, we offer an intensive coding program to female and male
-    refugees with the ultimate goal of having all our participants secure a
-    permanent and full time job in the IT sector. In order to best achieve this
-    goal, our program offers our students three months of courses and then the
-    opportunity to do an internship.
+    We believe that coding skills are a stepping stone to a new beginning and
+    that talented people will benefit the technology sector as much as it can
+    benefit them.
 
 
-    Our talented team of experts and volunteers has worked to build a program
-    that best prepares our students and offers them the opportunity to build a
-    life in their new home. We believe that coding skills are a stepping stone
-    towards a new beginning and that talented refugees would benefit the
-    technology sector as much as it can benefit them.
-
-
-    Get involved.
+    **Impacting lives by teaching how to code**
 donuts:
   - description: ... success rate for internship placements
     percentage: 97
@@ -69,3 +60,4 @@ teaser_image2:
   text: A vacant IT job can be filled with a displaced person.
   video_id: IKuz7vA30sI
 ---
+
