@@ -124,6 +124,19 @@ collections:
           - label: Text
             name: text
             widget: markdown
+          - label: Video
+            name: video
+            widget: object
+            fields:
+              - label: Image
+                name: image
+                widget: image
+              - label: Text
+                name: text
+                widget: string
+              - label: Video Id
+                name: video_id
+                widget: string
           - label: Timeline
             name: timeline
             widget: list
