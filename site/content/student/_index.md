@@ -1,7 +1,7 @@
 ---
-title: Student
+title: Participants
 image: /img/main-page.jpg
-section_title: Student
+section_title: Participants
 text: >-
   We offer a 3-month coding bootcamp followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees in
@@ -16,3 +16,4 @@ programme:
   image: /img/weihnachts_spende.png
   text: This is optional text that explains the programme in more detail.
 ---
+
