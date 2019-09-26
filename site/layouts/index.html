@@ -44,16 +44,23 @@
     </div>
 </div>
 
-<div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>Latest</h2>
-    </div>
-  </div>
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (or (eq $event.remove_after "") (lt now (time $event.remove_after))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
 
-  <div class="row flex">
-    {{ range $el := $.Site.Data.events }}
-      {{ if (or (eq $el.remove_after "") (lt now (time $el.remove_after))) }}
+{{ if $activeEvents }}
+  <div class="container section">
+    <div class="row">
+      <div class="col s12">
+        <h2>Latest</h2>
+      </div>
+    </div>
+
+    <div class="row flex">
+      {{ range $el := $activeEvents }}
         <div class="col s12 m6 xl4">
           <div class="hoverable latest-box animated" data-animation="fadeInUp">
             <a href="{{$el.link}}" target="_blank">
@@ -64,9 +71,9 @@
           </div>
         </div>
       {{ end }}
-    {{ end }}
+    </div>
   </div>
-</div>
+{{ end }}
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
 
