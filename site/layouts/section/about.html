@@ -56,7 +56,7 @@
       </div>
     </div>
 
-    <div class="row portrait">
+    <div class="row flex portrait">
         {{ range $el := .Params.team.members }}
         <div class="col s6 m4 l3" data-visible="{{ $el.visible }}">
             <div><img src="{{$el.image}}" class="responsive"

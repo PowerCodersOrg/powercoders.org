@@ -201,7 +201,6 @@ p,
 
 /* Treat cards as flex containers */
 div.row.flex .card {
-  height: 95%;  /* Force cards to be the same height in a row */
   display: flex;
   flex-direction: column;
 }

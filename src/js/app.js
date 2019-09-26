@@ -2,6 +2,7 @@ import $ from "jquery";
 import "./jquery.waypoints";
 import "cookieconsent";
 import DoughnutChart from "simple-doughnut-chart";
+import "jquery-match-height";
 import "lity";
 import "materialize-css";
 
@@ -83,6 +84,17 @@ $(function() {
 
   $(".sidenav").sidenav();
   $("select").formSelect();
+
+  // .card elements in a flex row don't grow to fill the height of the
+  // row. This seems to be a known problem with MaterializeCSS, e.g.,
+  // see https://stackoverflow.com/questions/37760307/materializecss-how-can-i-make-row-column-height-the-same
+  //
+  // Forcing the card height to 100% (or slightly smaller percentages)
+  // forces cards on subsequent rows to overlap. Use the match-height
+  // plugin to force cards to have the same height. If/when MaterializeCSS
+  // moves to use Flexbox fully this hack can be removed.
+  $(".row.flex .card").matchHeight();
+
 }); // end of document ready
 
 // Initialise cookie consent
