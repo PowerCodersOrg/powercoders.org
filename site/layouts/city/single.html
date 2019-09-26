@@ -140,7 +140,7 @@
             </div>
         </div>
 
-        <div class="row portrait">
+        <div class="row portrait flex">
             {{ range $el := .Params.team.members }}
             <div class="col s6 m3 animated"
                  data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
