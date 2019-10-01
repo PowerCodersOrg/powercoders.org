@@ -177,6 +177,19 @@ img.dim {
 	background: rgba(195, 46, 76, 0.8);
 }
 
+/* ---------------- Donut charts ---------------- */
+
+s-donut {
+  height: 200px;
+  width: 200px;
+}
+
+s-donut .donut__value {
+  font-size: 2rem;
+  font-weight: 700;
+  display: block;
+}
+
 /* ---------------- overwrite Materialized ---------------- */
 
 @media only screen and (min-width: 993px) {

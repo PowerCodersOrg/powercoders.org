@@ -1,7 +1,7 @@
 import $ from "jquery";
 import "./jquery.waypoints";
+import "coffeekraken-s-donut-component";
 import "cookieconsent";
-import DoughnutChart from "simple-doughnut-chart";
 import "jquery-match-height";
 import "lity";
 import "materialize-css";
@@ -44,43 +44,6 @@ $(function() {
   $(".collapsible").collapsible();
   openProgramCollapsible();
   $(window).on("hashchange", openProgramCollapsible);
-
-  // Initialise all donut charts
-  //
-  // Donut charts are any canvas element with an empty data-donut attribute.
-  // The percentage value for the chart is given by the data-percentage
-  // attribute, other values are fixed here.
-  //
-  // E.g., <canvas data-donut data-percentage="42"></canvas>
-  $("canvas[data-donut]").each(function(index) {
-    new DoughnutChart(this, {
-      canvasSize: 100,
-      doughnutSize: 22,  // Width of the donut lines
-      defaultTextSize: 8,
-      activeTextSize: 16,
-      defaultColor: "#eee",
-      defaultTextColor: "#000",
-      activeTextColor: "#000",
-      activeColor: "#c32e4c",
-      percentageColor: "#c32e4c",
-      percentage: $(this).data("percentage"),
-      decimalPointDigit: 0,
-      forceDecimalPointDigit: -1,
-      text: "",
-      duration: 1500,
-      dashWidth: 12,
-      dashHeight: 4,
-      dashMargin: 6,
-      dashLength: 3,
-      dashColor: "#eee",
-      textPosition: "bottom",
-      gradientColors: [],
-      percentTextSize: 0,
-      percentSymbolTextColor: "",
-      percentSymbolTextSize: 0,
-      percentSymbolTextBaseline: "middle",
-    });
-  });
 
   $(".sidenav").sidenav();
   $("select").formSelect();

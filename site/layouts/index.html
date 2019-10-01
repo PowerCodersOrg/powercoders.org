@@ -14,7 +14,10 @@
       {{ range $donut := .Params.donuts }}
         <div class="col s12 m3">
           <div class="card-image center">
-            <canvas data-donut data-percentage="{{ $donut.percentage }}"></canvas>
+            <s-donut stroke-width="50" segments="[{start:0,end:{{ $donut.percentage }},color:'#c32e4c'}]">
+              <span class="donut__value">{{ $donut.percentage }}%</span>
+              <span class="donut__title"></span>
+            </s-donut>
           </div>
           <div class="card-content">
             <p class="center">{{ $donut.description }}</p>
