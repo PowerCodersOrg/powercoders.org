@@ -55,7 +55,7 @@ $(function() {
   $("canvas[data-donut]").each(function(index) {
     new DoughnutChart(this, {
       canvasSize: 100,
-      doughnutSize: 12,
+      doughnutSize: 22,  // Width of the donut lines
       defaultTextSize: 8,
       activeTextSize: 16,
       defaultColor: "#eee",
