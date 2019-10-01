@@ -178,8 +178,8 @@ img.dim {
 /* ---------------- Donut charts ---------------- */
 
 s-donut {
-  height: 200px;
-  width: 200px;
+  height: 100%;
+  width: 100%;
 }
 
 s-donut .donut__value {
