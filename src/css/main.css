@@ -149,7 +149,7 @@ p,
 /* ---------------- colors ---------------- */
 
 .pwc-red-text {
-	color: rgb(195, 46, 76);
+	color: rgb(195, 46, 76) !important;
 }
 
 .pwc-red {
