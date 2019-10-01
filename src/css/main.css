@@ -123,6 +123,10 @@ p,
 	padding: 20px !important;
 }
 
+img.dim {
+  filter: brightness(60%);
+}
+
 /* ---------------- Flex classes ---------------- */
 
 .row.flex {
@@ -201,7 +205,6 @@ p,
 
 .parallax-container {
 	min-height: 500px;
-	line-height: 0;
 	height: auto;
 	color: rgba(255, 255, 255, .9);
 }
