@@ -10,9 +10,9 @@
 
 {{ if .Params.donuts }}
   <div class="container">
-    <div class="row flex" style="justify-content:space-evenly;">
+    <div class="row flex" style="justify-content:center;">
       {{ range $donut := .Params.donuts }}
-        <div class="col s12 m6">
+        <div class="col s12 m3">
           <div class="card-image center">
             <canvas data-donut data-percentage="{{ $donut.percentage }}"></canvas>
           </div>
