@@ -181,6 +181,24 @@ p,
   }
 }
 
+/* Make the navbar 12 pixels taller than the default */
+.navbar-fixed {
+  height: 68px;
+}
+
+@media only screen and (min-width: 601px) {
+  nav.nav-extended .nav-wrapper {
+    min-height: 76px;
+  }
+  nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 76px;
+    line-height: 76px;
+  }
+  .navbar-fixed {
+    height: 76px;
+  }
+}
+
 .parallax-container {
 	min-height: 500px;
 	line-height: 0;
