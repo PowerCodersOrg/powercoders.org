@@ -59,5 +59,9 @@ teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person.
   video_id: IKuz7vA30sI
+email_signup:
+  heading: Add some impact to your mailbox
+  text: Stay updated about our programmes and events
+  button_text: subscribe
+  link: https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8
 ---
-

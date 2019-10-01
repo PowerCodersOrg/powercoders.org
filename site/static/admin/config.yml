@@ -108,6 +108,22 @@ collections:
               - label: Video Id
                 name: video_id
                 widget: string
+          - label: "E-mail signup"
+            name: email_signup
+            widget: object
+            fields:
+              - label: Heading
+                name: header
+                widget: string
+              - label: Text
+                name: text
+                widget: string
+              - label: Button text
+                name: button_text
+                widget: string
+              - label: Link
+                name: link
+                widget: string
       - file: site/content/about/_index.md
         label: About
         name: about
