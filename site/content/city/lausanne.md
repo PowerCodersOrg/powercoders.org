@@ -24,7 +24,7 @@ events:
   - call_to_action: Get in touch
     header: Career day
     header_icon: fa-handshake
-    link: ' https://tiny.cc/powercoders'
+    link: 'https://forms.gle/pvdPpHrGrci7miku8'
     text: >-
       The Career Day is the day when companies have the chance to meet all our
       students and select their top candidates to invite for an on-site
