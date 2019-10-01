@@ -41,9 +41,7 @@ a:active {
 h1 {
 	font-weight: 700;
 	font-size: 1.5rem;
-	margin: 0 0 70px;
-	padding: 15px;
-	background: rgba(195, 46, 76, 0.15);
+	margin: 0 0 2rem;
 	text-transform: uppercase;
 	text-align: center;
 	letter-spacing: 1px
