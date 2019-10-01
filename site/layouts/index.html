@@ -61,13 +61,36 @@
 
     <div class="row flex">
       {{ range $el := $activeEvents }}
-        <div class="col s12 m6 xl3">
-          <div class="hoverable latest-box animated" data-animation="fadeInUp">
-            <a href="{{$el.link}}" target="_blank">
-              <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
-              <p>{{$el.text}}</p>
-              <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
-            </a>
+        <div class="col s12 m6 xl4">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-title"><i class="fas {{$el.header_icon}}"></i> {{(or $el.display_name $el.title)}}</div>
+              {{ partial "markdownify-block" $el.text }}
+            </div>
+            <div class="card-action">
+              {{if $el.link}}
+                <a href="{{$el.link}}"
+                  onclick="dataLayer.push({
+                                        'event': 'GAEvent',
+                                        'eventCategory': 'Event Signup',
+                                        'eventAction': 'Click call to action',
+                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
+                                        'eventValue': undefined
+                            });"
+                  class="waves-effect waves-light pwc-red-text" target="_blank">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></a>
+              {{end}}
+              {{if $el.meetup_link}}
+                <a href="{{$el.meetup_link}}"
+                  onclick="dataLayer.push({
+                                        'event': 'GAEvent',
+                                        'eventCategory': 'Event Signup',
+                                        'eventAction': 'Click Meetup event',
+                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
+                                        'eventValue': undefined
+                            });"
+                  class="waves-effect waves-light pwc-red-text" target="_blank">meetup.com <i class="fab fa-meetup"></i></a>
+              {{end}}
+            </div>
           </div>
         </div>
       {{ end }}
