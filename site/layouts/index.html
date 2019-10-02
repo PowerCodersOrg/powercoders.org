@@ -119,8 +119,8 @@
     <!-- TODO: The cards here are very similar to the ones in alumni.html,
          maybe refactor this out in to a partial that takes a size? -->
     {{ range $alumni := first 3 (shuffle $allAlumni)}}
-      <div class="col s12 m6 l4">
-        <div class="card">
+      <div class="col s12 m4 l3">
+        <div class="card z-depth-0">
           <div class="card-image">
             <img src="{{ $alumni.image }}">
           </div>
