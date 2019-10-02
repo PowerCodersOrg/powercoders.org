@@ -1,5 +1,6 @@
 ---
 title: Lausanne
+image: /img/placeholder_lausanne.png
 section_title: Lausanne
 text: >-
   <h4 class="center">Powercoders Lausanne is having programs on an ongoing
@@ -147,3 +148,4 @@ team:
       image: /img/sorin.jpg
       name: Sorin Paun
 ---
+
