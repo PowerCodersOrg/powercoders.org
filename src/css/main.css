@@ -258,6 +258,12 @@ div.row.flex .card .card-content {
   flex-grow: 10;
 }
 
+/* Increase the size and weight of card titles */
+.card-title {
+  font-weight: 700 !important;
+  font-size: 1.15rem !important;
+}
+
 /* ---------------- Logo ---------------- */
 
 a.brand-logo.left {
