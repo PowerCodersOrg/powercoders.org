@@ -13,7 +13,7 @@ text: >-
   internships...
 programme:
   header: Our programme
-  image: /img/weihnachts_spende.png
+  image: /img/placeholder_programme-graphic.png
   text: This is optional text that explains the programme in more detail.
 ---
 
