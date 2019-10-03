@@ -9,13 +9,13 @@ text: >-
   The timeline for the next batch:
 
 
-  Application: June - July 19\
+  * Application: June - July 19
 
-  Preparation and probation: August - September 19\
+  * Preparation and probation: August - September 19
 
-  Coding school in Lausanne: September - December 19\
+  * Coding school in Lausanne: September - December 19
 
-  IT internship: From January 2020
+  * IT internship: from January 2020
 
 
   We accept applications on an ongoing basis for the program starting early
@@ -125,25 +125,34 @@ apply_as:
   - application_link: 'https://goo.gl/forms/X5GYC5HDE79jjy5F3'
     header: Company
     text: >-
-      If you are an IT company, an agency or an IT department in Romandie, are
-      eager to support a refugee during an internship and are eventually able to
-      offer an IT job in the long-run, join us. For more information, have a
-      look at our [slide
+      If you are an IT company, an agency or an IT department in the
+      French-speaking Switzerland, and eager to support a refugee during an
+      internship and eventually able to offer an IT job in the long-run, join
+      us.
+
+
+      For more information about offering an internship, have a look at the
+      [companies
+      factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view?usp=sharing).
+
+
+      For more information about Powercoders, have a look at our [slide
       deck](https://docs.google.com/presentation/d/1oUgSKAxwL3C5ccBMnVeQaTTHv4-dWdSUQsPsUkBEwBo/edit#slide=id.g3af7b31b61_0_30).
 
 
-      For the next batch, we have the following schedule:
+      What to expect:
 
 
-      * Career Day on November 5, 2019
+      *   Join the Lausanne Career Day on the 5th of November 2019 to meet with
+      the students
 
-      * 2nd Interviews in November, 2019
+      *   Invite your favourite profiles for an interview
 
-      * Start internship by January, 2020
+      *   If there's a match, offer an internship (6-12 months) starting January
+      2020 at the earliest
 
 
-      You must apply via the link below. We will contact you soon to schedule a
-      meeting or a call.
+      We look forward to hearing from you!
 team:
   header: Team Lausanne
   members:
