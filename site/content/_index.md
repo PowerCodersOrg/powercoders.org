@@ -3,7 +3,7 @@ title: Startpage
 subtitle: Impacting lives by teaching how to code
 link_text: Our programme
 link_url: /program
-image: /img/homepage_01_1440x960.jpg
+image: /img/IMG_2230-1.jpg
 intro:
   header: >-
     Over 68.5 million refugees in the world. Millions of vacant IT jobs due to
