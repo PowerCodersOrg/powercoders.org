@@ -1,7 +1,6 @@
 {
-  "remove_after": "",
+  "remove_after": "2019-10-22T22:00:00.000Z",
   "audience": [
-    "student",
     "company"
   ],
   "display_name": "Career Day",
@@ -9,8 +8,8 @@
     "zurich"
   ],
   "header_icon": "fa-handshake",
-  "text": "The Career Day is the day when companies have the chance to meet all our students and select their top candidates to invite for an on-site interview. If you are a company interested in offering an internship, get in touch with us",
-  "title": "Career Day (ZRH)",
+  "text": "The Career Day is the day when companies have the chance to meet all our students and select their top candidates to invite for an onsite interview. \n\n**Wednesday, 23 October, FFFC Konferenzzentrum UBS Zurich**",
+  "title": "Career Day Zurich",
   "call_to_action": "Sign Up",
   "link": "https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform"
 }
