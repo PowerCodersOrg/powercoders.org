@@ -1,5 +1,6 @@
 ---
 title: Zurich
+image: /img/lausanne-google.jpg
 section_title: Zurich
 text: >-
   <h4 class="center">Powercoders is returning to Zurich in September 2019 as a
@@ -183,3 +184,4 @@ team:
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 ---
+
