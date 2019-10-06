@@ -1,6 +1,6 @@
 ---
 title: Company Engagement
-image: /img/main-page.jpg
+image: /img/career-day-zurich-2018.jpg
 section_title: Company Engagement
 text: >-
   We offer a 3-month coding bootcamp followed by an internship. The ultimate
