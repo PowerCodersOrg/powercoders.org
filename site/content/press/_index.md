@@ -1,6 +1,6 @@
 ---
 title: Press
-image: /img/at1i9383.jpg
+image: /img/at1i9383.png
 section_title: Press page
 text: >-
   If you are a media person please get in touch with us: info@powercoders.org
