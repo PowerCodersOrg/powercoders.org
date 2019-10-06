@@ -14,7 +14,7 @@ support_as:
       one volunteer Job-Coach.
 
 
-      **What to expect**
+      ## **What to expect**
 
 
       * Be matched with a participant by the end of the school phase (matching
@@ -26,7 +26,7 @@ support_as:
       achieve their goals
 
 
-      **Details**
+      ## **Details**
 
 
       * You connect well to people from diverse cultures
@@ -37,13 +37,13 @@ support_as:
       * You can commit to invest time for (bi-)weekly meetings with your coachee
 
 
-      **Interested in coaching one of our participants? Please fill in the
+      ## **Interested in coaching one of our participants? Please fill in the
       following form.** \
 
       (((SIGN UP)))
 
 
-      **Current dates of the programme: check them out in the city closest to
+      ## **Current dates of the programme: check them out in the city closest to
       your place of residence.** \
 
       (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
