@@ -1,6 +1,6 @@
 ---
 title: Program
-image: /img/main-page.jpg
+image: /img/about-powercoders.jpg
 section_title: Program
 text: >-
   ## Get involved
