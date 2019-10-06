@@ -1,10 +1,14 @@
 {
-"title": "Video Portrait",
-"header_icon": "fa-video",
-"audience": ["student", "volunteer", "company"],
-"city": ["lausanne", "zurich"],
-"text": "\"We make sure that everyone gets the same opportunity I got\", says our Hussam Allaham. Watch the portrait of Red Bull Switzerland about us 💪🙏.",
-"link": "https://www.redbull.com/ch-de/videos/powercoders-portrait",
-"call_to_action": "Watch",
-"remove_after": ""
+  "title": "Video Portrait Redbull",
+  "header_icon": "fa-video",
+  "audience": [
+    "company"
+  ],
+  "city": [
+    "zurich"
+  ],
+  "text": "“We make sure that everyone gets the same opportunity I got”, says our Hussam Allahm. Watch the portrait of Redbull Switzerland about us.",
+  "link": "https://www.redbull.com/ch-de/videos/powercoders-portrait",
+  "call_to_action": "Watch",
+  "remove_after": ""
 }
