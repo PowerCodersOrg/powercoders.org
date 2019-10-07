@@ -213,6 +213,19 @@ collections:
           - label: Text
             name: text
             widget: markdown
+          - label: Call to action
+            name: call_to_action
+            widget: object
+            fields:
+              - label: Text
+                name: text
+                widget: text
+              - label: Link text
+                name: link_text
+                widget: string
+                hint: If set, the text to show on a button on the main image
+              - label: Link URL
+                name: link_url
       - file: site/content/company/_index.md
         label: Company
         name: company
