@@ -15,6 +15,15 @@ text: >-
   We accept applications on an ongoing basis for the program starting early
   2020.
 events:
+  - header: Community Meetup
+    header_icon: fa-comments
+    text: >-
+      Join our participants for an extended social&culture skill sharing
+      presentation and then mingle and meet other community members! 
+
+
+      **Thursday, 10 Oct 2019, 4.30-6pm, MBSZ
+      (**[**map**](https://g.page/MBSZ_MarketingBusinessSchool?share)**)**
   - call_to_action: Sign up
     header: Career Day
     header_icon: fa-handshake
@@ -37,7 +46,7 @@ events:
       one of the workshops by our Powercoders Alumni.
 
 
-      **Saturday, 26 October, 1-3pm**
+      **Saturday, 26 October, 1-4pm**
   - call_to_action: Join
     header: Culture & Skill Sharing
     header_icon: fa-users
