@@ -654,6 +654,17 @@ collections:
         name: text
         widget: markdown
         hint: "1-2 sentences maximum"
+      - label: When
+        name: when
+        hint: When does the event occur? This will be shown under the text
+        required: false
+        widget: datetime
+        default: ""
+      - label: where
+        name: where
+        hint: Where does the event occur? This will be shown under the text
+        required: false
+        widget: string
       - label: link
         name: link
         widget: string
