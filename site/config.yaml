@@ -10,9 +10,9 @@ disableKinds:
 # This menu is shown at the top of each page close to the logo.
 menu:
   main:
-  - identifier: students
-    name: Students
-    title: Information for students
+  - identifier: participants
+    name: Participants
+    title: Information for participants
     url: /student/
     weight: 1
   - identifier: companies
