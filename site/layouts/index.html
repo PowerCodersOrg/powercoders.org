@@ -12,9 +12,9 @@
   <div class="container">
     <div class="row flex" style="justify-content:center;">
       {{ range $donut := .Params.donuts }}
-        <div class="col s12 m4 l3">
+        <div class="col s12 m5 l4">
           <div class="card-image center">
-            <s-donut stroke-width="50" segments="[{start:0,end:{{ $donut.percentage }},color:'#c32e4c'}]">
+            <s-donut stroke-width="70" segments="[{start:0,end:{{ $donut.percentage }},color:'#c32e4c'}]">
               <span class="donut__value">{{ $donut.percentage }}%</span>
               <span class="donut__title"></span>
             </s-donut>
