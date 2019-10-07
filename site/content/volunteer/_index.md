@@ -46,7 +46,17 @@ support_as:
       **Current dates of the programme: check them out in the city closest to
       your place of residence.**\
 
-      (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
+
+      <a href="/city/lausanne/#coach" class="btn waves-effect waves-light
+      pwc-red">Lausanne</a>
+
+
+      <a href="/city/zurich/#coach" class="btn waves-effect waves-light
+      pwc-red">Zurich</a>
+
+
+      <a href="/city/turin/#coach" class="btn waves-effect waves-light
+      pwc-red">Turin</a>
   - header: IT Trainer
     text: >-
       **You support our teachers as assistants.**
