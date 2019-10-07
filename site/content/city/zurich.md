@@ -18,12 +18,12 @@ events:
   - header: Community Meetup
     header_icon: fa-comments
     text: >-
-      Join our participants for an extended social&culture skill sharing
-      presentation and then mingle and meet other community members! 
+      Join our participants for an extended culture & skill sharing presentation
+      (on Libya, Adobe and more) and then mingle and meet other community
+      members!
 
 
-      **Thursday, 10 Oct 2019, 4.30-6pm, MBSZ
-      (**[**map**](https://g.page/MBSZ_MarketingBusinessSchool?share)**)**
+      **Thursday, 10 Oct 2019, 4.30-6pm, MBSZ**
   - call_to_action: Sign up
     header: Career Day
     header_icon: fa-handshake
