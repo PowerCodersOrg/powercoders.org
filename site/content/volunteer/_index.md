@@ -62,7 +62,7 @@ support_as:
       provide the class with an input of a specific IT theme. 
 
 
-      **WHAT TO EXPECT**
+      **What to expect**
 
 
       * A classroom of refugee students eager to learn
@@ -70,7 +70,7 @@ support_as:
       * An opportunity to stretch your own knowledge by answering questions
 
 
-      **DETAILS**
+      **Details**
 
 
       * You have an understanding of some web development technologies
