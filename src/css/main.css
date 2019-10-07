@@ -263,6 +263,11 @@ div.row.flex .card .card-content {
   font-size: 1.15rem !important;
 }
 
+.card-reveal img.circle {
+  width: 3rem;
+  margin-right: .5rem;
+}
+
 /* ---------------- Logo ---------------- */
 
 a.brand-logo.left {
