@@ -1,8 +1,9 @@
 ---
-title: Meet the Alumni
-image: /img/unic_bashir_1.png
-section_title: Meet the Alumni
+title: Meet the Alumnis
+image: /img/unic_bashir_2.png
+section_title: Meet the Alumnis
 text: >-
   Our ultimate goal is to place disadvantaged people into permanent jobs so that
   they get their independence back. Read some of our success stores here.
 ---
+
