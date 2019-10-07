@@ -14,7 +14,7 @@ support_as:
       one volunteer Job-Coach.
 
 
-      ###### WHAT TO EXPECT
+      ****What to expect****
 
 
       * Be matched with a participant by the end of the school phase (matching
@@ -26,7 +26,7 @@ support_as:
       achieve their goals
 
 
-      ****
+      ****Details****
 
 
       * You connect well to people from diverse cultures
@@ -46,17 +46,7 @@ support_as:
       **Current dates of the programme: check them out in the city closest to
       your place of residence.**\
 
-
-      <a href="/city/lausanne/#coach" class="btn waves-effect waves-light
-      pwc-red">Lausanne</a>
-
-
-      <a href="/city/zurich/#coach" class="btn waves-effect waves-light
-      pwc-red">Zurich</a>
-
-
-      <a href="/city/turin/#coach" class="btn waves-effect waves-light
-      pwc-red">Turin</a>
+      (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
   - header: IT Trainer
     text: >-
       **You support our teachers as assistants.**
@@ -72,7 +62,7 @@ support_as:
       provide the class with an input of a specific IT theme. 
 
 
-      **WHAT TO EXPECT**
+      **What to expect**
 
 
       * A classroom of refugee students eager to learn
@@ -80,7 +70,7 @@ support_as:
       * An opportunity to stretch your own knowledge by answering questions
 
 
-      **DETAILS**
+      **Details**
 
 
       * You have an understanding of some web development technologies
@@ -108,7 +98,7 @@ programme:
   header: Our programme
   image: /img/placeholder_programme-graphic.png
   text: >-
-    **For more information, check our**
+    ***For more information, check our***
     [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view)
 ---
 
