@@ -268,6 +268,15 @@ div.row.flex .card .card-content {
   margin-right: .5rem;
 }
 
+/* Intra-paragraph margins in card content */
+.card-content p {
+  margin-bottom: .5rem !important;
+}
+
+.card-content p:last-child {
+  margin-bottom: 0 !important;
+}
+
 /* ---------------- Logo ---------------- */
 
 a.brand-logo.left {

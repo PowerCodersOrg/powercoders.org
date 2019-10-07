@@ -69,6 +69,13 @@
             <div class="card-content">
               <div class="card-title"><i class="fas {{$el.header_icon}}"></i> {{(or $el.display_name $el.title)}}</div>
               {{ partial "markdownify-block" $el.text }}
+              {{ $formattedWhen := "" }}
+              {{ if $el.when }}
+                {{ $formattedWhen = dateFormat "Mon, Jan 2, 2006 3:04PM" $el.when }}
+              {{ end }}
+              {{ if (or $formattedWhen $el.where)}}
+                <p><b>{{ delimit (slice $formattedWhen $el.where) ", " }}.</b></p>
+              {{ end }}
             </div>
             <div class="card-action">
               {{if $el.link}}
