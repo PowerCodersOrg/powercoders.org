@@ -1,8 +1,8 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
-<div class="container">
+<div class="container section">
   <div class="row">
     <div class="col s12 markdown">
       {{ partial "markdownify-block" .Params.text }}
