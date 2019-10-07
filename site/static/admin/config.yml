@@ -656,7 +656,7 @@ collections:
         hint: "1-2 sentences maximum"
       - label: When
         name: when
-        hint: When does the event occur? This will be shown under the text
+        hint: When does the event occur (in UTC, not local time)? This will be shown under the text
         required: false
         widget: datetime
         default: ""
