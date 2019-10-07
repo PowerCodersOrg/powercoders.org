@@ -14,7 +14,7 @@ support_as:
       one volunteer Job-Coach.
 
 
-      **WHAT TO EXPECT**
+      ###### WHAT TO EXPECT
 
 
       * Be matched with a participant by the end of the school phase (matching
