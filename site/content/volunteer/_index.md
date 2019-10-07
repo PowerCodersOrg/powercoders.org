@@ -14,7 +14,7 @@ support_as:
       one volunteer Job-Coach.
 
 
-      **What to expect**
+      ##**What to expect**
 
 
       * Be matched with a participant by the end of the school phase (matching
@@ -26,7 +26,7 @@ support_as:
       achieve their goals
 
 
-      **Details**
+      **##Details**
 
 
       * You connect well to people from diverse cultures
