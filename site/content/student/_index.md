@@ -13,7 +13,7 @@ text: >-
   internships...
 programme:
   header: Our programme
-  image: /img/placeholder_programme-graphic.png
+  image: /img/powercoders_graphic_programme_participants.jpg
   text: This is optional text that explains the programme in more detail.
 ---
 
