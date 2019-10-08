@@ -19,7 +19,7 @@ text: >-
   ## Our programme
 
 
-  (((Graphic of the programme)))
+  ![](/img/powercoders_graphic_programme_volunteers.jpg)
 
 
   To run the program for the participants, we are dependent on the support of
