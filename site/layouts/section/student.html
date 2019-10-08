@@ -2,13 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.section_title) }}
 
-<div class="container section">
-  <div class="row">
-    <div class="col s12 markdown">
-      {{ partial "markdownify-block" .Params.text }}
-    </div>
-  </div>
-</div>
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 
 <div class="container section">
   <div class="row">
