@@ -188,12 +188,6 @@ s-donut .donut__value {
 
 /* ---------------- overwrite Materialized ---------------- */
 
-@media only screen and (min-width: 993px) {
-  .container {
-    width: 85%;
-  }
-}
-
 /* Make the navbar 12 pixels taller than the default */
 nav.nav-extended .nav-wrapper {
   min-height: 68px;
