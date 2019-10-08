@@ -183,5 +183,10 @@ team:
       email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
+inbound_links:
+  active: true
+  description: >-
+    The 2019 program has started in September 2019. Applications are now open
+    for our classes in 2020.
 ---
 
