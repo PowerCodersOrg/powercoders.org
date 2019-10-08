@@ -3,17 +3,46 @@ title: Program
 image: /img/about-powercoders.jpg
 section_title: Program
 text: >-
-  ## Get involved
-
-
   Powercoders is a coding academy for refugees. We believe that in the 21st
-  century coding skills will help you to start a new life wherever you are
+  century coding skills will help refugees to start a new life wherever they are
   forced to go.
 
 
   We offer a 3-month coding boot camp, followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees in
   IT-companies and IT-departments.
+
+
+
+
+  ## Our programme
+
+
+  (((Graphic of the programme)))
+
+
+
+
+  To run the program for the participants, we are dependent on the support of
+  the IT industry providing internships as well as on volunteers, either as IT
+  trainer to support the class teacher during the school phase or as Job-Coach
+  to follow the participant during the internship. 
+
+
+
+
+  **GET INVOLVED AS** 
+
+
+  (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER))) 
+
+
+
+
+  **WE OFFER OUR PROGRAMME IN 3 CITIES**
+
+
+  (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
 roles:
   - header: Participant
     text: >-
