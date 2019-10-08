@@ -1,9 +1,13 @@
 ---
 title: Meet the Alumnis
-image: /img/unic_bashir_2.png
+image: /img/header_alumni.jpg
 section_title: Meet the Alumnis
 text: >-
   Our ultimate goal is to place disadvantaged people into permanent jobs so that
   they get their independence back. Read some of our success stores here.
+call_to_action:
+  link_text: test
+  link_url: 'https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/company/'
+  text: Test
 ---
 
