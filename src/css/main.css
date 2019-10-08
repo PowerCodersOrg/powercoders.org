@@ -222,7 +222,7 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
 }
 
 #nav-mobile.right, .sidenav-trigger.right {
-  padding-right: 1rem;
+  padding-right: 2rem;
 }
 
 .parallax-container {
@@ -283,7 +283,7 @@ div.row.flex .card .card-content {
 /* ---------------- Logo ---------------- */
 
 a.brand-logo.left {
-  left: 2rem; /* Absolutely positioned, nudge in a bit. */
+  left: 3rem; /* Absolutely positioned, nudge in a bit. */
   top: 0.5rem; /* and down slightly */
 }
 
