@@ -175,45 +175,6 @@ roles:
 
       <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
       pwc-red" target="_blank">Switzerland Newsletter</a>
-  - header: Company
-    text: >-
-      ##### Our participants are highly qualified refugees and they are looking
-      for your engagement and support.
-
-
-      ###### What we are looking for
-
-
-      * IT-companies or IT departments offering a 6 to 12-month internship
-
-      * Teams who are eager to train an intern
-
-      * IT professionals who are interested in cultural exchange
-
-
-      For more information, check our
-      [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view). 
-
-
-      If you are interested in offering an internship and becoming our partner
-      in empowering refugees, please fill in the following form and share it
-      with other companies who can support us.
-
-
-      <a href="/city/zurich#company" class="btn waves-effect waves-light
-      pwc-red">Zurich</a>
-
-
-      <a href="/city/lausanne/" class="btn waves-effect waves-light
-      pwc-red">Lausanne</a>
-
-
-      Sign up for our newsletters so we keep you posted about our events and
-      next steps.
-
-
-      <a href="http://eepurl.com/c3pB1H" class="btn waves-effect waves-light
-      pwc-red" target="_blank">Switzerland Newsletter</a>
 city_program:
   header: City Program
   items:
