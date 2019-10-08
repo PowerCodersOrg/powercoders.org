@@ -99,7 +99,7 @@
         <div class="col s12 m6 xl4">
           <div class="card">
             <div class="card-content">
-              <div class="card-title"><i class="fas {{$el.header_icon}}"></i> {{(or $el.display_name $el.title)}}</div>
+              <div class="card-title"><i class="fas fa-2x {{$el.header_icon}}"></i><br/>{{(or $el.display_name $el.title)}}</div>
               {{ partial "markdownify-block" $el.text }}
               {{ $formattedWhen := "" }}
               {{ if $el.when }}
