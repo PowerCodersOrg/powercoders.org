@@ -1,5 +1,5 @@
 ---
-title: Press
+title: What the Press says about us
 image: /img/header_press.jpg
 section_title: Press page
 text: >-
