@@ -1,28 +1,33 @@
 ---
 title: About
 image: /img/header_about.jpg
-section_title: About
+section_title: The Powercoders Team and it's community
 text: >-
-  ### The ultimate goal of Powercoders is the permanent placement of trained
-  refugees in IT companies and IT departments.
+  It all started with a trip to the United States in 2016. At this time, the
+  refugee crisis in Europe was all over the news. Founder Christian Hirsig met
+  two other entrepreneurs in the US: one with a cooking school for refugees, one
+  with a coding academy for women. Inspired by their projects and driven by the
+  energy to help, the idea of Powercoders was born, with the mission of giving
+  people their independence back, reducing social welfare costs and addressing
+  the shortage of talent in the IT-industry. 
 
 
-  It all started with a trip to the United States. At this time, the refugee
-  crisis in Europe was all over the news. Founder Christian Hirsig met two other
-  entrepreneurs in the US: one with a cooking school for refugees, one with a
-  coding academy for women. Inspired by their projects and driven by the energy
-  to help, the idea of Powercoders was born, with the mission of giving people
-  their independence back, reducing social welfare costs and addressing the
-  shortage of talent  in the IT-industry. The  first Powercoders program started
-  already half a year later in Bern. An overwhelming amount of volunteers
-  participated as coaches or mentors. Additionally many IT companies were
-  enthusiastic about offering internships. After this promising start, the
-  Powercoders community has kept on growing, withmore programs starting in new
-  cities every year. Be part of the Powercoders community and [get
-  involved](/program/).
+  The first Powercoders program started in Bern beginning of 2017 with an
+  overwhelming amount of volunteers participated as Job-Coaches or IT trainers
+  and with many IT companies who were enthusiastic about offering internships.
+  After this promising start, the Powercoders community has kept on growing and
+  current we are running two school centers in Switzerland and one in Italy. 
 
 
-  [Impact report
+
+
+  **Impact report 2018** 
+
+
+  \>>>Image from the report<<< 
+
+
+  [Download Impact report
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
 video:
   image: /img/ted-zh.jpg
@@ -248,9 +253,8 @@ team:
 
 
     The Powercoders team is a talented and motivated group of people that work
-    to change the lives of refugees. We are a non profit organisation that
+    to change the lives of refugees. We are a non-profit organisation that
     depend on our incredible volunteers, so thank you to all these great people
-    who are making a difference. Not all of our students, mentors and coaches
-    are listed. Pictures to come.
+    who are making a difference.
 ---
 
