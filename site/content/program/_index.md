@@ -10,9 +10,10 @@ text: >-
 
   We offer a 3-month coding boot camp, followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees in
-  IT-companies and IT-departments.
+  IT-companies and IT-departments. 
 
 
+  \*\*
 
 
   ## Our programme
@@ -21,25 +22,19 @@ text: >-
   (((Graphic of the programme)))
 
 
-
-
   To run the program for the participants, we are dependent on the support of
   the IT industry providing internships as well as on volunteers, either as IT
   trainer to support the class teacher during the school phase or as Job-Coach
   to follow the participant during the internship. 
 
 
-
-
-  **GET INVOLVED AS** 
+  **Get involved as** 
 
 
   (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER))) 
 
 
-
-
-  **WE OFFER OUR PROGRAMME IN 3 CITIES**
+  **We offer the programme in 3 cities**
 
 
   (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
