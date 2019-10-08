@@ -9,22 +9,22 @@ text: >-
   with a coding academy for women. Inspired by their projects and driven by the
   energy to help, the idea of Powercoders was born, with the mission of giving
   people their independence back, reducing social welfare costs and addressing
-  the shortage of talent in the IT-industry. 
+  the shortage of talent in the IT-industry.
 
 
   The first Powercoders program started in Bern beginning of 2017 with an
   overwhelming amount of volunteers participated as Job-Coaches or IT trainers
   and with many IT companies who were enthusiastic about offering internships.
   After this promising start, the Powercoders community has kept on growing and
-  current we are running two school centers in Switzerland and one in Italy. 
+  current we are running two school centers in Switzerland and one in Italy.
 
 
 
 
-  **Impact report 2018** 
+  **Impact report 2018**
 
 
-  \>>>Image from the report<<< 
+  \>>>Image from the report<<<
 
 
   [Download Impact report
@@ -33,23 +33,6 @@ video:
   image: /img/ted-zh.jpg
   text: Opening doors for refugees in the IT industry
   video_id: kILDP3NmA6A
-timeline:
-  - date: JUN 2016
-    text: incorporation non-profit
-  - date: JAN 2017
-    text: launch school in Bern
-  - date: MAY 2017
-    text: start internships in Bern
-  - date: AUG 2017
-    text: 1st student off of social welfare
-  - date: SEP 2017
-    text: expansion to Zurich
-  - date: NOV 2017
-    text: contract CH government
-  - date: APR 2018
-    text: expansion to Lausanne
-  - date: NOV 2018
-    text: expansion to Basel
 team:
   members:
     - description: Student / Zürich
@@ -257,4 +240,3 @@ team:
     depend on our incredible volunteers, so thank you to all these great people
     who are making a difference.
 ---
-
