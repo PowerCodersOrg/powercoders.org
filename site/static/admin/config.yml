@@ -731,11 +731,12 @@ collections:
         name: image
         widget: image
       - label: Background
-        name: Background
+        name: background
         widget: string
       - label: Quote
         name: quote
         widget: string
+        required: false
       - label: Story
         name: story
         widget: markdown

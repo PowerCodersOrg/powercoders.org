@@ -21,17 +21,19 @@
           </div>
           <div class="card-content">
             <span class="card-title">{{ or $alumni.display_name $alumni.title }}</span>
-            <p>{{ $alumni.quote }}</p>
+            <p>{{ $alumni.background }}</p>
           </div>
-          <div class="card-reveal">
-            <div class="valign-wrapper">
-              <img class="circle" src="{{ $alumni.image }}"> <span class="card-title">{{ or $alumni.display_name $alumni.title }}</span>
+          {{ if $alumni.story }}
+            <div class="card-reveal">
+              <div class="valign-wrapper">
+                <img class="circle" src="{{ $alumni.image }}"> <span class="card-title">{{ or $alumni.display_name $alumni.title }}</span>
+              </div>
+              {{ partial "markdownify-block" $alumni.story }}
             </div>
-            {{ partial "markdownify-block" $alumni.story }}
-          </div>
-          <div class="card-action">
-            <span class="pwc-red-text activator">THEIR STORY <i class="fas fa-angle-double-right"></i></span>
-          </div>
+            <div class="card-action">
+              <span class="pwc-red-text activator">THEIR STORY <i class="fas fa-angle-double-right"></i></span>
+            </div>
+          {{ end }}
         </div>
       </div>
 
