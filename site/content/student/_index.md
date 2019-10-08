@@ -1,7 +1,7 @@
 ---
-title: We are looking for talented participants
+title: Participants
 image: /img/header_participants.jpg
-section_title: Participants
+section_title: We are looking for talented participants
 text: >
   Our program is meant for refugees and disadvantaged citizens. We believe that
   in the 21st century coding skills will help you to start a new life wherever
