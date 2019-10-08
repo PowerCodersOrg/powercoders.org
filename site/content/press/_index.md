@@ -1,12 +1,13 @@
 ---
 title: Press
-image: /img/at1i9383.png
+image: /img/header_press.jpg
 section_title: Press page
 text: >-
-  If you are a media person please get in touch with us: info@powercoders.org
+  **If you are a media person please get in touch with us:**
+  info@powercoders.org
 
 
-  Download [press
+  **Download** [press
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
