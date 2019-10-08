@@ -15,7 +15,7 @@ programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_participants.jpg
   text: >-
-    **What we expect** 
+    ### What we expect
 
 
     * Passion for IT and technology
@@ -25,7 +25,7 @@ programme:
     * Commitment
 
 
-    **What we offer** 
+    ### What we offer
 
 
     * Three month intensive programming course
@@ -37,7 +37,7 @@ programme:
     * Access to an internship lasting between 6 and 12 months
 
 
-    **The timeline for the next batch:**
+    ### The timeline for the next batch:
 
 
     **Application:** June – July 19 \
