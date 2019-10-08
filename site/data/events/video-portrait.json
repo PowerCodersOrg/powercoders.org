@@ -2,6 +2,7 @@
   "title": "Video Portrait Redbull",
   "header_icon": "fa-video",
   "audience": [
+    "home",
     "company"
   ],
   "city": [

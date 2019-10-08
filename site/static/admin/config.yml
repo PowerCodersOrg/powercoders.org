@@ -637,9 +637,8 @@ collections:
         name: audience
         widget: select
         multiple: true
-        required: false
-        options: ["student", "volunteer", "company"]
-        hint: "The event will be shown on the home page, and the pages for all the audiences you choose here"
+        options: ["home", "student", "volunteer", "company"]
+        hint: "The event will be shown on these pages. You must choose at least one"
       - label: City
         name: city
         widget: select

@@ -81,7 +81,7 @@
 
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}
-  {{ if (or (eq $event.remove_after "") (lt now (time $event.remove_after))) }}
+  {{ if (and (in $event.audience "home") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
     {{ $activeEvents = $activeEvents | append $event }}
   {{ end }}
 {{ end }}
