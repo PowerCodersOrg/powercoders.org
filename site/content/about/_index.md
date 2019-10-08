@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/about-powercoders.jpg
+image: /img/header_about.jpg
 section_title: About
 text: >-
   ### The ultimate goal of Powercoders is the permanent placement of trained
@@ -253,3 +253,4 @@ team:
     who are making a difference. Not all of our students, mentors and coaches
     are listed. Pictures to come.
 ---
+
