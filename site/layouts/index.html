@@ -45,6 +45,40 @@
     </div>
 </div>
 
+{{ $activeCityPages := slice }}
+{{ range $page := $.Site.RegularPages }}
+  {{ if $page.Params.inbound_links.active }}
+    {{ $activeCityPages = $activeCityPages | append $page }}
+  {{ end }}
+{{ end }}
+
+{{ if $activeCityPages }}
+  <div class="container section">
+    <div class="row">
+      <div class="col s12">
+        <h2>City Programme</h2>
+      </div>
+    </div>
+
+    <div class="row flex">
+      {{ range $page := $activeCityPages }}
+        <div class="col s6 m4">
+          <div class="card teal lighten-4">
+            <div class="card-content">
+              <span class="card-title">{{ $page.Params.title }}</span>
+              <p>{{ $page.Params.inbound_links.description }}</p>
+            </div>
+
+            <div class="card-action">
+              <a href="{{ $page.Permalink}}" class="btn pwc-red">More</a>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
+
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}
   {{ if (or (eq $event.remove_after "") (lt now (time $event.remove_after))) }}
