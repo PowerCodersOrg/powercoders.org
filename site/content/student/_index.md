@@ -1,5 +1,5 @@
 ---
-title: Participants
+title: We are looking for talented participants
 image: /img/header_participants.jpg
 section_title: Participants
 text: >
