@@ -479,20 +479,10 @@ div.col {
 	margin-top: 0;
 }
 
-.latest-box, .btn-box {
+.btn-box {
 	margin-right: .5rem;
 	margin-bottom: .5rem;
 	height: 95%; /* Force some space between flex wrapped rows */
-}
-
-.latest-box {
-	border: 1px solid rgba(0, 0, 0, 0.5);
-}
-
-.latest-box > a {
-	display: block;
-	color: #000;
-	padding: 20px 20px 40px;
 }
 
 .latest {
@@ -504,7 +494,6 @@ div.col {
 	font-weight: 700;
 }
 
-.latest-box h6 i,
 .btn-box h6 i {
 	padding-right: 20px;
 	vertical-align: middle;

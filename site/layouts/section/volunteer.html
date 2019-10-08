@@ -58,31 +58,14 @@
   {{ end }}
 </div>
 
-<!-- TODO: This is very similar to the event listing in the home page,
-     and should be turned in to a partial. -->
-<div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>Latest</h2>
-    </div>
-  </div>
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (and (in $event.audience "volunteer") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
 
-  <div class="row flex">
-    {{ range $el := $.Site.Data.events }}
-      {{ if (and (in $el.audience "volunteer") (or (eq $el.remove_after "") (lt now (time $el.remove_after)))) }}
-        <div class="col s12 m6 l5">
-          <div class="hoverable latest-box animated" data-animation="fadeInUp">
-            <a href="{{$el.link}}" target="_blank">
-              <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.title}}</h6>
-              <p>{{$el.text}}</p>
-              <p class="latest">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></p>
-            </a>
-          </div>
-        </div>
-      {{ end }}
-    {{ end }}
-  </div>
-</div>
+{{ partial "events" $activeEvents }}
 
 <div class="container section">
   <div class="row">

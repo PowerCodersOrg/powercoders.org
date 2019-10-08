@@ -86,59 +86,7 @@
   {{ end }}
 {{ end }}
 
-{{ if $activeEvents }}
-  <div class="container section">
-    <div class="row">
-      <div class="col s12">
-        <h2>Latest</h2>
-      </div>
-    </div>
-
-    <div class="row flex">
-      {{ range $el := $activeEvents }}
-        <div class="col s12 m6 xl4">
-          <div class="card">
-            <div class="card-content">
-              <div class="card-title"><i class="fas fa-2x {{$el.header_icon}}"></i><br/>{{(or $el.display_name $el.title)}}</div>
-              {{ partial "markdownify-block" $el.text }}
-              {{ $formattedWhen := "" }}
-              {{ if $el.when }}
-                {{ $formattedWhen = dateFormat "Mon, Jan 2, 2006 3:04PM" $el.when }}
-              {{ end }}
-              {{ if (or $formattedWhen $el.where)}}
-                <p><b>{{ delimit (slice $formattedWhen $el.where) ", " }}.</b></p>
-              {{ end }}
-            </div>
-            <div class="card-action">
-              {{if $el.link}}
-                <a href="{{$el.link}}"
-                  onclick="dataLayer.push({
-                                        'event': 'GAEvent',
-                                        'eventCategory': 'Event Signup',
-                                        'eventAction': 'Click call to action',
-                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
-                                        'eventValue': undefined
-                            });"
-                  class="waves-effect waves-light pwc-red-text" target="_blank">{{$el.call_to_action}} <i class="fas fa-angle-double-right"></i></a>
-              {{end}}
-              {{if $el.meetup_link}}
-                <a href="{{$el.meetup_link}}"
-                  onclick="dataLayer.push({
-                                        'event': 'GAEvent',
-                                        'eventCategory': 'Event Signup',
-                                        'eventAction': 'Click Meetup event',
-                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
-                                        'eventValue': undefined
-                            });"
-                  class="waves-effect waves-light pwc-red-text" target="_blank">meetup.com <i class="fab fa-meetup"></i></a>
-              {{end}}
-            </div>
-          </div>
-        </div>
-      {{ end }}
-    </div>
-  </div>
-{{ end }}
+{{ partial "events" $activeEvents }}
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
 

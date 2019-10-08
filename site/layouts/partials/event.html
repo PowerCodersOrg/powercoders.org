@@ -1,0 +1,39 @@
+<!-- Partial to render a single $.Site.Data.events entry as a card -->
+
+<div class="card">
+  <div class="card-content">
+    <div class="card-title"><i class="fas fa-2x {{.header_icon}}"></i><br/>{{(or .display_name .title)}}</div>
+    {{ partial "markdownify-block" .text }}
+    {{ $formattedWhen := "" }}
+    {{ if .when }}
+      {{ $formattedWhen = dateFormat "Mon, Jan 2, 2006 3:04PM" .when }}
+    {{ end }}
+    {{ if (or $formattedWhen .where)}}
+      <p><b>{{ delimit (slice $formattedWhen .where) ", " }}.</b></p>
+    {{ end }}
+  </div>
+  <div class="card-action">
+    {{ if .link }}
+      <a href="{{ .link }}"
+        onclick="dataLayer.push({
+                              'event': 'GAEvent',
+                              'eventCategory': 'Event Signup',
+                              'eventAction': 'Click call to action',
+                              'eventLabel': '{{ .title | safeJS }}',
+                              'eventValue': undefined
+                  });"
+        class="waves-effect waves-light pwc-red-text" target="_blank">{{.call_to_action}} <i class="fas fa-angle-double-right"></i></a>
+    {{ end }}
+    {{ if .meetup_link }}
+      <a href="{{ .meetup_link }}"
+        onclick="dataLayer.push({
+                              'event': 'GAEvent',
+                              'eventCategory': 'Event Signup',
+                              'eventAction': 'Click Meetup event',
+                              'eventLabel': '{{ .title | safeJS }}',
+                              'eventValue': undefined
+                  });"
+        class="waves-effect waves-light pwc-red-text" target="_blank">meetup.com <i class="fab fa-meetup"></i></a>
+    {{ end }}
+  </div>
+</div>
