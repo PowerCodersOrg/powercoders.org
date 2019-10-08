@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-image: /img/_j2a0373.png
+image: /img/header_volunteers.jpg
 section_title: How you can support us
 text: >-
   We are a non-profit organisation that depend on our incredible volunteers –
