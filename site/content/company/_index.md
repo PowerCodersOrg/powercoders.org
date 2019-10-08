@@ -8,7 +8,7 @@ text: >-
 support_as:
   - header: Corporate Social Responsibility (Internship / Job)
     text: >-
-      **What we are looking for:** 
+      **What we are looking for** 
 
 
       * IT-companies or IT departments offering a 6 to 12-month internship\
