@@ -10,10 +10,8 @@ text: >-
 
   We offer a 3-month coding boot camp, followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees in
-  IT-companies and IT-departments. 
+  IT-companies and IT-departments.
 
-
-  \*\*
 
 
   ## Our programme
