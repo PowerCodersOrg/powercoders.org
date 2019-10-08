@@ -246,6 +246,10 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
 	color: #000;
 }
 
+strong {
+  font-weight: 700;
+}
+
 /* ---------------- Card ---------------- */
 
 /* Treat cards as flex containers */
