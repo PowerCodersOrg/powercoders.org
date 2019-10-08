@@ -1,26 +1,63 @@
 ---
 title: Lausanne
-image: /img/placeholder_lausanne.png
+image: /img/header_lausanne.jpg
 section_title: Lausanne
 text: >-
-  <h4 class="center">Powercoders Lausanne is having programs on an ongoing
-  basis. It is addressed to the French-speaking part of Switzerland.</h4>
+  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+  ligula eget dolor. Aenean massa Cum sociis natoque penatibus et magnis dis
+  parturient montes, nascetur lorum ridiculus mus. Done chlorum quam felis
+  ultricies nec. 
 
 
-  The timeline for the next batch:
+  **LAUSANNE BATCH AUTUMN 2019**
 
 
-  Application: June - July 19\
+  **School phase / IT training:** 9 September – 6 December 2019 \
 
-  Preparation and probation: August - September 19\
-
-  Coding school in Lausanne: September - December 19\
-
-  IT internship: From January 2020
+  **Internship + Coaching:** 6-12 month from January 2020
 
 
-  We accept applications on an ongoing basis for the program starting early
-  2020.
+  - - -
+
+
+  **LAUSANNE BATCH SPRING 2020**
+
+
+  **School phase / IT training:** spring – summer 2020\
+
+  **Internship + Coaching:** 6-12 month from summer 2020
+
+
+  - - -
+
+
+  **Applications and subscriptions on a ongoing base.** 
+
+  **Get involved!**
+
+
+  **AS A STUDENT**\
+
+  (((APPLY))[\
+
+  More
+  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/student/)
+
+
+  **AS A COMPANY**\
+
+  (((GET IN TOUCH)))\
+
+  [More
+  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/company/)
+
+
+  **AS A VOLUNTEER**\
+
+  (((GET IN TOUCH)))\
+
+  [More
+  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/volunteer/)
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
