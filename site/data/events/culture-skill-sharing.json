@@ -1,5 +1,5 @@
 {
-  "remove_after": "",
+  "remove_after": "2019-10-08T15:00:00.000Z",
   "audience": [
     "student",
     "volunteer",
@@ -13,5 +13,6 @@
   "meetup_link": "https://www.meetup.com/Powercoders/events/mgmwhryzmbzb/",
   "title": "Culture & Skill Sharing",
   "call_to_action": "Join",
+  "when": "2019-10-08T14:40:56.824Z",
   "link": "https://web.facebook.com/events/931648597170910/"
 }
