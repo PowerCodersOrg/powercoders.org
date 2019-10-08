@@ -184,5 +184,10 @@ team:
       email: sorin.paun@powercoders.org
       image: /img/sorin.jpg
       name: Sorin Paun
+inbound_links:
+  active: true
+  description: >-
+    The 2019 program has started in September 2019. Applications are now open
+    for our classes in 2020.
 ---
 
