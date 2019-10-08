@@ -58,6 +58,8 @@
   {{ end }}
 </div>
 
+{{ partial "city-cards" . }}
+
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}
   {{ if (and (in $event.audience "volunteer") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
@@ -66,22 +68,5 @@
 {{ end }}
 
 {{ partial "events" $activeEvents }}
-
-<div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>Cities</h2>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col s6 m3 l2 center">
-      <a href="/city/lausanne" class="btn">Lausanne</a>
-    </div>
-    <div class="col s6 center">
-      <a href="/city/zurich" class="btn">Zurich</a>
-    </div>
-  </div>
-</div>
 
 {{ end }}

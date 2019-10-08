@@ -1,0 +1,30 @@
+<!-- Render cards for active cities -->
+
+{{ with .Site.GetPage "/program" }}
+  <div class="grey lighten-4">
+    <div class="container section">
+      <div class="row">
+        <div class="col s12">
+          <h2>City Programme</h2>
+        </div>
+      </div>
+
+      <div class="row flex">
+        {{ range $entry := .Params.city_program.items }}
+          <div class="col s6 m4">
+            <div class="card {{ $entry.color }}">
+              <div class="card-content">
+                <span class="card-title">{{ $entry.header }}</span>
+                <p>{{ $entry.text }}</p>
+              </div>
+
+              <div class="card-action {{ $entry.color }}">
+                <a href="{{ $entry.link }}" class="btn pwc-red">{{ $entry.call_to_action }}</a>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

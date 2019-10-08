@@ -6,7 +6,7 @@ text: >-
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
   ligula eget dolor. Aenean massa Cum sociis natoque penatibus et magnis dis
   parturient montes, nascetur lorum ridiculus mus. Done chlorum quam felis
-  ultricies nec. 
+  ultricies nec.
 
 
   **LAUSANNE BATCH AUTUMN 2019**
@@ -31,7 +31,7 @@ text: >-
   - - -
 
 
-  **Applications and subscriptions on a ongoing base.** 
+  **Applications and subscriptions on a ongoing base.**
 
   **Get involved!**
 
@@ -184,10 +184,4 @@ team:
       email: sorin.paun@powercoders.org
       image: /img/sorin.jpg
       name: Sorin Paun
-inbound_links:
-  active: true
-  description: >-
-    The 2019 program has started in September 2019. Applications are now open
-    for our classes in 2020.
 ---
-
