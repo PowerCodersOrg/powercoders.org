@@ -1,6 +1,6 @@
 ---
 title: Participants
-image: /img/homepage_01_1440x960.jpg
+image: /img/header_participants.jpg
 section_title: Participants
 text: >
   Our program is meant for refugees and disadvantaged citizens. We believe that
@@ -15,14 +15,14 @@ programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_participants.jpg
   text: >-
-    **What we expect:** 
+    **What we expect** 
 
 
     * Passion for IT and technology
       English fluency
       Commitment
 
-    **What we offer:** 
+    **What we offer** 
 
 
     * Three month intensive programming course
@@ -30,12 +30,10 @@ programme:
       Coaching Program
       Access to an internship lasting between 6 and 12 months
 
-
     **If the above mentioned information suits to you, apply to the program
     closest to your place of residence.** 
 
     (((APPLY FOR LAUSANNE)))    (((APPLY FOR ZURICH)))    (((APPLY FOR TURIN)))
-
 
 
     **For social workers:** download the factsheet in
