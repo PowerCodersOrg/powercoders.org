@@ -19,19 +19,41 @@ programme:
 
 
     * Passion for IT and technology
-      English fluency
-      Commitment
+
+    * English fluency
+
+    * Commitment
+
 
     **What we offer** 
 
 
     * Three month intensive programming course
-      Additional support for laptop, food and transportation where needed
-      Coaching Program
-      Access to an internship lasting between 6 and 12 months
 
-    **If the above mentioned information suits to you, apply to the program
-    closest to your place of residence.** 
+    * Additional support for laptop, food and transportation where needed
+
+    * Coaching Program
+
+    * Access to an internship lasting between 6 and 12 months
+
+
+    **The timeline for the next batch:**
+
+
+    **Application:** June – July 19 \
+
+    **Preparation and probation:** August – September 19 \
+
+    **Coding School in Lausanne:** September – December 19 \
+
+    **IT internship:** From January 2020
+
+
+    **We accept applications on an ongoing basis for the program starting early
+    2020.**
+
+
+    **Apply to the program closest to your place of residence.** \
 
     (((APPLY FOR LAUSANNE)))    (((APPLY FOR ZURICH)))    (((APPLY FOR TURIN)))
 
