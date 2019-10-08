@@ -186,10 +186,10 @@ collections:
                       - {label: "Team Zurich", value: "team_zurich"}
                       - {label: "Team Lausanne", value: "team_lausanne"}
                       - {label: "Team Turin", value: "team_turin"}
-                      - {label: "Office Powercoders", value: "office_powercoders"}
-                      - {label: "Switzerland", value: "switzerland"}
-                      - {label: "Board Powercoders", value: "board_powercoders"}
+                      - {label: "Office", value: "office_powercoders"}
+                      - {label: "Board", value: "board_powercoders"}
                       - {label: "Switzerland Community", value: "switzerland_community"}
+                      - {label: "Italy Community", value: "italy_community"}
       - file: site/content/alumni/_index.md
         label: Alumni
         name: alumni
