@@ -12,15 +12,18 @@
                     <li><a href="/faq/">FAQ</a></li>
                 </ul>
             </div>
-            <div class="col s6 m3 l2">
-                <h5>GET INVOLVED</h5>
+
+            {{ with .Site.GetPage "/program" }}
+              <div class="col s6 m3 l2">
+                <h5>Cities</h5>
                 <ul>
-                    <li><a href="/program/#participant">As a Participant</a></li>
-                    <li><a href="/program/#company">As a Company</a></li>
-                    <li><a href="/program/#coach">As a Coach</a></li>
-                    <li><a href="/program/#trainer">As a Trainer</a></li>
+                  {{ range $entry := .Params.city_program.items }}
+                    <li><a href="{{ $entry.link }}">{{ $entry.header }}</a></li>
+                  {{ end }}
                 </ul>
-            </div>
+              </div>
+            {{ end }}
+
             <div class="col s6 m3 l2">
                 <h5>CONTACT</h5>
                 <p><a href="mailto:info@powercoders.org"><i class="fas fa-envelope"></i>Email</a><br/>
