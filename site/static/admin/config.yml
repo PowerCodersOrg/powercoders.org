@@ -48,13 +48,6 @@ collections:
                 name: video_id
                 widget: string
                 required: false
-          - label: Teaser Image
-            name: teaser_image
-            widget: object
-            fields:
-              - label: Image
-                name: image
-                widget: image
           - label: Get Involved
             name: get_involved
             widget: object

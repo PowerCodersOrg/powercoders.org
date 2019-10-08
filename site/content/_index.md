@@ -10,8 +10,6 @@ intro:
     digitalization. Two problems, one solution:
   text: A coding academy for refugees
   video_id: kILDP3NmA6A
-teaser_image:
-  image: /img/main-page.jpg
 get_involved:
   content: >-
     # Our mission
@@ -63,4 +61,3 @@ email_signup:
     https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8
   text: Stay updated about our programmes and events
 ---
-
