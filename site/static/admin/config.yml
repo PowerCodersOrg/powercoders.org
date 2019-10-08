@@ -618,7 +618,22 @@ collections:
           - label: Text
             name: text
             widget: markdown
-
+      - label: Inbound links
+        name: inbound_links
+        required: false
+        hint: Information used to link to this city from panels
+        widget: object
+        fields:
+          - label: Active?
+            name: active
+            hint: Is this an active city? Should it be linked to?
+            widget: boolean
+            default: false
+          - label: Description
+            name: description
+            hint: The text that appears in the city's link panels. This is required if the city is marked as active.
+            widget: string
+            required: false
   - label: "Events"
     name: events
     format: json
