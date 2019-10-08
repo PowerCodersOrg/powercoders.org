@@ -72,7 +72,7 @@ support_as:
     text: Text for sponsorship goes here
 programme:
   header: Our programme
-  image: /img/placeholder_programme-graphic.png
+  image: /img/powercoders_graphic_programme_companies.jpg
   text: This is optional text that explains the programme in more detail.
 ---
 
