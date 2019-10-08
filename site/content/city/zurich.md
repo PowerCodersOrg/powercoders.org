@@ -1,6 +1,6 @@
 ---
 title: Zurich
-image: /img/lausanne-google.jpg
+image: /img/header_zurich.jpg
 section_title: Zurich
 text: >-
   <h4 class="center">Powercoders is returning to Zurich in September 2019 as a
