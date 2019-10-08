@@ -6,8 +6,8 @@ text: >-
   Our ultimate goal is to place disadvantaged people into permanent jobs so that
   they get their independence back. Read some of our success stores here.
 call_to_action:
-  link_text: test
+  link_text: 'OFFER AN INTERNSHIP OR A JOB '
   link_url: 'https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/company/'
-  text: Test
+  text: 'Get involved as a IT-company or IT-department '
 ---
 
