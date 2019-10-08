@@ -106,9 +106,9 @@
     <!-- TODO: The cards here are very similar to the ones in alumni.html,
          maybe refactor this out in to a partial that takes a size? -->
     {{ range $i, $alumni := first 4 (shuffle $allAlumni)}}
-      <div class="col s12 m4 l3">
+      <div class="col s12 m4 l3{{ if eq $i 3 }} hide-on-med-and-down{{ end }}">
         <div class="card">
-          <div class="card-image{{ if eq $i 4 }} show-on-large{{ end }}">
+          <div class="card-image">
             <img src="{{ $alumni.image }}">
           </div>
           <div class="card-content">
