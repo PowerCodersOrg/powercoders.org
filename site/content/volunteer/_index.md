@@ -14,7 +14,7 @@ support_as:
       one volunteer Job-Coach.
 
 
-      ****What to expect****
+      **What to expect**
 
 
       * Be matched with a participant by the end of the school phase (matching
@@ -26,7 +26,7 @@ support_as:
       achieve their goals
 
 
-      ****Details****
+      **Details**
 
 
       * You connect well to people from diverse cultures
@@ -96,9 +96,9 @@ support_as:
       (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
 programme:
   header: Our programme
-  image: /img/placeholder_programme-graphic.png
+  image: /img/powercoders_graphic_programme_volunteers.jpg
   text: >-
-    ***For more information, check our***
+    **For more information, check our**
     [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view)
 ---
 
