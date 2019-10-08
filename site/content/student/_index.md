@@ -1,6 +1,6 @@
 ---
 title: Participants
-image: /img/powercoders-school-zurich-2017.jpg
+image: /img/homepage_01_1440x960.jpg
 section_title: Participants
 text: >-
   We offer a 3-month coding bootcamp followed by an internship. The ultimate
