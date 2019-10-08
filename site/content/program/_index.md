@@ -29,13 +29,9 @@ text: >-
   **Get involved as** 
 
 
-  (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER))) 
+  (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER)))
 
 
-  **We offer the programme in 3 cities**
-
-
-  (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
 roles:
   - header: Participant
     text: >-
