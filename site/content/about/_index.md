@@ -19,6 +19,9 @@ text: >-
   current we are running two school centers in Switzerland and one in Italy.
 
 
+  **Our Impact Report 2018**
+
+
   ![Impact report 2018](/img/impactreport_2018.png "Impact report 2018")
 
 
