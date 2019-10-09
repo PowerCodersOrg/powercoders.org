@@ -26,8 +26,6 @@
   {{ end }}
 </div>
 
-{{ partial "city-cards" . }}
-
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}
   {{ if (and (in $event.audience "student") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
