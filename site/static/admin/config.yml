@@ -182,8 +182,7 @@ collections:
                       - {label: "Team Turin", value: "team_turin"}
                       - {label: "Office", value: "office_powercoders"}
                       - {label: "Board", value: "board_powercoders"}
-                      - {label: "Switzerland Community", value: "switzerland_community"}
-                      - {label: "Italy Community", value: "italy_community"}
+                      - {label: "Participants", value: "participants"}
       - file: site/content/alumni/_index.md
         label: Alumni
         name: alumni
