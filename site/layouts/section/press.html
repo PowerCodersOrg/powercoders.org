@@ -2,37 +2,34 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
+
 <div class="container section">
-    <div class="row">
-        <div class="col s12 markdown">
-            {{ partial "markdownify-block" .Params.text }}
-            <hr class="whitespace">
-            <h2>Media Coverage</h2>
-            <div class="row">
-
-                {{ range $el := .Params.media }}
-                <div class="col s12 m3">
-                    <h4>{{$el.year}}</h4>
-                </div>
-                <div class="col s12 m9">
-                    <ul class="press">
-                        {{ range $entry := $el.entries }}
-                        <li>{{$entry.date}}<br>
-                            {{ range $link := $entry.links }}
-                            {{ if $link.title }}{{$link.title}}:{{end}}
-                            <a href="{{$link.link}}"
-                               target="_blank">{{$link.link_text}}</a><br>
-                            {{end}}
-                            {{end}}
-                    </ul>
-                </div>
-                {{end}}
-
-            </div>
-            <!-- end row -->
-        </div>
+  <div class="row">
+    <div class="col s12">
+      <h2>Media Coverage</h2>
     </div>
-    <!-- end row -->
+  </div>
+
+  <div class="row">
+    {{ range $el := .Params.media }}
+      <div class="col s12 m3">
+        <h3>{{ $el.year }}</h3>
+      </div>
+      <div class="col s12 m9">
+        <ul class="press">
+          {{ range $entry := $el.entries }}
+            <li>{{ $entry.date }}<br>
+              {{ range $link := $entry.links }}
+                {{ if $link.title }}{{ $link.title }}:{{end}}
+                  <a href="{{ $link.link }}"
+                     target="_blank">{{ $link.link_text }}</a><br>
+              {{end}}
+          {{end}}</li>
+        </ul>
+      </div>
+    {{end}}
+  </div>
 </div>
 <!-- end container -->
 {{ end }}

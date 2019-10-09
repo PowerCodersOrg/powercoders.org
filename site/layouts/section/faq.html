@@ -2,17 +2,15 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
+
 <div class="container section">
-    <div class="row">
-        <div class="col s12">
-            <div class="markdown">
-                {{ partial "markdownify-block" .Params.text }}
-            </div>
-            <hr class="whitespace">
-            {{ range $section := .Params.sections }}
-            {{ partial "collapsible" (dict "section" $section )}}
-            {{ end }}
-        </div>
+  <div class="row">
+    <div class="col s12">
+      {{ range $section := .Params.sections }}
+        {{ partial "collapsible" (dict "section" $section )}}
+      {{ end }}
     </div>
+  </div>
 </div>
 {{ end }}
