@@ -19,12 +19,10 @@ text: >-
   current we are running two school centers in Switzerland and one in Italy.
 
 
+  **Our Impact Report 2018**
 
 
-  **Impact report 2018**
-
-
-  \>>>Image from the report<<<
+  ![Impact report 2018](/img/impactreport_2018.png "Impact report 2018")
 
 
   [Download Impact report
@@ -240,3 +238,4 @@ team:
     depend on our incredible volunteers, so thank you to all these great people
     who are making a difference.
 ---
+

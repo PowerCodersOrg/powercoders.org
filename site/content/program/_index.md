@@ -30,10 +30,8 @@ text: >-
 
 
   (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER)))
-
-
 city_program:
-  header: City Program
+  header: Our programme runs in three cities
   items:
     - call_to_action: More
       color: teal lighten-4
@@ -54,11 +52,11 @@ city_program:
     - call_to_action: Get updated
       color: pwc-red-light20
       fade_in: Left
-      header: Next Program
+      header: Turin
       link: 'http://eepurl.com/c3pB1H'
       text: >-
-        We are planning for other cities starting next year. Join our mailing
-        list to receive the latest news and updates.
+        Our programme is planned in Turin – details will be shown here in
+        November 2019.
 past_program:
   header: Past Programs
   items:

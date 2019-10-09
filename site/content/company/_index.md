@@ -11,9 +11,12 @@ support_as:
       **What we are looking for** 
 
 
-      * IT-companies or IT departments offering a 6 to 12-month internship\
-        Teams who are eager to train an intern\
-        IT professionals who are interested in cultural exchange
+      * IT-companies or IT departments offering a 6 to 12-month internship
+
+      * Teams who are eager to train an intern
+
+      * IT professionals who are interested in cultural exchange
+
 
       **Interested in offering an internship and becoming our partner in
       empowering refugees? Please fill in the following form.**  
@@ -42,8 +45,10 @@ support_as:
       **What to expect**
 
 
-      * A classroom of refugee students eager to learn\
-        An opportunity to stretch your own knowledge by answering questions
+      * A classroom of refugee students eager to learn
+
+      * An opportunity to stretch your own knowledge by answering questions
+
 
       **Details**
 
@@ -93,6 +98,6 @@ support_as:
 programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_companies.jpg
-  text: This is optional text that explains the programme in more detail.
+  text: ''
 ---
 
