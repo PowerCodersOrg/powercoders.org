@@ -1,5 +1,5 @@
 import $ from "jquery";
-import "./jquery.waypoints";
+import "waypoints/lib/jquery.waypoints.min.js";
 import "coffeekraken-s-donut-component";
 import "cookieconsent";
 import "jquery-match-height";
@@ -62,7 +62,7 @@ $(function() {
 
 // Initialise cookie consent
 // See https://cookieconsent.osano.com/download/ for details
-$(window).load(function() {
+$(window).on("load", function() {
   window.cookieconsent.initialise({
     "palette": {
       "popup": {

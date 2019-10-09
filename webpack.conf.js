@@ -48,6 +48,16 @@ module.exports = {
           "style-loader",
           "css-loader"
         ]
+      },
+      {
+        test: require.resolve('jquery'),
+        use: [{
+          loader: 'expose-loader',
+          options: 'jQuery'
+        }, {
+          loader: 'expose-loader',
+          options: '$'
+        }]
       }
     ]
   },
@@ -56,7 +66,4 @@ module.exports = {
       fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
     })
   ],
-  externals: {
-    jquery: "jQuery"
-  }
 };
