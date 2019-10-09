@@ -3,8 +3,7 @@
   "audience": [
     "home",
     "student",
-    "volunteer",
-    "company"
+    "volunteer"
   ],
   "city": [
     "zurich"
