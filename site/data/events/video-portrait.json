@@ -1,15 +1,15 @@
 {
-  "title": "Video Portrait Redbull",
-  "header_icon": "fa-video",
+  "remove_after": "",
   "audience": [
-    "home",
-    "company"
+    "home"
   ],
   "city": [
     "zurich"
   ],
+  "header_icon": "fa-video",
   "text": "“We make sure that everyone gets the same opportunity I got”, says our Hussam Allahm. Watch the portrait of Redbull Switzerland about us.",
-  "link": "https://www.redbull.com/ch-de/videos/powercoders-portrait",
+  "title": "Video Portrait Redbull",
   "call_to_action": "Watch",
-  "remove_after": ""
+  "when": "2019-10-09T15:55:18.997Z",
+  "link": "https://www.redbull.com/ch-de/videos/powercoders-portrait"
 }
