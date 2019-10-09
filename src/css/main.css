@@ -602,12 +602,6 @@ footer.page-footer i {
 
 }
 
-@media screen and (min-width: 601px) {
-	.social {
-		text-align: right;
-	}
-}
-
 /* ---------------- markdown ---------------- */
 .markdown img {
 	max-width: 100%;
