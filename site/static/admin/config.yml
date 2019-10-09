@@ -412,16 +412,6 @@ collections:
           - label: Text
             name: text
             widget: markdown
-          - label: Roles
-            name: roles
-            widget: list
-            fields:
-              - label: Header
-                name: header
-                widget: string
-              - label: Text
-                name: text
-                widget: markdown
           - label: City Program
             name: city_program
             widget: object
