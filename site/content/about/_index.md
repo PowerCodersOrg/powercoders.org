@@ -27,10 +27,6 @@ text: >-
 
   [Download Impact report
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
-video:
-  image: /img/ted-zh.jpg
-  text: Opening doors for refugees in the IT industry
-  video_id: kILDP3NmA6A
 team:
   members:
     - description: Student / Zürich
@@ -239,4 +235,3 @@ team:
     depend on our incredible volunteers, so thank you to all these great people
     who are making a difference.
 ---
-
