@@ -14,7 +14,7 @@
   <div class="row flex">
     {{ $index := 0 }}
     {{ range $alumni := $.Site.Data.alumni }}
-      <div class="col s6 l4">
+      <div class="col s12 m6 l4">
         <div class="card" id="{{ anchorize $alumni.title }}">
           <div class="card-image">
             <img class="activator" src="{{ $alumni.image }}">
