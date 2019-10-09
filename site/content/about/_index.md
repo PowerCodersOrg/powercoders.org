@@ -65,6 +65,7 @@ team:
       image: /img/chiar-evdi.jpg
       name: Chiar Evdi
     - description: President
+      email: christian.hirsig@powercoders.org
       image: /img/christian-hirsig.jpg
       name: Christian Hirsig
       visible:
