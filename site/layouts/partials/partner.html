@@ -26,8 +26,8 @@ Call with a dict as the single parameter with the following keys:
   {{ end }}
 {{ end }}
 
-{{ $sizes := dict "partner" "s12 m4 l3" "community_partner" "s6 m2 l1" "company_member" "s6 m2 l1"}}
-{{ $size := index $sizes $.type }}
+{{ $sizeNarrow := dict "partner" "s12 m4 l3" "community_partner" "s6 m2 l2" "company_member" "s6 m2 l2" }}
+{{ $sizeWide := dict "partner" "s12 m4 l3" "community_partner" "s12 m4 l4" "company_member" "s12 m4 l4" }}
 
 {{ with $thesePartners }}
   <div class="row">
@@ -36,6 +36,13 @@ Call with a dict as the single parameter with the following keys:
 
   <div class="row flex valign-wrapper">
     {{ range $el := $thesePartners }}
+      {{ $imageConfig := imageConfig (printf "static/%s" $el.image) }}
+      {{ $size := "" }}
+      {{ if gt $imageConfig.Width 240 }}
+        {{ $size = index $sizeWide $.type }}
+      {{ else }}
+        {{ $size = index $sizeNarrow $.type }}
+      {{ end }}
       <div class="col {{ $size }}">
         <a href="{{$el.link}}" target="_blank">
           <p><img src="{{$el.image}}"
