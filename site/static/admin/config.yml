@@ -166,6 +166,10 @@ collections:
                   - label: Description
                     name: description
                     widget: string
+                  - label: Email
+                    name: email
+                    widget: string
+                    required: false
                   - label: Visible
                     name: visible
                     widget: select

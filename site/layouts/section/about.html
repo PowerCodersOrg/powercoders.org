@@ -37,6 +37,7 @@
             <div><img src="{{$el.image}}" class="responsive"
                       alt="{{$el.name}}"></div>
             <p><strong>{{$el.name}}</strong><br>{{$el.description}}
+              {{if $el.email}}<br><i class="far fa-envelope"></i> <a href="mailto:{{$el.email}}">Contact</a>{{end}}
             </p>
         </div>
         {{end}}
