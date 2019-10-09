@@ -230,7 +230,7 @@ nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
 }
 
 .section {
-	padding: 3rem 0;
+	padding-top: 3rem;
 }
 
 .col:not(.page-footer .col) > a {
@@ -324,10 +324,6 @@ hr.whitespace {
 }
 
 /* ---------------- Accordion ---------------- */
-
-.collapsible {
-	margin: 10px 0 70px;
-}
 
 .collapsible-header:before {
 	font-family: 'Font Awesome 5 Free';
