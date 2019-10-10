@@ -1,5 +1,5 @@
 ---
-title: About
+title: About (test)
 image: /img/header_about.jpg
 section_title: Our Team and the precious Community
 text: >-
@@ -235,3 +235,4 @@ team:
     depend on our incredible volunteers, so thank you to all these great people
     who are making a difference.
 ---
+
