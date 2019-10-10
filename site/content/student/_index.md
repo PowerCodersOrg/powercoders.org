@@ -36,7 +36,7 @@ programme:
     * Access to an internship lasting between 6 and 12 months 
 
 
-    ***
+    **
 
 
     ###### BATCH AUTUMN 2019
@@ -53,7 +53,9 @@ programme:
     **Apply to the program closest to your place of residence.** \
 
     <a href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
-    waves-light pwc-red">APPLY NOW</a> 
+    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    waves-light pwc-red">APPLY FOR ZURICH</a>  
 
 
     **For social workers:** download the factsheet in
