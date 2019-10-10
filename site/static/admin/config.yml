@@ -448,9 +448,9 @@ collections:
                   - label: Link
                     name: link
                     widget: string
-      - file: site/content/student/_index.md
-        label: Student
-        name: student
+      - file: site/content/participant/_index.md
+        label: Participant
+        name: participant
         fields:
           - label: Title
             name: title

@@ -36,7 +36,7 @@ text: >-
   pwc-red">APPLY</a>\
 
   [More
-  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/student/)
+  information](/participant/)
 
 
   **AS A COMPANY**\
@@ -45,7 +45,7 @@ text: >-
   pwc-red">GET IN TOUCH</a>\
 
   [More
-  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/company/)
+  information](/company/)
 
 
   **AS A VOLUNTEER**\
@@ -54,7 +54,7 @@ text: >-
   pwc-red">GET IN TOUCH</a>\
 
   [More
-  information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/volunteer/)
+  information](/volunteer/)
 apply_as:
   - application_link: 'https://form.jotformeu.com/91563613144353'
     header: Participant
@@ -182,4 +182,3 @@ team:
       image: /img/sorin.jpg
       name: Sorin Paun
 ---
-

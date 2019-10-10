@@ -13,7 +13,7 @@ menu:
   - identifier: participants
     name: Participants
     title: Information for participants
-    url: /student/
+    url: /participant/
     weight: 1
   - identifier: companies
     name: Companies
