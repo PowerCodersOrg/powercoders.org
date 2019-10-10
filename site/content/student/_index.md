@@ -15,7 +15,7 @@ programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_participants.jpg
   text: >-
-    ### What we expect
+    ### WHAT WE EXPECT**
 
 
     * Passion for IT and technology
@@ -25,7 +25,7 @@ programme:
     * Commitment
 
 
-    ### What we offer
+    ## WHAT WE OFFER
 
 
     * Three month intensive programming course
@@ -37,7 +37,7 @@ programme:
     * Access to an internship lasting between 6 and 12 months
 
 
-    ### The timeline for the next batch:
+    ## **THE TIMELINE FOR THE NEXT BATCH:**
 
 
     **Application:** June – July 19 \
@@ -56,11 +56,7 @@ programme:
     **Apply to the program closest to your place of residence.** \
 
     <a href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR LAUSANNE</a>
-     
-    (((APPLY FOR ZURICH)))    
-
-    (((APPLY FOR TURIN)))
+    waves-light pwc-red">APPLY NOW</a> 
 
 
     **For social workers:** download the factsheet in
