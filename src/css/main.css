@@ -128,6 +128,12 @@ div.row.narrow {
   width: 80%;
 }
 
+/* ul elements immediately after an h6 (e.g., on the program page) get 0
+   margin to visually connect them with the heading. */
+h6 + ul {
+  margin-top: 0;
+}
+
 /* ---------------- Flex classes ---------------- */
 
 .row.flex {
