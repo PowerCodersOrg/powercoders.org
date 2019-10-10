@@ -50,22 +50,22 @@ support_as:
       <a href="/city/zurich/#participant" class="btn waves-effect waves-light
       pwc-red">LAUSANNE</a> <a href="/city/zurich/#participant" class="btn
       waves-effect waves-light pwc-red">ZURICH</a>
-  - header: IT Trainer
+  - header: As an IT Trainer
     text: >-
-      **You support our teachers as assistants.**
+      ###### You support our teachers as assistants.
 
 
       Teachers in the classroom are supported by volunteer trainers (2+ half day
       commitment) to help answer questions from the student group and provide
-      1:1 support during exercises. 
+      1:1 support during exercises.
+
+      If you are an IT professional, would like to support our participants
+      solving IT challenges and like to work in a team, come join us. We are
+      also open to suggestions if you would like to provide the class with an
+      input of a specific IT theme. 
 
 
-      If you are an IT professional, like to support our participants solving IT
-      challenges and like to work in teams, join us. As well if you like to
-      provide the class with an input of a specific IT theme. 
-
-
-      **What to expect**
+      ###### WHAT TO EXPECT
 
 
       * A classroom of refugee students eager to learn
@@ -73,30 +73,31 @@ support_as:
       * An opportunity to stretch your own knowledge by answering questions
 
 
-      **Details**
+      ###### DETAILS
 
 
       * You have an understanding of some web development technologies
       (Javascript, CSS, HTML, Frameworks, Python, SQL, etc)
 
-      * We match your skills to the time in the programme where that material is
+      * We match your skills to the time in the program where that material is
       covered
 
       * No prior teaching experience required
 
 
       **Interested in training our participants? Please fill in the following
-      form.**   
+      form.**\   
+
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">SIGN UP</a>
 
 
-      (((SIGN UP))) 
+      **Current dates of the program: check them out in the city closest to your
+      place of residence.**\
 
-
-      **Current dates of the programme: check them out in the city closest to
-      your place of residence.** 
-
-
-      (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">LAUSANNE</a> <a href="/city/zurich/#participant" class="btn
+      waves-effect waves-light pwc-red">ZURICH</a>
 programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_volunteers.jpg
