@@ -33,7 +33,10 @@ programme:
 
     * Coaching Program
 
-    * Access to an internship lasting between 6 and 12 months
+    * Access to an internship lasting between 6 and 12 months 
+
+
+    ***
 
 
     ###### BATCH AUTUMN 2019
