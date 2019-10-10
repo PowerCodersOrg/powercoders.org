@@ -49,8 +49,8 @@ programme:
     ###### NEXT BATCHES IN 2020
 
 
-    We accept applications on an ongoing basis for our next programs starting
-    early 2020.
+    We accept applications on an ongoing basis for our next programs starting in
+    spring 2020.
 
 
     **Apply to the program closest to your place of residence.** \
