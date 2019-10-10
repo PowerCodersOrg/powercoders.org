@@ -19,7 +19,7 @@ support_as:
 
 
       **Interested in offering an internship and becoming our partner in
-      empowering refugees? Please fill in the following form.**
+      empowering refugees? Please fill in the following form.** \
 
       <a href="/city/zurich/#participant" class="btn waves-effect waves-light
       pwc-red">GET INVOLVED</a> 
@@ -29,72 +29,79 @@ support_as:
       [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view).
   - header: Corporate Volunteering
     text: >-
-      **You support our teachers as assistants.**
+      ###### YOUR EMPLOYEES SUPPORT US AS VOLUNTEERS
 
 
-      Teachers in the classroom are supported by volunteer trainers (2+ half day
-      commitment) to help answer questions from the student group and provide
-      1:1 support during exercises.
+      If you are convinced by what we do, you are welcome to spread the word and
+      encourage your employees to support us as volunteers. We are always
+      looking for IT trainers and Job-Coaches. There is also the possibility to
+      support us with other talent such as helping with the social skills
+      workshops.  
 
 
-      If you are an IT professional, like to support our participants solving IT
-      challenges and like to work in teams, join us. As well if you like to
-      provide the class with an input of a specific IT theme. 
+      ###### WHAT TO EXPECT
 
 
-      **What to expect**
+      * The chance to let your employees think outside the box
+
+      * Highly motivated employees because empowering will empower them
 
 
-      * A classroom of refugee students eager to learn
-
-      * An opportunity to stretch your own knowledge by answering questions
+      ###### DETAILS
 
 
-      **Details**
+      * IT Trainers are IT professionals who support our lead teacher in class 
+
+      * Job-Coaches accompany one of the participants during the internship
+      phase
+
+      * Our students need to learn more than IT in order to succeed in the
+      labour market. That’s why we provide workshops on social skills etc.
 
 
-      * You have an understanding of some web development technologies
-      (Javascript, CSS, HTML, Frameworks, Python, SQL, etc)
+      **You can find more detailed information on the volunteering options
+      here** \
 
-      * We match your skills to the time in the programme where that material is
-      covered
-
-      * No prior teaching experience required
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">VOLUNTEERS</a>
 
 
-      **Interested in training our participants? Please fill in the following
-      form.**   
+      **Interested in signing up your employees as volunteers? Please fill in
+      the following form.** \
 
-
-      (((SIGN UP))) 
-
-
-      **Current dates of the programme: check them out in the city closest to
-      your place of residence.** 
-
-
-      (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">SIGN UP</a>
   - header: Corporate Membership
     text: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor.
+      Do you want to support a good cause with your company and are intrigued by
+      the idea of getting something back? If you invest in our program, you
+      empower refugees and are first in line when it comes to acquiring talented
+      IT labour force.
 
 
-      **Title Lorum lorum ipsum lorum**  
+      ###### MEMBERSHIP 
 
 
-      * Lorum ipsum
-
-      * Lorum ipsum
-
-      * Lorum ipsum
+      * Yearly membership fees based on the size of the company
 
 
-      **Interested to empower refugees and to support us financially? Please
-      fill in the following form.**  
+      ###### Benefits 
 
 
-      (((GET INVOLVED)))
+      * Preferential access to the career days (interview days)
+
+      * Invitation to the yearly community party
+
+      * Access to the Powercoders jobs platform
+
+      * Access to the Powercoders story for marketing and support from us
+
+
+      **Interested in empowering refugees and in supporting us financially?
+      Please fill in the following form.** \
+
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">GET INVOLVED</a>
 programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_companies.jpg
