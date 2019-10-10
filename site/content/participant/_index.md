@@ -34,22 +34,22 @@ programme:
 
     * Coaching Program
 
-    * Access to an internship lasting between 6 and 12 months
+    * Access to an internship lasting between 6 and 12 months 
 
 
-    ---
+    \*\*
 
 
     ###### BATCH AUTUMN 2019
 
 
-    Our current batch began on September 2019
+    Our current batches began on September 2019
 
 
-    ###### NEXT BATCH IN 2020
+    ###### NEXT BATCHES IN 2020
 
 
-    We accept applications on an ongoing basis for our next program starting
+    We accept applications on an ongoing basis for our next programs starting
     early 2020.
 
 
@@ -58,7 +58,7 @@ programme:
     <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
     href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a>
+    waves-light pwc-red">APPLY FOR ZURICH</a>  
 
 
     **For social workers:** download the factsheet in
@@ -66,3 +66,4 @@ programme:
     or
     [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view)
 ---
+
