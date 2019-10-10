@@ -1,35 +1,35 @@
 ---
 title: Volunteer
 image: /img/header_volunteers.jpg
-section_title: How you can support us
+section_title: How you can get involved
 text: >-
-  We are a non-profit organisation that depend on our incredible volunteers –
-  people who are making a difference.
+  We are a non-profit organisation that depends on the commitment of many
+  incredible volunteers – people who truly make a difference. 
 support_as:
-  - header: Job-Coach
+  - header: As a Job-Coach
     text: >-
-      Our participants need more than technical knowledge in order to achieve a
-      sustainable integration into employment. That’s why our program includes
-      coaching during the internship phase. Each participant is accompanied by
-      one volunteer Job-Coach.
+      Our participants need more than technical knowledge in order to achieve
+      the goal of a successful integration in the labour market. That’s why our
+      program includes coaching during the internship phase. Each participant is
+      accompanied by one volunteer Job-Coach.
 
 
-      **What to expect**
+      ###### WHAT TO EXPECT
 
 
       * Be matched with a participant by the end of the school phase (matching
-      close to your residence) 
+      close to your place of residence) 
 
-      * Get ready by several coaching workshops
+      * Get ready with the help of several coaching workshops
 
-      * Meet your coachee regularly during their internship and help them to
+      * Meet your coachee regularly during their internship and help them
       achieve their goals
 
 
-      **Details**
+      ###### DETAILS
 
 
-      * You connect well to people from diverse cultures
+      * You connect easily with people from other cultures than your own
 
       * You have a good understanding of the Swiss labour market and work
       culture
@@ -40,13 +40,16 @@ support_as:
       **Interested in coaching one of our participants? Please fill in the
       following form.**\
 
-      (((SIGN UP)))
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">SIGN UP</a>
 
 
-      **Current dates of the programme: check them out in the city closest to
-      your place of residence.**\
+      **Current dates of the program: check them out in the city closest to your
+      place of residence.**\
 
-      (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">LAUSANNE</a> <a href="/city/zurich/#participant" class="btn
+      waves-effect waves-light pwc-red">ZURICH</a>
   - header: IT Trainer
     text: >-
       **You support our teachers as assistants.**
