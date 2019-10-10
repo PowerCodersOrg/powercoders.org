@@ -12,7 +12,7 @@ text: >-
   IT-companies and IT-departments.
 
 
-  **
+  ***
 
 
 
@@ -28,11 +28,14 @@ text: >-
   during their internships as Job-Coaches.
 
 
+  ***
+
+
   ## Get involved as
 
 
   <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-  pwc-red">PARTICIPANT</a>   
+  pwc-red">PARTICIPANT</a> 
 
   <a href="/city/zurich/#participant" class="btn waves-effect waves-light
   pwc-red">COMPANY</a> 
@@ -43,7 +46,7 @@ text: >-
   <a href="/city/zurich/#participant" class="btn waves-effect waves-light
   pwc-red">IT TRAINER</a> 
 city_program:
-  header: Our program runs in three cities
+  header: Our program runs in 3 cities
   items:
     - call_to_action: More
       color: teal lighten-4
