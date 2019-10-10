@@ -1,7 +1,7 @@
 ---
 title: Startpage
 subtitle: Impacting lives by teaching how to code
-link_text: Our programme
+link_text: Our program
 link_url: /program
 image: /img/IMG_2230-1.jpg
 intro:
@@ -10,8 +10,6 @@ intro:
     digitalization. Two problems, one solution:
   text: A coding academy for refugees
   video_id: kILDP3NmA6A
-teaser_image:
-  image: /img/main-page.jpg
 get_involved:
   content: >-
     # Our mission
@@ -36,8 +34,8 @@ program:
     link: 'program/#coach'
     link_text: more
     text: >-
-      Do you want to support a refugee with becoming successfully integrated in
-      the local IT labor market?
+      Do you want to support a refugee with becoming successfully integrated
+      into the local IT labor market?
   - fade_in: Up
     header: Trainer
     link: 'program/#trainer'
@@ -61,6 +59,6 @@ email_signup:
   header: Add impact to your mailbox
   link: >-
     https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8
-  text: Stay updated about our programmes and events
+  text: Stay updated about our programs and events
 ---
 
