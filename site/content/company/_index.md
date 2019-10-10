@@ -3,9 +3,6 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  # Our mission
-
-
   Our participants are highly qualified refugees and they are looking for your
   engagement and support.
 support_as:
