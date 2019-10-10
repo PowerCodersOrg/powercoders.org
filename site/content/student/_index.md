@@ -55,7 +55,12 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    (((APPLY FOR LAUSANNE)))    (((APPLY FOR ZURICH)))    (((APPLY FOR TURIN)))
+    <a href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    waves-light pwc-red">APPLY FOR LAUSANNE</a>
+     
+    (((APPLY FOR ZURICH)))    
+
+    (((APPLY FOR TURIN)))
 
 
     **For social workers:** download the factsheet in
