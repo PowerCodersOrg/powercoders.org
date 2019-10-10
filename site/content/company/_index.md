@@ -73,25 +73,35 @@ support_as:
       pwc-red">SIGN UP</a>
   - header: Corporate Membership
     text: >-
-      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-      ligula eget dolor.
+      Do you want to support a good cause with your company and are intrigued by
+      the idea of getting something back? If you invest in our program, you
+      empower refugees and are first in line when it comes to acquiring talented
+      IT labour force.
 
 
-      **Title Lorum lorum ipsum lorum**  
+      ###### MEMBERSHIP 
 
 
-      * Lorum ipsum
-
-      * Lorum ipsum
-
-      * Lorum ipsum
+      * Yearly membership fees based on the size of the company
 
 
-      **Interested to empower refugees and to support us financially? Please
-      fill in the following form.**  
+      ###### Benefits 
 
 
-      (((GET INVOLVED)))
+      * Preferential access to the career days (interview days)
+
+      * Invitation to the yearly community party
+
+      * Access to the Powercoders jobs platform
+
+      * Access to the Powercoders story for marketing and support from us
+
+
+      **Interested in empowering refugees and in supporting us financially?
+      Please fill in the following form.** \
+
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">GET INVOLVED</a>
 programme:
   header: Our programme
   image: /img/powercoders_graphic_programme_companies.jpg
