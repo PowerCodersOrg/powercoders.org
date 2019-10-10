@@ -27,6 +27,7 @@ programme:
 
     ###### WHAT WE OFFER
 
+
     * Three month intensive programming course
 
     * Additional support for laptop, food and transportation where needed
@@ -36,15 +37,17 @@ programme:
     * Access to an internship lasting between 6 and 12 months 
 
 
-    **
+    \*\*
 
 
     ###### BATCH AUTUMN 2019
+
 
     Our current batch began on September 2019
 
 
     ###### NEXT BATCH IN 2020
+
 
     We accept applications on an ongoing basis for our next program starting
     early 2020.
@@ -52,9 +55,9 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="/https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
     waves-light pwc-red">APPLY FOR ZURICH</a>  
 
 
