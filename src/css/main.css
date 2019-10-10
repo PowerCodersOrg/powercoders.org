@@ -128,9 +128,9 @@ div.row.narrow {
   width: 80%;
 }
 
-/* ul elements immediately after an h6 (e.g., on the program page) get 0
-   margin to visually connect them with the heading. */
-h6 + ul {
+/* ul and p elements immediately after an h6 (e.g., on the program page)
+  get 0 margin to visually connect them with the heading. */
+h6 + ul, h6 + p {
   margin-top: 0;
 }
 
@@ -324,12 +324,8 @@ a.brand-logo.left img {
 /* ---------------- Hardruler ---------------- */
 
 hr {
-	border: 0;
-}
-
-hr.whitespace {
-	border-bottom: 1px solid #fff;
-	margin: 40px 0;
+  border: 0;
+  margin: 2rem 0;
 }
 
 /* ---------------- Accordion ---------------- */

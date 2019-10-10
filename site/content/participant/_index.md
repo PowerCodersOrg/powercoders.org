@@ -5,12 +5,12 @@ section_title: We are looking for talented participants
 text: >
   Our program is meant for refugees and disadvantaged citizens. We believe that
   in the 21st century coding skills will help you to start a new life wherever
-  you are forced to go. 
+  you are forced to go.
 
 
   We offer you 13 weeks of full-time coding bootcamp followed by a 6 to 12-month
   internship. The goal of Powercoders is the permanent placement of trained
-  refugees in IT-companies and IT-departments.  
+  refugees in IT-companies and IT-departments.
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_participants.jpg
@@ -34,9 +34,10 @@ programme:
 
     * Coaching Program
 
-    * Access to an internship lasting between 6 and 12 months 
+    * Access to an internship lasting between 6 and 12 months
 
 
+    ---
 
 
     ###### BATCH AUTUMN 2019
@@ -57,7 +58,7 @@ programme:
     <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
     href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a>  
+    waves-light pwc-red">APPLY FOR ZURICH</a>
 
 
     **For social workers:** download the factsheet in
@@ -65,4 +66,3 @@ programme:
     or
     [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view)
 ---
-
