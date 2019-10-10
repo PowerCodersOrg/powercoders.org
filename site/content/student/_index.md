@@ -8,11 +8,11 @@ text: >
   you are forced to go. 
 
 
-  We offer you a 13 weeks full time coding bootcamp followed by an 6- to
-  12-month internship. The ultimate goal of Powercoders is the permanent
-  placement of trained refugees in IT-companies and IT-departments. 
+  We offer you 13 weeks of full-time coding bootcamp followed by a 6 to 12-month
+  internship. The goal of Powercoders is the permanent placement of trained
+  refugees in IT-companies and IT-departments.  
 programme:
-  header: Our programme
+  header: Our program
   image: /img/powercoders_graphic_programme_participants.jpg
   text: >-
     **WHAT WE EXPECT**
@@ -37,20 +37,15 @@ programme:
     * Access to an internship lasting between 6 and 12 months
 
 
-    **TIMELINE FOR NEXT BATCH:**
+    **BATCH AUTUMN 2019:**
+
+    Our current batch began on September 2019  
 
 
-    **Application:** June – July 19 \
+    **OUR NEXT BATCH IN 2020**
 
-    **Preparation and probation:** August – September 19 \
-
-    **Coding School in Lausanne:** September – December 19 \
-
-    **IT internship:** From January 2020
-
-
-    **We accept applications on an ongoing basis for the program starting early
-    2020.**
+    We accept applications on an ongoing basis for our next program starting
+    early 2020.
 
 
     **Apply to the program closest to your place of residence.** \
