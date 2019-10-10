@@ -15,7 +15,7 @@ programme:
   header: Our program
   image: /img/powercoders_graphic_programme_participants.jpg
   text: >-
-    **WHAT WE EXPECT**
+    ###### WHAT WE EXPECT
 
 
     * Passion for IT and technology
@@ -25,8 +25,7 @@ programme:
     * Commitment
 
 
-    **WHAT WE OFFER**
-
+    ###### WHAT WE OFFER
 
     * Three month intensive programming course
 
@@ -37,12 +36,12 @@ programme:
     * Access to an internship lasting between 6 and 12 months
 
 
-    **BATCH AUTUMN 2019:**
+    ###### BATCH AUTUMN 2019
 
-    Our current batch began on September 2019  
+    Our current batch began on September 2019
 
 
-    **OUR NEXT BATCH IN 2020**
+    ###### NEXT BATCH IN 2020
 
     We accept applications on an ongoing basis for our next program starting
     early 2020.
