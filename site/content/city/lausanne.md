@@ -3,50 +3,45 @@ title: Lausanne
 image: /img/header_lausanne.jpg
 section_title: Lausanne
 text: >-
-  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-  ligula eget dolor. Aenean massa Cum sociis natoque penatibus et magnis dis
-  parturient montes, nascetur lorum ridiculus mus. Done chlorum quam felis
-  ultricies nec.
+  The Powercoders program in Lausanne is run by PowerHouse Lausanne.
 
 
   **LAUSANNE BATCH AUTUMN 2019**
 
-
-  **School phase / IT training:** 9 September – 6 December 2019 \
-
-  **Internship + Coaching:** 6-12 month from January 2020
-
-
-  - - -
+  The current 2019 Lausanne batch runs from 23 September to 6 December 2019
+  (school phase), followed by a 6-12 month internship as of January 2020. Our
+  classes currently take place at Espace Dickens in Lausanne
+  ([map](https://www.google.ch/maps/place/Avenue+Charles+Dickens+4,+1006+Lausanne/@46.5155518,6.6313321,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc96ad7f13:0x7de11ccdef79596a!8m2!3d46.5155481!4d6.6335208)).
 
 
   **LAUSANNE BATCH SPRING 2020**
 
+  School phase / IT training: spring – summer 2020\
 
-  **School phase / IT training:** spring – summer 2020\
-
-  **Internship + Coaching:** 6-12 month from summer 2020
+  Internship + Coaching: 6-12 month as of summer 2020
 
 
   - - -
 
 
-  **Applications and subscriptions on a ongoing base.**
+  We accept applications continuously for the program starting in spring 2020.
 
   **Get involved!**
 
 
   **AS A STUDENT**\
 
-  (((APPLY))[\
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">APPLY</a>
 
-  More
+  [\More
   information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/student/)
 
 
   **AS A COMPANY**\
 
-  (((GET IN TOUCH)))\
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">GET IN TOUCH</a>\
 
   [More
   information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/company/)
@@ -54,7 +49,8 @@ text: >-
 
   **AS A VOLUNTEER**\
 
-  (((GET IN TOUCH)))\
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">GET IN TOUCH</a>\
 
   [More
   information](https://redesign-2019-11--objective-kowalevski-5ea605.netlify.com/volunteer/)
@@ -185,3 +181,4 @@ team:
       image: /img/sorin.jpg
       name: Sorin Paun
 ---
+
