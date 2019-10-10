@@ -3,18 +3,15 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  # Our mission
-
-
-  Our participants are highly qualified refugees and they are looking for your
-  engagement and support.
+  Our participants are highly qualified refugees and they depend on your
+  engagement and support. 
 support_as:
-  - header: Corporate Social Responsibility (Internship / Job)
+  - header: Corporate Social Responsibility – Internship/Job
     text: >-
-      **What we are looking for** 
+      ###### WHAT WE ARE LOOKING FOR
 
 
-      * IT-companies or IT departments offering a 6 to 12-month internship
+      * IT companies or IT departments offering a 6 to 12-month internship
 
       * Teams who are eager to train an intern
 
@@ -22,15 +19,15 @@ support_as:
 
 
       **Interested in offering an internship and becoming our partner in
-      empowering refugees? Please fill in the following form.**  
+      empowering refugees? Please fill in the following form.**
 
-
-      (((GET INVOLVED)))  
+      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      pwc-red">GET INVOLVED</a> 
 
 
       **For more information, check our**
       [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view).
-  - header: Corporate Volunteering (IT Trainer)
+  - header: Corporate Volunteering
     text: >-
       **You support our teachers as assistants.**
 
@@ -77,7 +74,7 @@ support_as:
 
 
       (((LAUSANNE)))    (((ZURICH)))    (((TURIN)))
-  - header: Corporate Membership (Sponsorship)
+  - header: Corporate Membership
     text: >-
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
       ligula eget dolor.
