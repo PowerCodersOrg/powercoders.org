@@ -46,7 +46,7 @@ text: >-
   <a href="/city/zurich/#participant" class="btn waves-effect waves-light
   pwc-red">IT TRAINER</a> 
 city_program:
-  header: Our program runs in 3 cities
+  header: We offer the program in 3 cities
   items:
     - call_to_action: More
       color: teal lighten-4
