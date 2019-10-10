@@ -13,8 +13,11 @@ text: >-
   IT-companies and IT-departments.
 
 
+  **
 
-  ## Our programme
+
+
+  ## Our program
 
 
   ![](/img/powercoders_graphic_programme_volunteers.jpg)
@@ -26,12 +29,22 @@ text: >-
   to follow the participant during the internship.
 
 
-  **Get involved as**
+  ## Get involved as
 
 
-  (((PARTICIPANT)))    (((COMPANY)))    (((JOB-COACH)))   ((( IT TRAINER)))
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">PARTICIPANT</a>   
+
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">COMPANY</a> 
+
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">JOB-COACH</a> 
+
+  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  pwc-red">IT TRAINER</a> 
 city_program:
-  header: Our programme runs in three cities
+  header: Our program runs in three cities
   items:
     - call_to_action: More
       color: teal lighten-4
