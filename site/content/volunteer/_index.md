@@ -40,16 +40,17 @@ support_as:
       **Interested in coaching one of our participants? Please fill in the
       following form.**\
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">SIGN UP</a>
+      <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
+      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
 
 
       **Current dates of the program: check them out in the city closest to your
       place of residence.**\
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">LAUSANNE</a> <a href="/city/zurich/#participant" class="btn
-      waves-effect waves-light pwc-red">ZURICH</a>
+      <a href="/city/lausanne/" class="btn waves-effect waves-light
+      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
+      waves-light pwc-red">ZURICH</a>
   - header: As an IT Trainer
     text: >-
       ###### You support our teachers as assistants.
@@ -88,21 +89,22 @@ support_as:
       **Interested in training our participants? Please fill in the following
       form.**\   
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">SIGN UP</a>
+      <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
+      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
 
 
       **Current dates of the program: check them out in the city closest to your
       place of residence.**\
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">LAUSANNE</a> <a href="/city/zurich/#participant" class="btn
-      waves-effect waves-light pwc-red">ZURICH</a>
+      <a href="/city/lausanne/" class="btn waves-effect waves-light
+      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
+      waves-light pwc-red">ZURICH</a>
 programme:
-  header: Our programme
-  image: /img/powercoders_graphic_programme_volunteers.jpg
+  header: Our program
+  image: /img/powercoders_graphic_programme_volunteers.png
   text: >-
     **For more information, check our**
-    [factsheet](https://drive.google.com/file/d/1iuSFPXSnBy_kh36GIybEHma35EgFyOK4/view)
+    [factsheet](https://drive.google.com/drive/u/1/search?q=factsheet%20jobcoaches)
 ---
 
