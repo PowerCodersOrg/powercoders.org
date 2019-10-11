@@ -19,7 +19,7 @@ get_involved:
     that talented people will benefit the technology sector as much as it can
     benefit them.
 donuts:
-  - description: success rate for internship placements
+  - description: of our students get an internship
     percentage: 97
   - description: of participants find a job (ongoing estimation)
     percentage: 60
@@ -34,8 +34,8 @@ program:
     link: 'program/#coach'
     link_text: more
     text: >-
-      Do you want to support a refugee with becoming successfully integrated
-      into the local IT labor market?
+      Do you want to support a refugee with becoming successfully integrated in
+      the local IT labor market?
   - fade_in: Up
     header: Trainer
     link: 'program/#trainer'
