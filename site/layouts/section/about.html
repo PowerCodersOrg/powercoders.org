@@ -5,12 +5,14 @@
 {{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 
 <div class="container section">
-    <div class="row">
-        <div class="col s12 markdown">
-            {{ partial "markdownify-block" .Params.team.text }}
-        </div>
+  <div class="row">
+    <div class="col s12 markdown">
+      {{ partial "markdownify-block" .Params.team.text }}
     </div>
+  </div>
+</div>
 
+<div class="container-wide">
     <div class="row">
       <div class="col s12">
         <div class="input-field">

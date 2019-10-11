@@ -124,10 +124,6 @@ img.dim {
   filter: brightness(70%);
 }
 
-div.row.narrow {
-  width: 80%;
-}
-
 /* ul and p elements immediately after an h6 (e.g., on the program page)
   get 0 margin to visually connect them with the heading. */
 h6 + ul, h6 + p {
@@ -196,6 +192,42 @@ s-donut .donut__value {
 }
 
 /* ---------------- overwrite Materialized ---------------- */
+
+/* Make .container 20% smaller than Materialize defaults */
+.container {
+  width: 72% !important;
+}
+
+@media only screen and (min-width: 601px) {
+  .container {
+    width: 68% !important;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 56% !important;
+  }
+}
+
+/* .container-wide for sections that should fill more of the screen */
+.container-wide {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+@media only screen and (min-width: 601px) {
+  .container-wide {
+    width: 95%;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container-wide {
+    width: 90%;
+  }
+}
 
 /* Make the navbar 12 pixels taller than the default */
 nav.nav-extended .nav-wrapper {

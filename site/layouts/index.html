@@ -10,7 +10,7 @@
   <div class="container">
     <div class="row flex" style="justify-content:center;">
       {{ range $donut := .Params.donuts }}
-        <div class="col s6 m2">
+        <div class="col s6 m3">
           <div class="card-image center">
             <s-donut stroke-width="35" segments="[{start:0,end:{{ $donut.percentage }},color:'#c32e4c'}]">
               <span class="donut__value">{{ $donut.percentage }}%</span>
@@ -27,7 +27,7 @@
 {{ end }}
 
 <div class="pwc-red-light20">
-    <div class="container section">
+    <div class="container-wide section">
         <div class="row flex">
             {{ range $el := .Params.program }}
             <div class="col s12 m6 xl3">
