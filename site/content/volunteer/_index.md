@@ -103,8 +103,6 @@ support_as:
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_volunteers.png
-  text: >-
-    **For more information, check our**
-    [factsheet](https://drive.google.com/drive/u/1/search?q=factsheet%20jobcoaches)
+  text: ''
 ---
 
