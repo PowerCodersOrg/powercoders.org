@@ -1,6 +1,6 @@
 ---
-title: "Privacy Policy"
-section_title: "Privacy Policy"
+title: Privacy Policy
+subtitle: Privacy Policy
 image: /img/faq.jpg
 search_exclude: true
 ---
