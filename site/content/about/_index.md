@@ -1,5 +1,5 @@
 ---
-title: About
+title: About (Test)
 image: /img/header_about.jpg
 section_title: Our Team and the precious Community
 text: >-
