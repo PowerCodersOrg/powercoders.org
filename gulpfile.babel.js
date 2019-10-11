@@ -3,7 +3,8 @@ import cp from "child_process";
 import gutil from "gulp-util";
 import postcss from "gulp-postcss";
 import cssImport from "postcss-import";
-import cssnext from "postcss-cssnext";
+import postcssPresetEnv from "postcss-preset-env";
+import pleeease from "gulp-pleeease";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
@@ -39,9 +40,10 @@ exports.build_preview = series(css, js, hugo_preview);
 
 function css(cb) {
   src("./src/css/*.css")
+    .pipe(postcss([cssImport({ from: "./src/css/main.css" })]))
+    .pipe(pleeease())  // Supports drop-shadow filter on SVG elements
     .pipe(postcss([
-      cssImport({from: "./src/css/main.css"}),
-      cssnext(),
+      postcssPresetEnv({stage: 0}),
       cssnano(),
     ]))
     .pipe(dest("./dist/css"))

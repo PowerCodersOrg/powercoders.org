@@ -37,7 +37,7 @@ module.exports = {
           loader: "babel-loader",
           options: {
             presets: [
-              "env"
+              "@babel/preset-env"
             ]
           }
         }
@@ -63,7 +63,8 @@ module.exports = {
   },
   plugins: [
     new webpack.ProvidePlugin({
-      fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+      // See https://github.com/github/fetch/issues/659
+      fetch: "exports-loader?self.fetch!whatwg-fetch/dist/fetch.umd"
     })
   ],
 };
