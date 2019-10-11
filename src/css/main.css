@@ -191,6 +191,13 @@ s-donut .donut__value {
   display: block;
 }
 
+/* Add a shadow equivalent to z-depth-1 to the donut */
+s-donut svg {
+  filter: drop-shadow(0 2px 2px 0 rgba(0,0,0,.14))
+    drop-shadow(0 3px 1px -2px rgba(0,0,0,.12))
+    drop-shadow(0 1px 5px 0 rgba(0,0,0,.2));
+}
+
 /* ---------------- overwrite Materialized ---------------- */
 
 /* Make .container 20% smaller than Materialize defaults */
