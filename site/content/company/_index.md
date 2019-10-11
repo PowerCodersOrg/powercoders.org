@@ -65,8 +65,7 @@ support_as:
       here**\
 
       <a href="/volunteer/" class="btn waves-effect waves-light
-      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
-      waves-light pwc-red">VOLUNTEERS</a>
+      pwc-red">VOLUNTEERS</a>
 
 
       **Interested in signing up your employees as volunteers? Please fill in
