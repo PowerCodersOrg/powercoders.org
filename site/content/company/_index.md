@@ -22,7 +22,7 @@ support_as:
       empowering refugees? Please fill in the following form.** \
 
       <a
-      href="/https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform"
       class="btn waves-effect waves-light pwc-red">GET INVOLVED</a> 
 
 
@@ -69,10 +69,10 @@ support_as:
 
 
       **Interested in signing up your employees as volunteers? Please fill in
-      the following form.** \
+      the following form.**\   
 
       <a
-      href="/https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
       class="btn waves-effect waves-light pwc-red">SIGN UP</a>
   - header: Corporate Membership
     text: >-
