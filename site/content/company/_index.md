@@ -21,8 +21,10 @@ support_as:
       **Interested in offering an internship and becoming our partner in
       empowering refugees? Please fill in the following form.** \
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">GET INVOLVED</a> 
+      <a
+      href="/https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform"
+      class="btn waves-effect waves-light pwc-red">GET INVOLVED</a> 
+
 
 
       **For more information, check our**
@@ -62,15 +64,16 @@ support_as:
       **You can find more detailed information on the volunteering options
       here** \
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+      <a href="/volunteer/" class="btn waves-effect waves-light
       pwc-red">VOLUNTEERS</a>
 
 
       **Interested in signing up your employees as volunteers? Please fill in
       the following form.** \
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">SIGN UP</a>
+      <a
+      href="/https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
+      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
   - header: Corporate Membership
     text: >-
       Do you want to support a good cause with your company and are intrigued by
@@ -103,8 +106,8 @@ support_as:
       <a href="/city/zurich/#participant" class="btn waves-effect waves-light
       pwc-red">GET INVOLVED</a>
 programme:
-  header: Our programme
-  image: /img/powercoders_graphic_programme_companies.jpg
+  header: Our program
+  image: /img/powercoders_graphic_program_companies.png
   text: ''
 ---
 
