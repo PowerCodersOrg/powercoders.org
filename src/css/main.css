@@ -229,6 +229,13 @@ s-donut .donut__value {
   }
 }
 
+/* Hide elements on screens large or smaller */
+@media only screen and (max-width: 1200px) {
+  .hide-on-large-and-down {
+    display: none !important;
+  }
+}
+
 /* Make the navbar 12 pixels taller than the default */
 nav.nav-extended .nav-wrapper {
   min-height: 68px;

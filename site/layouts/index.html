@@ -74,7 +74,7 @@
     <!-- TODO: The cards here are very similar to the ones in alumni.html,
          maybe refactor this out in to a partial that takes a size? -->
     {{ range $i, $alumni := first 4 (shuffle $allAlumni)}}
-      <div class="col s12 m4 l3{{ if eq $i 3 }} hide-on-med-and-down{{ end }}">
+      <div class="col s12 m4 xl3{{ if eq $i 3 }} hide-on-large-and-down{{ end }}">
         <div class="card">
           <div class="card-image">
             <img src="{{ $alumni.image }}">
