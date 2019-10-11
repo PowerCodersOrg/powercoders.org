@@ -64,13 +64,13 @@ support_as:
       **You can find more detailed information on the volunteering options
       here**\
 
-      <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
+      <a href="/volunteer/" class="btn waves-effect waves-light
+      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
+      waves-light pwc-red">VOLUNTEERS</a>
 
 
       **Interested in signing up your employees as volunteers? Please fill in
-      the following form.**\   
+      the following form.**\
 
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
