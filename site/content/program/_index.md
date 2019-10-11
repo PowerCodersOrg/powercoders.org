@@ -38,11 +38,11 @@ text: >-
 
   <a href="/company/" class="btn waves-effect waves-light pwc-red">COMPANY</a> 
 
-  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
+  <a href="/volunteer/" class="btn waves-effect waves-light
   pwc-red">JOB-COACH</a> 
 
-  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-  pwc-red">IT TRAINER</a>
+  <a href="/volunteer/" class="btn waves-effect waves-light pwc-red">IT
+  TRAINER</a>
 city_program:
   header: We offer the program in 3 cities
   items:
