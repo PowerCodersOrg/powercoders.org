@@ -67,9 +67,7 @@ city_program:
       fade_in: Left
       header: Turin
       link: 'http://eepurl.com/c3pB1H'
-      text: >-
-        Our program is planned in Turin – details will be shown here in November
-        2019.
+      text: Our program is planned in Turin – details will be shown here soon.
 past_program:
   header: Past Programs
   items:
