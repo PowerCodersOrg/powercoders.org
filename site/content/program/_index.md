@@ -67,7 +67,7 @@ city_program:
       fade_in: Left
       header: Turin
       link: 'http://eepurl.com/c3pB1H'
-      text: Our program is planned in Turin – details will be shown here soon.
+      text: Our program is planned for Turin – details will follow.
 past_program:
   header: Past Programs
   items:
