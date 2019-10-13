@@ -56,7 +56,7 @@ text: >-
   [More information](/volunteer/)
 
 
-  **AS A IT TRAINER**\
+  **AS AN IT TRAINER**\
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
