@@ -87,7 +87,7 @@ support_as:
 
 
       **Interested in training our participants? Please fill in the following
-      form.**\   
+      form.**\
 
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
