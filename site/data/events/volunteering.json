@@ -1,5 +1,5 @@
 {
-  "remove_after": "",
+  "remove_after": "2019-10-13T20:00:00.000Z",
   "audience": [
     "volunteer"
   ],
@@ -11,6 +11,6 @@
   "text": "We are looking for people eager to support us either as a Job Coach for our participants or as an IT trainer. Check for more information.",
   "title": "Volunteering",
   "call_to_action": "More",
-  "when": "2019-10-08T20:08:07.522Z",
-  "link": "https://powercoders.org/program/"
+  "when": "",
+  "link": "https://powercoders.org/volunteer/"
 }
