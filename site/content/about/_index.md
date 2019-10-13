@@ -19,7 +19,7 @@ text: >-
   current we are running two school centers in Switzerland and one in Italy.
 
 
-  **Our Impact Report 2018**
+  ## **Our Impact Report 2018**
 
 
   ![Impact report 2018](/img/impact_report.png "Impact report 2018")
@@ -32,25 +32,37 @@ team:
     - description: Student / Zürich
       image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
+      visible: []
     - description: Student / Zürich
       image: /img/alan-omar.jpg
       name: Alan Omar
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/izzatollah-amani.jpg
       name: Amani Izzatollah
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/bashar-said.jpg
       name: Bashar Said
+      visible:
+        - participants
     - description: Coach / Zürich
       image: /img/benjamin-vonlanthen.jpg
       name: Benjamin Vonlanthen
-    - description: Vice-President
+    - description: CEO Powercoders / Vice-President
+      email: bettina.hirsig@powercoders.org
       image: /img/bettina-hirsig.jpg
       name: Bettina Hirsig
       visible:
@@ -60,6 +72,8 @@ team:
     - description: Student / Zürich
       image: /img/chiar-evdi.jpg
       name: Chiar Evdi
+      visible:
+        - participants
     - description: President
       email: christian.hirsig@powercoders.org
       image: /img/christian-hirsig.jpg
@@ -83,15 +97,23 @@ team:
     - description: Student / Bern
       image: /img/ebrahim-khalil-mehrno.jpg
       name: Ebrahim Mehrno
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/fortuna-mebratu.jpg
       name: Fortuna Mebratu
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/gajendran-packiyanathan.jpg
       name: Gajendran Packiyanathan
+      visible:
+        - participants
     - description: Industry Council
       image: /img/hannes-gassert.jpg
       name: Hannes Gassert
+      visible:
+        - board_powercoders
     - description: Lead Teacher / Lausanne
       image: /img/helene-portier.jpg
       name: Hélène Portier
@@ -99,6 +121,7 @@ team:
       image: /img/hermi.jpg
       name: Hermi
     - description: Program Manager
+      email: hussameddin.allaham@powercoders.org
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
       visible:
@@ -109,6 +132,8 @@ team:
     - description: Student / Bern
       image: /img/jamila-amini.jpg
       name: Jamila Amini
+      visible:
+        - participants
     - description: Coach / Zürich
       image: /img/julia-sharonova.jpg
       name: Julia Sharonova
@@ -124,6 +149,8 @@ team:
     - description: Student / Bern
       image: /img/lhamo-gakyitsang.jpg
       name: Lhamo Gakyitsang
+      visible:
+        - participants
     - description: Media producer
       image: /img/luana-laederach.jpg
       name: Luana Läderach
@@ -139,12 +166,16 @@ team:
     - description: Student / Bern
       image: /img/mannar-hielal.jpg
       name: Mannar Hielal
+      visible:
+        - participants
     - description: Mentor / Bern
       image: /img/manuel-linder.jpg
       name: Manuel Linder
     - description: Teaching Council
       image: /img/marco-jakob.jpg
       name: Marco Jakob
+      visible:
+        - board_powercoders
     - description: Coach / Bern
       image: /img/markus-gallagher.jpg
       name: Markus Gallagher
@@ -160,18 +191,28 @@ team:
     - description: Student / Zürich
       image: /img/mohamad-husam-ebish.jpg
       name: Mohamad Husam Ebish
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/mohammad-altahan.jpg
       name: Mohammad Altahan
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/mohammad-hadi-soroush.jpg
       name: Mohammad Hadi Soroush
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/mohammed-khairi.jpg
       name: Mohammed Khairi
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/muhammad-bashir-karimi.jpg
       name: Muhammad Bashir Karimi
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/nick-niles.jpg
       name: Nick Niles
@@ -184,18 +225,26 @@ team:
     - description: Student / Zürich
       image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/rami-jumaah.jpg
       name: Rami Jumaah
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/ranny-kaddoura.jpg
       name: Ranny Kaddoura
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/raphael-gaus.jpg
       name: Raphael Gaus
     - description: Student / Zürich
       image: /img/sangeerththani-ramesh.jpg
       name: Sangeerththani Ramesh
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/sergei-schaub.jpg
       name: Sergei Schaub
@@ -211,21 +260,61 @@ team:
     - description: Social Council
       image: /img/sunita-asnani.jpg
       name: Sunita Asnani
+      visible:
+        - board_powercoders
     - description: Student / Zürich
       image: /img/tenzin-dhondup-gyadhotsang.jpg
       name: Tenzin Gyadhotsang
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/tesfamichael-afewerki.jpg
       name: Tesfamichael Afewerki
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/visakha-thongpetsavong.jpg
       name: Visakha Thongpetsavong
     - description: Student / Zürich
       image: /img/yoseph-endrias-lechebo.jpg
       name: Yoseph Lechebo
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/yusup-khashbulatov.jpg
       name: Yusup Khashbulatov
+      visible:
+        - participants
+    - description: Teaching Lead Zurich
+      email: susanne.koenig@powercoders.org
+      image: /img/me_square.jpg
+      name: Susanne König
+      visible:
+        - team_zurich
+    - description: Industry Lead / Powerhouse Lausanne
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly-mathis.jpg
+      name: Magaly Mathys
+      visible:
+        - team_lausanne
+    - description: Social Lead / Powerhouse Lausanne
+      email: coline.sauzet@powercoders.org
+      image: /img/coline-sauzet.jpg
+      name: Coline Sauzet
+      visible:
+        - team_lausanne
+    - description: Social Lead / Powerhouse Zurich
+      email: andrina.beuggert@powercoders.org
+      image: /img/andrina_portray_001-1-.jpg
+      name: Andrina Beuggert
+      visible:
+        - team_zurich
+    - description: Teaching Lead / Powerhouse Lausanne
+      email: sorin.paun@powercoders.org
+      image: /img/sorin.jpg
+      name: Sorin Paun
+      visible:
+        - team_lausanne
   text: >-
     ## MEET THE TEAM
 
