@@ -82,13 +82,13 @@ support_as:
       IT labour force.
 
 
-      ###### MEMBERSHIP 
+      ###### MEMBERSHIP
 
 
       * Yearly membership fees based on the size of the company
 
 
-      ###### Benefits 
+      ###### Benefits
 
 
       * Preferential access to the career days (interview days)
@@ -101,10 +101,9 @@ support_as:
 
 
       **Interested in empowering refugees and in supporting us financially?
-      Please fill in the following form.** \
+      Please contact us.** \
 
-      <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-      pwc-red">GET INVOLVED</a>
+      [info@powercoders.org](info@powercoders.org)
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_companies.png
