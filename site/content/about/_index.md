@@ -120,7 +120,7 @@ team:
     - description: Hermi
       image: /img/hermi.jpg
       name: Hermi
-    - description: Program Manager
+    - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
@@ -285,7 +285,7 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
-    - description: Teaching Lead Zurich
+    - description: Teaching Lead Zurich / Powerhouse Zurich
       email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
