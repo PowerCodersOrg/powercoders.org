@@ -34,7 +34,7 @@ programme:
 
     * Coaching Program
 
-    * Access to an internship lasting between 6 and 12 months\ 
+    * Access to an internship lasting between 6 and 12 months 
 
 
     ---
@@ -43,7 +43,7 @@ programme:
     ###### PROGRAM AUTUMN 2019
 
 
-    Our current programs began in September 2019
+    Our current programs in Lausanne and Zurich began in September 2019. 
 
 
     ###### NEXT PROGRAMS IN 2020
