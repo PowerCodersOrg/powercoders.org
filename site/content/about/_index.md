@@ -13,7 +13,7 @@ text: >-
 
 
   The first Powercoders program started in Bern beginning of 2017 with an
-  overwhelming amount of volunteers participated as Job-Coaches or IT trainers
+  overwhelming amount of volunteers participated as Job Coaches or IT trainers
   and with many IT companies who were enthusiastic about offering internships.
   After this promising start, the Powercoders community has kept on growing and
   current we are running two school centers in Switzerland and one in Italy.
@@ -120,7 +120,7 @@ team:
     - description: Hermi
       image: /img/hermi.jpg
       name: Hermi
-    - description: Program Manager
+    - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
@@ -285,7 +285,7 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
-    - description: Teaching Lead Zurich
+    - description: Teaching Lead Zurich / Powerhouse Zurich
       email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
