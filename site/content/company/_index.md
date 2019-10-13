@@ -36,7 +36,7 @@ support_as:
 
       If you are convinced by what we do, you are welcome to spread the word and
       encourage your employees to support us as volunteers. We are always
-      looking for IT trainers and Job-Coaches. There is also the possibility to
+      looking for IT trainers and Job Coaches. There is also the possibility to
       support us with other talent such as helping with the social skills
       workshops.  
 
@@ -54,7 +54,7 @@ support_as:
 
       * IT Trainers are IT professionals who support our lead teacher in class 
 
-      * Job-Coaches accompany one of the participants during the internship
+      * Job Coaches accompany one of the participants during the internship
       phase
 
       * Our students need to learn more than IT in order to succeed in the
