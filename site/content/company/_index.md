@@ -62,7 +62,7 @@ support_as:
 
 
       **You can find more detailed information on the volunteering options
-      here**\
+      here.**\
 
       <a href="/volunteer/" class="btn waves-effect waves-light
       pwc-red">VOLUNTEERS</a>
@@ -103,7 +103,7 @@ support_as:
       **Interested in empowering refugees and in supporting us financially?
       Please contact us.** \
 
-      [info@powercoders.org](info@powercoders.org)
+      info@powercoders.org
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_companies.png
