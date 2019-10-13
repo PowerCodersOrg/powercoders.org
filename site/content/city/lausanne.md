@@ -32,24 +32,35 @@ text: >-
 
   **AS A STUDENT**\
 
-  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-  pwc-red">APPLY</a>\
+  <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+  waves-light pwc-red">APPLY</a>\
 
   [More information](/participant/)
 
 
   **AS A COMPANY**\
 
-  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-  pwc-red">GET IN TOUCH</a>\
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform"
+  class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
 
 
-  **AS A VOLUNTEER**\
+  **AS A JOB-COACH**\
 
-  <a href="/city/zurich/#participant" class="btn waves-effect waves-light
-  pwc-red">GET IN TOUCH</a>\
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
+  class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
+
+  [More information](/volunteer/)
+
+
+  **AS A IT TRAINER**\
+
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
+  class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/volunteer/)
 apply_as: []
