@@ -24,7 +24,7 @@ text: >-
   In order to be able to run the program, we are dependent on the support of the
   IT industry providing internships as well as on volunteers who either support
   the class teacher during school phase as IT Trainers or accompany participants
-  during their internships as Job-Coaches.
+  during their internships as Job Coaches.
 
 
   - - -
@@ -38,8 +38,8 @@ text: >-
 
   <a href="/company/" class="btn waves-effect waves-light pwc-red">COMPANY</a> 
 
-  <a href="/volunteer/" class="btn waves-effect waves-light
-  pwc-red">JOB-COACH</a> 
+  <a href="/volunteer/" class="btn waves-effect waves-light pwc-red">JOB
+  COACH</a> 
 
   <a href="/volunteer/" class="btn waves-effect waves-light pwc-red">IT
   TRAINER</a>
