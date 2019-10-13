@@ -13,7 +13,7 @@ text: >-
 
 
   The first Powercoders program started in Bern beginning of 2017 with an
-  overwhelming amount of volunteers participated as Job-Coaches or IT trainers
+  overwhelming amount of volunteers participated as Job Coaches or IT trainers
   and with many IT companies who were enthusiastic about offering internships.
   After this promising start, the Powercoders community has kept on growing and
   current we are running two school centers in Switzerland and one in Italy.
