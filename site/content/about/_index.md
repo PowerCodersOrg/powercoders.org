@@ -22,7 +22,7 @@ text: >-
   **Our Impact Report 2018**
 
 
-  ![Impact report 2018](/img/impactreport_2018.png "Impact report 2018")
+  ![Impact report 2018](/img/impact_report.png "Impact report 2018")
 
 
   [Download Impact report
