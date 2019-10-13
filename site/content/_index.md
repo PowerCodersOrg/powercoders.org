@@ -9,7 +9,7 @@ intro:
     Over 68.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
   text: A coding academy for refugees
-  video_id: kILDP3NmA6A
+  video_id: IKuz7vA30sI
 get_involved:
   content: >-
     # Our mission
@@ -53,7 +53,7 @@ program:
 teaser_image2:
   image: /img/ted-zh.jpg
   text: A vacant IT job can be filled with a displaced person
-  video_id: IKuz7vA30sI
+  video_id: kILDP3NmA6A
 email_signup:
   button_text: 'SIGN UP NOW '
   header: Add impact to your mailbox
