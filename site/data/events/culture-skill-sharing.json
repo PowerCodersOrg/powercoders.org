@@ -1,5 +1,5 @@
 {
-  "remove_after": "2019-10-08T15:00:00.000Z",
+  "remove_after": "2019-11-28T16:00:00.000Z",
   "audience": [
     "home",
     "student",
@@ -9,10 +9,10 @@
     "zurich"
   ],
   "header_icon": "fa-users",
-  "text": "Every Thursday at 4:00pm, we open our class to the community to join us, meet our participants, and enjoy a cultural and progress presentation, and the snacks and drinks afterwards.",
+  "text": "Every Thursday at 4:00pm, we open our class to the community to join us, meet our participants, and enjoy a cultural and progress presentation, and the snacks and drinks afterwards. \n\n**Every Thursday, 4 PM,  MBSZ – Marketing & Business School Zürich**",
   "meetup_link": "https://www.meetup.com/Powercoders/events/mgmwhryzmbzb/",
   "title": "Culture & Skill Sharing",
   "call_to_action": "Join",
-  "when": "2019-10-08T14:40:56.824Z",
+  "when": "",
   "link": "https://web.facebook.com/events/931648597170910/"
 }
