@@ -1,6 +1,5 @@
 backend:
   name: git-gateway
-  branch: redesign-2019-11
 
 publish_mode: editorial_workflow
 
