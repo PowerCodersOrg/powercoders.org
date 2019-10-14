@@ -82,7 +82,7 @@
           <div class="card-content">
             <span class="card-title">{{ or $alumni.display_name $alumni.title }}</span>
             {{ if $alumni.quote }}
-              <p>"<i>{{ $alumni.quote }}"</i></p>
+              <p><i>{{ $alumni.quote }}</i></p>
             {{ else }}
               <p>{{ $alumni.background }}</p>
             {{ end }}
