@@ -170,6 +170,7 @@ collections:
                       - {label: "Office", value: "office_powercoders"}
                       - {label: "Board", value: "board_powercoders"}
                       - {label: "Participants", value: "participants"}
+                      - {label: "Community", value: "community"}
       - file: site/content/alumni/_index.md
         label: Alumni
         name: alumni
