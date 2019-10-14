@@ -1,115 +1,71 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
 {{ if .Params.text }}
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8 markdown">
-            {{ .Params.text | markdownify }}
-        </div>
-    </div>
-</div>
-{{end}}
-
-{{ if .Params.events }}
-<hr class="whitespace">
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8">
-            <h2 id="events">Events</h2>
-            <div class="row">
-                {{ range $el := .Params.events }}
-                <div class="col s12 m6 12 hoverable space redborder btn-box markdown">
-                    <a href="{{$el.link}}" target="_blank">
-                        <h6><i class="fas {{$el.header_icon}} fa-2x"></i> {{$el.header}}</h6>
-                        {{if $el.text}}
-                        {{$el.text | markdownify}}
-                        {{end}}
-                        <object>
-                            {{if $el.link}}
-                            <a href="{{$el.link}}"
-  			       onclick="dataLayer.push({
-                                        'event': 'GAEvent',
-                                        'eventCategory': 'Event Signup',
-                                        'eventAction': 'Click call to action',
-                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
-                                        'eventValue': undefined
- 		                        });"
-                               class="btn waves-effect waves-light pwc-red" target="_blank">{{$el.call_to_action}}</a>
-                            {{end}}
-			    {{if $el.meetup_link}}
-			    <a href="{{$el.meetup_link}}"
-  			       onclick="dataLayer.push({
-                                        'event': 'GAEvent',
-                                        'eventCategory': 'Event Signup',
-                                        'eventAction': 'Click Meetup event',
-                                        'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
-                                        'eventValue': undefined
- 		                        });"
-                               class="btn waves-effect waves-light pwc-red" target="_blank">meetup.com <i style="vertical-align: bottom;" class="fab fa-meetup"></i></a>
-			    {{end}}
-                        </object>
-                    </a>
-                </div>
-                {{end}}
-            </div>
-        </div>
-    </div>
-</div>
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 {{end}}
 
 {{ if .Params.apply_as }}
-<hr class="whitespace">
 <div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8">
-            <h2 id="apply">Apply as</h2>
-
-            <ul class="collapsible">
-                {{ range $el := .Params.apply_as }}
-                <li>
-                    <div id="{{ lower $el.header }}" class="collapsible-header">
-                        <h6>{{ $el.header }}</h6>
-                    </div>
-                    {{if $el.text}}
-                    <div class="collapsible-body markdown">
-                      {{ $el.text | markdownify }}
-		      {{if $el.application_link }}
-		        <p><a href="{{$el.application_link}}"
-			    onclick="dataLayer.push({
-                              'event': 'GAEvent',
-                              'eventCategory': 'Application Forms',
-                              'eventAction': 'Click to view',
-                              'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
-                              'eventValue': undefined
-		            });"
-			    class="btn waves-effect waves-light pwc-red" target="_blank">Apply</a></p>
-		      {{end}}
-                    </div>
-                    {{end}}
-                </li>
-                {{end}}
-            </ul>
-        </div>
+  <div class="row">
+    <div class="col s12">
+      <h2 id="apply">Apply as</h2>
     </div>
+    <div class="col s12">
+      <ul class="collapsible">
+        {{ range $el := .Params.apply_as }}
+          <li>
+            <div id="{{ lower $el.header }}" class="collapsible-header">
+              <h6>{{ $el.header }}</h6>
+            </div>
+            {{if $el.text}}
+              <div class="collapsible-body markdown">
+                {{ partial "markdownify-block" $el.text }}
+                {{if $el.application_link }}
+                  <p><a href="{{$el.application_link}}"
+                    onclick="dataLayer.push({
+                                'event': 'GAEvent',
+                                'eventCategory': 'Application Forms',
+                                'eventAction': 'Click to view',
+                                'eventLabel': '{{ $el.header | safeJS }} / {{ $.Title | safeJS }}',
+                                'eventValue': undefined
+                    });"
+                    class="btn waves-effect waves-light pwc-red" target="_blank">Apply</a></p>
+                {{end}}
+              </div>
+            {{end}}
+          </li>
+        {{end}}
+      </ul>
+    </div>
+  </div>
 </div>
 {{end}}
 
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (and (in $event.city $.Page.File.BaseFileName) (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
+
+{{ partial "events" $activeEvents }}
 
 {{ if .Params.faqs }}
-<hr class="whitespace">
 <div class="container">
     <div class="row">
-        <div class="col s12 offset-l2 l8">
+        <div class="col s12">
             <h2>FAQ</h2>
-
+        </div>
+    </div>
+    <div class="row">
             <ul class="collapsible">
                 {{ range $el := .Params.faqs }}
                 <li>
                     <div class="collapsible-header">{{$el.header}}</div>
                     <div class="collapsible-body markdown">
-                        {{$el.text | markdownify}}
+                        {{ partial "markdownify-block" $el.text }}
                     </div>
                 </li>
                 {{end}}
@@ -124,14 +80,14 @@
 <div class="grey lighten-4 section">
     <div class="container">
         <div class="row">
-            <div class="col s12 offset-l2 l8">
+            <div class="col s12">
                 <h2>{{ .Params.team.header }}</h2>
             </div>
         </div>
 
-        <div class="row portrait">
+        <div class="row portrait flex">
             {{ range $el := .Params.team.members }}
-            <div class="col s6 m3 l2 animated"
+            <div class="col s6 m3 animated"
                  data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
                 <div><img src="{{$el.image}}" class="responsive"
                           alt="{{$el.name}}"></div>
@@ -143,53 +99,19 @@
         </div>
     </div>
 </div>
+
 {{end}}
 
-{{ if .Params.partner }}
-<div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            <div class="row">
-                <div class="col s12">
-                    <h2>Partner</h2>
-                </div>
-                {{ partial "partner" (dict "partner" .Params.partner )}}
-            </div>
-        </div>
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
     </div>
-</div>
-{{end}}
+  </div>
 
-{{ if .Params.industry_partner }}
-<div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            <div class="row valign-wrapper">
-                <div class="col s12">
-                    <h6>Industry Partner</h6>
-                </div>
-                {{ range $el := .Params.industry_partner }}
-                <div class="col s6 m4">
-                    <a href="{{$el.link}}" target="_blank">
-                        <p><img src="{{$el.image}}"
-                                alt="{{$el.name}}" class="responsive"></p>
-                    </a>
-                </div>
-                {{ end }}
-            </div>
-        </div>
-    </div>
-</div>
-{{end}}
-
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8">
-            <p><a href="/program/"> <i class="fas fa-arrow-alt-circle-left"></i> back to program</a>
-            </p>
-        </div>
-    </div>
-    <!-- end row -->
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Powercoders is supported by")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Company Members")}}
 </div>
 
 {{ end }}

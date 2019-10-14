@@ -1,0 +1,16 @@
+{
+  "remove_after": "2019-10-14T05:00:00.000Z",
+  "audience": [
+    "volunteer"
+  ],
+  "city": [
+    "lausanne",
+    "zurich"
+  ],
+  "header_icon": "fa-handshake",
+  "text": "We are looking for people eager to support us either as a Job Coach for our participants or as an IT trainer. Check for more information.",
+  "title": "Volunteering",
+  "call_to_action": "More",
+  "when": "",
+  "link": "https://powercoders.org/volunteer/"
+}

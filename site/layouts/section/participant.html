@@ -1,0 +1,38 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Params.title "subtitle" .Params.section_title) }}
+
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>{{ .Params.programme.header}}</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <img src="{{ .Params.programme.image }}" class="responsive-img">
+    </div>
+  </div>
+
+  {{ if .Params.programme.text}}
+    <div class="row">
+      <div class="col s12 markdown">
+        {{ partial "markdownify-block" .Params.programme.text }}
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (and (in $event.audience "student") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
+
+{{ partial "events" $activeEvents }}
+
+{{ end }}

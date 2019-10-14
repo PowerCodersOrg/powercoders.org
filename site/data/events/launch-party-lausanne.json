@@ -1,0 +1,17 @@
+{
+  "remove_after": "2019-09-17T22:00:00.000Z",
+  "audience": [
+    "home",
+    "volunteer",
+    "student"
+  ],
+  "city": [
+    "lausanne"
+  ],
+  "header_icon": "fa-rocket",
+  "text": "Join us and celebrate the start of the new programme. Also meet the new participants, the team, and enjoy good food and drinks, 19th September, 17.30, Lausanne",
+  "title": "Launch Party Lausanne",
+  "call_to_action": "Sign up",
+  "when": "2019-10-09T15:49:23.125Z",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSdJlhWevUrmdusC39MOl_6jeRtbhp6B-Fvqu0cAqr60O5KGog/viewform"
+}

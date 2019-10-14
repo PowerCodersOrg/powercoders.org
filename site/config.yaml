@@ -7,34 +7,31 @@ disableKinds:
   - taxonomy
   - taxonomyTerm
 
+# This menu is shown at the top of each page close to the logo.
 menu:
   main:
-  - identifier: home
-    name: Home
-    url: /
+  - identifier: participants
+    name: Participants
+    title: Information for participants
+    url: /participant/
     weight: 1
+  - identifier: companies
+    name: Companies
+    title: Information for companies
+    url: /company/
+    weight: 2
+  - identifier: volunteers
+    name: Volunteers
+    title: Information for volunteers
+    url: /volunteer/
+    weight: 3
   - identifier: about
     name: About
     title: Meet the team
     url: /about/
-    weight: 2
-  - identifier: program
-    name: Program
-    title: Get involved
-    url: /program/
-    weight: 3
-  - identifier: donate
-    name: Donate
-    title: Help us create a better future
-    url: /donate/
     weight: 5
   - identifier: press
     name: Press
     title: Press releases and our press kit
     url: /press/
     weight: 6
-  - identifier: faq
-    name: faq
-    title: Frequently Asked Questions
-    url: /faq/
-    weight: 7

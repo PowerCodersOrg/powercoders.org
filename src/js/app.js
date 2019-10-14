@@ -1,7 +1,10 @@
 import $ from "jquery";
-import "./jquery.waypoints";
-import "./materialize";
+import "waypoints/lib/jquery.waypoints.min.js";
+import "coffeekraken-s-donut-component";
 import "cookieconsent";
+import "jquery-match-height";
+import "lity";
+import "materialize-css";
 
 $(function() {
   function scrollToTarget(tid) {
@@ -36,21 +39,30 @@ $(function() {
     offset: "80%"
   });
 
-  $(".sidenav").sidenav();
-  $(".sidenav-trigger").click(function() { $("#toggle").addClass("active"); });
-  $(".sidenav-overlay").click(function() { $("#toggle").removeClass("active"); });
-
   $(".parallax").parallax();
 
   $(".collapsible").collapsible();
   openProgramCollapsible();
   $(window).on("hashchange", openProgramCollapsible);
 
+  $(".sidenav").sidenav();
+  $("select").formSelect();
+
+  // .card elements in a flex row don't grow to fill the height of the
+  // row. This seems to be a known problem with MaterializeCSS, e.g.,
+  // see https://stackoverflow.com/questions/37760307/materializecss-how-can-i-make-row-column-height-the-same
+  //
+  // Forcing the card height to 100% (or slightly smaller percentages)
+  // forces cards on subsequent rows to overlap. Use the match-height
+  // plugin to force cards to have the same height. If/when MaterializeCSS
+  // moves to use Flexbox fully this hack can be removed.
+  $(".row.flex .card").matchHeight();
+
 }); // end of document ready
 
 // Initialise cookie consent
 // See https://cookieconsent.osano.com/download/ for details
-$(window).load(function() {
+$(window).on("load", function() {
   window.cookieconsent.initialise({
     "palette": {
       "popup": {

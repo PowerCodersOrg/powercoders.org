@@ -1,55 +1,14 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8 markdown markdown">
-            {{ .Params.text | markdownify }}
-        </div>
-        <div class="col s12 offset-l2 l8">
-            <ul class="collapsible">
-                {{ range $el := .Params.roles }}
-                <li>
-                    <div id="{{ lower $el.header }}" class="collapsible-header">
-                        <h6>{{ $el.header }}</h6>
-                    </div>
-                    <div class="collapsible-body markdown">
-                        {{ $el.text | markdownify }}
-                    </div>
-                </li>
-                {{end}}
-            </ul>
-        </div>
-    </div>
-</div>
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 
-<div class="grey lighten-4 section">
-    <div class="container">
-        <div class="row">
-            <div class="col s12 offset-l2 l8">
-                <h2>{{.Params.city_program.header}}</h2>
-            </div>
-            {{ range $el := .Params.city_program.items }}
-            <div class="col s12 m6 hoverable btn-box {{$el.color}} animated" data-animation="fadeIn{{$el.fade_in}}">
-                <a href="{{$el.link}}">
-                    <h6>{{$el.header}}</h6>
-                    <p>{{$el.text}}</p>
-                    <object>
-                        <a href="{{$el.link}}"
-                           class="btn waves-effect waves-light pwc-red">{{$el.call_to_action}}
-                        </a>
-                    </object>
-                </a>
-            </div>
-            {{ end }}
-        </div>
-    </div>
-</div>
+{{ partial "city-cards" . }}
 
 <div class="container section">
     <div class="row">
-        <div class="col s12 offset-l2 l8">
+        <div class="col s12">
             <h2>{{.Params.past_program.header}}</h2>
             <ul class="past-city">
                 {{ range $el := .Params.past_program.items }}

@@ -30,7 +30,7 @@ text: >-
 
 
   <a href="https://donorbox.org/donatepowercoders" class="btn waves-effect
-  waves-light pwc-red">Donate!</a>
+  waves-light pwc-red" target="_blank" rel="noopener">Donate!</a>
 causes: []
 ---
 

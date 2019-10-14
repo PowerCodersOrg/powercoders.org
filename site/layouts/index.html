@@ -1,74 +1,131 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title "link_text" .Params.link_text "link_url" .Params.link_url) }}
 
-{{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text )}}
-
-{{ partial "parallax" (dict "parallax" .Params.teaser_image )}}
+{{ partial "intro" (dict "header" .Params.intro.header "text" .Params.intro.text "video_id" .Params.intro.video_id)}}
 
 {{ partial "paragraph" (dict "paragraph" .Params.get_involved )}}
 
-<div class="pwc-red-light20">
-    <div class="container section">
-        <div class="row">
-            {{ range $el := .Params.program }}
-            <div class="col s12 m6 l3 hoverable btn-box animated" data-animation="fadeIn{{$el.fade_in}}">
-                <a href="{{$el.link}}">
-                    <h2>{{$el.header}}</h2>
-                    <p>{{$el.text}}</p>
-                    <object><a href="{{$el.link}}"
-                               class="btn waves-effect waves-light pwc-red">{{$el.link_text}}</a></object>
-                </a>
-            </div>
-            {{ end }}
+{{ if .Params.donuts }}
+  <div class="container">
+    <div class="row flex" style="justify-content:center;">
+      {{ range $donut := .Params.donuts }}
+        <div class="col s6 m3">
+          <div class="card-image center">
+            <s-donut stroke-width="35" segments="[{start:0,end:{{ $donut.percentage }},color:'#c32e4c'}]">
+              <span class="donut__value">{{ $donut.percentage }}%</span>
+              <span class="donut__title"></span>
+            </s-donut>
+          </div>
+          <div class="card-content">
+            <p class="center">{{ $donut.description }}</p>
+          </div>
         </div>
+      {{ end }}
     </div>
+  </div>
+{{ end }}
+
+<div class="pwc-red-light20">
+  <div class="container-wide section">
+    <div class="row flex">
+      {{ range $el := .Params.program }}
+        <div class="col s12 m6 xl3">
+          <div class="card hoverable animated z-depth-0 pwc-red-light20" data-animation="fadeIn{{$el.fade_in}}">
+            <div class="card-content">
+              <h2 class="card-title">{{ $el.header }}</h2>
+              <p>{{ $el.text }}</p>
+            </div>
+            <div class="card-action">
+              <a class="btn waves-effect waves-light pwc-red" href="{{ $el.link }}">{{ $el.link_text }}</a>
+            </div>
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  </div>
 </div>
 
-<div class="container section">
-    <div class="row grow">
-        <div class="col s12 offset-l2 l8">
-            <h2>Latest</h2>
-        </div>
-        {{ range $el := .Params.latest }}
-        <div class="col s12 m6 l4 hoverable latest-box animated" data-animation="fadeIn{{$el.fade_in}}">
-            <a href="{{$el.link}}" target="_blank">
-                <h6><i class="fas {{$el.header_icon}} fa-2x"></i>{{$el.header}}</h6>
-                <p>{{$el.text}}</p>
-                <p class="latest">{{$el.link_text}} <i class="fas fa-angle-double-right"></i></p>
-            </a>
-        </div>
-        {{ end }}
-    </div>
-    <!-- end row -->
-</div>
+{{ partial "city-cards" . }}
+
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (and (in $event.audience "home") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
+
+{{ partial "events" $activeEvents }}
 
 {{ partial "parallax" (dict "parallax" .Params.teaser_image2 )}}
 
-<div class="container">
-    <div class="row section">
-        <div class="col s12 offset-l2 l8">
-            {{if .Params.story.text}}
-            <p class="markdown">{{.Params.story.text | markdownify}}</p>
-            {{end}}
-            <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/{{.Params.story.video_id}}" frameborder="0"
-                        allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>
-            <hr class="whitespace">
-
-            <div class="row">
-                <div class="col s12">
-                    <h2>Partner</h2>
-                </div>
-                {{ partial "partner" (dict "partner" .Params.partner "title" "Powercoders is supported by")}}
-                {{ partial "partner" (dict "partner" .Params.community_partner "title" "Community Partners")}}
-                {{ partial "partner" (dict "partner" .Params.company_member "title" "Company Members")}}
-            </div>
-            <!-- end row -->
-        </div>
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Meet our alumni</h2>
     </div>
-    <!-- end row -->
+  </div>
+
+  <div class="row flex">
+    <!-- Can't shuffle map keys, so collect the alumni map in to an array -->
+    {{ $allAlumni := slice }}
+    {{ range $alum := $.Site.Data.alumni }}
+      {{ $allAlumni = $allAlumni | append $alum }}
+    {{ end }}
+    <!-- TODO: The cards here are very similar to the ones in alumni.html,
+         maybe refactor this out in to a partial that takes a size? -->
+    {{ range $i, $alumni := first 4 (shuffle $allAlumni)}}
+      <div class="col s12 m4 xl3{{ if eq $i 3 }} hide-on-large-and-down{{ end }}">
+        <div class="card">
+          <div class="card-image">
+            <img src="{{ $alumni.image }}">
+          </div>
+          <div class="card-content">
+            <span class="card-title">{{ or $alumni.display_name $alumni.title }}</span>
+            {{ if $alumni.quote }}
+              <p><i>{{ $alumni.quote }}</i></p>
+            {{ else }}
+              <p>{{ $alumni.background }}</p>
+            {{ end }}
+          </div>
+          <div class="card-action">
+            <a class="pwc-red-text" href="/alumni#{{ anchorize $alumni.title }}">Read more <i class="fas fa-angle-double-right"></i></a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="row">
+    <div class="col s12 center">
+      <a class="btn waves-effect waves-light" href="/alumni">Discover our alumni stories</a>
+    </div>
+  </div>
+</div>
+
+<div class="pwc-red-light20">
+  <div class="container section">
+    <div class="row">
+      <div class="col s12">
+        <h3 class="center">{{ .Params.email_signup.header }}</h3>
+        <p class="center">{{ .Params.email_signup.text }}</p>
+        <p class="center"><a href="{{ .Params.email_signup.link }}"
+          class="btn waves-effect waves-light pwc-red" data-lity>{{ .Params.email_signup.button_text }}</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
+    </div>
+  </div>
+
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "partner" "title" "Powercoders is supported by")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "company_member" "title" "Company Members")}}
 </div>
 
 {{ end }}

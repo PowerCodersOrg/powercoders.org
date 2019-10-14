@@ -1,6 +1,6 @@
 ---
-title: "Terms and Conditions"
-section_title: "Terms and Conditions"
+title: Terms and Conditions
+subtitle: Terms and Conditions
 image: /img/faq.jpg
 search_exclude: true
 ---

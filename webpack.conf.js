@@ -37,7 +37,7 @@ module.exports = {
           loader: "babel-loader",
           options: {
             presets: [
-              "env"
+              "@babel/preset-env"
             ]
           }
         }
@@ -48,15 +48,23 @@ module.exports = {
           "style-loader",
           "css-loader"
         ]
+      },
+      {
+        test: require.resolve('jquery'),
+        use: [{
+          loader: 'expose-loader',
+          options: 'jQuery'
+        }, {
+          loader: 'expose-loader',
+          options: '$'
+        }]
       }
     ]
   },
   plugins: [
     new webpack.ProvidePlugin({
-      fetch: "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch"
+      // See https://github.com/github/fetch/issues/659
+      fetch: "exports-loader?self.fetch!whatwg-fetch/dist/fetch.umd"
     })
   ],
-  externals: {
-    jquery: "jQuery"
-  }
 };

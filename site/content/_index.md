@@ -1,115 +1,64 @@
 ---
 title: Startpage
 subtitle: Impacting lives by teaching how to code
-image: /img/homepage_01_1440x960.jpg
+link_text: Our program
+link_url: /program
+image: /img/IMG_2230-1.jpg
 intro:
   header: >-
     Over 68.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
-  text: A coding academy for refugees.
-teaser_image:
-  image: /img/main-page.jpg
+  text: A coding academy for refugees
+  video_id: IKuz7vA30sI
 get_involved:
   content: >-
     # Our mission
 
 
-    At Powercoders, we offer an intensive coding program to female and male
-    refugees with the ultimate goal of having all our participants secure a
-    permanent and full time job in the IT sector. In order to best achieve this
-    goal, our program offers our students three months of courses and then the
-    opportunity to do an internship.
-
-
-    Our talented team of experts and volunteers has worked to build a program
-    that best prepares our students and offers them the opportunity to build a
-    life in their new home. We believe that coding skills are a stepping stone
-    towards a new beginning and that talented refugees would benefit the
-    technology sector as much as it can benefit them. 
-
-
-    Get involved.
+    We believe that coding skills are a stepping stone to a new beginning and
+    that talented people will benefit the technology sector as much as it can
+    benefit them.
+donuts:
+  - description: of our students get an internship
+    percentage: 97
+  - description: of participants find a job (ongoing estimation)
+    percentage: 60
 program:
   - fade_in: Left
     header: Participant
-    link: 'program/#participant'
+    link: /participant
     link_text: more
     text: Are you a refugee eager to find your way into the IT industry?
+  - fade_in: Right
+    header: Company
+    link: /company
+    link_text: more
+    text: >-
+      Are you an IT company looking for talented people no matter where they
+      come from?
   - fade_in: Up
     header: Coach
-    link: 'program/#coach'
+    link: /volunteer
     link_text: more
     text: >-
       Do you want to support a refugee with becoming successfully integrated in
       the local IT labor market?
   - fade_in: Up
     header: Trainer
-    link: 'program/#trainer'
+    link: /volunteer
     link_text: more
     text: >-
       Are you an IT professional who likes to share their knowledge with
       newcomers?
-  - fade_in: Right
-    header: Company
-    link: 'program/#company'
-    link_text: more
-    text: >-
-      Are you an IT company looking for talented people no matter where they
-      come from?
-latest:
-  - fade_in: Up
-    header: Volunteering
-    header_icon: fa-hands-helping
-    link: 'https://powercoders.org/program/'
-    link_text: More
-    text: >-
-      We are looking for people eager to support us either as a Job Coach for
-      our participants or as an IT trainer. Check for more information.
-  - fade_in: Up
-    header: Video portrait
-    header_icon: fa-video
-    link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
-    link_text: Watch
-    text: "\"We make sure that everyone gets the same opportunity I got\", says our Hussam Allaham. Watch the portrait of Red Bull Switzerland about us \U0001F4AA\U0001F64F."
 teaser_image2:
   image: /img/ted-zh.jpg
-  text: A vacant IT job can be filled with a displaced person.
-story:
-  text: ''
-  video_id: IKuz7vA30sI
-partner:
-  - image: /img/schweizerische-eidgenossenschaft.png
-    link: 'https://www.sem.admin.ch'
-    name: Schweizerische Eidgenossenschaft
-    size: s6 m4
-  - image: /img/arcas.jpg
-    link: 'https://www.arcas-foundation.ch'
-    name: Arcas
-    size: s6 m4
-community_partner:
-  - image: /img/adobe_logo.jpg
-    link: 'https://www.adobe.com/'
-    name: Adobe
-    size: s6 m2
-  - image: /img/digitalswitzerland_logo.jpg
-    link: 'https://digitalswitzerland.com/'
-    name: Digital Switzerland
-    size: s6 m2
-  - image: /img/swissdevjobs_logo.png
-    link: 'https://swissdevjobs.ch/'
-    name: Swissdevjobs.ch
-    size: s6 m2
-  - image: /img/baernhaeckt_logo.png
-    link: 'https://www.bernhackt.ch/'
-    name: BärnHäckt
-    size: s6 m2
-  - image: /img/swissmadesoftware_logo.jpg
-    link: 'https://www.swissmadesoftware.org/'
-    name: Swiss made software
-    size: s6 m2
-  - image: /img/impacthub_logo.png
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
-    size: s6 m2
+  text: A vacant IT job can be filled with a displaced person
+  video_id: kILDP3NmA6A
+email_signup:
+  button_text: 'SIGN UP NOW '
+  header: Add impact to your mailbox
+  link: >-
+    https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8
+  text: Stay updated about our programs and events
 ---
 

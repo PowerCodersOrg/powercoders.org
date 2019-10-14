@@ -1,24 +1,32 @@
 /* Custom Stylesheet */
 @import url(cookieconsent/build/cookieconsent.min.css);
+@import url(materialize-css/dist/css/materialize.min.css);
+@import url(lity/dist/lity.min.css);
 
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
  *
  * Made By Madam Monorom / monorom.com
+ * Updates by Nik Clayton / nik@ngo.org.uk
  */
-@import './particles-grid.css';
 @import './animate.css';
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
 
 html {
 	font-size: 16px;
 }
 
-a {
-	color: #007fb7;
+p {
+	text-align: left;
 }
 
-a:visited {
+a {
 	color: #007fb7;
 }
 
@@ -33,9 +41,7 @@ a:active {
 h1 {
 	font-weight: 700;
 	font-size: 1.5rem;
-	margin: 0 0 70px;
-	padding: 15px;
-	background: rgba(195, 46, 76, 0.15);
+	margin: 0 0 2rem;
 	text-transform: uppercase;
 	text-align: center;
 	letter-spacing: 1px
@@ -84,14 +90,13 @@ h6 {
 }
 
 h3.padded-multiline {
-	font-size: 1.7rem;
+	font-size: 2.0rem;
 	line-height: 1.9;
 	padding: 3px 0;
-	font-weight: 300;
+	font-weight: 700;
 }
 
 h3.padded-multiline span {
-	background: rgba(0, 0, 0, 0.3);
 	color: #fff;
 	padding: 0.4rem;
 	/* Needs prefixing */
@@ -111,10 +116,42 @@ p,
 	hyphens: auto;
 }
 
+img.dim {
+  filter: brightness(70%);
+}
+
+/* ul and p elements immediately after an h6 (e.g., on the program page)
+  get 0 margin to visually connect them with the heading. */
+h6 + ul, h6 + p {
+  margin-top: 0;
+}
+
+/* ---------------- Flex classes ---------------- */
+
+.row.flex {
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	flex-flow: row wrap;
+}
+
+.row.flex .col {
+	margin-left: 0;
+}
+
 /* ---------------- colors ---------------- */
 
 .pwc-red-text {
-	color: rgb(195, 46, 76);
+	color: rgb(195, 46, 76) !important;
 }
 
 .pwc-red {
@@ -122,8 +159,7 @@ p,
 }
 
 .pwc-red-light20 {
-	background: rgba(195, 46, 76, 0.2);
-
+	background: #EBCDD3 !important;
 }
 
 .pwc-red-light40 {
@@ -138,129 +174,104 @@ p,
 	background: rgba(195, 46, 76, 0.8);
 }
 
-/* ---------------- navigation ---------------- */
-.button_container {
-  position: absolute;
-  top: 5%;
-  right: 2%;
-  height: 27px;
-  width: 35px;
-  width: 30px;
-  cursor: pointer;
-  z-index: 100;
-  -webkit-transition: opacity .25s ease;
-  transition: opacity .25s ease;
-}
-.button_container:hover {
-  opacity: .7;
-}
-.button_container.active .top {
-  -webkit-transform: translateY(9px) translateX(0) rotate(45deg);
-          transform: translateY(9px) translateX(0) rotate(45deg);
-  background: #000;
-}
-.button_container.active .middle {
-  opacity: 0;
-  background: #000;
-}
-.button_container.active .bottom {
-  -webkit-transform: translateY(-9px) translateX(0) rotate(-45deg);
-          transform: translateY(-9px) translateX(0) rotate(-45deg);
-  background: #000;
-}
-.button_container span {
-  background: #5A7247;
-  background:rgba(0,0,0, 0.8);
-  border: none;
-  height: 3px;
+/* ---------------- Donut charts ---------------- */
+
+s-donut {
+  height: 100%;
   width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  -webkit-transition: all .35s ease;
-  transition: all .35s ease;
-  cursor: pointer;
-}
-.button_container span:nth-of-type(2) {
-  top: 9px;
-}
-.button_container span:nth-of-type(3) {
-  top: 18px;
-}
-.sidenav {
-	background: none !important;
-	box-shadow: none;
-	padding-top: 80px;
 }
 
-
-.sidenav-overlay:before {
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	z-index: 1;
-	width: 30em;
-	background: rgb(195, 46, 76);
-	content: '';
-	transform: skewX(15deg) translateX(-20%);
-	transform-origin: bottom left;
-	will-change: transform;
-	transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+s-donut .donut__value {
+  font-size: 1rem;
+  font-weight: 700;
+  display: block;
 }
 
-@media (min-width: 40em) {
-	.sidenav-overlay:before {
-		width: 50em;
-	}
-}
-
-nav {
-	height: auto;
-}
-
-nav ul a,
-nav ul a:visited,
-.sidenav li > a,
-.sidenav li > a:visited {
-	font-size: 18px !important;
-	font-weight: 400 !important;
-	color: #fff;
-	text-transform: uppercase;
-	letter-spacing: 1px;
-}
-
-.sidenav li.active a,
-.sidenav li.active,
-.sidenav li > a:hover {
-	background-color: rgba(0, 0, 0, 0.0);
-	color: #bbb;
-}
-
-nav a.sidenav-trigger {
-	color: #000;
-	/* 	position: fixed;
-	 */
-	top: 20px;
-	left: 0px;
-	background: white;
-	height: 40px;
-	line-height: normal;
-	width: auto;
-	text-align: center;
-}
-
-@media screen and (min-width: 993px) {
-	nav a.sidenav-trigger {
-		display: block;
-	}
+/* Add a shadow equivalent to z-depth-1 to the donut */
+s-donut svg {
+  filter: drop-shadow(0 2px 2px 0 rgba(0,0,0,.14))
+    drop-shadow(0 3px 1px -2px rgba(0,0,0,.12))
+    drop-shadow(0 1px 5px 0 rgba(0,0,0,.2));
 }
 
 /* ---------------- overwrite Materialized ---------------- */
 
+/* Make .container 20% smaller than Materialize defaults */
+.container {
+  width: 72% !important;
+}
+
+@media only screen and (min-width: 601px) {
+  .container {
+    width: 68% !important;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container {
+    width: 56% !important;
+  }
+}
+
+/* .container-wide for sections that should fill more of the screen */
+.container-wide {
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 90%;
+}
+
+@media only screen and (min-width: 601px) {
+  .container-wide {
+    width: 95%;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  .container-wide {
+    width: 90%;
+  }
+}
+
+/* Hide elements on screens large or smaller */
+@media only screen and (max-width: 1200px) {
+  .hide-on-large-and-down {
+    display: none !important;
+  }
+}
+
+/* Make the navbar 12 pixels taller than the default */
+nav.nav-extended .nav-wrapper {
+  min-height: 68px;
+}
+
+.navbar-fixed {
+  height: 68px;
+}
+
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+  height: 68px;
+  line-height: 68px;
+}
+
+  @media only screen and (min-width: 601px) {
+  nav.nav-extended .nav-wrapper {
+    min-height: 76px;
+  }
+  nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 76px;
+    line-height: 76px;
+  }
+  .navbar-fixed {
+    height: 76px;
+  }
+}
+
+#nav-mobile.right, .sidenav-trigger.right {
+  padding-right: 2rem;
+}
+
 .parallax-container {
 	min-height: 500px;
-	line-height: 0;
 	height: auto;
 	color: rgba(255, 255, 255, .9);
 }
@@ -270,7 +281,7 @@ nav a.sidenav-trigger {
 }
 
 .section {
-	padding: 3rem 0;
+	padding-top: 3rem;
 }
 
 .col:not(.page-footer .col) > a {
@@ -280,17 +291,55 @@ nav a.sidenav-trigger {
 	color: #000;
 }
 
-/* ---------------- Logo ---------------- */
-
-.logo img {
-	padding: 30px 0;
-	max-width: 220px;
+strong {
+  font-weight: 700;
 }
 
-@media screen and (min-width: 601px) {
-	.logo img {
-		max-width: 350px;
-	}
+/* ---------------- Card ---------------- */
+
+/* Treat cards as flex containers */
+div.row.flex .card {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Ensure the content section grows to force the card-action
+   section to the bottom */
+div.row.flex .card .card-content {
+  flex-grow: 10;
+}
+
+/* Increase the size and weight of card titles */
+.card-title {
+  font-weight: 700 !important;
+  font-size: 1.15rem !important;
+}
+
+.card-reveal img.circle {
+  width: 3rem;
+  margin-right: .5rem;
+}
+
+/* Intra-paragraph margins in card content */
+.card-content p {
+  margin-bottom: .5rem !important;
+}
+
+.card-content p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* ---------------- Logo ---------------- */
+
+a.brand-logo.left {
+  left: 3rem; /* Absolutely positioned, nudge in a bit. */
+  top: 0.5rem; /* and down slightly */
+}
+
+a.brand-logo.left img {
+  width: 360px;
+  max-width: 70%;
+  vertical-align: text-top;
 }
 
 /* ---------------- animated ---------------- */
@@ -317,19 +366,11 @@ nav a.sidenav-trigger {
 /* ---------------- Hardruler ---------------- */
 
 hr {
-	border: 0;
-}
-
-hr.whitespace {
-	border-bottom: 1px solid #fff;
-	margin: 40px 0;
+  border: 0;
+  margin: 2rem 0;
 }
 
 /* ---------------- Accordion ---------------- */
-
-.collapsible {
-	margin: 10px 0 70px;
-}
 
 .collapsible-header:before {
 	font-family: 'Font Awesome 5 Free';
@@ -452,31 +493,13 @@ a.btn {
 	color: white;
 }
 
-.btn-box > a {
-	display: block;
-	color: #000;
-	padding: 20px 20px 60px;
+div.col {
+	position: relative;
 }
 
-.btn-box object {
-	position: absolute;
-	bottom: 20px;
-	left: 20px;
-}
-
-.btn-box h2 {
-	font-size: 2rem;
-	margin-top: 0;
-}
-
-.latest-box {
-	border: 1px solid rgba(0, 0, 0, 0.5);
-}
-
-.latest-box > a {
-	display: block;
-	color: #000;
-	padding: 20px 20px 40px;
+.col .wrapper {
+	/* 60 px padding at the bottom to absolutely position the button */
+	padding: 0 0 60px 0;
 }
 
 .latest {
@@ -488,19 +511,8 @@ a.btn {
 	font-weight: 700;
 }
 
-.latest-box h6 i,
-.btn-box h6 i {
-	padding-right: 20px;
-	vertical-align: middle;
-}
-
 .border {
 	border: 1px solid rgba(0, 0, 0, 0.5);
-}
-
-.redborder {
-	border: 1px dotted rgb(195, 46, 76);
-	;
 }
 
 /* ---------------- portrait & partner---------------- */
@@ -565,61 +577,6 @@ img.responsive {
 	height: 100%;
 }
 
-/* ---------------- Timeline ---------------- */
-
-.timeline {
-	border-left: 4px solid #C32E4C;
-	border-bottom-right-radius: 4px;
-	border-top-right-radius: 4px;
-	margin: 0 0 0 120px;
-	letter-spacing: 0.5px;
-	position: relative;
-	line-height: 1.4em;
-	font-size: 1.03em;
-	padding: 50px 0 20px 50px !important;
-	list-style: none;
-	text-align: left;
-}
-
-.timeline .event {
-	border-bottom: 1px dotted #C32E4C;
-	padding-bottom: 10px;
-	margin-bottom: 20px;
-	position: relative;
-}
-
-.timeline .event:last-of-type {
-	padding-bottom: 0;
-	margin-bottom: 0;
-	border: none;
-}
-
-.timeline .event:before,
-.timeline .event:after {
-	position: absolute;
-	display: block;
-	top: 0;
-}
-
-.timeline .event:before {
-	left: -217.5px;
-	content: attr(data-date);
-	text-align: right;
-	font-size: 0.9em;
-	width: 120px;
-}
-
-.timeline .event:after {
-	box-shadow: 0 0 0 4px #C32E4C;
-	left: -57.85px;
-	background: #fff;
-	border-radius: 50%;
-	height: 11px;
-	width: 11px;
-	content: "";
-	top: 5px;
-}
-
 /* ---------------- footer ---------------- */
 
 footer.page-footer {
@@ -656,12 +613,6 @@ footer.page-footer i {
 
 }
 
-@media screen and (min-width: 601px) {
-	.social {
-		text-align: right;
-	}
-}
-
 /* ---------------- markdown ---------------- */
 .markdown img {
 	max-width: 100%;
@@ -675,4 +626,3 @@ footer.page-footer i {
 .markdown ul>li {
 	list-style-type: disc;
 }
-

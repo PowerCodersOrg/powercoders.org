@@ -1,81 +1,87 @@
 ---
 title: About
-image: /img/about-powercoders.jpg
-section_title: About
+image: /img/header_about.jpg
+section_title: Our Team and the precious Community
 text: >-
-  ### The ultimate goal of Powercoders is the permanent placement of trained
-  refugees in IT companies and IT departments.
+  It all started with a trip to the United States in 2016. At this time, the
+  refugee crisis in Europe was all over the news. Founder Christian Hirsig met
+  two other entrepreneurs in the US: one with a cooking school for refugees, one
+  with a coding academy for women. Inspired by their projects and driven by the
+  energy to help, the idea of Powercoders was born, with the mission of giving
+  people their independence back, reducing social welfare costs and addressing
+  the shortage of talent in the IT-industry.
 
 
-  It all started with a trip to the United States. At this time, the refugee
-  crisis in Europe was all over the news. Founder Christian Hirsig met two other
-  entrepreneurs in the US: one with a cooking school for refugees, one with a
-  coding academy for women. Inspired by their projects and driven by the energy
-  to help, the idea of Powercoders was born, with the mission of giving people
-  their independence back, reducing social welfare costs and addressing the
-  shortage of talent  in the IT-industry. The  first Powercoders program started
-  already half a year later in Bern. An overwhelming amount of volunteers
-  participated as coaches or mentors. Additionally many IT companies were
-  enthusiastic about offering internships. After this promising start, the
-  Powercoders community has kept on growing, withmore programs starting in new
-  cities every year. Be part of the Powercoders community and [get
-  involved](/program/).
+  The first Powercoders program started in Bern beginning of 2017 with an
+  overwhelming amount of volunteers participated as Job Coaches or IT trainers
+  and with many IT companies who were enthusiastic about offering internships.
+  After this promising start, the Powercoders community has kept on growing and
+  current we are running two school centers in Switzerland and one in Italy.
 
 
-  [Impact report
+  ## **Our Impact Report 2018**
+
+
+  ![Impact report 2018](/img/impact_report.png "Impact report 2018")
+
+
+  [Download Impact report
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
-
-
-  [TedX Talk of Founder](https://youtu.be/kILDP3NmA6A)
-timeline:
-  - date: JUN 2016
-    text: incorporation non-profit
-  - date: JAN 2017
-    text: launch school in Bern
-  - date: MAY 2017
-    text: start internships in Bern
-  - date: AUG 2017
-    text: 1st student off of social welfare
-  - date: SEP 2017
-    text: expansion to Zurich
-  - date: NOV 2017
-    text: contract CH government
-  - date: APR 2018
-    text: expansion to Lausanne
-  - date: NOV 2018
-    text: expansion to Basel
 team:
   members:
     - description: Student / Zürich
       image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
+      visible: []
     - description: Student / Zürich
       image: /img/alan-omar.jpg
       name: Alan Omar
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/izzatollah-amani.jpg
       name: Amani Izzatollah
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/bashar-said.jpg
       name: Bashar Said
+      visible:
+        - participants
     - description: Coach / Zürich
       image: /img/benjamin-vonlanthen.jpg
       name: Benjamin Vonlanthen
-    - description: Vice-President
+    - description: CEO Powercoders / Vice-President
+      email: bettina.hirsig@powercoders.org
       image: /img/bettina-hirsig.jpg
       name: Bettina Hirsig
+      visible:
+        - office_powercoders
+        - board_powercoders
+        - switzerland
     - description: Student / Zürich
       image: /img/chiar-evdi.jpg
       name: Chiar Evdi
+      visible:
+        - participants
     - description: President
+      email: christian.hirsig@powercoders.org
       image: /img/christian-hirsig.jpg
       name: Christian Hirsig
+      visible:
+        - office_powercoders
+        - board_powercoders
+        - switzerland
     - description: Coach / Bern
       image: /img/christian-zosel.jpg
       name: Christian Zosel
@@ -91,29 +97,43 @@ team:
     - description: Student / Bern
       image: /img/ebrahim-khalil-mehrno.jpg
       name: Ebrahim Mehrno
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/fortuna-mebratu.jpg
       name: Fortuna Mebratu
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/gajendran-packiyanathan.jpg
       name: Gajendran Packiyanathan
+      visible:
+        - participants
     - description: Industry Council
       image: /img/hannes-gassert.jpg
       name: Hannes Gassert
+      visible:
+        - board_powercoders
     - description: Lead Teacher / Lausanne
       image: /img/helene-portier.jpg
       name: Hélène Portier
-    - image: /img/hermi.jpg
+    - description: Hermi
+      image: /img/hermi.jpg
       name: Hermi
-    - description: Program Manager
+    - description: Program Manager / Powerhouse Zurich
+      email: hussameddin.allaham@powercoders.org
       image: /img/hussam-allaham.jpg
       name: Hussam Allaham
+      visible:
+        - team_zurich
     - description: Coach / Zürich
       image: /img/ilya-shumilin.jpg
       name: Ilya Shumilin
     - description: Student / Bern
       image: /img/jamila-amini.jpg
       name: Jamila Amini
+      visible:
+        - participants
     - description: Coach / Zürich
       image: /img/julia-sharonova.jpg
       name: Julia Sharonova
@@ -129,6 +149,8 @@ team:
     - description: Student / Bern
       image: /img/lhamo-gakyitsang.jpg
       name: Lhamo Gakyitsang
+      visible:
+        - participants
     - description: Media producer
       image: /img/luana-laederach.jpg
       name: Luana Läderach
@@ -144,12 +166,16 @@ team:
     - description: Student / Bern
       image: /img/mannar-hielal.jpg
       name: Mannar Hielal
+      visible:
+        - participants
     - description: Mentor / Bern
       image: /img/manuel-linder.jpg
       name: Manuel Linder
     - description: Teaching Council
       image: /img/marco-jakob.jpg
       name: Marco Jakob
+      visible:
+        - board_powercoders
     - description: Coach / Bern
       image: /img/markus-gallagher.jpg
       name: Markus Gallagher
@@ -165,18 +191,28 @@ team:
     - description: Student / Zürich
       image: /img/mohamad-husam-ebish.jpg
       name: Mohamad Husam Ebish
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/mohammad-altahan.jpg
       name: Mohammad Altahan
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/mohammad-hadi-soroush.jpg
       name: Mohammad Hadi Soroush
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/mohammed-khairi.jpg
       name: Mohammed Khairi
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/muhammad-bashir-karimi.jpg
       name: Muhammad Bashir Karimi
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/nick-niles.jpg
       name: Nick Niles
@@ -189,18 +225,26 @@ team:
     - description: Student / Zürich
       image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/rami-jumaah.jpg
       name: Rami Jumaah
+      visible:
+        - participants
     - description: Student / Zürich
       image: /img/ranny-kaddoura.jpg
       name: Ranny Kaddoura
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/raphael-gaus.jpg
       name: Raphael Gaus
     - description: Student / Zürich
       image: /img/sangeerththani-ramesh.jpg
       name: Sangeerththani Ramesh
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/sergei-schaub.jpg
       name: Sergei Schaub
@@ -216,29 +260,68 @@ team:
     - description: Social Council
       image: /img/sunita-asnani.jpg
       name: Sunita Asnani
+      visible:
+        - board_powercoders
     - description: Student / Zürich
       image: /img/tenzin-dhondup-gyadhotsang.jpg
       name: Tenzin Gyadhotsang
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/tesfamichael-afewerki.jpg
       name: Tesfamichael Afewerki
+      visible:
+        - participants
     - description: Mentor / Zürich
       image: /img/visakha-thongpetsavong.jpg
       name: Visakha Thongpetsavong
     - description: Student / Zürich
       image: /img/yoseph-endrias-lechebo.jpg
       name: Yoseph Lechebo
+      visible:
+        - participants
     - description: Student / Bern
       image: /img/yusup-khashbulatov.jpg
       name: Yusup Khashbulatov
+      visible:
+        - participants
+    - description: Teaching Lead Zurich / Powerhouse Zurich
+      email: susanne.koenig@powercoders.org
+      image: /img/me_square.jpg
+      name: Susanne König
+      visible:
+        - team_zurich
+    - description: Industry Lead / Powerhouse Lausanne
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly-mathis.jpg
+      name: Magaly Mathys
+      visible:
+        - team_lausanne
+    - description: Social Lead / Powerhouse Lausanne
+      email: coline.sauzet@powercoders.org
+      image: /img/coline-sauzet.jpg
+      name: Coline Sauzet
+      visible:
+        - team_lausanne
+    - description: Social Lead / Powerhouse Zurich
+      email: andrina.beuggert@powercoders.org
+      image: /img/andrina_portray_001-1-.jpg
+      name: Andrina Beuggert
+      visible:
+        - team_zurich
+    - description: Teaching Lead / Powerhouse Lausanne
+      email: sorin.paun@powercoders.org
+      image: /img/sorin.jpg
+      name: Sorin Paun
+      visible:
+        - team_lausanne
   text: >-
     ## MEET THE TEAM
 
 
     The Powercoders team is a talented and motivated group of people that work
-    to change the lives of refugees. We are a non profit organisation that
+    to change the lives of refugees. We are a non-profit organisation that
     depend on our incredible volunteers, so thank you to all these great people
-    who are making a difference. Not all of our students, mentors and coaches
-    are listed. Pictures to come.
+    who are making a difference.
 ---
 

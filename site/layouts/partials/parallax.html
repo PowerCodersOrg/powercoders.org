@@ -1,9 +1,13 @@
 <div class="parallax-container valign-wrapper">
-    {{ if (isset .parallax "text") }}
+  {{ if (isset .parallax "text") }}
     <div class="container center">
-        <h3 class="padded-multiline"><span>{{.parallax.text}}</span></h3>
+      <h3 class="padded-multiline"><span>{{.parallax.text}}</span></h3>
+      {{ if .parallax.video_id}}
+        <p class="center"><a href="https://www.youtube.com/watch?v={{ .parallax.video_id}}" data-lity><i class="white-text fab fa-youtube fa-3x"></i><br><span class="white-text">Learn more</span></a></p>
+      {{end}}
     </div>
-    {{ end }}
-    <div class="parallax"><img src="{{.parallax.image}}" alt="Background Powercoders"></div>
+  {{ end }}
+  <div class="parallax">
+    <img {{ if (isset .parallax "text") }}class="dim" {{ end }}src="{{.parallax.image}}" alt="">
+  </div>
 </div>
-

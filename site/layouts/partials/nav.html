@@ -1,24 +1,32 @@
-<a href="#" data-target="nav-mobile" class="sidenav-trigger">
-    <div class="button_container" id="toggle">
-        <span class="top"></span>
-        <span class="middle"></span>
-        <span class="bottom"></span>
+<div class="navbar-fixed">
+  <nav class="white">
+    <div class="nav-wrapper">
+      <a href="/" class="brand-logo left"><img class="responsive-image" src="/img/powercoders-logo.svg" alt="Powercoders"></a>
+      <a href="#" data-target="mobile-nav" class="sidenav-trigger right"><i class="fas fa-bars black-text"></i></a>
+
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="active"{{end}}>
+          <a class="black-text" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+        <li>
+          <a class="btn waves-effect waves-light" href="https://donorbox.org/donatepowercoders" target="_blank" rel="noopener">Donate</a>
+        </li>
+      </ul>
     </div>
-</a>
-<nav role="navigation">
-    <div class="nav-wrapper container">
-        <ul id="nav-mobile" class="sidenav">
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
-            <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}">
-                <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-            </li>
-            {{ end }}
-        </ul>
-    </div>
-</nav>
-<header class="center">
-    <a href="/" class="logo center">
-        <img src="/img/powercoders-logo.svg" alt="POWERCODERS Logo">
-    </a>
-</header>
+  </nav>
+</div>
+
+<ul class="sidenav" id="mobile-nav">
+  {{ $currentPage := . }}
+  {{ range .Site.Menus.main }}
+    <li {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}class="active"{{end}}>
+      <a class="black-text" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    </li>
+  {{ end }}
+  <li>
+    <a class="btn waves-effect waves-light" href="https://donorbox.org/donatepowercoders" target="_blank" rel="noopener">Donate</a>
+  </li>
+</ul>

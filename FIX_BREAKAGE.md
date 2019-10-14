@@ -1,6 +1,6 @@
 # How to find the commit that broke the site
 
-## Syopsis
+## Synopsis
 
 Sometimes people commit changes to the site configuration that cause
 it to break. Or they delete content that they shouldn’t have, and it

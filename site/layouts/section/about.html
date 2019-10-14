@@ -1,43 +1,68 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8 markdown">
-            {{ .Params.text | markdownify }}
-            <hr class="whitespace">
-            <h2>Timeline</h2>
-            <ul class="timeline">
-                {{ range $el := .Params.timeline }}
-                <li class="event" data-date="{{$el.date}}">
-                    <h5>{{$el.text}}</h5>
-                </li>
-                {{end}}
-            </ul>
-        </div>
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 
+<div class="container section">
+  <div class="row">
+    <div class="col s12 markdown">
+      {{ partial "markdownify-block" .Params.team.text }}
     </div>
-    <!-- end row -->
+  </div>
 </div>
-<!-- end container -->
-<hr class="whitespace">
-<div class="container">
+
+<div class="container-wide">
     <div class="row">
-        <div class="col s12 offset-l2 l8 markdown">
-            {{ .Params.team.text | markdownify }}
+      <div class="col s12">
+        <div class="input-field">
+          <select id="vis-selector">
+            <!-- Keep list in sync with the options in config.yml -->
+            <option value="">Everybody</option>
+            <option value="team_zurich">Team Zurich</option>
+            <option value="team_lausanne">Team Lausanne</option>
+            <option value="team_turin">Team Turin</option>
+            <option value="office_powercoders">Office</option>
+            <option value="board_powercoders">Board</option>
+            <option value="participants">Participants</option>
+            <option value="community">Community</option>
+          </select>
         </div>
+      </div>
     </div>
 
-    <div class="row portrait">
+    <div class="row flex portrait">
         {{ range $el := .Params.team.members }}
-        <div class="col s6 m3 l2 animated" data-animation='fadeIn{{ index (first 1 (shuffle (slice "Left" "Right" "Up"))) 0 }}'>
+        <div class="col s6 m4 l2" data-visible="{{ $el.visible }}">
             <div><img src="{{$el.image}}" class="responsive"
                       alt="{{$el.name}}"></div>
             <p><strong>{{$el.name}}</strong><br>{{$el.description}}
+              {{if $el.email}}<br><i class="far fa-envelope"></i> <a href="mailto:{{$el.email}}">Contact</a>{{end}}
             </p>
         </div>
         {{end}}
     </div>
 </div>
+
+<script type="text/javascript">
+// Deliberately as simple as possible since it's not transpiled
+var portraits = document.querySelectorAll('[data-visible]');
+var numPortraits = portraits.length;
+var selector = document.getElementById('vis-selector');
+selector.addEventListener('change', function(event) {
+  for (var i = 0; i < numPortraits; i++) {
+    var portrait = portraits[i];
+    if (event.target.value === '') {
+      portrait.style.display = '';
+      continue;
+    }
+
+    if (portrait.dataset.visible.indexOf(event.target.value) !== -1) {
+      portrait.style.display = '';
+    } else {
+      portrait.style.display = 'none';
+    }
+  }
+});
+</script>
 {{ end }}

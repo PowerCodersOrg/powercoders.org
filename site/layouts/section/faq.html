@@ -1,20 +1,16 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle "section_title" .Params.section_title) }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
 
-<div class="container">
-    <div class="row">
-        <div class="col s12 offset-l2 l8">
-            <div class="markdown">
-                {{ .Params.text | markdownify }}
-            </div>
-            <hr class="whitespace">
-            {{ range $section := .Params.sections }}
-            {{ partial "collapsible" (dict "section" $section )}}
-            {{ end }}
-        </div>
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      {{ range $section := .Params.sections }}
+        {{ partial "collapsible" (dict "section" $section )}}
+      {{ end }}
     </div>
-    <!-- end row -->
+  </div>
 </div>
-<!-- end container -->
 {{ end }}

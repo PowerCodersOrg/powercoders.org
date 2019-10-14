@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.section_title) }}
+
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>How you can support us</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <ul class="collapsible">
+        {{ range $el := .Params.support_as }}
+          <li>
+            <div id="{{ $el.header }}" class="collapsible-header">
+              <h6>{{ $el.header }}</h6>
+            </div>
+
+            <div class="collapsible-body markdown">
+              {{ partial "markdownify-block" $el.text }}
+            </div>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>{{ .Params.programme.header}}</h2>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col s12">
+      <img src="{{ .Params.programme.image }}" class="responsive-img">
+    </div>
+  </div>
+
+  {{ if .Params.programme.text}}
+    <div class="row">
+      <div class="col s12">
+        {{ partial "markdownify-block" .Params.programme.text }}
+      </div>
+    </div>
+  {{ end }}
+</div>
+
+{{ $activeEvents := slice }}
+{{ range $event := $.Site.Data.events }}
+  {{ if (and (in $event.audience "company") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+    {{ $activeEvents = $activeEvents | append $event }}
+  {{ end }}
+{{ end }}
+
+{{ partial "events" $activeEvents }}
+
+<!-- TODO: This should probably be turned in to a partial that creates the whole
+     section, and takes parameters for the city and the types -->
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
+    </div>
+  </div>
+
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "community_partner" "title" "Community Partners")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "company_member" "title" "Company Members")}}
+</div>
+
+{{ end }}
