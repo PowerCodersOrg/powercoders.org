@@ -72,7 +72,7 @@ support_as:
       the following form.**\
 
       <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSff1rTqWpw0hvOhALAy8OEbViZK43PhtbQTV9nRG4GE5g1w3Q/viewform"
       class="btn waves-effect waves-light pwc-red">SIGN UP</a>
   - header: Corporate Membership
     text: >-
