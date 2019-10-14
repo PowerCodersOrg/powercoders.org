@@ -42,7 +42,8 @@ team:
     - description: Mentor / Zürich
       image: /img/agnes-nemethy.jpg
       name: Agnes Néméthy
-      visible: []
+      visible:
+        - community
     - description: Student / Zürich
       image: /img/alan-omar.jpg
       name: Alan Omar
@@ -53,6 +54,12 @@ team:
       name: Amani Izzatollah
       visible:
         - participants
+    - description: Social Lead / Powerhouse Zurich
+      email: andrina.beuggert@powercoders.org
+      image: /img/andrina_portray_001-1-.jpg
+      name: Andrina Beuggert
+      visible:
+        - team_zurich
     - description: Student / Zürich
       image: /img/bashar-said.jpg
       name: Bashar Said
@@ -61,6 +68,8 @@ team:
     - description: Coach / Zürich
       image: /img/benjamin-vonlanthen.jpg
       name: Benjamin Vonlanthen
+      visible:
+        - community
     - description: CEO Powercoders / Vice-President
       email: bettina.hirsig@powercoders.org
       image: /img/bettina-hirsig.jpg
@@ -85,15 +94,29 @@ team:
     - description: Coach / Bern
       image: /img/christian-zosel.jpg
       name: Christian Zosel
+      visible:
+        - community
     - description: Coach / Bern
       image: /img/christoph-isch.jpg
       name: Christoph Isch
+      visible:
+        - community
     - description: Coach / Bern
       image: /img/christoph-ackermann.jpg
       name: Christoph Ackermann
+      visible:
+        - community
+    - description: Social Lead / Powerhouse Lausanne
+      email: coline.sauzet@powercoders.org
+      image: /img/coline-sauzet.jpg
+      name: Coline Sauzet
+      visible:
+        - team_lausanne
     - description: Coach / Bern
       image: /img/damian-senn.jpg
       name: Damian Senn
+      visible:
+        - community
     - description: Student / Bern
       image: /img/ebrahim-khalil-mehrno.jpg
       name: Ebrahim Mehrno
@@ -117,9 +140,13 @@ team:
     - description: Lead Teacher / Lausanne
       image: /img/helene-portier.jpg
       name: Hélène Portier
+      visible:
+        - community
     - description: Hermi
       image: /img/hermi.jpg
       name: Hermi
+      visible:
+        - community
     - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
       image: /img/hussam-allaham.jpg
@@ -129,6 +156,8 @@ team:
     - description: Coach / Zürich
       image: /img/ilya-shumilin.jpg
       name: Ilya Shumilin
+      visible:
+        - community
     - description: Student / Bern
       image: /img/jamila-amini.jpg
       name: Jamila Amini
@@ -137,15 +166,23 @@ team:
     - description: Coach / Zürich
       image: /img/julia-sharonova.jpg
       name: Julia Sharonova
+      visible:
+        - community
     - description: Mentor / Zürich
       image: /img/juliana-mourisca.jpg
       name: Juliana Mourisca
+      visible:
+        - community
     - description: Mentor / Zürich / Bern
       image: /img/kurt-kammermann.jpg
       name: Kurt Kammermann
+      visible:
+        - community
     - description: Mentor / Zürich
       image: /img/lena-goetsch.jpg
       name: Lena Götsch
+      visible:
+        - community
     - description: Student / Bern
       image: /img/lhamo-gakyitsang.jpg
       name: Lhamo Gakyitsang
@@ -154,15 +191,29 @@ team:
     - description: Media producer
       image: /img/luana-laederach.jpg
       name: Luana Läderach
+      visible:
+        - community
     - description: Mentor / Bern
       image: /img/luc-hutter.jpg
       name: Luc Hutter
+      visible:
+        - community
     - description: Lead Teacher / Zürich
       image: /img/Monorm.jpg
       name: Madam Monorom
+      visible:
+        - community
+    - description: Industry Lead / Powerhouse Lausanne
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly-mathis.jpg
+      name: Magaly Mathys
+      visible:
+        - team_lausanne
     - description: Mentor / Bern
       image: /img/mahmoud-hallal.jpg
       name: Mahmoud Hallal
+      visible:
+        - community
     - description: Student / Bern
       image: /img/mannar-hielal.jpg
       name: Mannar Hielal
@@ -171,6 +222,8 @@ team:
     - description: Mentor / Bern
       image: /img/manuel-linder.jpg
       name: Manuel Linder
+      visible:
+        - community
     - description: Teaching Council
       image: /img/marco-jakob.jpg
       name: Marco Jakob
@@ -179,15 +232,23 @@ team:
     - description: Coach / Bern
       image: /img/markus-gallagher.jpg
       name: Markus Gallagher
+      visible:
+        - community
     - description: Coach / Zürich
       image: /img/martin-baur.jpg
       name: Martin Baur
+      visible:
+        - community
     - description: Lead Teacher / Zürich
       image: /img/matthias-hueni.jpg
       name: Matthias Hüni
+      visible:
+        - community
     - description: Mentor / Zürich
       image: /img/maximilian-sutkowski.jpg
       name: Maximilian Sutkowski
+      visible:
+        - community
     - description: Student / Zürich
       image: /img/mohamad-husam-ebish.jpg
       name: Mohamad Husam Ebish
@@ -216,12 +277,18 @@ team:
     - description: Mentor / Zürich
       image: /img/nick-niles.jpg
       name: Nick Niles
+      visible:
+        - community
     - description: Coach / Zürich
       image: /img/nicolas-perrenoud.jpg
       name: Nicolas Perrenoud
+      visible:
+        - community
     - description: Coach / Bern
       image: /img/oleg-lavrovsky.jpg
       name: Oleg Lavrovsky
+      visible:
+        - community
     - description: Student / Zürich
       image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
@@ -240,6 +307,8 @@ team:
     - description: Mentor / Zürich
       image: /img/raphael-gaus.jpg
       name: Raphael Gaus
+      visible:
+        - community
     - description: Student / Zürich
       image: /img/sangeerththani-ramesh.jpg
       name: Sangeerththani Ramesh
@@ -248,12 +317,24 @@ team:
     - description: Mentor / Zürich
       image: /img/sergei-schaub.jpg
       name: Sergei Schaub
+      visible:
+        - community
+    - description: Teaching Lead / Powerhouse Lausanne
+      email: sorin.paun@powercoders.org
+      image: /img/sorin.jpg
+      name: Sorin Paun
+      visible:
+        - team_lausanne
     - description: Coach / Bern
       image: /img/stefan-schaermeli.jpg
       name: Stefan Schärmeli
+      visible:
+        - community
     - description: Mentor / Bern
       image: /img/stefanie-hess.jpg
       name: Stefanie Hess
+      visible:
+        - community
     - description: Student / Bern
       image: /img/sujeevan-jeyapalan.jpg
       name: Sujeevan Jeyapalan
@@ -262,6 +343,12 @@ team:
       name: Sunita Asnani
       visible:
         - board_powercoders
+    - description: Teaching Lead Zurich / Powerhouse Zurich
+      email: susanne.koenig@powercoders.org
+      image: /img/me_square.jpg
+      name: Susanne König
+      visible:
+        - team_zurich
     - description: Student / Zürich
       image: /img/tenzin-dhondup-gyadhotsang.jpg
       name: Tenzin Gyadhotsang
@@ -275,6 +362,8 @@ team:
     - description: Mentor / Zürich
       image: /img/visakha-thongpetsavong.jpg
       name: Visakha Thongpetsavong
+      visible:
+        - community
     - description: Student / Zürich
       image: /img/yoseph-endrias-lechebo.jpg
       name: Yoseph Lechebo
@@ -285,36 +374,6 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
-    - description: Teaching Lead Zurich / Powerhouse Zurich
-      email: susanne.koenig@powercoders.org
-      image: /img/me_square.jpg
-      name: Susanne König
-      visible:
-        - team_zurich
-    - description: Industry Lead / Powerhouse Lausanne
-      email: magaly.mathys@powercoders.org
-      image: /img/magaly-mathis.jpg
-      name: Magaly Mathys
-      visible:
-        - team_lausanne
-    - description: Social Lead / Powerhouse Lausanne
-      email: coline.sauzet@powercoders.org
-      image: /img/coline-sauzet.jpg
-      name: Coline Sauzet
-      visible:
-        - team_lausanne
-    - description: Social Lead / Powerhouse Zurich
-      email: andrina.beuggert@powercoders.org
-      image: /img/andrina_portray_001-1-.jpg
-      name: Andrina Beuggert
-      visible:
-        - team_zurich
-    - description: Teaching Lead / Powerhouse Lausanne
-      email: sorin.paun@powercoders.org
-      image: /img/sorin.jpg
-      name: Sorin Paun
-      visible:
-        - team_lausanne
   text: >-
     ## MEET THE TEAM
 
