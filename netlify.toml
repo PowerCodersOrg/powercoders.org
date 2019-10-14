@@ -40,10 +40,6 @@
   to = "/city/lausanne/"
 
 [[redirects]]
-  from = "/membership/index.php"
-  to = "/membership/"
-
-[[redirects]]
   from = "/press/index.php"
   to = "/press/"
 

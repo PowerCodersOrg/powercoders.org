@@ -240,40 +240,6 @@ collections:
                 name: text
                 widget: markdown
                 required: false
-
-      - file: site/content/membership/_index.md
-        label: Membership
-        name: member
-        fields:
-          - label: Title
-            name: title
-            widget: string
-          - label: Image
-            name: image
-            widget: image
-          - label: Section Title
-            name: section_title
-            widget: string
-          - label: Text
-            name: text
-            widget: markdown
-          - label: Member
-            name: member
-            widget: object
-            fields:
-              - label: header
-                name: header
-                widget: string
-              - label: Text
-                name: text
-                widget: string
-              - label: Link
-                name: link
-                widget: string
-              - label: Call to action
-                name: call_to_action
-                widget: string
-
       - file: site/content/donate/_index.md
         label: Donate
         name: donate
