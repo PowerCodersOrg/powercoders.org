@@ -116,10 +116,6 @@ p,
 	hyphens: auto;
 }
 
-.space {
-	padding: 20px !important;
-}
-
 img.dim {
   filter: brightness(70%);
 }
@@ -497,16 +493,6 @@ a.btn {
 	color: white;
 }
 
-.btn-box {
-  position: relative;
-}
-
-.btn-box > a {
-	display: block;
-	color: #000;
-	padding-bottom: 60px;
-}
-
 div.col {
 	position: relative;
 }
@@ -516,23 +502,6 @@ div.col {
 	padding: 0 0 60px 0;
 }
 
-.btn-box object {
-	position: absolute;
-	bottom: 1rem;
-	left: 1rem;
-}
-
-.btn-box h2 {
-	font-size: 2rem;
-	margin-top: 0;
-}
-
-.btn-box {
-	margin-right: .5rem;
-	margin-bottom: .5rem;
-	height: 95%; /* Force some space between flex wrapped rows */
-}
-
 .latest {
 	position: absolute;
 	bottom: 20px;
@@ -540,11 +509,6 @@ div.col {
 	text-transform: uppercase;
 	margin: 0;
 	font-weight: 700;
-}
-
-.btn-box h6 i {
-	padding-right: 20px;
-	vertical-align: middle;
 }
 
 .border {

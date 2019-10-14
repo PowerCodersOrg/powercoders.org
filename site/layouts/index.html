@@ -27,22 +27,23 @@
 {{ end }}
 
 <div class="pwc-red-light20">
-    <div class="container-wide section">
-        <div class="row flex">
-            {{ range $el := .Params.program }}
-            <div class="col s12 m6 xl3">
-              <div class="hoverable space btn-box animated" data-animation="fadeIn{{$el.fade_in}}">
-                <a href="{{$el.link}}">
-                    <h2>{{$el.header}}</h2>
-                    <p>{{$el.text}}</p>
-                    <object><a href="{{$el.link}}"
-                               class="btn waves-effect waves-light pwc-red">{{$el.link_text}}</a></object>
-                </a>
-              </div>
+  <div class="container-wide section">
+    <div class="row flex">
+      {{ range $el := .Params.program }}
+        <div class="col s12 m6 xl3">
+          <div class="card hoverable animated z-depth-0 pwc-red-light20" data-animation="fadeIn{{$el.fade_in}}">
+            <div class="card-content">
+              <h2 class="card-title">{{ $el.header }}</h2>
+              <p>{{ $el.text }}</p>
             </div>
-            {{ end }}
+            <div class="card-action">
+              <a class="btn waves-effect waves-light pwc-red" href="{{ $el.link }}">{{ $el.link_text }}</a>
+            </div>
+          </div>
         </div>
+      {{ end }}
     </div>
+  </div>
 </div>
 
 {{ partial "city-cards" . }}
