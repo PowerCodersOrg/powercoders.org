@@ -1,0 +1,17 @@
+{
+  "remove_after": "2019-10-26T22:00:00.000Z",
+  "audience": [
+    "home",
+    "student"
+  ],
+  "display_name": "Intro to Coding Workshop",
+  "city": [
+    "zurich"
+  ],
+  "header_icon": "fa-users",
+  "text": "You want to learn how to program but don't quite know how to start? Join one of the workshops by our Powercoders Alumni and take your first steps with their support. \n\n** 26 Octobre, 1–4 PM, Fabrikstrasse 54, Zurich**",
+  "title": "Intro to Coding Workshop",
+  "call_to_action": "SIGN UP",
+  "when": "",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLScWoIKrhUkluR2o2xT0brdow6vrq57iXZVQbPU5wq5bhK5ELA/viewform"
+}
