@@ -1,8 +1,8 @@
 {
   "remove_after": "",
   "audience": [
-    "home",
-    "student"
+    "student",
+    "company"
   ],
   "city": [],
   "header_icon": "fa-video",
