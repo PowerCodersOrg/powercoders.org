@@ -6,7 +6,7 @@ text: >-
   Our participants are highly qualified refugees and they depend on your
   engagement and support. 
 support_as:
-  - header: Corporate Social Responsibility – Internship/Job
+  - header: Internship/Job
     text: >-
       ###### WHAT WE ARE LOOKING FOR
 
