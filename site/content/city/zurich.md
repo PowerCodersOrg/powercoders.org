@@ -3,7 +3,7 @@ title: Zurich
 image: /img/header_zurich.jpg
 section_title: Zurich
 text: >-
-  The Powercoders program in Zurich is run by PowerHouse Zurich.
+  The Powercoders program in Zurich is run by the Powerhouse Zurich.
 
 
   **ZURICH BATCH AUTUMN 2019**\
@@ -44,7 +44,7 @@ text: >-
   **Get involved!**
 
 
-  **AS A STUDENT**\
+  **AS A PARTICIPANT**\
 
   <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
   waves-light pwc-red">APPLY</a>\
@@ -61,7 +61,7 @@ text: >-
   [More information](/company/)
 
 
-  **AS A JOB-COACH**\
+  **AS A JOB COACH**\
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
