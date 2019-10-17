@@ -7,6 +7,7 @@ text: >-
   century coding skills will help refugees start a new life wherever they are
   forced to go.
 
+
   We offer a 3-month coding boot camp, followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees in
   IT-companies and IT-departments.
