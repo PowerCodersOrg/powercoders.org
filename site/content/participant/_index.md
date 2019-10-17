@@ -3,14 +3,14 @@ title: Participants
 image: /img/header_participants.jpg
 section_title: We are looking for talented participants
 text: >
-  Our program is meant for refugees and disadvantaged citizens. We believe that
-  in the 21st century coding skills will help you to start a new life wherever
-  you are forced to go.
+  ##### Our program is meant for refugees and disadvantaged citizens. We believe
+  that in the 21st century coding skills will help you to start a new life
+  wherever you are forced to go.
 
 
-  We offer you 13 weeks of full-time coding bootcamp followed by a 6 to 12-month
-  internship. The goal of Powercoders is the permanent placement of trained
-  refugees in IT-companies and IT-departments.
+  ##### We offer you 13 weeks of full-time coding bootcamp followed by a 6 to
+  12-month internship. The goal of Powercoders is the permanent placement of
+  trained refugees in IT-companies and IT-departments.
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_participants.png
