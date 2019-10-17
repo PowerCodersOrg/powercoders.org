@@ -3,7 +3,7 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  ##### Our participants are highly qualified refugees and they depend on your
+  Our participants are highly qualified refugees and they depend on your
   engagement and support. 
 support_as:
   - header: Internship/Job
@@ -103,7 +103,11 @@ support_as:
       **Interested in empowering refugees and in supporting us financially?
       Please contact us.** \
 
-      info@powercoders.org
+      Contact for companies in German-speaking part of Switzerland:
+      hussam.allaham@powercoders.org \
+
+      Contact for companies in French speaking part of Switzerland:
+      magaly.mathys@powercoders.org
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_companies.png
