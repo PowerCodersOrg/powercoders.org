@@ -18,13 +18,10 @@ text: >-
 
   Applications & Review: Ongoing, until end of November 2019\
 
-  Interviews: End of November / December 2019\
+  Interviews: End of November / December 2019, Testing Weeks: 6-24 January 2020\
 
-  Testing Weeks: 6-24 January 2020\
-
-  Preparation: 3-23 February 2020\
-
-  School phase / IT training: 24 February - 22 May 2020\
+  School phase / IT training: 24 February - 22 May 2020, preparation 3-23
+  February 2020\
 
   Internship & Job Coaching: 6–12 months, starting June 2020
 
@@ -37,8 +34,6 @@ text: >-
 
 
   - - -
-
-
 
 
   - - -
