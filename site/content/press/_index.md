@@ -4,7 +4,7 @@ image: /img/header_press.jpg
 section_title: What the Press says about us
 text: >-
   **If you are a media person please get in touch with us:**
-  info@powercoders.org
+  press@powercoders.org
 
 
   **Download** [press
