@@ -3,8 +3,8 @@ title: Volunteer
 image: /img/header_volunteers.jpg
 section_title: How you can get involved
 text: >-
-  We are a non-profit organisation that depends on the commitment of many
-  incredible volunteers – people who truly make a difference. 
+  ###### We are a non-profit organisation that depends on the commitment of many
+  incredible volunteers – people who truly make a difference.
 support_as:
   - header: As a Job-Coach
     text: >-
