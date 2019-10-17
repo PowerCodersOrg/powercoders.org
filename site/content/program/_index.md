@@ -3,7 +3,7 @@ title: Powercoders Program
 image: /img/about-powercoders.jpg
 section_title: Program
 text: >-
-  #### Powercoders is a coding academy for refugees. We believe that in the 21st
+  Powercoders is a coding academy for refugees. We believe that in the 21st
   century coding skills will help refugees start a new life wherever they are
   forced to go.
 
