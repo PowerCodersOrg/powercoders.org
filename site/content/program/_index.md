@@ -3,12 +3,12 @@ title: Powercoders Program
 image: /img/about-powercoders.jpg
 section_title: Program
 text: >-
-  Powercoders is a coding academy for refugees. We believe that in the 21st
-  century coding skills will help refugees start a new life wherever they are
-  forced to go.
+  ##### Powercoders is a coding academy for refugees. We believe that in the
+  21st century coding skills will help refugees start a new life wherever they
+  are forced to go.
 
-  We offer a 3-month coding boot camp, followed by an internship. The ultimate
-  goal of Powercoders is the permanent placement of trained refugees in
+  ##### We offer a 3-month coding boot camp, followed by an internship. The
+  ultimate goal of Powercoders is the permanent placement of trained refugees in
   IT-companies and IT-departments.
 
 
