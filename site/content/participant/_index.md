@@ -8,9 +8,9 @@ text: >
   wherever you are forced to go.
 
 
-  We offer you 13 weeks of full-time coding bootcamp followed by a 6 to 12-month
-  internship. The goal of Powercoders is the permanent placement of trained
-  refugees in IT-companies and IT-departments.
+  ##### We offer you 13 weeks of full-time coding bootcamp followed by a 6 to
+  12-month internship. The goal of Powercoders is the permanent placement of
+  trained refugees in IT-companies and IT-departments.
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_participants.png
