@@ -47,7 +47,7 @@ text: >-
   [More information](/company/)
 
 
-  **AS A JOB-COACH**\
+  **AS A JOB COACH**\
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
