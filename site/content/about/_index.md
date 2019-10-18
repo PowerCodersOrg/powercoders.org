@@ -29,12 +29,12 @@ text: >-
   2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
 team:
   members:
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/abdul-nawaz-bugti.jpg
       name: Abdul Nawaz Bugti
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/abdullah-msallam.jpg
       name: Abdullah Msallam
       visible:
@@ -44,12 +44,12 @@ team:
       name: Agnes Néméthy
       visible:
         - community
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/alan-omar.jpg
       name: Alan Omar
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/izzatollah-amani.jpg
       name: Amani Izzatollah
       visible:
@@ -60,7 +60,7 @@ team:
       name: Andrina Beuggert
       visible:
         - team_zurich
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/bashar-said.jpg
       name: Bashar Said
       visible:
@@ -78,7 +78,7 @@ team:
         - office_powercoders
         - board_powercoders
         - switzerland
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/chiar-evdi.jpg
       name: Chiar Evdi
       visible:
@@ -117,17 +117,17 @@ team:
       name: Damian Senn
       visible:
         - community
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/ebrahim-khalil-mehrno.jpg
       name: Ebrahim Mehrno
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/fortuna-mebratu.jpg
       name: Fortuna Mebratu
       visible:
         - participants
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/gajendran-packiyanathan.jpg
       name: Gajendran Packiyanathan
       visible:
@@ -158,7 +158,7 @@ team:
       name: Ilya Shumilin
       visible:
         - community
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/jamila-amini.jpg
       name: Jamila Amini
       visible:
@@ -183,7 +183,7 @@ team:
       name: Lena Götsch
       visible:
         - community
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/lhamo-gakyitsang.jpg
       name: Lhamo Gakyitsang
       visible:
@@ -214,7 +214,7 @@ team:
       name: Mahmoud Hallal
       visible:
         - community
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/mannar-hielal.jpg
       name: Mannar Hielal
       visible:
@@ -249,32 +249,32 @@ team:
       name: Maximilian Sutkowski
       visible:
         - community
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/mohamad-husam-ebish.jpg
       name: Mohamad Husam Ebish
       visible:
         - participants
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/mohammad-altahan.jpg
       name: Mohammad Altahan
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/mohammad-hadi-soroush.jpg
       name: Mohammad Hadi Soroush
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/mohammed-khairi.jpg
       name: Mohammed Khairi
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/muhammad-bashir-karimi.jpg
       name: Muhammad Bashir Karimi
       visible:
         - participants
-    - description: Mentor / Zürich
+    - description: Participant / Zürich
       image: /img/nick-niles.jpg
       name: Nick Niles
       visible:
@@ -289,17 +289,17 @@ team:
       name: Oleg Lavrovsky
       visible:
         - community
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
       visible:
         - participants
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/rami-jumaah.jpg
       name: Rami Jumaah
       visible:
         - participants
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/ranny-kaddoura.jpg
       name: Ranny Kaddoura
       visible:
@@ -309,7 +309,7 @@ team:
       name: Raphael Gaus
       visible:
         - community
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/sangeerththani-ramesh.jpg
       name: Sangeerththani Ramesh
       visible:
@@ -335,7 +335,7 @@ team:
       name: Stefanie Hess
       visible:
         - community
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/sujeevan-jeyapalan.jpg
       name: Sujeevan Jeyapalan
     - description: Social Council
@@ -349,12 +349,12 @@ team:
       name: Susanne König
       visible:
         - team_zurich
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/tenzin-dhondup-gyadhotsang.jpg
       name: Tenzin Gyadhotsang
       visible:
         - participants
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/tesfamichael-afewerki.jpg
       name: Tesfamichael Afewerki
       visible:
@@ -364,12 +364,12 @@ team:
       name: Visakha Thongpetsavong
       visible:
         - community
-    - description: Student / Zürich
+    - description: Participant / Zürich
       image: /img/yoseph-endrias-lechebo.jpg
       name: Yoseph Lechebo
       visible:
         - participants
-    - description: Student / Bern
+    - description: Participant / Bern
       image: /img/yusup-khashbulatov.jpg
       name: Yusup Khashbulatov
       visible:
