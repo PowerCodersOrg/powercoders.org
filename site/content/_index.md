@@ -19,7 +19,7 @@ get_involved:
     that talented people will benefit the technology sector as much as it can
     benefit them.
 donuts:
-  - description: of our students get an internship
+  - description: of our participants get an internship
     percentage: 97
   - description: of participants find a job (ongoing estimation)
     percentage: 60
@@ -37,14 +37,14 @@ program:
       Are you an IT company looking for talented people no matter where they
       come from?
   - fade_in: Up
-    header: Coach
+    header: Job Coach
     link: /volunteer
     link_text: more
     text: >-
       Do you want to support a refugee with becoming successfully integrated in
       the local IT labor market?
   - fade_in: Up
-    header: Trainer
+    header: IT Trainer
     link: /volunteer
     link_text: more
     text: >-
