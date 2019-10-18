@@ -6,12 +6,12 @@ text: >-
   We are a non-profit organisation that depends on the commitment of many
   incredible volunteers – people who truly make a difference.
 support_as:
-  - header: As a Job-Coach
+  - header: As a Job Coach
     text: >-
       Our participants need more than technical knowledge in order to achieve
       the goal of a successful integration in the labour market. That’s why our
       program includes coaching during the internship phase. Each participant is
-      accompanied by one volunteer Job-Coach.
+      accompanied by one volunteer Job Coach.
 
 
       ###### WHAT TO EXPECT
