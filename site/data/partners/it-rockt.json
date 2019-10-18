@@ -2,8 +2,6 @@
   "title": "IT Rockt",
   "image": "/img/logo_itsg_rbg_kontur_schwarz.jpg",
   "link": "https://www.itrockt.ch/",
-  "type": "company_member",
-  "city": [
-    "zurich"
-  ]
+  "type": "community_partner",
+  "city": []
 }
