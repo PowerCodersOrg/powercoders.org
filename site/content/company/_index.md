@@ -57,7 +57,7 @@ support_as:
       * Job Coaches accompany one of the participants during the internship
       phase
 
-      * Our students need to learn more than IT in order to succeed in the
+      * Our participants need to learn more than IT in order to succeed in the
       labour market. That’s why we provide workshops on social skills etc.
 
 
