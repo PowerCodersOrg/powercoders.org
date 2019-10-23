@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 16.09.2019
+        links:
+          - link: >-
+              https://www.telezueri.ch/zuerinews/so-werden-fluechtlinge-zu-it-spezialisten-135632309
+            link_text: So werden Flüchtlinge zu IT-Spezialisten
+            title: Tele Züri (TV / German)
       - date: 03.09.2019
         links:
           - link: 'https://www.redbull.com/ch-de/videos/powercoders-portrait'
@@ -24,6 +30,12 @@ media:
               Un atelier de codage informatique à destination des femmes
               migrantes
             title: 'Le temps (newspaper / French):'
+      - date: 26.08.2019
+        links:
+          - link: >-
+              http://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=2dacaf09-a31e-4376-bce2-f60d186d03a7
+            link_text: '"Il faut démystifier le numérique"'
+            title: 'La Liberté (newspaper / French) '
       - date: 12.07.2019
         links:
           - link: >-
@@ -73,6 +85,14 @@ media:
               https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market
             link_text: Interview with Christian and Hussam
             title: CNN Money Switzerland (Video / English)
+      - date: 08.04.19
+        links:
+          - link: >-
+              https://www.rts.ch/play/radio/la-matinale-5h-6h30/audio/linvitee-du-5h-6h30-premiere-partie-coline-sauzet-co-responsable-de-powercoders-pour-la-suisse-romande?id=10331256
+            link_text: >-
+              L'invitée du 5h-6h30 - Première partie - Coline Sauzet,
+              co-responsable de Powercoders pour la Suisse romande
+            title: RTS La Première (radio / French)
       - date: 08.03.2019
         links:
           - link: 'https://www.rts.ch/play/tv/redirect/detail/10274255'
@@ -81,7 +101,7 @@ media:
       - date: 12.02.2019
         links:
           - link: >-
-              https://drive.google.com/file/d/1VHy6iH-lRYZ0AoWYUkJ1EoJM7E1StGDo/view?usp=sharing
+              https://drive.google.com/drive/u/1/folders/1KuKL-w-LUfupurnB8M7tnSn8k6wrfS-Z
             link_text: Ils s’intègrent grâce à l’informatique.
             title: La Liberté (newspaper / French); story about our student Tenzin
     year: '2019'
