@@ -102,7 +102,7 @@ support_as:
       waves-light pwc-red">ZURICH</a>
 programme:
   header: Our program
-  image: /img/powercoders_graphic_programme_volunteers.png
+  image: /img/powercoders_graphic_programme_companyandvolunteers.png
   text: ''
 ---
 
