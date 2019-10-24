@@ -101,7 +101,7 @@ media:
       - date: 12.02.2019
         links:
           - link: >-
-              https://drive.google.com/drive/u/1/folders/1KuKL-w-LUfupurnB8M7tnSn8k6wrfS-Z
+              https://drive.google.com/file/d/14QK7SjNHHewBMTp0cRz1rsZQLBDu1Coa/view
             link_text: Ils s’intègrent grâce à l’informatique.
             title: La Liberté (newspaper / French); story about our student Tenzin
     year: '2019'
