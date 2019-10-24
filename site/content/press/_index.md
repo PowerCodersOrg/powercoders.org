@@ -35,7 +35,7 @@ media:
           - link: >-
               http://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=2dacaf09-a31e-4376-bce2-f60d186d03a7
             link_text: '"Il faut démystifier le numérique"'
-            title: 'La Liberté (newspaper / French) '
+            title: La Liberté (newspaper / French)
       - date: 12.07.2019
         links:
           - link: >-
