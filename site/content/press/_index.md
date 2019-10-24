@@ -43,7 +43,7 @@ media:
             link_text: >-
               En Suisse, une association forme les réfugiés au codage
               informatique
-            title: 'Franceinfo (radio / French) '
+            title: Franceinfo (radio / French)
       - date: 20.06.2019
         links:
           - link: >-
@@ -72,7 +72,7 @@ media:
         links:
           - link: 'https://www.srf.ch/sendungen/digital-plus/powerpodcast'
             link_text: Interview with Christian Hirsig
-            title: 'Srf digital (podcast / German) '
+            title: Srf digital (podcast / German)
       - date: 25.04.2019
         links:
           - link: >-
