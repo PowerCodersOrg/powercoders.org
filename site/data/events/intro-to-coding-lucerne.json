@@ -2,7 +2,6 @@
   "remove_after": "2019-11-07T22:00:00.000Z",
   "audience": [
     "student",
-    "company",
     "volunteer",
     "home"
   ],
@@ -12,9 +11,9 @@
     "zurich"
   ],
   "header_icon": "fa-users",
-  "text": "You want to learn how to program but don't quite know how to start? Join the workshop and discover whether you want to apply for Powercoders.",
+  "text": "You want to learn how to program but don't quite know how to start? Join the workshop and discover whether you want to apply for Powercoders.\n\n**7 Nov 2019, 3-6pm, University of Lucerne**",
   "title": "Intro To Coding (Lucerne)",
   "call_to_action": "Sign up",
-  "when": "2019-11-07T15:00:00.000Z",
+  "when": "",
   "link": "https://forms.gle/BMJ5swcqNGYzrRQj8"
 }
