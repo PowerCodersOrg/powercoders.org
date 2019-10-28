@@ -1,0 +1,18 @@
+{
+  "remove_after": "2019-11-07T22:00:00.000Z",
+  "audience": [
+    "student",
+    "company"
+  ],
+  "where": "University of Lucerne",
+  "display_name": "Intro To Coding / Info Session",
+  "city": [
+    "zurich"
+  ],
+  "header_icon": "fa-users",
+  "text": "You want to learn how to program but don't quite know how to start? Join the workshops by Powercoders and take your first steps with their support.",
+  "title": "Intro To Coding / Info Session",
+  "call_to_action": "https://forms.gle/BMJ5swcqNGYzrRQj8",
+  "when": "2019-11-07T14:00:00.000Z",
+  "link": ""
+}
