@@ -39,7 +39,7 @@ text: >-
   - - -
 
 
-  We accept applications continuously for the program starting in spring 2020.\
+  We accept applications continuously for our programs in 2020.\
 
   **Get involved!**
 
