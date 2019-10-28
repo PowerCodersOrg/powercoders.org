@@ -1,0 +1,20 @@
+{
+  "remove_after": "2019-11-13T22:00:00.000Z",
+  "audience": [
+    "student",
+    "company",
+    "volunteer",
+    "home"
+  ],
+  "where": "Impact Hub Basel",
+  "display_name": "Intro To Coding (Basel)",
+  "city": [
+    "zurich"
+  ],
+  "header_icon": "fa-users",
+  "text": "You want to learn how to program but don't quite know how to start? Join the workshop and discover whether you want to apply for Powercoders.",
+  "title": "Intro To Coding (Basel)",
+  "call_to_action": "https://forms.gle/kH6MdLZJdYpk899Y6",
+  "when": "2019-11-13T14:00:00.000Z",
+  "link": ""
+}
