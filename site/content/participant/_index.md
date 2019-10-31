@@ -37,7 +37,7 @@ programme:
     * Access to an internship lasting between 6 and 12 months 
 
 
-    ---
+    - - -
 
 
     ###### PROGRAM AUTUMN 2019
@@ -50,7 +50,7 @@ programme:
 
 
     We accept applications on an ongoing basis for our next programs starting in
-    spring 2020.
+    2020.
 
 
     **Apply to the program closest to your place of residence.** \
@@ -62,7 +62,7 @@ programme:
 
 
     **For social workers:** download the factsheet in
-    [German](https://drive.google.com/file/d/1fBV2uPcaGBQmyDmf6-lcQ0bLzjvjHQXf/view)
+    [German](https://drive.google.com/file/d/1nxm7-YT0wXTMK10c7XY-wEAy0hPP3Kyj/view?usp=sharing)
     or
     [English](https://drive.google.com/file/d/1x7J_AcNGI2Qtu-81idsorT9GW-dyY1j0/view)
 ---
