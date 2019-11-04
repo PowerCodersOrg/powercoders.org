@@ -51,6 +51,10 @@ support_as:
       <a href="/city/lausanne/" class="btn waves-effect waves-light
       pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
       waves-light pwc-red">ZURICH</a>
+
+
+      **For more information**, check our
+      [factsheet](https://drive.google.com/file/d/1gvBOA2rkHaKXgGDSfFFC9syQ3V6esBkC/view?usp=sharing).
   - header: As an IT Trainer
     text: >-
       ###### You support our teachers as assistants.
