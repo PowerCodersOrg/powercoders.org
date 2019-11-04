@@ -3,8 +3,10 @@ title: Basel
 section_title: Basel Program
 text: >-
   <h4 class="center">Powercoders Basel (004) batch start is on November 26 with
-  20 new participants, 4 females, 16 males and from 7 nations.</h4>
-events: []
+  20 new participants, 4 females, 16 males and from 7 nations. 
+
+
+  </h4>
 apply_as: []
 team:
   header: Team Basel
@@ -24,26 +26,5 @@ team:
     - description: Job Coach
       image: /img/kurt-kammermann.jpg
       name: Kurt Kammermann
-partner:
-  - image: /img/arcas.jpg
-    link: 'https://www.arcas-foundation.ch/'
-    name: arcas-foundation
-    size: s12 m6
-  - image: /img/microsoft.jpg
-    link: 'https://www.microsoft.com/de-ch'
-    name: microsoft
-    size: s6 m4
-  - image: /img/impacthub.jpg
-    link: 'http://www.impacthub.net'
-    name: ImpactHub
-    size: s6 m2
-  - image: /img/digicomp.png
-    link: 'https://www.digicomp.ch/'
-    name: digicomp
-    size: s6 m2
-  - image: /img/basel_hack.jpg
-    link: 'http://www.baselhack.ch/'
-    name: baselhack
-    size: s6 m2
 ---
 
