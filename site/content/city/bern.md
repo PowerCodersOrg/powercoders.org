@@ -26,15 +26,15 @@ text: >-
 
   * 15 participants
 
-  * 5 IT-job
+  * 7 IT-job
 
   * 3 IT-apprenticeship
 
-  * 3 IT-studies
+  * 2 IT-studies
 
   * 1 internship
 
-  * 3 drop-outs
+  * 2 drop-outs
 team:
   header: Team Bern
   members:
@@ -116,59 +116,5 @@ team:
     - description: Participant
       image: /img/yusup-khashbulatov.jpg
       name: Yusup Khashbulatov
-partner:
-  - image: /img/migros-kulturprozent.jpg
-    link: 'https://www.migros-kulturprozent.ch'
-    name: migros-kulturprozent
-    size: s12 m6
-  - image: /img/raiffeisen.jpg
-    link: 'https://www.raiffeisen.ch/'
-    name: raiffeisen
-    size: s12 m6
-  - image: /img/effinger.jpg
-    link: 'https://www.effinger.ch/'
-    name: effinger
-    size: s6 m4
-  - image: /img/p3b.jpg
-    link: 'https://www.p3b.ch/'
-    name: p3b
-    size: s6 m4
-industry_partner:
-  - image: /img/sbb.png
-    link: 'http://www.sbb.ch'
-    name: sbb
-  - image: /img/awl.jpg
-    link: 'https://appswithlove.com'
-    name: appswithlove
-  - image: /img/business4you.jpg
-    link: 'https://www.business4you.ch'
-    name: business4you
-  - image: /img/cubetech.jpg
-    link: 'https://www.cubetech.ch'
-    name: cubetech
-  - image: /img/enigma.jpg
-    link: 'https://enigma.swiss'
-    name: enigma
-  - image: /img/liip.jpg
-    link: 'https://www.liip.ch'
-    name: liip
-  - image: /img/migros.jpg
-    link: 'https://www.migros.ch'
-    name: migros
-  - image: /img/mobiliar.jpg
-    link: 'https://www.mobiliar.ch'
-    name: mobiliar
-  - image: /img/post.jpg
-    link: 'https://www.post.ch'
-    name: post
-  - image: /img/puzzle-itc.jpg
-    link: 'https://www.puzzle.ch'
-    name: puzzle-itc
-  - image: /img/swisscom.jpg
-    link: 'https://www.swisscom.ch'
-    name: swisscom
-  - image: /img/89grad.jpg
-    link: 'https://www.89grad.ch'
-    name: 89grad
 ---
 
