@@ -24,8 +24,17 @@ text: >-
   We keep track on how our participants are doing. Here a summary:
 
 
-  18 participants<br> 1 IT-job, 1 IT-apprenticeship, 15 internships, 1 drop-out
-events: []
+  * 18 participants
+
+  * 4 IT-job
+
+  * 3 IT-apprenticeship
+
+  * 2 internship 
+
+  * 3 connecting program
+
+  * 6 drop-outs
 apply_as: []
 team:
   header: Team Lausanne
@@ -51,32 +60,5 @@ team:
     - description: Job Coach
       image: /img/camille-bossel.jpg
       name: Camille Bossel
-partner:
-  - image: /img/arcas.jpg
-    link: 'https://www.arcas-foundation.ch/'
-    name: Arcas Foundation
-    size: s12 m6
-  - image: /img/lausanne-city.jpg
-    link: 'http://www.lausanne.ch/en/'
-    name: Lausanne City
-    size: s6 m4
-  - image: /img/microsoft.jpg
-    link: 'https://www.microsoft.com/de-ch'
-    name: Microsoft
-    size: s6 m4
-  - image: /img/impacthub.jpg
-    link: 'http://www.impacthub.net'
-    name: Impact Hub
-    size: s6 m2
-  - image: /img/espacedickens.png
-    link: 'http://www.espace-dickens.ch/web/'
-    name: Espace Dickens
-    size: s6 m2
-  - image: /img/digicomp.png
-    link: 'https://www.digicomp.ch/'
-    name: Digicomp
-    size: s6 m2
-industry_partner:
-  - {}
 ---
 
