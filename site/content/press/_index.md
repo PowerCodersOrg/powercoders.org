@@ -104,6 +104,12 @@ media:
               https://drive.google.com/file/d/14QK7SjNHHewBMTp0cRz1rsZQLBDu1Coa/view?usp=sharing
             link_text: Ils s’intègrent grâce à l’informatique.
             title: La Liberté (newspaper / French); story about our student Tenzin
+      - date: 29.10.2019
+        links:
+          - link: >-
+              https://drive.google.com/file/d/1adSCTa1p-CKe8qBz8FfHUKqgJbVfv5ro/view
+            link_text: Flüchtlinge gegen IT-Fachkräftemangel
+            title: Freiburger Nachrichten (newspaper / German)
     year: '2019'
   - entries:
       - date: 22.12.2018
