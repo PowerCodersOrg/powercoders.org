@@ -67,8 +67,10 @@ city_program:
       color: pwc-red-light20
       fade_in: Left
       header: Turin
-      link: 'http://eepurl.com/c3pB1H'
-      text: Our program is planned for Turin – details will follow.
+      link: /city/turin/
+      text: >-
+        The program in Turin will start in January 2020. Applications are now
+        open!
 past_program:
   header: Past Programs
   items:
