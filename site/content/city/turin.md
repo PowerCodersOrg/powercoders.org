@@ -35,16 +35,16 @@ text: >-
   **PROGRAMMA TORINO** 
 
 
-  Il primo corso di programmazione di Powercoders in Italia si terrà a Torino
+  _Il primo corso di programmazione di Powercoders in Italia si terrà a Torino
   dal 20 gennaio al 24 aprile 2020, presso Toolbox Coworking (mappa). Il corso
   prevede la frequenza obbligatoria full-time, dal lunedì al venerdì, dalle 9:00
   alle 18:00. Dopo il corso è previsto un tirocinio retribuito di 6-12 mesi a
-  partire da maggio 2020. 
+  partire da maggio 2020._ 
 
 
-  Se sei interessato/a a partecipare al nostro programma come volontario/a,
+  _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
-  trovi cliccando i links qui sotto!
+  trovi cliccando i links qui sotto!_
 team:
   header: TEAM TURIN
   members:
