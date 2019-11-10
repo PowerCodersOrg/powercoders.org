@@ -63,7 +63,7 @@ city_program:
       text: >-
         The 2019 program has started in September 2019. Applications are open
         now for our classes in 2020.
-    - call_to_action: Get updated
+    - call_to_action: More
       color: pwc-red-light20
       fade_in: Left
       header: Turin
