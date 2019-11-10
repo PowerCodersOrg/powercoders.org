@@ -20,10 +20,16 @@ text: >-
 
 
   If you would like to get involved as a volunteer, student or company, please
-  apply below for our current program!\ 
+  apply below for our current program!
 
 
-  Powercoders a Torino sarà gestito da Le Wagon Italia 
+  - - -
+
+
+  - - -
+
+
+  _Powercoders a Torino sarà gestito da Le Wagon Italia._ 
 
 
   **PROGRAMMA TORINO** 
@@ -58,5 +64,9 @@ team:
       email: francesco.ecclesie@powercoders.org
       image: /img/francescoecclesie.jpg
       name: Francesco Ecclesie
+    - description: Lead
+      email: gregorio.caporale@powercoders.org
+      image: /img/gregoriocaporale.jpg
+      name: Gregorio Caporale
 ---
 
