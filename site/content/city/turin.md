@@ -44,7 +44,10 @@ text: >-
 
   _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
-  trovi cliccando i links qui sotto!_
+  trovi cliccando i links qui sotto!_ 
+
+
+  __
 team:
   header: TEAM TURIN
   members:
