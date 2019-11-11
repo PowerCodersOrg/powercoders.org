@@ -6,13 +6,12 @@ text: >-
   The Powercoders program in Turin, Italy is run by Le Wagon Italy. 
 
 
-  **TORINO BATCH** 
-
+  **TORINO BATCH 2020** \
 
   The current Torino batch runs from 20 January to 24 April 2020 (school phase),
   followed by a 6–12 month internship as of May 2020. Our classes will take
   place at Toolbox in Turin
-  ([map](https://www.google.com/maps/place/Toolbox+Coworking/@45.050238,7.669286,15z/data=!4m5!3m4!1s0x0:0x2adc0b0e358ddb6c!8m2!3d45.050238!4d7.669286)).\ 
+  ([map](https://www.google.com/maps/place/Toolbox+Coworking/@45.050238,7.669286,15z/data=!4m5!3m4!1s0x0:0x2adc0b0e358ddb6c!8m2!3d45.050238!4d7.669286)).\
 
   For student applicants, please keep in mind that the school is full time
   (09:00 – 18:00).
@@ -31,8 +30,7 @@ text: >-
   _Powercoders a Torino sarà gestito da Le Wagon Italia._ 
 
 
-  **PROGRAMMA TORINO** 
-
+  **PROGRAMMA TORINO 2020** \
 
   _Il primo corso di programmazione di Powercoders in Italia si terrà a Torino
   dal 20 gennaio al 24 aprile 2020, presso Toolbox Coworking (mappa). Il corso
