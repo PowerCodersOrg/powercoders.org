@@ -69,8 +69,8 @@ city_program:
       header: Turin
       link: /city/turin/
       text: >-
-        The program in Turin will start in January 2020. Applications are now
-        open!
+        The program in Turin will start in January 2020. Applications are open
+        now!
 past_program:
   header: Past Programs
   items:
