@@ -93,11 +93,11 @@ team:
       email: priya.burci@powercoders.org
       image: /img/priyaburci.jpg
       name: Priya Burci
-    - description: Lead
+    - description: Teaching Lead
       email: antonymistretta@gmail.com
       image: /img/matteoantonymistretta.jpg
       name: Matteo Antony Mistretta
-    - description: Lead
+    - description: Social Lead
       email: stellagianfreda88@gmail.com
       image: /img/stellagianfreda.jpg
       name: Stella Gianfreda
@@ -105,7 +105,7 @@ team:
       email: francesco.ecclesie@powercoders.org
       image: /img/francescoecclesie.jpg
       name: Francesco Ecclesie
-    - description: Lead
+    - description: –
       email: gregorio.caporale@powercoders.org
       image: /img/gregoriocaporale.jpg
       name: Gregorio Caporale
