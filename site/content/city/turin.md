@@ -30,7 +30,7 @@ text: >-
   _Powercoders a Torino sarà gestito da Le Wagon Italia._ 
 
 
-  **PROGRAMMA TORINO 2020** \
+  _**PROGRAMMA TORINO 2020**_ \
 
   _Il primo corso di programmazione di Powercoders in Italia si terrà a Torino
   dal 20 gennaio al 24 aprile 2020, presso Toolbox Coworking (mappa). Il corso
