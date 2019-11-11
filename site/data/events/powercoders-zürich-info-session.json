@@ -1,0 +1,20 @@
+{
+  "remove_after": "2019-11-18T19:00:00.000Z",
+  "audience": [
+    "home",
+    "student",
+    "volunteer",
+    "company"
+  ],
+  "where": "Impact Hub Zürich, Viaduktstr. 93, 8005 Zurich",
+  "city": [
+    "zurich"
+  ],
+  "header_icon": "fa-users",
+  "text": "A company looking for talents, a developer looking for a voluntary opportunity, a refugee looking for starting your IT career, Join our information session to get to know the team, learn about Powercoders and how to get involved as a participant (refugee), trainer, job coach, or a company.",
+  "meetup_link": "https://www.meetup.com/Powercoders/events/266071177/",
+  "title": "Powercoders Zürich - Info Session",
+  "call_to_action": "Join",
+  "when": "2019-11-18T17:00:00.000Z",
+  "link": "https://forms.gle/xx1H1Lhcj46iDc2DA"
+}
