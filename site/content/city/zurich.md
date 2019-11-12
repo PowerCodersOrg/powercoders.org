@@ -28,7 +28,7 @@ text: >-
 
   **ZURICH BATCH AUTOMN 2020**\
 
-  School phase / IT training: September - December 2020\
+  School phase / IT training: 7 September - 11 December 2020\
 
   Internship & Job Coaching: 6–12 months, starting January 2021
 
