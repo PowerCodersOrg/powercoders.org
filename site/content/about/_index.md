@@ -96,6 +96,12 @@ team:
       name: Christian Zosel
       visible:
         - community
+    - description: Public Relations
+      email: christina.graeni@powercoders.org
+      image: /img/graeni_christina.jpg
+      name: Christina Gräni
+      visible:
+        - office_powercoders
     - description: Coach / Bern
       image: /img/christoph-isch.jpg
       name: Christoph Isch
