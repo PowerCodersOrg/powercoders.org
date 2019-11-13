@@ -3,8 +3,5 @@
   "image": "/img/adobe_logo.jpg",
   "link": "https://www.adobe.com/",
   "type": "community_partner",
-  "city": [
-    "lausanne",
-    "zurich"
-  ]
+  "city": []
 }
