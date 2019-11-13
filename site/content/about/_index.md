@@ -96,6 +96,12 @@ team:
       name: Christian Zosel
       visible:
         - community
+    - description: Public Relations
+      email: christina.graeni@powercoders.org
+      image: /img/graeni_christina.jpg
+      name: Christina Gräni
+      visible:
+        - office_powercoders
     - description: Coach / Bern
       image: /img/christoph-isch.jpg
       name: Christoph Isch
@@ -127,11 +133,23 @@ team:
       name: Fortuna Mebratu
       visible:
         - participants
+    - description: Project Lead – Powercoders Italy
+      email: francesco.ecclesie@powercoders.org
+      image: /img/francesco-ecclesie.jpeg
+      name: Francesco Ecclesie
+      visible:
+        - team_turin
     - description: Participant / Bern
       image: /img/gajendran-packiyanathan.jpg
       name: Gajendran Packiyanathan
       visible:
         - participants
+    - description: Industry Lead – Powercoders Italy
+      email: gregorio.caporale@powercoders.org
+      image: /img/gregorio-caporale.jpg
+      name: Gregorio Caporale
+      visible:
+        - team_turin
     - description: Industry Council
       image: /img/hannes-gassert.jpg
       name: Hannes Gassert
@@ -239,6 +257,12 @@ team:
       name: Martin Baur
       visible:
         - community
+    - description: Teaching Lead – Powercoders Italy
+      email: antony.mistretta@powercoders.org
+      image: /img/matteo-antony-mistretta.jpg
+      name: Matteo Antony Mistretta
+      visible:
+        - team_turin
     - description: Lead Teacher / Zürich
       image: /img/matthias-hueni.jpg
       name: Matthias Hüni
@@ -289,6 +313,12 @@ team:
       name: Oleg Lavrovsky
       visible:
         - community
+    - description: CEO Powercoders International
+      email: priya.burci@powercoders.org
+      image: /img/photo-priya-profile-powercoders_600x600.jpg
+      name: Priya Burci
+      visible:
+        - team_turin
     - description: Participant / Zürich
       image: /img/rafat-daghmach.jpg
       name: Rafat Daghmach
@@ -335,6 +365,12 @@ team:
       name: Stefanie Hess
       visible:
         - community
+    - description: Social Lead – Powercoders Italy
+      email: stella.gianfreda@powercoders.org
+      image: /img/stella_gianfreda.jpeg
+      name: Stella Gianfreda
+      visible:
+        - team_turin
     - description: Participant / Bern
       image: /img/sujeevan-jeyapalan.jpg
       name: Sujeevan Jeyapalan
