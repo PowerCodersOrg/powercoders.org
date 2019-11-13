@@ -89,23 +89,23 @@ team:
   members:
     - description: CEO Powercoders International
       email: priya.burci@powercoders.org
-      image: /img/priyaburci.jpg
+      image: /img/photo-priya-profile-powercoders_600x600.jpg
       name: Priya Burci
     - description: Teaching Lead
       email: antony.mistretta@powercoders.org
-      image: /img/matteoantonymistretta.jpg
+      image: /img/matteo-antony-mistretta.jpg
       name: Matteo Antony Mistretta
     - description: Social Lead
       email: stella.gianfreda@powercoders.org
-      image: /img/stellagianfreda.jpg
+      image: /img/stella_gianfreda.jpeg
       name: Stella Gianfreda
     - description: Project Lead – Powercoders Italy
       email: francesco.ecclesie@powercoders.org
-      image: /img/francescoecclesie.jpg
+      image: /img/francesco-ecclesie.jpeg
       name: Francesco Ecclesie
     - description: Industry Lead
       email: gregorio.caporale@powercoders.org
-      image: /img/gregoriocaporale.jpg
+      image: /img/gregorio-caporale.jpg
       name: Gregorio Caporale
 ---
 
