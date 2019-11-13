@@ -144,7 +144,7 @@ team:
       name: Gajendran Packiyanathan
       visible:
         - participants
-    - description: Industry Lead
+    - description: Industry Lead – Powercoders Italy
       email: gregorio.caporale@powercoders.org
       image: /img/gregorio-caporale.jpg
       name: Gregorio Caporale
@@ -257,7 +257,7 @@ team:
       name: Martin Baur
       visible:
         - community
-    - description: Teaching Lead
+    - description: Teaching Lead – Powercoders Italy
       email: antony.mistretta@powercoders.org
       image: /img/matteo-antony-mistretta.jpg
       name: Matteo Antony Mistretta
@@ -365,7 +365,7 @@ team:
       name: Stefanie Hess
       visible:
         - community
-    - description: Social Lead
+    - description: Social Lead – Powercoders Italy
       email: stella.gianfreda@powercoders.org
       image: /img/stella_gianfreda.jpeg
       name: Stella Gianfreda
