@@ -14,7 +14,7 @@ media:
       - date: 29.10.2019
         links:
           - link: >-
-              https://drive.google.com/file/d/1adSCTa1p-CKe8qBz8FfHUKqgJbVfv5ro/view
+              https://drive.google.com/file/d/1adSCTa1p-CKe8qBz8FfHUKqgJbVfv5ro/view?usp=sharing
             link_text: Flüchtlinge gegen IT-Fachkräftemangel
             title: Freiburger Nachrichten (newspaper / German)
       - date: 16.09.2019
