@@ -41,20 +41,19 @@ support_as:
       following form.**\
 
       <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
+      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
+      class="btn waves-effect waves-light pwc-red">ZURICH</a>
 
 
       **Current dates of the program: check them out in the city closest to your
-      place of residence.**\
-
-      <a href="/city/lausanne/" class="btn waves-effect waves-light
-      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
-      waves-light pwc-red">ZURICH</a>
+      place of residence (**[**Lausanne**](/city/lausanne)**,**
+      [**Zurich**](/city/zurich/)**).**
 
 
       **For more information**, check our
-      [factsheet](https://drive.google.com/file/d/1gvBOA2rkHaKXgGDSfFFC9syQ3V6esBkC/view?usp=sharing).
+      [factsheet](https://drive.google.com/file/d/1HhGQ8KSg620j_QOpvaoMv54oMTJa7Oph/view?usp=sharing).
   - header: As an IT Trainer
     text: >-
       ###### You support our teachers as assistants.
@@ -94,16 +93,15 @@ support_as:
       form.**\
 
       <a
+      href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
+      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP</a>
+      class="btn waves-effect waves-light pwc-red">ZURICH</a>
 
 
       **Current dates of the program: check them out in the city closest to your
-      place of residence.**\
-
-      <a href="/city/lausanne/" class="btn waves-effect waves-light
-      pwc-red">LAUSANNE</a> <a href="/city/zurich/" class="btn waves-effect
-      waves-light pwc-red">ZURICH</a>
+      place of residence (**[**Lausanne**](/city/lausanne)**,**
+      [**Zurich**](/city/zurich/)**).**
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_companyandvolunteers.png
