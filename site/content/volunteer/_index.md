@@ -42,9 +42,9 @@ support_as:
 
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP: LAUSANNE</a> <a
+      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP: ZURICH</a>
+      class="btn waves-effect waves-light pwc-red">ZURICH</a>
 
 
       **Current dates of the program: check them out in the city closest to your
@@ -94,9 +94,9 @@ support_as:
 
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP: LAUSANNE</a> <a
+      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
-      class="btn waves-effect waves-light pwc-red">SIGN UP: ZURICH</a>
+      class="btn waves-effect waves-light pwc-red">ZURICH</a>
 
 
       **Current dates of the program: check them out in the city closest to your
