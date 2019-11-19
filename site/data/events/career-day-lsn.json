@@ -1,18 +1,17 @@
 {
-  "remove_after": "2019-11-05T17:00:00.000Z",
+  "remove_after": "2020-05-14T04:00:00.000Z",
   "audience": [
-    "company",
-    "home"
+    "company"
   ],
   "where": "",
-  "display_name": "Career Day Lausanne",
+  "display_name": "Career Day Lausanne 2020",
   "city": [
     "lausanne"
   ],
   "header_icon": "fa-handshake",
-  "text": "The Career Day is the day when companies have the chance to meet all our participants and select their top candidates to invite for an onsite interview. If you are a company interested in offering an internship, get in touch with us.\n\n**5 November 2019, Lausanne**",
-  "title": "Career Day Lausanne",
+  "text": "The Career Day is the day when companies have the chance to meet all our participants and select their top candidates to invite for an onsite interview. If you are a company interested in offering an internship, get in touch with us.\n\n**14 May 2020 at CVCI – Chambre vaudoise de commerce et d'industrie, Avenue d'Ouchy 47, Lausanne**",
+  "title": "Career Day Lausanne 2020",
   "call_to_action": "Sign Up",
   "when": "",
-  "link": "https://docs.google.com/forms/d/e/1FAIpQLScRsGCWNdOgZ8XxpZ_HpG5su_nUr1tQu7BTN27ZUHKLjNf7kA/viewform"
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLSe9nSAXA6En-Y7k6lkl87IrVVKE9MiVV_YlAzBeaZMPImsfUg/viewform"
 }
