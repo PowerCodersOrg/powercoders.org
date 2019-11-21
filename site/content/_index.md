@@ -6,7 +6,7 @@ link_url: /program
 image: /img/team_basel_header.jpg
 intro:
   header: >-
-    Over 68.5 million refugees in the world. Millions of vacant IT jobs due to
+    Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
   text: A coding academy for refugees
   video_id: IKuz7vA30sI
