@@ -554,6 +554,7 @@ collections:
           - label: Text
             name: text
             widget: markdown
+
   - label: "Events"
     name: events
     format: json
@@ -656,7 +657,7 @@ collections:
         required: false
         widget: select
         multiple: true
-        options: ["lausanne", "zurich"]
+        options: ["lausanne", "zurich", "turin"]
         hint: "By default partners are shown on all city pages, restrict them to a particular city here"
 
   - name: alumni
