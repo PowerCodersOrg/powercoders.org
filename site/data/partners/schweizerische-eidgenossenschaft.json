@@ -5,6 +5,8 @@
   "type": "partner",
   "city": [
     "home",
-    "zurich"
+    "zurich",
+    "lausanne",
+    "turin"
   ]
 }
