@@ -657,7 +657,7 @@ collections:
         required: false
         widget: select
         multiple: true
-        options: ["lausanne", "zurich", "turin"]
+        options: ["lausanne", "zurich", "turin", "home"]
         hint: "By default partners are shown on all city pages, restrict them to a particular city here"
 
   - name: alumni

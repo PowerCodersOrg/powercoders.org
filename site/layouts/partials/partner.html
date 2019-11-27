@@ -21,7 +21,7 @@ Call with a dict as the single parameter with the following keys:
 
 {{ $thesePartners := slice }}
 {{ range $partner := $.partners }}
-  {{ if (and (eq $partner.type $.type) (or (eq $partner.city nil) (in $partner.city $.city))) }}
+  {{ if (and (eq $partner.type $.type) (in $partner.city $.city)) }}
     {{ $thesePartners = $thesePartners | append $partner }}
   {{ end }}
 {{ end }}
