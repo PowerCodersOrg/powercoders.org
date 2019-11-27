@@ -2,5 +2,8 @@
   "title": "Arcas Foundation",
   "image": "/img/arcas.jpg",
   "link": "https://www.arcas-foundation.ch/",
-  "type": "partner"
+  "type": "partner",
+  "city": [
+    "home"
+  ]
 }
