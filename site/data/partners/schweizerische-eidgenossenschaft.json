@@ -4,9 +4,6 @@
   "link": "https://www.sem.admin.ch/",
   "type": "partner",
   "city": [
-    "home",
-    "zurich",
-    "lausanne",
-    "turin"
+    "home"
   ]
 }
