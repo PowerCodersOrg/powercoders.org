@@ -16,14 +16,14 @@ text: >-
 
   **ZURICH BATCH SPRING 2020**\
 
-  Applications: Ongoing, until end of November 2019\
+  Applications: Ongoing, until 19 January 2020\
 
-  Interviews: End of November / December 2019; Testing Weeks: 6-24 January 2020\
+  Interviews: November 2019 - January 2020; Testing Weeks: 27 Jan - 16 Feb 2020\
 
-  School phase / IT training: 24 February - 22 May 2020; Preparation 3-23
-  February 2020\
+  School phase / IT training: 23 March - 20 June 2020; Preparation 17 Feb - 22
+  Mar 2020\
 
-  Internship & Job Coaching: 6–12 months, starting June 2020
+  Internship & Job Coaching: 6–12 months, starting July 2020
 
 
   **ZURICH BATCH AUTOMN 2020**\
