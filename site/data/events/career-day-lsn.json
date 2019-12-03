@@ -1,7 +1,8 @@
 {
   "remove_after": "2020-05-14T04:00:00.000Z",
   "audience": [
-    "company"
+    "company",
+    "home"
   ],
   "where": "",
   "display_name": "Career Day Lausanne 2020",
