@@ -40,12 +40,6 @@ programme:
     - - -
 
 
-    ###### PROGRAM AUTUMN 2019
-
-
-    Our current programs in Lausanne and Zurich began in September 2019. 
-
-
     ###### NEXT PROGRAMS IN 2020
 
 
