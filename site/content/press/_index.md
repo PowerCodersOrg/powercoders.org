@@ -16,7 +16,7 @@ media:
           - link: >-
               https://blogs.letemps.ch/jasmine-caye/2019/11/26/puisez-chez-powercoders-pour-des-pros-en-informatique/
             link_text: Puisez chez Powercoders pour des pros en informatique!
-            title: Le Temps – Blog
+            title: Le Temps (blog / French)
       - date: 29.10.2019
         links:
           - link: >-
@@ -41,7 +41,7 @@ media:
             link_text: >-
               Un atelier de codage informatique à destination des femmes
               migrantes
-            title: Le temps (newspaper / French)
+            title: Le Temps (newspaper / French)
       - date: 26.08.2019
         links:
           - link: >-
