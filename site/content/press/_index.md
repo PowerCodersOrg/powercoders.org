@@ -17,6 +17,12 @@ media:
               https://blogs.letemps.ch/jasmine-caye/2019/11/26/puisez-chez-powercoders-pour-des-pros-en-informatique/
             link_text: Puisez chez Powercoders pour des pros en informatique!
             title: Le Temps (blog / French)
+      - date: 17.11.2019
+        links:
+          - link: >-
+              https://www.rts.ch/play/radio/emission-speciale/audio/au-temps-du-numerique-24-lengagement?id=10834856
+            link_text: 'Au temps du numérique: L''engagement'
+            title: RTS at EPFL (radio / French)
       - date: 29.10.2019
         links:
           - link: >-
