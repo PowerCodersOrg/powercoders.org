@@ -651,6 +651,7 @@ collections:
           - {label: "Partner", value: "partner"}
           - {label: "Community Partner", value: "community_partner"}
           - {label: "Company Member", value: "company_member"}
+          - {label: "Implementation Partner", value: "implementation_partner"}
         hint: "Choose the type of partner"
       - label: City
         name: city
@@ -658,7 +659,6 @@ collections:
         widget: select
         multiple: true
         options: ["lausanne", "zurich", "turin", "home"]
-        hint: "By default partners are shown on all city pages, restrict them to a particular city here"
 
   - name: alumni
     label: "Alumni"
