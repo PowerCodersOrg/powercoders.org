@@ -52,17 +52,13 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: >-
-        The 2019 program has started in September 2019. Applications are open
-        now for our classes in 2020.
+      text: Next batch is starting on the 23 March 2020. Applications are open now.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: >-
-        The 2019 program has started in September 2019. Applications are open
-        now for our classes in 2020.
+      text: Next batch is starting on the 30 March 2020. Applications are open now.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
