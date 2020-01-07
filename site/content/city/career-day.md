@@ -26,7 +26,7 @@ text: >-
   Lausanne](https://www.google.ch/maps/place/Chambre+vaudoise+du+commerce+et+de+l'industrie/@46.5102397,6.6265574,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fce346e302b:0xd9d3a4e5317a32e6!8m2!3d46.510236!4d6.6287461).
 apply_as: []
 team:
-  header: Lausanne
+  header: Team Lauanne
   members: []
 ---
 
