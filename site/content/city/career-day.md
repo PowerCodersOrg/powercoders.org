@@ -1,7 +1,7 @@
 ---
-title: Career Day Lausanne
+title: careerday
 image: /img/at1i3201.jpg
-section_title: Career Day Lausanne
+section_title: careerday
 text: >-
   We're looking for IT companies and IT departments who would be willing in
   potentially offering an internship for our Powercoders graduates from
