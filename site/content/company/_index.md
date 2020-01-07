@@ -4,11 +4,7 @@ image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
   Our participants are highly qualified refugees and they depend on your
-  engagement and support. 
-
-
-  <a href="/city/career-day/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY LAUSANNE</a>
+  engagement and support.
 support_as:
   - header: Internship/Job
     text: >-
