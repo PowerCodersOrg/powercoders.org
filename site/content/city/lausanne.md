@@ -3,21 +3,12 @@ title: Lausanne
 image: /img/header_lausanne.jpg
 section_title: Lausanne
 text: >-
-  The Powercoders program in Lausanne is run by PowerHouse Lausanne.
-
-
-  **LAUSANNE BATCH AUTUMN 2019**\
-
-  The current 2019 Lausanne batch runs from 23 September to 6 December 2019
-  (school phase), followed by a 6–12 month internship as of January 2020.\
-
-  Our classes currently take place at Espace Dickens in Lausanne
-  ([map](https://www.google.ch/maps/place/Avenue+Charles+Dickens+4,+1006+Lausanne/@46.5155518,6.6313321,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fcc96ad7f13:0x7de11ccdef79596a!8m2!3d46.5155481!4d6.6335208)).
+  The Powercoders program in Lausanne is run by Powerhouse Lausanne.
 
 
   **LAUSANNE BATCH SPRING 2020**\
 
-  School phase / IT training: spring – summer 2020\
+  School phase / IT training: 30 March 2020 – summer 2020\
 
   Internship + Coaching: 6–12 month as of summer 2020
 
