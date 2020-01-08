@@ -11,6 +11,11 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 16.12.2019
+        links:
+          - link: 'https://www.migrosmagazin.ch/programm-fuer-ein-besseres-leben'
+            link_text: Programm für ein besseres Leben
+            title: 'Migros-Magazin (Magazine / German) '
       - date: 26.11.2019
         links:
           - link: >-
