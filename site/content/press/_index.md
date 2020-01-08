@@ -15,7 +15,7 @@ media:
         links:
           - link: 'https://www.migrosmagazin.ch/programm-fuer-ein-besseres-leben'
             link_text: Programm für ein besseres Leben
-            title: 'Migros-Magazin (Magazine / German) '
+            title: Migros-Magazin (magazine / German)
       - date: 26.11.2019
         links:
           - link: >-
