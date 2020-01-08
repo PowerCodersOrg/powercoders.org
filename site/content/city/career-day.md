@@ -1,6 +1,6 @@
 ---
-title: careerday
-image: /img/at1i3201.jpg
+title: Career Day Lausanne
+image: /img/header_companies_2.jpg
 section_title: careerday
 text: >-
   We're looking for IT companies and IT departments who would be willing in
@@ -49,51 +49,52 @@ text: >-
   Morning Group:
 
 
-  09.00  Open Doors Group "Morning"\
+  09:00  Open Doors Group "Morning"\
 
-  09.15  Introduction\
+  09:15  Introduction\
 
-  09.30  Companies Pitches\
+  09:30  Companies Pitches\
 
-  10.15  Break\
+  10:15  Break\
 
-  10.25  Job Bazar\
+  10:25  Job Bazar\
 
-  12.00  Next Steps Group "Morning"
+  12:00  Next Steps Group "Morning"
 
 
   Morning & Afternoon Groups:
 
 
-  12.15  Open Doors "everyone"\
+  12:15  Open Doors "everyone"\
 
-  12.30  Integrating a refugee (a student from a previous Powercoders batch)\
+  12:30  Integrating a refugee (a student from a previous Powercoders batch)\
 
   12.40  Hacks for being successful in a Swiss IT-Company\
 
-  12.50  Lunch\
+  12:50  Lunch\
 
-  13.20  Q&A Session 
+  13:20  Q&A Session 
 
 
   Afternoon Group:
 
 
-  13.35  Open Doors Group "Afternoon"\
+  13:35  Open Doors Group "Afternoon"\
 
-  13.45  Introduction\
+  13:45  Introduction\
 
-  13.55  Companies Pitches\
+  13:55  Companies Pitches\
 
-  14.35  Break\
+  14:35  Break\
 
-  14.45  Job Bazar\
+  14:45  Job Bazar\
 
-  16:15  Next Steps Group "Afternoon"\
+  16:15  Next Steps Group "Afternoon" \
 
-  16.30  End 
+  16:30  End 
 
-  ---
+
+  - - -
 
 
   <a
