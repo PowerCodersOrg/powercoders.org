@@ -98,7 +98,7 @@ text: >-
 
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSe9nSAXA6En-Y7k6lkl87IrVVKE9MiVV_YlAzBeaZMPImsfUg/formResponse"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 apply_as: []
 team:
