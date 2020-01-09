@@ -33,7 +33,7 @@ text: >-
   **Time** 
 
 
-  Two slots are availabe: \
+  Two availabe slots: \
 
   Morning session 9:00 – 12:15 \
 
@@ -53,7 +53,7 @@ text: >-
 
   09:15  Introduction\
 
-  09:30  Companies Pitches\
+  09:30  Companies Pitches (you present in 2-3' your company)\
 
   10:15  Break\
 
@@ -83,7 +83,7 @@ text: >-
 
   13:45  Introduction\
 
-  13:55  Companies Pitches\
+  13:55  Companies Pitches (you present in 2-3' your company)\
 
   14:35  Break\
 
@@ -98,8 +98,8 @@ text: >-
 
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSe9nSAXA6En-Y7k6lkl87IrVVKE9MiVV_YlAzBeaZMPImsfUg/formResponse"
-  class="btn waves-effect waves-light pwc-red">SUBSCRIBE career day</a>
+  href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
+  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 apply_as: []
 team:
   header: Team Lauanne
