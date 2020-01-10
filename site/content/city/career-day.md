@@ -19,7 +19,8 @@ text: >-
   person fits to your company.  
 
 
-  Next Career Day: \
+  **NEXT CAREER DAY:**  
+
 
   **Wednesday, May 13, 2020** at CVCI (Chambre vaudoise de commerce et
   d'industrie) [\
@@ -30,8 +31,7 @@ text: >-
 
   \
 
-  **Time** 
-
+  **Time** \
 
   Two availabe slots: \
 
@@ -43,8 +43,6 @@ text: >-
 
 
   **Program**\
-
-  \
 
   Morning Group:
 
