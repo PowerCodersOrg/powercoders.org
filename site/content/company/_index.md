@@ -3,11 +3,25 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  Our participants are highly qualified refugees and they depend on your
-  engagement and support.
+  Is your company interested in a Corporate Social Responsibility engagement?
+
+
+  The IT market is lacking talent and our skilled refugee participants are
+  looking for a chance – you can help solve this challenge! 
+
+
+  Join one of our Career Days and get an idea of our IT talents.  
+
+
+  <a href="/city/career-day/" class="btn waves-effect waves-light
+  pwc-red">CAREER DAY LAUSANNE</a>
 support_as:
   - header: Internship/Job
     text: >-
+      Interested in offering an internship and becoming our partner in
+      empowering refugees?
+
+
       ###### WHAT WE ARE LOOKING FOR
 
 
@@ -15,15 +29,22 @@ support_as:
 
       * Teams who are eager to train an intern
 
-      * IT professionals who are interested in cultural exchange
+      * IT professionals who are interested in cultural exchange 
 
 
-      **Interested in offering an internship and becoming our partner in
-      empowering refugees? Please fill in the following form.**\
+      ###### WHAT WE PROVIDE
 
-      <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSffUA9lOplTCMG5vxd6J88iTsiIlZkcdf5IUdiXXw7sZ4Z5mQ/viewform?fbzx=-6735314925838377371"
-      class="btn waves-effect waves-light pwc-red">GET INVOLVED</a> 
+
+      * Recruitment of IT profiles
+
+      * Training of participants
+
+      * Preparation of participants for their internship on a technical and
+      social level 
+
+      * Support in terms of employment of refugees 
+
+      * Support social integration  
 
 
       **For more information, check our**
