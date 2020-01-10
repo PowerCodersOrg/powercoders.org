@@ -10,7 +10,7 @@ text: >-
   looking for a chance – you can help solve this challenge! 
 
 
-  Join one of our Career Days and get an idea of our IT talents.  
+  **Join one of our Career Days and get an idea of our IT talents.**  
 
 
   <a href="/city/career-day/" class="btn waves-effect waves-light
