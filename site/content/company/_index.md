@@ -10,11 +10,7 @@ text: >-
   looking for a chance – you can help solve this challenge! 
 
 
-  **Join one of our Career Days and get an idea of our IT talents.**  
-
-
-  <a href="/city/career-day/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY LAUSANNE</a>
+  **Join one of our Career Days and get an idea of our IT talents.**
 support_as:
   - header: Internship/Job
     text: >-
@@ -48,7 +44,21 @@ support_as:
 
 
       **For more information, check our**
-      [factsheet](https://drive.google.com/file/d/1TnlOHkLYaalMGGjmM2kvN6oJON3KVtpY/view).
+      [factsheet](https://drive.google.com/file/d/1TnlOHkLYaalMGGjmM2kvN6oJON3KVtpY/view). 
+
+
+      In order to get an impression of our program and our candidates, take part
+      in one of our career days without obligation.
+
+
+      <a href="/city/career-day/" class="btn waves-effect waves-light
+      pwc-red">CAREER DAY LAUSANNE</a> 
+
+
+      \
+
+      <a href="/city/career-day/" class="btn waves-effect waves-light
+      pwc-red">CAREER DAY ZURICH</a>
   - header: Corporate Volunteering
     text: >-
       ###### YOUR EMPLOYEES SUPPORT US AS VOLUNTEERS
