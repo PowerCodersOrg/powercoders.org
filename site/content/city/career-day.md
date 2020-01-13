@@ -24,7 +24,10 @@ text: >-
   contact.** 
 
 
-  **NEXT CAREER DAY:**  
+  ---
+
+
+  **NEXT CAREER DAY**  
 
 
   **Wednesday, May 13, 2020** at CVCI (Chambre vaudoise de commerce et
@@ -38,13 +41,13 @@ text: >-
 
   **Time** \
 
-  Two availabe slots: \
-
   Morning session 9:00 – 12:15 \
 
   Lunch offered \
 
-  Afternoon session 13:30 – 16:30 
+  Afternoon session 13:30 – 16:30 \
+
+  (You choose your session)
 
 
   **Program**\
