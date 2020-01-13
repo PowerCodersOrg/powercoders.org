@@ -52,7 +52,10 @@ support_as:
 
 
       <a href="/city/career-day/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY LAUSANNE</a> \
+      pwc-red">CAREER DAY LAUSANNE</a> 
+
+
+      \
 
       <a href="/city/career-day/" class="btn waves-effect waves-light
       pwc-red">CAREER DAY ZURICH</a>
