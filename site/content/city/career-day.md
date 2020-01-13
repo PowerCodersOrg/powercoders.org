@@ -3,13 +3,14 @@ title: Career Day Lausanne
 image: /img/header_companies_2.jpg
 section_title: Career Day Lausanne
 text: >-
-  Are you interested in becoming our partner in empowering refugees? We're
-  looking for IT companies and IT departments who would be willing in
+  We are looking for IT companies and IT departments who would be willing in
   potentially offering an internship for our Powercoders graduates from
-  July/August 2020 on. 
+  July/August 2020 on. \
 
+  \
 
-  **Join our Career Day and get an idea of our IT talents.**
+  **Are you interested? Then join our Career Day and get an idea of our IT
+  talents.**
 
 
   The Career Day is the most important day in our program. It is the day when
@@ -24,7 +25,7 @@ text: >-
   contact.** 
 
 
-  ---
+  - - -
 
 
   **NEXT CAREER DAY**  
