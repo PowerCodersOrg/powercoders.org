@@ -24,7 +24,9 @@ text: >-
   contact.** 
 
 
-  **NEXT CAREER DAY:**  
+
+
+  **NEXT CAREER DAY**  
 
 
   **Wednesday, May 13, 2020** at CVCI (Chambre vaudoise de commerce et
