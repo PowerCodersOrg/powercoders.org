@@ -21,7 +21,8 @@ support_as:
       ###### WHAT WE ARE LOOKING FOR
 
 
-      * IT companies or IT departments offering a 6 to 12-month internship
+      * IT companies and IT departments offering 6 to 12-month internships or
+      apprenticeships 
 
       * Teams who are eager to train an intern
 
