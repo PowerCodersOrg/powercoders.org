@@ -46,8 +46,8 @@ text: >-
 
   **AS A COMPANY**\
 
-  <a href="https://forms.gle/QWUkfqjJBRmBqcGq8" class="btn waves-effect
-  waves-light pwc-red">GET IN TOUCH</a>\
+  <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
+  pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
 
