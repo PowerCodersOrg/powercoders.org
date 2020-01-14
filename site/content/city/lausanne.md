@@ -31,9 +31,8 @@ text: >-
 
   **AS A COMPANY**\
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSe9nSAXA6En-Y7k6lkl87IrVVKE9MiVV_YlAzBeaZMPImsfUg/viewform"
-  class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
+  <a href="/city/career-day/" class="btn waves-effect waves-light pwc-red">GET
+  IN TOUCH</a>\
 
   [More information](/company/)
 
