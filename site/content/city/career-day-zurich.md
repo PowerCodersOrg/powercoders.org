@@ -116,7 +116,7 @@ team:
       name: Susanne König
     - description: Industry Lead
       email: hussam.allaham@powercoders.org
-      image: /img/hussam-allaham_0.jpg
+      image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
 ---
 
