@@ -8,7 +8,7 @@ text: >-
 
   **LAUSANNE BATCH SPRING 2020**\
 
-  School phase / IT training: 30 March 2020 – summer 2020\
+  School phase / IT training: 6th April – 3rd July 2020\
 
   Internship + Coaching: 6–12 month as of summer 2020
 
