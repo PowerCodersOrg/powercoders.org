@@ -3,9 +3,10 @@ title: Career Day Lausanne
 image: /img/header_companies_2.jpg
 section_title: Career Day Lausanne
 text: >-
-  We are looking for IT companies and IT departments who would be willing in
-  potentially offering an internship for our Powercoders graduates from
-  July/August 2020 on. \
+  Are you an IT company or do you have an IT department in the Romandie? \
+
+  We are looking for companies who would be willing in potentially offering an
+  internship for our Powercoders graduates from July/August 2020 on. \
 
   \
 
