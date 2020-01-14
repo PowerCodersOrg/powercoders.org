@@ -6,14 +6,6 @@ text: >-
   The Powercoders program in Zurich is run by the Powerhouse Zurich.
 
 
-  **ZURICH BATCH AUTUMN 2019**\
-
-  The current 2019 Zurich batch runs from 9 September to 6 December 2019 (school
-  phase), followed by a 6-12 month internship as of January 2020. Our classes
-  currently take place at MBSZ in Zurich
-  ([map](https://www.google.com/maps/place//data=!4m2!3m1!1s0x479aa0a7f4cfcbc1:0xa9c7ad41a5aa60a7?source=g.page.share)).
-
-
   **ZURICH BATCH SPRING 2020**\
 
   Applications: Ongoing, until 19 January 2020\
@@ -54,8 +46,8 @@ text: >-
 
   **AS A COMPANY**\
 
-  <a href="https://forms.gle/QWUkfqjJBRmBqcGq8" class="btn waves-effect
-  waves-light pwc-red">GET IN TOUCH</a>\
+  <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
+  pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
 
