@@ -58,7 +58,7 @@ support_as:
 
       \
 
-      <a href="/city/career-day/" class="btn waves-effect waves-light
+      <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
       pwc-red">CAREER DAY ZURICH</a>
   - header: Corporate Volunteering
     text: >-
