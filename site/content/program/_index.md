@@ -58,7 +58,7 @@ city_program:
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: Next batch is starting on the 30 March 2020. Applications are open now.
+      text: Next batch is starting on the 6th April 2020. Applications are open now.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
