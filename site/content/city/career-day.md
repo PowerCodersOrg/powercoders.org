@@ -50,12 +50,12 @@ text: >-
 
   Afternoon session 13:30 – 16:30 \
 
-  (You can choose the session)
+  (You can choose the session you prefer)
 
 
   **Program**\
 
-  Morning Group:
+  Morning Session:
 
 
   09:00  Open Doors Group "Morning"\
@@ -71,7 +71,7 @@ text: >-
   12:00  Next Steps Group "Morning"
 
 
-  Morning & Afternoon Groups:
+  Joint Morning & Afternoon Sessions:
 
 
   12:15  Open Doors "everyone"\
@@ -85,7 +85,7 @@ text: >-
   13:20  Q&A Session 
 
 
-  Afternoon Group:
+  Afternoon Session:
 
 
   13:35  Open Doors Group "Afternoon"\
