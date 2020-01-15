@@ -10,19 +10,20 @@ text: >-
   looking for a chance – you can help solve this challenge! 
 
 
-  **Join one of our Career Days and get an idea of our IT talents.**
+  **Join one of the Career Days and meet our IT talents.**
 support_as:
   - header: Internship/Job
     text: >-
-      Interested in offering an internship and becoming our partner in
+      Interested in offering an internship and in becoming our partner in
       empowering refugees?
 
 
       ###### WHAT WE ARE LOOKING FOR
 
 
-      * IT companies and IT departments offering 6 to 12-month internships or
-      apprenticeships 
+      * IT companies and IT departments offering 6 to 12-month internships
+
+      * possibility for a job offer or an apprenticeship
 
       * Teams who are eager to train an intern
 
@@ -32,7 +33,7 @@ support_as:
       ###### WHAT WE PROVIDE
 
 
-      * Recruitment of IT profiles
+      * Recruitment of IT talents
 
       * Training of participants
 
@@ -41,15 +42,15 @@ support_as:
 
       * Support in terms of employment of refugees 
 
-      * Support social integration  
+      * Support of social integration  
 
 
       **For more information, check our**
       [factsheet](https://drive.google.com/file/d/1TnlOHkLYaalMGGjmM2kvN6oJON3KVtpY/view). 
 
 
-      In order to get an impression of our program and our candidates, take part
-      in one of our career days without obligation.
+      In order to get an impression of our program and meet our candidates
+      (without oligation), take part in one of our career days.
 
 
       <a href="/city/career-day/" class="btn waves-effect waves-light
