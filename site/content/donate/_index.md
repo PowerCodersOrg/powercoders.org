@@ -19,6 +19,12 @@ text: >-
   of our impact at the end of every year.
 
 
+  Click the button below or save the fee and make a bank transfer: 
+
+
+  IBAN CH84 0483 5141 2493 0100 0
+
+
   #### Donate as a present
 
 
@@ -31,9 +37,6 @@ text: >-
 
   <a href="https://donorbox.org/donatepowercoders" class="btn waves-effect
   waves-light pwc-red" target="_blank" rel="noopener">Donate!</a>
-
-
-  Or via banktransfer. IBAN: CH84 0483 5141 2493 0100 0
 causes: []
 ---
 
