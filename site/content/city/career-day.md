@@ -3,27 +3,28 @@ title: Career Day Lausanne
 image: /img/header_companies_2.jpg
 section_title: Career Day Lausanne
 text: >-
-  Are you an IT company or do you have an IT department in the Romandie? \
+  Do you work for an IT company or an IT department in the Romandie? \
 
-  We are looking for companies who would be willing in potentially offering an
-  internship for our Powercoders graduates from July/August 2020 on. \
+  We are looking for companies who are potentially willing to offer an
+  internship for the Powercoders graduates as of July/August 2020. \
 
   \
 
-  **Are you interested? Then join our Career Day and get an idea of our IT
+  **Are you interested? Then join our Career Day and get to know our IT
   talents.**
 
 
-  The Career Day is the most important day in our program. It is the day when
-  the companies meet the participants. You will present you company in 2-3
-  minutes on stage and then you will meet each of our participants for a short
-  interview of about 5 minutes and then you select your top candidates for a
-  normal interview the week after at your office. Afterwards you can take your
-  final decision, if a person fits to your company.  
+  The Career Day is one of the most important milestones of our program since it
+  is the day when the companies meet the participants. You will briefly present
+  your company on stage and then meet each of our participants for a short
+  interview of about 5 minutes. After this, you can select your top candidates
+  for a normal interview at your office the following week. Finally you can take
+  the final decision about whether one of the participants fits the profile you
+  are looking for and who that would be.
 
 
-  **It is an efficient way for you to get to know talents through personal
-  contact.** 
+  **This is an efficient way for you to get a personal impression of the
+  candidates.** 
 
 
   - - -
@@ -45,11 +46,11 @@ text: >-
 
   Morning session 9:00 – 12:15 \
 
-  Lunch offered \
+  Lunch (offered) \
 
   Afternoon session 13:30 – 16:30 \
 
-  (You choose your session)
+  (You can choose the session)
 
 
   **Program**\
@@ -61,11 +62,11 @@ text: >-
 
   09:15  Introduction\
 
-  09:30  Companies Pitches (you present in 2-3' your company)\
+  09:30  Companies' Pitches (you present your company during 2-3 minutes)\
 
   10:15  Break\
 
-  10:25  Job Bazar\
+  10:25  Job Bazar (5-minute interviews)\
 
   12:00  Next Steps Group "Morning"
 
@@ -91,11 +92,11 @@ text: >-
 
   13:45  Introduction\
 
-  13:55  Companies Pitches (you present in 2-3' your company)\
+  13:55  Companies' Pitches (you present your company during 2-3 minutes)\
 
   14:35  Break\
 
-  14:45  Job Bazar\
+  14:45  Job Bazar (5-minute interviews)\
 
   16:15  Next Steps Group "Afternoon" \
 
