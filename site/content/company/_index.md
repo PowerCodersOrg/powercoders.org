@@ -50,7 +50,7 @@ support_as:
 
 
       In order to get an impression of our program and meet our candidates
-      (without oligation), take part in one of our career days.
+      (without oligation), take part in one of our career days:
 
 
       <a href="/city/career-day/" class="btn waves-effect waves-light
