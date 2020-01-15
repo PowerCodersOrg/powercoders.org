@@ -14,13 +14,13 @@ text: >-
   talents.**
 
 
-  The Career Day is one of the most important milestones of our program since it
-  is the day when the companies meet the participants. You will briefly present
-  your company on stage and then meet each of our participants for a short
-  interview of about 5 minutes. After this, you can select your top candidates
-  for a normal interview at your office the following week. Finally you can take
-  the decision about whether one of the participants fits the profile you are
-  looking for and who that would be.
+  The Career Day is one of the most important milestones of our program since
+  it's the day when the companies meet the participants. You will briefly
+  present your company on stage and then meet each of our participants for a
+  short interview of about 5 minutes. After this, you can select your preferred
+  candidates for a normal interview at your office the following week. Finally
+  you can take the decision about whether one of the participants fits the
+  profile you are looking for and who that would be.
 
 
   **This is an efficient way for you to get a personal impression of the
