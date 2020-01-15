@@ -19,8 +19,8 @@ text: >-
   your company on stage and then meet each of our participants for a short
   interview of about 5 minutes. After this, you can select your top candidates
   for a normal interview at your office the following week. Finally you can take
-  the final decision about whether one of the participants fits the profile you
-  are looking for and who that would be.
+  the decision about whether one of the participants fits the profile you are
+  looking for and who that would be.
 
 
   **This is an efficient way for you to get a personal impression of the
