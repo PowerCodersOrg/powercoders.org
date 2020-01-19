@@ -38,7 +38,7 @@ text: >-
   **NEXT CAREER DAY**  
 
 
-  **Wednesday, May 13, 2020** at CVCI (Chambre vaudoise de commerce et
+  **Wednesday, 13 May, 2020** at CVCI (Chambre vaudoise de commerce et
   d'industrie) [\
 
   Avenue d'Ouchy 47, 1006
