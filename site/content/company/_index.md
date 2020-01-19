@@ -10,7 +10,17 @@ text: >-
   looking for a chance – you can help solve this challenge! 
 
 
-  **Join one of the Career Days and meet our IT talents.**
+  **Join one of the Career Days and meet our IT talents.** 
+
+
+  <a href="/city/career-day/" class="btn waves-effect waves-light
+  pwc-red">CAREER DAY LAUSANNE</a> 
+
+
+  \
+
+  <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
+  pwc-red">CAREER DAY ZURICH</a>
 support_as:
   - header: Internship/Job
     text: >-
