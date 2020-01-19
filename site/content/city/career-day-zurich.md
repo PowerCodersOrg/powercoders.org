@@ -11,7 +11,12 @@ text: >-
   \
 
   **Are you interested? Then join our Career Day and get an idea of our IT
-  talents.**
+  talents.** 
+
+
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSf_YipL3yBLlMHXSqDqRwcu8M1XSN0Hk-B_g2UXVeNzLz96gw/viewform"
+  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
   The Career Day is the most important day in our program. It is the day when
@@ -32,7 +37,7 @@ text: >-
   **NEXT CAREER DAY**  
 
 
-  **Tuesday, May 5, 2020, Zurich**\
+  **Tuesday, 5 May, 2020, Zurich**\
 
   \
 
