@@ -1,0 +1,16 @@
+{
+  "remove_after": "2020-02-14T06:00:00.000Z",
+  "audience": [
+    "student"
+  ],
+  "where": "Powerhouse Lausanne, Place de la Gare 10, 1003 Lausanne",
+  "city": [
+    "lausanne"
+  ],
+  "header_icon": "fa-rocket",
+  "text": "Powercoders has now a home in the heart of Lausanne! Join us to celebrate it.",
+  "title": "Inauguration Powerhouse Lausanne",
+  "call_to_action": "Party on!",
+  "when": "2020-02-13T16:30:00.000Z",
+  "link": "https://tiny.cc/inauguration-poho"
+}
