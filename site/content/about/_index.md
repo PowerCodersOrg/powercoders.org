@@ -19,14 +19,15 @@ text: >-
   current we are running two school centers in Switzerland and one in Italy.
 
 
-  ## **Our Impact Report 2018**
+  ## **Our Impact Report 2019**
 
 
-  ![Impact report 2018](/img/impact_report.png "Impact report 2018")
+  ![Impact report 2018](/img/impact_report_2019_rz_page1.jpg "Impact report
+  2018")
 
 
   [Download Impact report
-  2018](https://drive.google.com/file/d/16QKTbrsnDtdbVDCUNLBFt6B_F2qnMdX4/view?usp=sharing)
+  2019](https://drive.google.com/file/d/1xS_Nh8A23TvVnBEA89Vb8IE2hfrktMRU/view)
 team:
   members:
     - description: Participant / Zürich
