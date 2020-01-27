@@ -248,6 +248,11 @@ sections:
           (accommodation and health insurance expenses not included).
           Temporarily admitted persons with permit F and Asylum seekers with
           permit N often receive much less.
+      - header: 'Do your participants speak the local languages? '
+        text: >-
+          Yes, all participants speak the local language in their residence
+          canton. Some are very advanced and some are between B1 and B2  and
+          still progressing.
     name: Company
 ---
 
