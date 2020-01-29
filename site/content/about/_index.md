@@ -436,6 +436,11 @@ team:
       name: Dinesh Bolkensteyn
       visible:
         - community
+    - description: Participant / Bern
+      image: /img/farid_saberi.jpg
+      name: Farid Saberi
+      visible:
+        - participants
   text: >-
     ## MEET THE TEAM
 
