@@ -172,38 +172,38 @@ team:
       name: Hussam Allaham
       visible:
         - team_zurich
-    - description: Coach / Zürich
-      image: /img/ilya-shumilin.jpg
+    - description: Job Coach / Zurich
+      image: /img/ilya_shumilin.jpg
       name: Ilya Shumilin
       visible:
         - community
     - description: Participant / Bern
-      image: /img/jamila-amini.jpg
+      image: /img/jamila_amini.jpg
       name: Jamila Amini
       visible:
         - participants
-    - description: Coach / Zürich
-      image: /img/julia-sharonova.jpg
+    - description: Job Coach / Zurich
+      image: /img/julia_sharonova.jpg
       name: Julia Sharonova
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/juliana-mourisca.jpg
+    - description: Job Coach / Zurich
+      image: /img/juliana_mourisca.jpg
       name: Juliana Mourisca
       visible:
         - community
-    - description: Mentor / Zürich / Bern
-      image: /img/kurt-kammermann.jpg
+    - description: 'Senior Coach / Zurich, Bern'
+      image: /img/kurt_kammermann.jpg
       name: Kurt Kammermann
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/lena-goetsch.jpg
+    - description: Job Coach / Zürich
+      image: /img/lena_gîtsch.jpg
       name: Lena Götsch
       visible:
         - community
     - description: Participant / Bern
-      image: /img/lhamo-gakyitsang.jpg
+      image: /img/lhamo_gakyitsang.jpg
       name: Lhamo Gakyitsang
       visible:
         - participants
@@ -212,19 +212,19 @@ team:
       name: Luana Läderach
       visible:
         - community
-    - description: Mentor / Bern
-      image: /img/luc-hutter.jpg
+    - description: Job Coach / Bern
+      image: /img/luc_hutter.jpg
       name: Luc Hutter
       visible:
         - community
-    - description: Lead Teacher / Zürich
-      image: /img/Monorm.jpg
+    - description: Lead Teacher / Zurich
+      image: /img/madam_monorom.jpg
       name: Madam Monorom
       visible:
         - community
     - description: Industry Lead / Powerhouse Lausanne
       email: magaly.mathys@powercoders.org
-      image: /img/magaly-mathis.jpg
+      image: /img/magaly_mathys.jpg
       name: Magaly Mathys
       visible:
         - team_lausanne
@@ -451,6 +451,31 @@ team:
       name: 'Nisar Ahmed Hatami '
       visible:
         - participants
+    - description: Participant / Lausanne
+      image: /img/hunny_bhagat.jpg
+      name: Hunny Bhagat
+      visible:
+        - participants
+    - description: IT Trainer / Lausanne
+      image: /img/herve_queyranne.jpg
+      name: Hervé Queyranne
+      visible:
+        - community
+    - description: Job Coach / Lausanne
+      image: /img/isabella_annibale.jpg
+      name: Isabella Annibale
+      visible:
+        - participants
+    - description: Participant / Zurich
+      image: /img/jawad_ehsani.jpg
+      name: Jawad Ehsani
+      visible:
+        - participants
+    - description: Job Coach / Lausanne
+      image: /img/k_giacometti.jpg
+      name: Katel Giacometti
+      visible:
+        - community
   text: >-
     ## MEET THE COMMUNITY
 
