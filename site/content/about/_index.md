@@ -228,18 +228,18 @@ team:
       name: Magaly Mathys
       visible:
         - team_lausanne
-    - description: Mentor / Bern
-      image: /img/mahmoud-hallal.jpg
+    - description: Job Coach / Bern
+      image: /img/mahmoud_hallal.jpg
       name: Mahmoud Hallal
       visible:
         - community
     - description: Participant / Bern
-      image: /img/mannar-hielal.jpg
+      image: /img/mannar_hielal.jpg
       name: Mannar Hielal
       visible:
         - participants
-    - description: Mentor / Bern
-      image: /img/manuel-linder.jpg
+    - description: Job Coach / Bern
+      image: /img/manuel_linder.jpg
       name: Manuel Linder
       visible:
         - community
@@ -253,8 +253,8 @@ team:
       name: Markus Gallagher
       visible:
         - community
-    - description: Coach / Zürich
-      image: /img/martin-baur.jpg
+    - description: Job Coach / Zurich
+      image: /img/martin_baur.jpg
       name: Martin Baur
       visible:
         - community
@@ -264,13 +264,13 @@ team:
       name: Matteo Antony Mistretta
       visible:
         - team_turin
-    - description: Lead Teacher / Zürich
-      image: /img/matthias-hueni.jpg
+    - description: Lead Teacher / Zurich
+      image: /img/matthias_håni.jpg
       name: Matthias Hüni
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/maximilian-sutkowski.jpg
+    - description: Job Coach / Zurich
+      image: /img/maximilian_sutkowski.jpg
       name: Maximilian Sutkowski
       visible:
         - community
@@ -476,6 +476,31 @@ team:
       name: Katel Giacometti
       visible:
         - community
+    - description: Job Coach / Bern
+      image: /img/markus_gallagher.jpg
+      name: Markus Gallagher
+      visible:
+        - participants
+    - description: IT Trainer / Zurich
+      image: /img/markus_koller.jpg
+      name: Markus Koller
+      visible:
+        - community
+    - description: IT Trainer / Bern
+      image: /img/martin.jpg
+      name: Martin Hertig
+      visible:
+        - community
+    - description: Member
+      image: /img/michael_benjamin.jpg
+      name: Michael Benjamin
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/meron_essayas.jpg
+      name: Meron Essayas
+      visible:
+        - community
   text: >-
     ## MEET THE COMMUNITY
 
@@ -484,8 +509,8 @@ team:
 
 
     The Powercoders team is a talented and motivated group of people that work
-    hard to change the lives of refugees. We work in Zurich, Berne and Lausanne
-    and sometimes anywhere in between.
+    hard to change the lives of refugees. We work in Zurich, Berne, Lausanne and
+    Turin and sometimes anywhere in between.
 
 
     The Community
