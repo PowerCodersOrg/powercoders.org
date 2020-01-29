@@ -30,70 +30,70 @@ text: >-
   2019](https://drive.google.com/file/d/1xS_Nh8A23TvVnBEA89Vb8IE2hfrktMRU/view)
 team:
   members:
-    - description: Participant / Zürich
-      image: /img/abdul-nawaz-bugti.jpg
+    - description: Participant / Zurich
+      image: /img/abdul_nawaz_bugti.jpg
       name: Abdul Nawaz Bugti
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/abdullah-msallam.jpg
+    - description: Participant / Zurich
+      image: /img/abdullah_msallam.jpg
       name: Abdullah Msallam
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/agnes-nemethy.jpg
+    - description: Mentor / Zurich
+      image: /img/agnes_nçmçthy.jpg
       name: Agnes Néméthy
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/alan-omar.jpg
+    - description: Participant / Zurich
+      image: /img/alan_omar.jpg
       name: Alan Omar
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/izzatollah-amani.jpg
+    - description: Participant / Zurich
+      image: /img/amani_izzatollah.jpg
       name: Amani Izzatollah
       visible:
         - participants
     - description: Social Lead / Powerhouse Zurich
       email: andrina.beuggert@powercoders.org
-      image: /img/andrina_portray_001-1-.jpg
+      image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
       visible:
         - team_zurich
     - description: Participant / Zürich
-      image: /img/bashar-said.jpg
+      image: /img/bashar_said.jpg
       name: Bashar Said
       visible:
         - participants
-    - description: Coach / Zürich
-      image: /img/benjamin-vonlanthen.jpg
+    - description: Job Coach / Zurich
+      image: /img/benjamin_vonlanthen.jpg
       name: Benjamin Vonlanthen
       visible:
         - community
-    - description: CEO Powercoders / Vice-President
+    - description: CEO Powercoders Switzerland / Vice-President
       email: bettina.hirsig@powercoders.org
-      image: /img/bettina-hirsig.jpg
+      image: /img/bettina_hirsig.jpg
       name: Bettina Hirsig
       visible:
         - office_powercoders
         - board_powercoders
         - switzerland
-    - description: Participant / Zürich
-      image: /img/chiar-evdi.jpg
+    - description: Participant / Zurich
+      image: /img/chiar_evdi.jpg
       name: Chiar Evdi
       visible:
         - participants
-    - description: President
+    - description: Founder / President
       email: christian.hirsig@powercoders.org
-      image: /img/christian-hirsig.jpg
+      image: /img/christian_hirsig.jpg
       name: Christian Hirsig
       visible:
         - office_powercoders
         - board_powercoders
         - switzerland
-    - description: Coach / Bern
-      image: /img/christian-zosel.jpg
+    - description: Job Coach / Bern
+      image: /img/christian_zosel.jpg
       name: Christian Zosel
       visible:
         - community
@@ -103,34 +103,34 @@ team:
       name: Christina Gräni
       visible:
         - office_powercoders
-    - description: Coach / Bern
-      image: /img/christoph-isch.jpg
+    - description: Job Coach / Bern
+      image: /img/christoph_isch.jpg
       name: Christoph Isch
       visible:
         - community
-    - description: Coach / Bern
-      image: /img/christoph-ackermann.jpg
+    - description: Job Coach / Bern
+      image: /img/christoph_ackermann.jpg
       name: Christoph Ackermann
       visible:
         - community
     - description: Social Lead / Powerhouse Lausanne
       email: coline.sauzet@powercoders.org
-      image: /img/coline-sauzet.jpg
+      image: /img/coline_sauzet.jpg
       name: Coline Sauzet
       visible:
         - team_lausanne
-    - description: Coach / Bern
-      image: /img/damian-senn.jpg
+    - description: Job Coach / Bern
+      image: /img/damian_senn.jpg
       name: Damian Senn
       visible:
         - community
     - description: Participant / Bern
-      image: /img/ebrahim-khalil-mehrno.jpg
+      image: /img/ebrahim_mehrno.jpg
       name: Ebrahim Mehrno
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/fortuna-mebratu.jpg
+    - description: Participant / Zurich
+      image: /img/fortuna_mebratu.jpg
       name: Fortuna Mebratu
       visible:
         - participants
@@ -141,7 +141,7 @@ team:
       visible:
         - team_turin
     - description: Participant / Bern
-      image: /img/gajendran-packiyanathan.jpg
+      image: /img/gajendran_packiyanathan.jpg
       name: Gajendran Packiyanathan
       visible:
         - participants
@@ -152,58 +152,58 @@ team:
       visible:
         - team_turin
     - description: Industry Council
-      image: /img/hannes-gassert.jpg
+      image: /img/hannes_gassert.jpg
       name: Hannes Gassert
       visible:
         - board_powercoders
     - description: Lead Teacher / Lausanne
-      image: /img/helene-portier.jpg
+      image: /img/hçläne_portier.jpg
       name: Hélène Portier
       visible:
         - community
-    - description: Hermi
+    - description: Job Coach / Zurich
       image: /img/hermi.jpg
       name: Hermi
       visible:
         - community
     - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
-      image: /img/hussam-allaham.jpg
+      image: /img/hussam_allaham.jpg
       name: Hussam Allaham
       visible:
         - team_zurich
-    - description: Coach / Zürich
-      image: /img/ilya-shumilin.jpg
+    - description: Job Coach / Zurich
+      image: /img/ilya_shumilin.jpg
       name: Ilya Shumilin
       visible:
         - community
     - description: Participant / Bern
-      image: /img/jamila-amini.jpg
+      image: /img/jamila_amini.jpg
       name: Jamila Amini
       visible:
         - participants
-    - description: Coach / Zürich
-      image: /img/julia-sharonova.jpg
+    - description: Job Coach / Zurich
+      image: /img/julia_sharonova.jpg
       name: Julia Sharonova
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/juliana-mourisca.jpg
+    - description: Job Coach / Zurich
+      image: /img/juliana_mourisca.jpg
       name: Juliana Mourisca
       visible:
         - community
-    - description: Mentor / Zürich / Bern
-      image: /img/kurt-kammermann.jpg
+    - description: 'Senior Coach / Zurich, Bern'
+      image: /img/kurt_kammermann.jpg
       name: Kurt Kammermann
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/lena-goetsch.jpg
+    - description: Job Coach / Zürich
+      image: /img/lena_gîtsch.jpg
       name: Lena Götsch
       visible:
         - community
     - description: Participant / Bern
-      image: /img/lhamo-gakyitsang.jpg
+      image: /img/lhamo_gakyitsang.jpg
       name: Lhamo Gakyitsang
       visible:
         - participants
@@ -212,34 +212,34 @@ team:
       name: Luana Läderach
       visible:
         - community
-    - description: Mentor / Bern
-      image: /img/luc-hutter.jpg
+    - description: Job Coach / Bern
+      image: /img/luc_hutter.jpg
       name: Luc Hutter
       visible:
         - community
-    - description: Lead Teacher / Zürich
-      image: /img/Monorm.jpg
+    - description: Lead Teacher / Zurich
+      image: /img/madam_monorom.jpg
       name: Madam Monorom
       visible:
         - community
     - description: Industry Lead / Powerhouse Lausanne
       email: magaly.mathys@powercoders.org
-      image: /img/magaly-mathis.jpg
+      image: /img/magaly_mathys.jpg
       name: Magaly Mathys
       visible:
         - team_lausanne
-    - description: Mentor / Bern
-      image: /img/mahmoud-hallal.jpg
+    - description: Job Coach / Bern
+      image: /img/mahmoud_hallal.jpg
       name: Mahmoud Hallal
       visible:
         - community
     - description: Participant / Bern
-      image: /img/mannar-hielal.jpg
+      image: /img/mannar_hielal.jpg
       name: Mannar Hielal
       visible:
         - participants
-    - description: Mentor / Bern
-      image: /img/manuel-linder.jpg
+    - description: Job Coach / Bern
+      image: /img/manuel_linder.jpg
       name: Manuel Linder
       visible:
         - community
@@ -253,8 +253,8 @@ team:
       name: Markus Gallagher
       visible:
         - community
-    - description: Coach / Zürich
-      image: /img/martin-baur.jpg
+    - description: Job Coach / Zurich
+      image: /img/martin_baur.jpg
       name: Martin Baur
       visible:
         - community
@@ -264,89 +264,84 @@ team:
       name: Matteo Antony Mistretta
       visible:
         - team_turin
-    - description: Lead Teacher / Zürich
-      image: /img/matthias-hueni.jpg
+    - description: Lead Teacher / Zurich
+      image: /img/matthias_håni.jpg
       name: Matthias Hüni
       visible:
         - community
-    - description: Mentor / Zürich
-      image: /img/maximilian-sutkowski.jpg
+    - description: Job Coach / Zurich
+      image: /img/maximilian_sutkowski.jpg
       name: Maximilian Sutkowski
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/mohamad-husam-ebish.jpg
+    - description: Participant / Zurich
+      image: /img/mohamad_husam_ebish.jpg
       name: Mohamad Husam Ebish
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/mohammad-altahan.jpg
+      image: /img/mohammad_altahan.jpg
       name: Mohammad Altahan
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/mohammad-hadi-soroush.jpg
+    - description: Participant / Zurich
+      image: /img/mohammad_hadi_soroush.jpg
       name: Mohammad Hadi Soroush
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/mohammed-khairi.jpg
+    - description: Participant / Zurich
+      image: /img/mohammed_khairi.jpg
       name: Mohammed Khairi
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/muhammad-bashir-karimi.jpg
+    - description: Participant / Zurich
+      image: /img/muhammad_bashir_karimi.jpg
       name: Muhammad Bashir Karimi
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/nick-niles.jpg
+    - description: Participant / Zurich
+      image: /img/nick_niles.jpg
       name: Nick Niles
       visible:
         - community
-    - description: Coach / Zürich
-      image: /img/nicolas-perrenoud.jpg
+    - description: Job Coach / Zurich
+      image: /img/nicolas_perrenoud.jpg
       name: Nicolas Perrenoud
       visible:
         - community
-    - description: Coach / Bern
-      image: /img/oleg-lavrovsky.jpg
+    - description: Job Coach / Bern
+      image: /img/oleg_lavrovsky.jpg
       name: Oleg Lavrovsky
       visible:
         - community
     - description: CEO Powercoders International
       email: priya.burci@powercoders.org
-      image: /img/photo-priya-profile-powercoders_600x600.jpg
+      image: /img/priya_burci.jpg
       name: Priya Burci
       visible:
         - team_turin
-    - description: Participant / Zürich
-      image: /img/rafat-daghmach.jpg
+    - description: Participant / Zurich
+      image: /img/rafat_daghmach.jpg
       name: Rafat Daghmach
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/rami-jumaah.jpg
+      image: /img/rami_jumaah.jpg
       name: Rami Jumaah
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/ranny-kaddoura.jpg
+    - description: Participant / Zurich
+      image: /img/ranny_kaddoura.jpg
       name: Ranny Kaddoura
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/raphael-gaus.jpg
-      name: Raphael Gaus
-      visible:
-        - community
-    - description: Participant / Zürich
-      image: /img/sangeerththani-ramesh.jpg
+    - description: Participant / Zurich
+      image: /img/sangeerththani_ramesh.jpg
       name: Sangeerththani Ramesh
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/sergei-schaub.jpg
+    - description: Job Coach / Zurich
+      image: /img/sergei_schaub.jpg
       name: Sergei Schaub
       visible:
         - community
@@ -361,8 +356,8 @@ team:
       name: Stefan Schärmeli
       visible:
         - community
-    - description: Mentor / Bern
-      image: /img/stefanie-hess.jpg
+    - description: Job Coach / Bern
+      image: /img/stefanie_hess.jpg
       name: Stefanie Hess
       visible:
         - community
@@ -373,51 +368,209 @@ team:
       visible:
         - team_turin
     - description: Participant / Bern
-      image: /img/sujeevan-jeyapalan.jpg
+      image: /img/sujeevan_jeyapalan.jpg
       name: Sujeevan Jeyapalan
     - description: Social Council
-      image: /img/sunita-asnani.jpg
+      image: /img/sunita_asnani.jpg
       name: Sunita Asnani
       visible:
         - board_powercoders
     - description: Teaching Lead Zurich / Powerhouse Zurich
       email: susanne.koenig@powercoders.org
-      image: /img/me_square.jpg
+      image: /img/susanne_kînig.jpg
       name: Susanne König
       visible:
         - team_zurich
-    - description: Participant / Zürich
-      image: /img/tenzin-dhondup-gyadhotsang.jpg
+    - description: Participant / Zurich
+      image: /img/tenzin_gyadhotsang.jpg
       name: Tenzin Gyadhotsang
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/tesfamichael-afewerki.jpg
+      image: /img/tesfamichael_afewerki.jpg
       name: Tesfamichael Afewerki
       visible:
         - participants
     - description: Mentor / Zürich
-      image: /img/visakha-thongpetsavong.jpg
+      image: /img/visakha_thongpetsavong.jpg
       name: Visakha Thongpetsavong
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/yoseph-endrias-lechebo.jpg
+    - description: Participant / Zurich
+      image: /img/yoseph_lechebo.jpg
       name: Yoseph Lechebo
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/yusup-khashbulatov.jpg
+      image: /img/yusup_khashbulatov.jpg
       name: Yusup Khashbulatov
       visible:
         - participants
+    - description: Participant / Zurich
+      image: /img/abdul_rahim_alizada.jpg
+      name: Abdul Rahim Alizada
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/ahmed_fawad_sattari.jpg
+      name: Ahmed Fawad Sattari
+      visible:
+        - participants
+    - description: Job Coach
+      image: /img/andreas_merçnyi.jpg
+      name: Andreas Merenyi
+      visible:
+        - community
+    - description: Member
+      image: /img/aron_braun.jpg
+      name: Aron Braun
+      visible:
+        - community
+    - description: IT Trainer / Lausanne
+      image: /img/dinesh_bolkensteyn.jpg
+      name: Dinesh Bolkensteyn
+      visible:
+        - community
+    - description: Participant / Bern
+      image: /img/farid_saberi.jpg
+      name: Farid Saberi
+      visible:
+        - participants
+    - description: Job Coach / Lausanne
+      image: /img/frederic_kerautret.jpg
+      name: Frédéric Kerautret
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/hatami_nisar_ahmed.jpg
+      name: 'Nisar Ahmed Hatami '
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/hunny_bhagat.jpg
+      name: Hunny Bhagat
+      visible:
+        - participants
+    - description: IT Trainer / Lausanne
+      image: /img/herve_queyranne.jpg
+      name: Hervé Queyranne
+      visible:
+        - community
+    - description: Job Coach / Lausanne
+      image: /img/isabella_annibale.jpg
+      name: Isabella Annibale
+      visible:
+        - participants
+    - description: Participant / Zurich
+      image: /img/jawad_ehsani.jpg
+      name: Jawad Ehsani
+      visible:
+        - participants
+    - description: Job Coach / Lausanne
+      image: /img/k_giacometti.jpg
+      name: Katel Giacometti
+      visible:
+        - community
+    - description: Job Coach / Bern
+      image: /img/markus_gallagher.jpg
+      name: Markus Gallagher
+      visible:
+        - participants
+    - description: IT Trainer / Zurich
+      image: /img/markus_koller.jpg
+      name: Markus Koller
+      visible:
+        - community
+    - description: IT Trainer / Bern
+      image: /img/martin.jpg
+      name: Martin Hertig
+      visible:
+        - community
+    - description: Member
+      image: /img/michael_benjamin.jpg
+      name: Michael Benjamin
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/meron_essayas.jpg
+      name: Meron Essayas
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/mustafa_noorhussin.jpg
+      name: Mustafa Noorhussin
+      visible:
+        - community
+    - description: Member
+      image: /img/oliver_ganz.jpg
+      name: Oliver Ganz
+      visible:
+        - participants
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/oktawia_kata.jpg
+      name: Oktawia Kata
+      visible:
+        - community
+    - description: IT Trainer / Bern
+      image: /img/ramon_wenger.jpg
+      name: Ramon Wenger
+      visible:
+        - community
+    - description: IT Trainer / Lausanne
+      image: /img/pierre_boizot.jpg
+      name: Pierre Boizot
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/robel_debesay-1-.jpg
+      name: 'Robel Debesay '
+      visible:
+        - participants
+    - description: Job Coach / Zurich
+      image: /img/raphael_gaus.jpg
+      name: Raphael Gaus
+      visible:
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/sharol_såess-o_reggio.jpg
+      name: Sharol Süess-O’Reggio
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/tenzin_lehpel.jpg
+      name: Tenzin Lehpel
+      visible:
+        - participants
+    - description: IT Trainer / Zurich
+      image: /img/vahid_moradi.jpg
+      name: Vahid Moradi
+      visible:
+        - community
+    - description: Member
+      image: /img/walter_steinmann.jpg
+      name: Walter Steinmann
+      visible:
+        - community
   text: >-
-    ## MEET THE TEAM
+    ## MEET THE COMMUNITY
+
+
+    The Team
 
 
     The Powercoders team is a talented and motivated group of people that work
-    to change the lives of refugees. We are a non-profit organisation that
-    depends on the engagement of incredible volunteers. So, twe thank all these
-    great people who are making a difference, time and again.
+    hard to change the lives of refugees. We work in Zurich, Berne, Lausanne and
+    Turin and sometimes anywhere in between.
+
+
+    The Community
+
+
+    Since we are a non-profit organisation, we rely heavily on the engagement of
+    volunteers. So, we want to thank all these great people who are making a
+    difference, time and again. Also, we are proud to be able to show you a
+    glimpse of who these amazing people are, our volunteers and (former)
+    participants.
 ---
 
