@@ -129,8 +129,8 @@ team:
       name: Ebrahim Mehrno
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/fortuna-mebratu.jpg
+    - description: Participant / Zurich
+      image: /img/fortuna_mebratu.jpg
       name: Fortuna Mebratu
       visible:
         - participants
@@ -141,7 +141,7 @@ team:
       visible:
         - team_turin
     - description: Participant / Bern
-      image: /img/gajendran-packiyanathan.jpg
+      image: /img/gajendran_packiyanathan.jpg
       name: Gajendran Packiyanathan
       visible:
         - participants
@@ -152,23 +152,23 @@ team:
       visible:
         - team_turin
     - description: Industry Council
-      image: /img/hannes-gassert.jpg
+      image: /img/hannes_gassert.jpg
       name: Hannes Gassert
       visible:
         - board_powercoders
     - description: Lead Teacher / Lausanne
-      image: /img/helene-portier.jpg
+      image: /img/hçläne_portier.jpg
       name: Hélène Portier
       visible:
         - community
-    - description: Hermi
+    - description: Job Coach / Zurich
       image: /img/hermi.jpg
       name: Hermi
       visible:
         - community
     - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
-      image: /img/hussam-allaham.jpg
+      image: /img/hussam_allaham.jpg
       name: Hussam Allaham
       visible:
         - team_zurich
@@ -439,6 +439,16 @@ team:
     - description: Participant / Bern
       image: /img/farid_saberi.jpg
       name: Farid Saberi
+      visible:
+        - participants
+    - description: Job Coach / Lausanne
+      image: /img/frederic_kerautret.jpg
+      name: Frédéric Kerautret
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/hatami_nisar_ahmed.jpg
+      name: 'Nisar Ahmed Hatami '
       visible:
         - participants
   text: >-
