@@ -417,7 +417,7 @@ team:
 
     The Powercoders team is a talented and motivated group of people that work
     to change the lives of refugees. We are a non-profit organisation that
-    depend on our incredible volunteers, so thank you to all these great people
-    who are making a difference.
+    depends on the engagement of incredible volunteers. So, twe thank all these
+    great people who are making a difference, time and again.
 ---
 
