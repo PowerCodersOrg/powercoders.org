@@ -13,10 +13,10 @@ text: >-
 
 
   The first Powercoders program started in Bern beginning of 2017 with an
-  overwhelming amount of volunteers participated as Job Coaches or IT trainers
+  overwhelming amount of volunteers participating as Job Coaches or IT trainers
   and with many IT companies who were enthusiastic about offering internships.
-  After this promising start, the Powercoders community has kept on growing and
-  current we are running two school centers in Switzerland and one in Italy.
+  After this promising start, the Powercoders community kept on growing and we
+  are currently running two school centers in Switzerland and one in Italy.
 
 
   ## **Our Impact Report 2019**
@@ -417,7 +417,7 @@ team:
 
     The Powercoders team is a talented and motivated group of people that work
     to change the lives of refugees. We are a non-profit organisation that
-    depend on our incredible volunteers, so thank you to all these great people
-    who are making a difference.
+    depends on the engagement of incredible volunteers. So, twe thank all these
+    great people who are making a difference, time and again.
 ---
 
