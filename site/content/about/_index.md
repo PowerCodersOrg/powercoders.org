@@ -66,34 +66,34 @@ team:
       name: Bashar Said
       visible:
         - participants
-    - description: Coach / Zürich
-      image: /img/benjamin-vonlanthen.jpg
+    - description: Job Coach / Zurich
+      image: /img/benjamin_vonlanthen.jpg
       name: Benjamin Vonlanthen
       visible:
         - community
-    - description: CEO Powercoders / Vice-President
+    - description: CEO Powercoders Switzerland / Vice-President
       email: bettina.hirsig@powercoders.org
-      image: /img/bettina-hirsig.jpg
+      image: /img/bettina_hirsig.jpg
       name: Bettina Hirsig
       visible:
         - office_powercoders
         - board_powercoders
         - switzerland
-    - description: Participant / Zürich
-      image: /img/chiar-evdi.jpg
+    - description: Participant / Zurich
+      image: /img/chiar_evdi.jpg
       name: Chiar Evdi
       visible:
         - participants
-    - description: President
+    - description: Founder / President
       email: christian.hirsig@powercoders.org
-      image: /img/christian-hirsig.jpg
+      image: /img/christian_hirsig.jpg
       name: Christian Hirsig
       visible:
         - office_powercoders
         - board_powercoders
         - switzerland
-    - description: Coach / Bern
-      image: /img/christian-zosel.jpg
+    - description: Job Coach / Bern
+      image: /img/christian_zosel.jpg
       name: Christian Zosel
       visible:
         - community
@@ -103,29 +103,29 @@ team:
       name: Christina Gräni
       visible:
         - office_powercoders
-    - description: Coach / Bern
-      image: /img/christoph-isch.jpg
+    - description: Job Coach / Bern
+      image: /img/christoph_isch.jpg
       name: Christoph Isch
       visible:
         - community
-    - description: Coach / Bern
-      image: /img/christoph-ackermann.jpg
+    - description: Job Coach / Bern
+      image: /img/christoph_ackermann.jpg
       name: Christoph Ackermann
       visible:
         - community
     - description: Social Lead / Powerhouse Lausanne
       email: coline.sauzet@powercoders.org
-      image: /img/coline-sauzet.jpg
+      image: /img/coline_sauzet.jpg
       name: Coline Sauzet
       visible:
         - team_lausanne
-    - description: Coach / Bern
-      image: /img/damian-senn.jpg
+    - description: Job Coach / Bern
+      image: /img/damian_senn.jpg
       name: Damian Senn
       visible:
         - community
     - description: Participant / Bern
-      image: /img/ebrahim-khalil-mehrno.jpg
+      image: /img/ebrahim_mehrno.jpg
       name: Ebrahim Mehrno
       visible:
         - participants
@@ -429,6 +429,11 @@ team:
     - description: Member
       image: /img/aron_braun.jpg
       name: Aron Braun
+      visible:
+        - community
+    - description: IT Trainer / Lausanne
+      image: /img/dinesh_bolkensteyn.jpg
+      name: Dinesh Bolkensteyn
       visible:
         - community
   text: >-
