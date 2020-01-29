@@ -30,39 +30,39 @@ text: >-
   2019](https://drive.google.com/file/d/1xS_Nh8A23TvVnBEA89Vb8IE2hfrktMRU/view)
 team:
   members:
-    - description: Participant / Zürich
-      image: /img/abdul-nawaz-bugti.jpg
+    - description: Participant / Zurich
+      image: /img/abdul_nawaz_bugti.jpg
       name: Abdul Nawaz Bugti
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/abdullah-msallam.jpg
+    - description: Participant / Zurich
+      image: /img/abdullah_msallam.jpg
       name: Abdullah Msallam
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/agnes-nemethy.jpg
+    - description: Mentor / Zurich
+      image: /img/agnes_nçmçthy.jpg
       name: Agnes Néméthy
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/alan-omar.jpg
+    - description: Participant / Zurich
+      image: /img/alan_omar.jpg
       name: Alan Omar
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/izzatollah-amani.jpg
+    - description: Participant / Zurich
+      image: /img/amani_izzatollah.jpg
       name: Amani Izzatollah
       visible:
         - participants
     - description: Social Lead / Powerhouse Zurich
       email: andrina.beuggert@powercoders.org
-      image: /img/andrina_portray_001-1-.jpg
+      image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
       visible:
         - team_zurich
     - description: Participant / Zürich
-      image: /img/bashar-said.jpg
+      image: /img/bashar_said.jpg
       name: Bashar Said
       visible:
         - participants
@@ -411,6 +411,26 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
+    - description: Participant / Zurich
+      image: /img/abdul_rahim_alizada.jpg
+      name: Abdul Rahim Alizada
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/ahmed_fawad_sattari.jpg
+      name: Ahmed Fawad Sattari
+      visible:
+        - participants
+    - description: Job Coach
+      image: /img/andreas_merçnyi.jpg
+      name: Andreas Merenyi
+      visible:
+        - community
+    - description: Member
+      image: /img/aron_braun.jpg
+      name: Aron Braun
+      visible:
+        - community
   text: >-
     ## MEET THE TEAM
 
