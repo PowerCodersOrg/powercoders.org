@@ -452,12 +452,24 @@ team:
       visible:
         - participants
   text: >-
-    ## MEET THE TEAM
+    ## MEET THE COMMUNITY
+
+
+    The Team
 
 
     The Powercoders team is a talented and motivated group of people that work
-    to change the lives of refugees. We are a non-profit organisation that
-    depends on the engagement of incredible volunteers. So, twe thank all these
-    great people who are making a difference, time and again.
+    hard to change the lives of refugees. We work in Zurich, Berne and Lausanne
+    and sometimes anywhere in between.
+
+
+    The Community
+
+
+    Since we are a non-profit organisation, we rely heavily on the engagement of
+    volunteers. So, we want to thank all these great people who are making a
+    difference, time and again. Also, we are proud to be able to show you a
+    glimpse of who these amazing people are, our volunteers and (former)
+    participants.
 ---
 
