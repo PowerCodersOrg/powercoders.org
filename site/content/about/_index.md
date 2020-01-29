@@ -274,79 +274,74 @@ team:
       name: Maximilian Sutkowski
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/mohamad-husam-ebish.jpg
+    - description: Participant / Zurich
+      image: /img/mohamad_husam_ebish.jpg
       name: Mohamad Husam Ebish
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/mohammad-altahan.jpg
+      image: /img/mohammad_altahan.jpg
       name: Mohammad Altahan
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/mohammad-hadi-soroush.jpg
+    - description: Participant / Zurich
+      image: /img/mohammad_hadi_soroush.jpg
       name: Mohammad Hadi Soroush
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/mohammed-khairi.jpg
+    - description: Participant / Zurich
+      image: /img/mohammed_khairi.jpg
       name: Mohammed Khairi
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/muhammad-bashir-karimi.jpg
+    - description: Participant / Zurich
+      image: /img/muhammad_bashir_karimi.jpg
       name: Muhammad Bashir Karimi
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/nick-niles.jpg
+    - description: Participant / Zurich
+      image: /img/nick_niles.jpg
       name: Nick Niles
       visible:
         - community
-    - description: Coach / Zürich
-      image: /img/nicolas-perrenoud.jpg
+    - description: Job Coach / Zurich
+      image: /img/nicolas_perrenoud.jpg
       name: Nicolas Perrenoud
       visible:
         - community
-    - description: Coach / Bern
-      image: /img/oleg-lavrovsky.jpg
+    - description: Job Coach / Bern
+      image: /img/oleg_lavrovsky.jpg
       name: Oleg Lavrovsky
       visible:
         - community
     - description: CEO Powercoders International
       email: priya.burci@powercoders.org
-      image: /img/photo-priya-profile-powercoders_600x600.jpg
+      image: /img/priya_burci.jpg
       name: Priya Burci
       visible:
         - team_turin
-    - description: Participant / Zürich
-      image: /img/rafat-daghmach.jpg
+    - description: Participant / Zurich
+      image: /img/rafat_daghmach.jpg
       name: Rafat Daghmach
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/rami-jumaah.jpg
+      image: /img/rami_jumaah.jpg
       name: Rami Jumaah
       visible:
         - participants
-    - description: Participant / Zürich
-      image: /img/ranny-kaddoura.jpg
+    - description: Participant / Zurich
+      image: /img/ranny_kaddoura.jpg
       name: Ranny Kaddoura
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/raphael-gaus.jpg
-      name: Raphael Gaus
-      visible:
-        - community
-    - description: Participant / Zürich
-      image: /img/sangeerththani-ramesh.jpg
+    - description: Participant / Zurich
+      image: /img/sangeerththani_ramesh.jpg
       name: Sangeerththani Ramesh
       visible:
         - participants
-    - description: Mentor / Zürich
-      image: /img/sergei-schaub.jpg
+    - description: Job Coach / Zurich
+      image: /img/sergei_schaub.jpg
       name: Sergei Schaub
       visible:
         - community
@@ -361,8 +356,8 @@ team:
       name: Stefan Schärmeli
       visible:
         - community
-    - description: Mentor / Bern
-      image: /img/stefanie-hess.jpg
+    - description: Job Coach / Bern
+      image: /img/stefanie_hess.jpg
       name: Stefanie Hess
       visible:
         - community
@@ -373,31 +368,31 @@ team:
       visible:
         - team_turin
     - description: Participant / Bern
-      image: /img/sujeevan-jeyapalan.jpg
+      image: /img/sujeevan_jeyapalan.jpg
       name: Sujeevan Jeyapalan
     - description: Social Council
-      image: /img/sunita-asnani.jpg
+      image: /img/sunita_asnani.jpg
       name: Sunita Asnani
       visible:
         - board_powercoders
     - description: Teaching Lead Zurich / Powerhouse Zurich
       email: susanne.koenig@powercoders.org
-      image: /img/me_square.jpg
+      image: /img/susanne_kînig.jpg
       name: Susanne König
       visible:
         - team_zurich
-    - description: Participant / Zürich
-      image: /img/tenzin-dhondup-gyadhotsang.jpg
+    - description: Participant / Zurich
+      image: /img/tenzin_gyadhotsang.jpg
       name: Tenzin Gyadhotsang
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/tesfamichael-afewerki.jpg
+      image: /img/tesfamichael_afewerki.jpg
       name: Tesfamichael Afewerki
       visible:
         - participants
     - description: Mentor / Zürich
-      image: /img/visakha-thongpetsavong.jpg
+      image: /img/visakha_thongpetsavong.jpg
       name: Visakha Thongpetsavong
       visible:
         - community
@@ -499,6 +494,57 @@ team:
     - description: Participant / Lausanne
       image: /img/meron_essayas.jpg
       name: Meron Essayas
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/mustafa_noorhussin.jpg
+      name: Mustafa Noorhussin
+      visible:
+        - community
+    - description: Member
+      image: /img/oliver_ganz.jpg
+      name: Oliver Ganz
+      visible:
+        - participants
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/oktawia_kata.jpg
+      name: Oktawia Kata
+      visible:
+        - community
+    - description: IT Trainer / Bern
+      image: /img/ramon_wenger.jpg
+      name: Ramon Wenger
+      visible:
+        - community
+    - description: IT Trainer / Lausanne
+      image: /img/pierre_boizot.jpg
+      name: Pierre Boizot
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/robel_debesay-1-.jpg
+      name: 'Robel Debesay '
+      visible:
+        - participants
+    - description: Job Coach / Zurich
+      image: /img/raphael_gaus.jpg
+      name: Raphael Gaus
+      visible:
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/sharol_såess-o_reggio.jpg
+      name: Sharol Süess-O’Reggio
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/tenzin_lehpel.jpg
+      name: Tenzin Lehpel
+      visible:
+        - participants
+    - description: IT Trainer / Zurich
+      image: /img/vahid_moradi.jpg
+      name: Vahid Moradi
       visible:
         - community
   text: >-
