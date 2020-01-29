@@ -396,13 +396,13 @@ team:
       name: Visakha Thongpetsavong
       visible:
         - community
-    - description: Participant / Zürich
-      image: /img/yoseph-endrias-lechebo.jpg
+    - description: Participant / Zurich
+      image: /img/yoseph_lechebo.jpg
       name: Yoseph Lechebo
       visible:
         - participants
     - description: Participant / Bern
-      image: /img/yusup-khashbulatov.jpg
+      image: /img/yusup_khashbulatov.jpg
       name: Yusup Khashbulatov
       visible:
         - participants
@@ -545,6 +545,11 @@ team:
     - description: IT Trainer / Zurich
       image: /img/vahid_moradi.jpg
       name: Vahid Moradi
+      visible:
+        - community
+    - description: Member
+      image: /img/walter_steinmann.jpg
+      name: Walter Steinmann
       visible:
         - community
   text: >-
