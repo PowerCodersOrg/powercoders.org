@@ -17,8 +17,8 @@ media:
               https://drive.google.com/file/d/1Epb0s5tYERfObW4Wx1e3mWctMfL5hnRo/view
             link_text: Des réfugiés formés avec succès dans l’IT
             title: >-
-              Magazine "Demain" from the Chambre vaudoise du commerce et de
-              l'industrie (magazine / French)
+              Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
+              (magazine / French)
     year: '2020'
   - entries:
       - date: 16.12.2019
