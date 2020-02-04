@@ -553,9 +553,6 @@ team:
       visible:
         - community
   text: >-
-    ![](/img/impact_report_2019_rz_page1.jpg)
-
-
     ## MEET THE COMMUNITY
 
 
