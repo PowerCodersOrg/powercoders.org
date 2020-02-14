@@ -552,6 +552,12 @@ team:
       name: Walter Steinmann
       visible:
         - community
+    - description: Finance & Community Management / Bern
+      email: maria.multani@powercoders.org
+      image: /img/maria_multani-1-.jpg
+      name: Maria Multani
+      visible:
+        - office_powercoders
   text: >-
     ## MEET THE COMMUNITY
 
