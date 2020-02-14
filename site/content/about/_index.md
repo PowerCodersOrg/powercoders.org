@@ -99,7 +99,7 @@ team:
         - community
     - description: Public Relations
       email: christina.graeni@powercoders.org
-      image: /img/graeni_christina.jpg
+      image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
       visible:
         - office_powercoders
