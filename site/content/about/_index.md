@@ -99,7 +99,7 @@ team:
         - community
     - description: Public Relations
       email: christina.graeni@powercoders.org
-      image: /img/graeni_christina.jpg
+      image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
       visible:
         - office_powercoders
@@ -249,7 +249,7 @@ team:
       visible:
         - board_powercoders
     - description: Coach / Bern
-      image: /img/markus-gallagher.jpg
+      image: /img/markus_gallagher-1-.jpg
       name: Markus Gallagher
       visible:
         - community
@@ -552,6 +552,12 @@ team:
       name: Walter Steinmann
       visible:
         - community
+    - description: Finance & Community Management / Bern
+      email: maria.multani@powercoders.org
+      image: /img/maria_multani-1-.jpg
+      name: Maria Multani
+      visible:
+        - office_powercoders
   text: >-
     ## MEET THE COMMUNITY
 
