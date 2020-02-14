@@ -249,7 +249,7 @@ team:
       visible:
         - board_powercoders
     - description: Coach / Bern
-      image: /img/markus-gallagher.jpg
+      image: /img/markus_gallagher-1-.jpg
       name: Markus Gallagher
       visible:
         - community
