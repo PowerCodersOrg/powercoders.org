@@ -299,7 +299,7 @@ team:
       name: Muhammad Bashir Karimi
       visible:
         - participants
-    - description: Participant / Zurich
+    - description: Coach / Zurich
       image: /img/nick_niles.jpg
       name: Nick Niles
       visible:
@@ -460,7 +460,7 @@ team:
       image: /img/isabella_annibale.jpg
       name: Isabella Annibale
       visible:
-        - participants
+        - community
     - description: Participant / Zurich
       image: /img/jawad_ehsani.jpg
       name: Jawad Ehsani
@@ -475,7 +475,7 @@ team:
       image: /img/markus_gallagher.jpg
       name: Markus Gallagher
       visible:
-        - participants
+        - community
     - description: IT Trainer / Zurich
       image: /img/markus_koller.jpg
       name: Markus Koller
@@ -495,17 +495,16 @@ team:
       image: /img/meron_essayas.jpg
       name: Meron Essayas
       visible:
-        - community
+        - participants
     - description: Participant / Lausanne
       image: /img/mustafa_noorhussin.jpg
       name: Mustafa Noorhussin
       visible:
-        - community
+        - participants
     - description: Member
       image: /img/oliver_ganz.jpg
       name: Oliver Ganz
       visible:
-        - participants
         - community
     - description: IT Trainer / Zurich
       image: /img/oktawia_kata.jpg
