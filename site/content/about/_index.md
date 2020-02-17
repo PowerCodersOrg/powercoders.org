@@ -40,11 +40,21 @@ team:
       name: Abdullah Msallam
       visible:
         - participants
+    - description: Participant / Zurich
+      image: /img/abdul_rahim_alizada.jpg
+      name: Abdul Rahim Alizada
+      visible:
+        - participants
     - description: Mentor / Zurich
       image: /img/agnes_nçmçthy.jpg
       name: Agnes Néméthy
       visible:
         - community
+    - description: Participant / Lausanne
+      image: /img/ahmed_fawad_sattari.jpg
+      name: Ahmed Fawad Sattari
+      visible:
+        - participants
     - description: Participant / Zurich
       image: /img/alan_omar.jpg
       name: Alan Omar
@@ -55,12 +65,22 @@ team:
       name: Amani Izzatollah
       visible:
         - participants
+    - description: Job Coach
+      image: /img/andreas_merçnyi.jpg
+      name: Andreas Merenyi
+      visible:
+        - community
     - description: Social Lead / Powerhouse Zurich
       email: andrina.beuggert@powercoders.org
       image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
       visible:
         - team_zurich
+    - description: Member
+      image: /img/aron_braun.jpg
+      name: Aron Braun
+      visible:
+        - community
     - description: Participant / Zürich
       image: /img/bashar_said.jpg
       name: Bashar Said
@@ -124,9 +144,19 @@ team:
       name: Damian Senn
       visible:
         - community
+    - description: IT Trainer / Lausanne
+      image: /img/dinesh_bolkensteyn.jpg
+      name: Dinesh Bolkensteyn
+      visible:
+        - community
     - description: Participant / Bern
       image: /img/ebrahim_mehrno.jpg
       name: Ebrahim Mehrno
+      visible:
+        - participants
+    - description: Participant / Bern
+      image: /img/farid_saberi.jpg
+      name: Farid Saberi
       visible:
         - participants
     - description: Participant / Zurich
@@ -140,6 +170,11 @@ team:
       name: Francesco Ecclesie
       visible:
         - team_turin
+    - description: Job Coach / Lausanne
+      image: /img/frederic_kerautret.jpg
+      name: Frédéric Kerautret
+      visible:
+        - community
     - description: Participant / Bern
       image: /img/gajendran_packiyanathan.jpg
       name: Gajendran Packiyanathan
@@ -166,6 +201,16 @@ team:
       name: Hermi
       visible:
         - community
+    - description: IT Trainer / Lausanne
+      image: /img/herve_queyranne.jpg
+      name: Hervé Queyranne
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/hunny_bhagat.jpg
+      name: Hunny Bhagat
+      visible:
+        - participants
     - description: Program Manager / Powerhouse Zurich
       email: hussameddin.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
@@ -177,9 +222,19 @@ team:
       name: Ilya Shumilin
       visible:
         - community
+    - description: Job Coach / Lausanne
+      image: /img/isabella_annibale.jpg
+      name: Isabella Annibale
+      visible:
+        - community
     - description: Participant / Bern
       image: /img/jamila_amini.jpg
       name: Jamila Amini
+      visible:
+        - participants
+    - description: Participant / Zurich
+      image: /img/jawad_ehsani.jpg
+      name: Jawad Ehsani
       visible:
         - participants
     - description: Job Coach / Zurich
@@ -190,6 +245,11 @@ team:
     - description: Job Coach / Zurich
       image: /img/juliana_mourisca.jpg
       name: Juliana Mourisca
+      visible:
+        - community
+    - description: Job Coach / Lausanne
+      image: /img/k_giacometti.jpg
+      name: Katel Giacometti
       visible:
         - community
     - description: 'Senior Coach / Zurich, Bern'
@@ -248,14 +308,35 @@ team:
       name: Marco Jakob
       visible:
         - board_powercoders
+    - description: Finance & Community Management / Bern
+      email: maria.multani@powercoders.org
+      image: /img/maria_multani-1-.jpg
+      name: Maria Multani
+      visible:
+        - office_powercoders
     - description: Coach / Bern
       image: /img/markus_gallagher-1-.jpg
       name: Markus Gallagher
       visible:
         - community
+    - description: Job Coach / Bern
+      image: /img/markus_gallagher.jpg
+      name: Markus Gallagher
+      visible:
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/markus_koller.jpg
+      name: Markus Koller
+      visible:
+        - community
     - description: Job Coach / Zurich
       image: /img/martin_baur.jpg
       name: Martin Baur
+      visible:
+        - community
+    - description: IT Trainer / Bern
+      image: /img/martin.jpg
+      name: Martin Hertig
       visible:
         - community
     - description: Teaching Lead – Powercoders Italy
@@ -272,6 +353,16 @@ team:
     - description: Job Coach / Zurich
       image: /img/maximilian_sutkowski.jpg
       name: Maximilian Sutkowski
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/meron_essayas.jpg
+      name: Meron Essayas
+      visible:
+        - participants
+    - description: Member
+      image: /img/michael_benjamin.jpg
+      name: Michael Benjamin
       visible:
         - community
     - description: Participant / Zurich
@@ -299,6 +390,11 @@ team:
       name: Muhammad Bashir Karimi
       visible:
         - participants
+    - description: Participant / Lausanne
+      image: /img/mustafa_noorhussin.jpg
+      name: Mustafa Noorhussin
+      visible:
+        - participants
     - description: Coach / Zurich
       image: /img/nick_niles.jpg
       name: Nick Niles
@@ -309,9 +405,29 @@ team:
       name: Nicolas Perrenoud
       visible:
         - community
+    - description: Participant / Lausanne
+      image: /img/hatami_nisar_ahmed.jpg
+      name: 'Nisar Ahmed Hatami '
+      visible:
+        - participants
+    - description: IT Trainer / Zurich
+      image: /img/oktawia_kata.jpg
+      name: Oktawia Kata
+      visible:
+        - community
     - description: Job Coach / Bern
       image: /img/oleg_lavrovsky.jpg
       name: Oleg Lavrovsky
+      visible:
+        - community
+    - description: Member
+      image: /img/oliver_ganz.jpg
+      name: Oliver Ganz
+      visible:
+        - community
+    - description: IT Trainer / Lausanne
+      image: /img/pierre_boizot.jpg
+      name: Pierre Boizot
       visible:
         - community
     - description: CEO Powercoders International
@@ -330,9 +446,24 @@ team:
       name: Rami Jumaah
       visible:
         - participants
+    - description: IT Trainer / Bern
+      image: /img/ramon_wenger.jpg
+      name: Ramon Wenger
+      visible:
+        - community
     - description: Participant / Zurich
       image: /img/ranny_kaddoura.jpg
       name: Ranny Kaddoura
+      visible:
+        - participants
+    - description: Job Coach / Zurich
+      image: /img/raphael_gaus.jpg
+      name: Raphael Gaus
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/robel_debesay-1-.jpg
+      name: 'Robel Debesay '
       visible:
         - participants
     - description: Participant / Zurich
@@ -343,6 +474,11 @@ team:
     - description: Job Coach / Zurich
       image: /img/sergei_schaub.jpg
       name: Sergei Schaub
+      visible:
+        - community
+    - description: IT Trainer / Zurich
+      image: /img/sharol_såess-o_reggio.jpg
+      name: Sharol Süess-O’Reggio
       visible:
         - community
     - description: Teaching Lead / Powerhouse Lausanne
@@ -386,14 +522,29 @@ team:
       name: Tenzin Gyadhotsang
       visible:
         - participants
+    - description: Participant / Lausanne
+      image: /img/tenzin_lehpel.jpg
+      name: Tenzin Lehpel
+      visible:
+        - participants
     - description: Participant / Bern
       image: /img/tesfamichael_afewerki.jpg
       name: Tesfamichael Afewerki
       visible:
         - participants
+    - description: IT Trainer / Zurich
+      image: /img/vahid_moradi.jpg
+      name: Vahid Moradi
+      visible:
+        - community
     - description: Mentor / Zürich
       image: /img/visakha_thongpetsavong.jpg
       name: Visakha Thongpetsavong
+      visible:
+        - community
+    - description: Member
+      image: /img/walter_steinmann.jpg
+      name: Walter Steinmann
       visible:
         - community
     - description: Participant / Zurich
@@ -406,157 +557,6 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
-    - description: Participant / Zurich
-      image: /img/abdul_rahim_alizada.jpg
-      name: Abdul Rahim Alizada
-      visible:
-        - participants
-    - description: Participant / Lausanne
-      image: /img/ahmed_fawad_sattari.jpg
-      name: Ahmed Fawad Sattari
-      visible:
-        - participants
-    - description: Job Coach
-      image: /img/andreas_merçnyi.jpg
-      name: Andreas Merenyi
-      visible:
-        - community
-    - description: Member
-      image: /img/aron_braun.jpg
-      name: Aron Braun
-      visible:
-        - community
-    - description: IT Trainer / Lausanne
-      image: /img/dinesh_bolkensteyn.jpg
-      name: Dinesh Bolkensteyn
-      visible:
-        - community
-    - description: Participant / Bern
-      image: /img/farid_saberi.jpg
-      name: Farid Saberi
-      visible:
-        - participants
-    - description: Job Coach / Lausanne
-      image: /img/frederic_kerautret.jpg
-      name: Frédéric Kerautret
-      visible:
-        - community
-    - description: Participant / Lausanne
-      image: /img/hatami_nisar_ahmed.jpg
-      name: 'Nisar Ahmed Hatami '
-      visible:
-        - participants
-    - description: Participant / Lausanne
-      image: /img/hunny_bhagat.jpg
-      name: Hunny Bhagat
-      visible:
-        - participants
-    - description: IT Trainer / Lausanne
-      image: /img/herve_queyranne.jpg
-      name: Hervé Queyranne
-      visible:
-        - community
-    - description: Job Coach / Lausanne
-      image: /img/isabella_annibale.jpg
-      name: Isabella Annibale
-      visible:
-        - community
-    - description: Participant / Zurich
-      image: /img/jawad_ehsani.jpg
-      name: Jawad Ehsani
-      visible:
-        - participants
-    - description: Job Coach / Lausanne
-      image: /img/k_giacometti.jpg
-      name: Katel Giacometti
-      visible:
-        - community
-    - description: Job Coach / Bern
-      image: /img/markus_gallagher.jpg
-      name: Markus Gallagher
-      visible:
-        - community
-    - description: IT Trainer / Zurich
-      image: /img/markus_koller.jpg
-      name: Markus Koller
-      visible:
-        - community
-    - description: IT Trainer / Bern
-      image: /img/martin.jpg
-      name: Martin Hertig
-      visible:
-        - community
-    - description: Member
-      image: /img/michael_benjamin.jpg
-      name: Michael Benjamin
-      visible:
-        - community
-    - description: Participant / Lausanne
-      image: /img/meron_essayas.jpg
-      name: Meron Essayas
-      visible:
-        - participants
-    - description: Participant / Lausanne
-      image: /img/mustafa_noorhussin.jpg
-      name: Mustafa Noorhussin
-      visible:
-        - participants
-    - description: Member
-      image: /img/oliver_ganz.jpg
-      name: Oliver Ganz
-      visible:
-        - community
-    - description: IT Trainer / Zurich
-      image: /img/oktawia_kata.jpg
-      name: Oktawia Kata
-      visible:
-        - community
-    - description: IT Trainer / Bern
-      image: /img/ramon_wenger.jpg
-      name: Ramon Wenger
-      visible:
-        - community
-    - description: IT Trainer / Lausanne
-      image: /img/pierre_boizot.jpg
-      name: Pierre Boizot
-      visible:
-        - community
-    - description: Participant / Lausanne
-      image: /img/robel_debesay-1-.jpg
-      name: 'Robel Debesay '
-      visible:
-        - participants
-    - description: Job Coach / Zurich
-      image: /img/raphael_gaus.jpg
-      name: Raphael Gaus
-      visible:
-        - community
-    - description: IT Trainer / Zurich
-      image: /img/sharol_såess-o_reggio.jpg
-      name: Sharol Süess-O’Reggio
-      visible:
-        - community
-    - description: Participant / Lausanne
-      image: /img/tenzin_lehpel.jpg
-      name: Tenzin Lehpel
-      visible:
-        - participants
-    - description: IT Trainer / Zurich
-      image: /img/vahid_moradi.jpg
-      name: Vahid Moradi
-      visible:
-        - community
-    - description: Member
-      image: /img/walter_steinmann.jpg
-      name: Walter Steinmann
-      visible:
-        - community
-    - description: Finance & Community Management / Bern
-      email: maria.multani@powercoders.org
-      image: /img/maria_multani-1-.jpg
-      name: Maria Multani
-      visible:
-        - office_powercoders
   text: >-
     ## MEET THE COMMUNITY
 
