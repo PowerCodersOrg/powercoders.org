@@ -39,14 +39,6 @@ media:
               Powercoders: la Fondation UBS soutient l'école d'informatique pour
               les réfugiés
             title: AGEFI (newspaper/French)
-      - date: 01.02.2020
-        links:
-          - link: >-
-              https://drive.google.com/file/d/1Epb0s5tYERfObW4Wx1e3mWctMfL5hnRo/view
-            link_text: Des réfugiés formés avec succès dans l’IT
-            title: >-
-              Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
-              (magazine / French)
       - date: 14.02.2020
         links:
           - link: >-
@@ -55,6 +47,14 @@ media:
               Une formation réintègre les migrants dans le secteur de
               l'informatique
             title: RTS Info (radio/French)
+      - date: 01.02.2020
+        links:
+          - link: >-
+              https://drive.google.com/file/d/1Epb0s5tYERfObW4Wx1e3mWctMfL5hnRo/view
+            link_text: Des réfugiés formés avec succès dans l’IT
+            title: >-
+              Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
+              (magazine / French)
     year: '2020'
   - entries:
       - date: 16.12.2019
