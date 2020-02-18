@@ -11,6 +11,34 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 17.02.2020
+        links:
+          - link: >-
+              https://www.24heures.ch/vaud-regions/academie-codage-refugies-lausanne/story/13291236?fbclid=IwAR0yyxkplj6ubWj7Ul21AuZAPbReYoGFlTm0ikUML1Vp5N6r9FuhB28R65I
+            link_text: Une académie du codage pour les réfugiés à Lausanne
+            title: 24 heures (newspaper /French)
+      - date: 14.02.2020
+        links:
+          - link: >-
+              https://www.ictjournal.ch/news/2020-02-14/une-ecole-dinformatique-destinee-aux-refugies-voit-le-jour-a-lausanne
+            link_text: >-
+              Une école d’informatique destinée aux réfugiés voit le jour à
+              Lausanne
+            title: ICT journal (magazine / French)
+      - date: 14.02.2020
+        links:
+          - link: >-
+              https://drive.google.com/file/d/15DdbDkbYENv0XZHXfS3swTEtZEa3ui5z/view
+            link_text: L’intégration par la technologie
+            title: La Liberté (newspaper / French)
+      - date: 14.02.2020
+        links:
+          - link: >-
+              http://www.agefi.com/home/entreprises/detail/edition/online/article/la-fondation-ubs-pour-le-domaine-social-et-la-formation-a-remis-un-cheque-de-30000-francs-pour-contribuer-a-la-creation-de-la-powerhouse-romandie-une-ecole-dinformatique-dediee-aux-494153.html
+            link_text: >-
+              Powercoders: la Fondation UBS soutient l'école d'informatique pour
+              les réfugiés
+            title: AGEFI (newspaper/French)
       - date: 01.02.2020
         links:
           - link: >-
@@ -19,6 +47,14 @@ media:
             title: >-
               Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
               (magazine / French)
+      - date: 14.02.2020
+        links:
+          - link: >-
+              https://www.rts.ch/info/suisse/11092363-une-formation-reintegre-les-migrants-dans-le-secteur-de-l-informatique.html
+            link_text: >-
+              Une formation réintègre les migrants dans le secteur de
+              l'informatique
+            title: RTS Info (radio/French)
     year: '2020'
   - entries:
       - date: 16.12.2019
