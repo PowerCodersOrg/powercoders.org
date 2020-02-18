@@ -64,7 +64,7 @@ city_program:
       fade_in: Left
       header: Turin
       link: /city/turin/
-      text: The program in Turin will started in January 2020.
+      text: The program in Turin started in January 2020.
 past_program:
   header: Past Programs
   items:
