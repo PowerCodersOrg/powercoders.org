@@ -483,7 +483,7 @@ team:
         - community
     - description: Teaching Lead / Powerhouse Lausanne
       email: sorin.paun@powercoders.org
-      image: /img/sorin.jpg
+      image: /img/sorin_paun-1-.jpg
       name: Sorin Paun
       visible:
         - team_lausanne
