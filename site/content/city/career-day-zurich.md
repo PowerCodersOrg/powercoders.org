@@ -37,9 +37,8 @@ text: >-
   **NEXT CAREER DAY**  
 
 
-  **Tuesday, 5 May, 2020,** at IBM Switzerland Ltd \
-
-  [Vulkanstrasse 106, 8048 Zürich
+  **Tuesday, 5 May, 2020,** at IBM Switzerland Ltd, [Vulkanstrasse 106, 8048
+  Zürich
   ](https://www.google.ch/maps/place/Vulkanstrasse+106,+8048+Z%C3%BCrich/@47.3936632,8.4862072,17z/data=!4m5!3m4!1s0x47900bb9b6441bcf:0x26445d47268f9b0!8m2!3d47.3934562!4d8.4858961)\
 
   \
