@@ -110,6 +110,15 @@ text: >-
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSf1T5P9bRJHxH9CbJmGfQ5AFo5qI3dLr4ovSI2Ybt78lkJHqA/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+
+
+  Are you interested, but need some more information, leave us your email
+  address and we will contact you: 
+
+
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSf1T5P9bRJHxH9CbJmGfQ5AFo5qI3dLr4ovSI2Ybt78lkJHqA/viewform"
+  class="btn waves-effect waves-light pwc-red">More information</a>
 team:
   header: Team
   members:
