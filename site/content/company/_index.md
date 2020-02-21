@@ -13,6 +13,9 @@ text: >-
   **Join one of the Career Days and meet our IT talents.** 
 
 
+  For more information about the Career Day:
+
+
   <a href="/city/career-day/" class="btn waves-effect waves-light
   pwc-red">CAREER DAY LAUSANNE</a> 
 
