@@ -118,7 +118,7 @@ text: >-
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLScKihryYTPBCvYmu8nVwkdeTbCYN-nC99qUtWbXmVmbd0hFTw/viewform"
-  class="btn waves-effect waves-light pwc-red">More information</a>
+  class="btn waves-effect waves-light pwc-red">Get in touch</a>
 team:
   header: Team
   members:
