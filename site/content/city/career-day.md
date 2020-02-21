@@ -116,13 +116,13 @@ text: >-
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
-  Are you interested, but need some more information, leave us your email
-  address and we will contact you:
+  Are you interested but have some more questions? Leave us your email and we
+  will contact you:
 
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSfCBOlkoDibj78OBD-gQrVLfV7Nvft_pKCCmkJCYkFGGilxuw/viewform"
-  class="btn waves-effect waves-light pwc-red">More information</a>
+  class="btn waves-effect waves-light pwc-red">Get in touch</a>
 apply_as: []
 team:
   header: Team Lauanne
