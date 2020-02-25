@@ -12,12 +12,17 @@ intro:
   video_id: IKuz7vA30sI
 get_involved:
   content: >-
-    # Our mission
+    # Our purpose
 
 
     We believe that coding skills are a stepping stone to a new beginning and
     that talented people will benefit the technology sector as much as it can
     benefit them.
+
+
+
+
+    # Our impact
 donuts:
   - description: of our participants get an internship
     percentage: 97
