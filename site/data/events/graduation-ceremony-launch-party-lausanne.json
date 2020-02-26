@@ -1,0 +1,18 @@
+{
+  "remove_after": "2020-04-03T22:00:00.000Z",
+  "audience": [
+    "student",
+    "volunteer",
+    "company"
+  ],
+  "where": "Casino de Montbenon, Salle des Fêtes, Allée Ernest-Ansermet 3, 1003 Lausanne",
+  "city": [
+    "lausanne"
+  ],
+  "header_icon": "fa-rocket",
+  "text": "Join us on April 3rd to congratulate our students and volunteers from the last batch of 2019. Let's celebrate also the start of our next coding course starting in April 2020 with new talented participants.",
+  "title": "Graduation Ceremony & Launch Party Lausanne ",
+  "call_to_action": "SIGN UP",
+  "when": "2020-04-03T15:30:00.000Z",
+  "link": "https://docs.google.com/forms/d/e/1FAIpQLScK15adkHejH-OZ7UF6Gq_b6qYASTPCijSrGMePmhAe6pMTRg/viewform"
+}
