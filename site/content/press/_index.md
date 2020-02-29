@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 19.02.2020
+        links:
+          - link: >-
+              https://www.netzwoche.ch/news/2020-02-19/fluechtlingen-tueren-zur-it-oeffnen
+            link_text: Flüchtlingen Türen zur IT öffnen
+            title: Netzwoche (ICT magazine / German)
       - date: 17.02.2020
         links:
           - link: >-
