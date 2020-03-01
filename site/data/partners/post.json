@@ -1,0 +1,10 @@
+{
+  "title": "Post",
+  "image": "/img/industry_post.png",
+  "link": "https://www.post.ch",
+  "type": "company_member",
+  "city": [
+    "zurich",
+    "home"
+  ]
+}
