@@ -1,0 +1,10 @@
+{
+  "title": "Industry Qoqa",
+  "image": "/img/industry_qoqa.png",
+  "link": "https://www.qoqa.ch",
+  "type": "company_member",
+  "city": [
+    "home",
+    "lausanne"
+  ]
+}
