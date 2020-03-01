@@ -1,0 +1,10 @@
+{
+  "title": "Industry Novartis",
+  "image": "/img/industry_novartis.png",
+  "link": "https://www.novartis.ch",
+  "type": "company_member",
+  "city": [
+    "zurich",
+    "home"
+  ]
+}
