@@ -1,0 +1,10 @@
+{
+  "title": "Industry FHNW",
+  "image": "/img/industry_fhnw.png",
+  "link": "https://www.fhnw.ch",
+  "type": "company_member",
+  "city": [
+    "zurich",
+    "home"
+  ]
+}
