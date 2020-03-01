@@ -1,0 +1,11 @@
+{
+  "title": "Industry Liip",
+  "image": "/img/industry_liip.png",
+  "link": "https://www.liip.ch",
+  "type": "company_member",
+  "city": [
+    "lausanne",
+    "zurich",
+    "home"
+  ]
+}
