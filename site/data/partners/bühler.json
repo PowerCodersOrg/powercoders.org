@@ -1,0 +1,10 @@
+{
+  "title": "Bühler",
+  "image": "/img/industry_buehler.png",
+  "link": "https://www.buhlergroup.com",
+  "type": "company_member",
+  "city": [
+    "home",
+    "zurich"
+  ]
+}
