@@ -1,0 +1,10 @@
+{
+  "title": "Industry Trivadis",
+  "image": "/img/industry_trivadis.png",
+  "link": "https://www.trivadis.com",
+  "type": "company_member",
+  "city": [
+    "home",
+    "zurich"
+  ]
+}
