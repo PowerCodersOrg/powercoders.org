@@ -1,0 +1,10 @@
+{
+  "title": "Industry ubs",
+  "image": "/img/industry_ubs.png",
+  "link": "https://www.ubs.com",
+  "type": "company_member",
+  "city": [
+    "zurich",
+    "home"
+  ]
+}
