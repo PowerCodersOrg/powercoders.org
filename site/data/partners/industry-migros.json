@@ -1,0 +1,10 @@
+{
+  "title": "Industry Migros",
+  "image": "/img/industry_migros.png",
+  "link": "https://www.migros.ch",
+  "type": "company_member",
+  "city": [
+    "home",
+    "zurich"
+  ]
+}
