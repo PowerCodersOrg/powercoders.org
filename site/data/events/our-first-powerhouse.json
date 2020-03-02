@@ -5,14 +5,15 @@
     "company",
     "volunteer"
   ],
+  "where": "Place de la Gare 10, Lausanne",
   "display_name": "Powerhouse Romandie",
   "city": [
     "lausanne"
   ],
   "header_icon": "fa-users",
-  "text": "Powercoders just opened its first Powerhouse! Located in the heart of Lausanne, the Powerhouse aims to be an inspiring place for IT passionates where meetups, conferences, hackathons, trainings, and coworking will take place. Come and have a coffee with us and book your work place [here](<https://tiny.cc/powercoders-2020 >).",
+  "text": "Powercoders just opened its first Powerhouse! Located in the heart of Lausanne, the Powerhouse aims to be an inspiring place for IT passionates where meetups, conferences, hackathons, trainings, and coworking will take place. Come and have a coffee with us and book your work place [here](https://tiny.cc/powerhouse-reservation).",
   "title": "Powerhouse Romandie",
-  "call_to_action": "See media coverage",
+  "call_to_action": "Book a desk/ room",
   "when": "",
-  "link": "https://powercoders.org/press/"
+  "link": "https://tiny.cc/powerhouse-reservation"
 }
