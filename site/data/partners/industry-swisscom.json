@@ -1,0 +1,11 @@
+{
+  "title": "Industry Swisscom",
+  "image": "/img/industry_swisscom.png",
+  "link": "https://www.swisscom.ch",
+  "type": "company_member",
+  "city": [
+    "lausanne",
+    "home",
+    "zurich"
+  ]
+}
