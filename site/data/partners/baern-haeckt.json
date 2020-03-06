@@ -3,8 +3,5 @@
   "image": "/img/baernhaeckt_logo.png",
   "link": "https://www.bernhackt.ch/",
   "type": "community_partner",
-  "city": [
-    "lausanne",
-    "zurich"
-  ]
+  "city": []
 }
