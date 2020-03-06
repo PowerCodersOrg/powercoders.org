@@ -3,9 +3,5 @@
   "image": "/img/impacthub_logo.png",
   "link": "http://www.impacthub.net/",
   "type": "community_partner",
-  "city": [
-    "home",
-    "zurich",
-    "lausanne"
-  ]
+  "city": []
 }
