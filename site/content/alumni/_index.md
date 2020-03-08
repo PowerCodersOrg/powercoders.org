@@ -1,7 +1,7 @@
 ---
-title: Meet our Alumni and learn about their success stories
+title: Our success stories
 image: /img/header_alumni.jpg
-section_title: Meet our Alumni and learn about their success stories
+section_title: Our success stories
 text: >-
   Our goal is to place disadvantaged people into permanent jobs so that they get
   their independence back. Read some of our great success stories here.
