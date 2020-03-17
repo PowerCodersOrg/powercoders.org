@@ -1,7 +1,7 @@
 ---
-title: Career Day Lausanne
+title: Career Days Lausanne
 image: /img/header_companies_2.jpg
-section_title: Career Day Lausanne
+section_title: Career Days Lausanne
 text: >-
   Do you work for an IT company or an IT department in the Romandie? \
 
@@ -10,17 +10,17 @@ text: >-
 
   \
 
-  **Are you interested? Then join our Career Day and get to know our IT
+  **Are you interested? Then join our Career Days and get to know our IT
   talents.** 
 
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+  class="btn waves-effect waves-light pwc-red">SIGN UP career days</a>
 
 
-  The Career Day is one of the most important milestones of our program since
-  it's the day when the companies meet the participants. You will briefly
+  The Career Days are one of the most important milestones of our program since
+  it's the days when the companies meet the participants. You will briefly
   present your company on stage and then meet each of our participants for a
   short interview of about 5 minutes. After this, you can select your preferred
   candidates for a normal interview at your office the following week. Finally
@@ -35,77 +35,31 @@ text: >-
   - - -
 
 
-  **NEXT CAREER DAY**  
+  **NEXT CAREER DAYS**  
 
 
-  **Wednesday, 13 May, 2020** at CVCI (Chambre vaudoise de commerce et
-  d'industrie) [\
-
-  Avenue d'Ouchy 47, 1006
-  Lausanne](https://www.google.ch/maps/place/Chambre+vaudoise+du+commerce+et+de+l'industrie/@46.5102397,6.6265574,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fce346e302b:0xd9d3a4e5317a32e6!8m2!3d46.510236!4d6.6287461)
-  \
-
-  \
-
-  **Time** \
-
-  Morning session 9:00 – 12:15 \
-
-  Lunch (offered) \
-
-  Afternoon session 13:30 – 16:30 \
-
-  (You can choose the session you prefer)
+  **From May 11 to 20, 2020**
 
 
   **Program**\
 
-  Morning Session:
+  _May 5:_ receive the CVs and 1 min video presentation of each Powercoders
+  candidate.\
+
+  _May 7:_ choose your top 5-6 pick.\
+
+  _May 11-20:_ invite your top picks for an interview (remotely or in your
+  office).\
+
+  _May 20:_ tell us if and to whom you would like to offer an internship
+  (starting from July or August 2020).
 
 
-  09:00  Open Doors Group "Morning"\
+  _May 25:_ candidates start their specialization, according to your needs.\
 
-  09:15  Introduction\
-
-  09:30  Companies' Pitches (you present your company during 2-3 minutes)\
-
-  10:15  Break\
-
-  10:25  Job Bazar (5-minute interviews)\
-
-  12:00  Next Steps Group "Morning"
+  _July 3: e_nd of Powercoders training. Start of internships possible.
 
 
-  Joint Morning & Afternoon Sessions:
-
-
-  12:15  Open Doors "everyone"\
-
-  12:30  Integrating a refugee (a student from a previous Powercoders batch)\
-
-  12.40  Hacks for being successful in a Swiss IT-Company\
-
-  12:50  Lunch\
-
-  13:20  Q&A Session 
-
-
-  Afternoon Session:
-
-
-  13:35  Open Doors Group "Afternoon"\
-
-  13:45  Introduction\
-
-  13:55  Companies' Pitches (you present your company during 2-3 minutes)\
-
-  14:35  Break\
-
-  14:45  Job Bazar (5-minute interviews)\
-
-  16:15  Next Steps Group "Afternoon" \
-
-  16:30  End 
 
 
   - - -
@@ -113,7 +67,7 @@ text: >-
 
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+  class="btn waves-effect waves-light pwc-red">SIGN UP career days</a>
 
 
   Are you interested but have some more questions? Leave us your email and we
