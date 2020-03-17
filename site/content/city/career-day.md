@@ -57,9 +57,7 @@ text: >-
 
   _May 25:_ candidates start their specialization, according to your needs.\
 
-  _July 3: e_nd of Powercoders training. Start of internships possible.
-
-
+  July 3: end of Powercoders training. Start of internships possible.
 
 
   - - -
