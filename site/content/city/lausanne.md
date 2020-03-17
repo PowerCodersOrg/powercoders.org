@@ -6,7 +6,8 @@ text: >-
   The Powercoders program in Lausanne is run by Powerhouse Lausanne.
 
 
-  **LAUSANNE BATCH SPRING 2020**\
+  **LAUSANNE SESSION SPRING 2020**
+
 
   School phase and IT training: 6th April – 3rd July 2020\
 
