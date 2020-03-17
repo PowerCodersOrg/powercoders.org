@@ -6,17 +6,29 @@ text: >-
   The Powercoders program in Lausanne is run by Powerhouse Lausanne.
 
 
-  **LAUSANNE BATCH SPRING 2020**\
+  **LAUSANNE SESSION SPRING 2020**
 
-  School phase / IT training: 6th April – 3rd July 2020\
 
-  Internship + Coaching: 6–12 month as of summer 2020
+  School phase and IT training: 6th April – 3rd July 2020\
+
+  _\-- April 3-May 22:_ web development (HTML/CSS, Javascript, PHP)
+
+
+  _\-- May 11-22:_ career days, participants and companies remote interviews
+
+
+  _\-- May 25-July 3:_ specialization tracks phase (AWS cloud
+  practitioner&architect, systems&networks management, web development,
+  software/application development, data analytics&AI)
+
+
+  Internships in companies and coaching: 6–12 months from July / August 2020.
 
 
   - - -
 
 
-  We accept applications continuously for the program starting in spring 2020.\
+  We accept applications continuously for the program starting in Spring 2020\
 
   **Get involved!**
 
