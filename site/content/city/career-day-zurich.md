@@ -10,8 +10,7 @@ text: >-
 
   \
 
-  **Are you interested? Then join our Career Day and get an idea of our IT
-  talents.** 
+  **Are you interested? Then join us and get an idea of our IT talents.** 
 
 
   <a
@@ -19,89 +18,36 @@ text: >-
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
-  The Career Day is the most important day in our program. It is the day when
-  the companies meet the participants. You will present you company in 2-3
-  minutes on stage and then you will meet each of our participants for a short
-  interview of about 5 minutes and then you select your top candidates for a
-  normal interview the week after at your office. Afterwards you can take your
-  final decision, if a person fits to your company.  
 
 
-  **It is an efficient way for you to get to know talents through personal
-  contact.** 
+  Due to the current crises with Corona-virus, we have adapted our program to be
+  fully online. Also the matching process is improved to be as efficient and
+  remote as possible.
 
 
   - - -
 
 
-  **NEXT CAREER DAY**  
-
-
-  **Tuesday, 5 May, 2020,** at IBM Switzerland Ltd, [Vulkanstrasse 106, 8048
-  Zürich
-  ](https://www.google.ch/maps/place/Vulkanstrasse+106,+8048+Z%C3%BCrich/@47.3936632,8.4862072,17z/data=!4m5!3m4!1s0x47900bb9b6441bcf:0x26445d47268f9b0!8m2!3d47.3934562!4d8.4858961)\
-
-  \
-
-  **Time** \
-
-  Morning session 9:00 – 12:15 \
-
-  Lunch offered \
-
-  Afternoon session 13:30 – 16:30 \
-
-  (You choose your session)
-
-
   **Program**\
 
-  Morning Group:
+  April 27_:_ receive the CVs and 1 min video presentation of each Powercoders
+  candidate.\
+
+  _May 4:_ choose your top 5-6 pick.\
+
+  _May 8-15:_ invite your top picks for an interview (remotely or in your
+  office).\
+
+  _May 15:_ tell us if and to whom you would like to offer an internship
+  (starting from July or August 2020).
 
 
-  09:00  Open Doors Group "Morning"\
+  _May 18:_ candidates start their specialization, according to your needs.\
 
-  09:15  Introduction\
-
-  09:30  Companies Pitches (you present in 2-3' your company)\
-
-  10:15  Break\
-
-  10:25  Job Bazar\
-
-  12:00  Next Steps Group "Morning"
+  June 19: end of Powercoders training. Start of internships possible at any
+  date after this date.
 
 
-  Morning & Afternoon Groups:
-
-
-  12:15  Open Doors "everyone"\
-
-  12:30  Integrating a refugee (a student from a previous Powercoders batch)\
-
-  12.40  Hacks for being successful in a Swiss IT-Company\
-
-  12:50  Lunch\
-
-  13:20  Q&A Session 
-
-
-  Afternoon Group:
-
-
-  13:35  Open Doors Group "Afternoon"\
-
-  13:45  Introduction\
-
-  13:55  Companies Pitches (you present in 2-3' your company)\
-
-  14:35  Break\
-
-  14:45  Job Bazar\
-
-  16:15  Next Steps Group "Afternoon" \
-
-  16:30  End 
 
 
   - - -
