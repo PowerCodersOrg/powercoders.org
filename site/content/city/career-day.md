@@ -56,7 +56,7 @@ text: >-
 
   _May 25:_ candidates start their specialization, according to your needs\
 
-  AWS cloud practitioner&architect, systems&networks management, web
+  (AWS cloud practitioner&architect, systems&networks management, web
   development, software/application development, data analytics&AI)\
 
   _July 3_: end of Powercoders training. Start of internships possible.
