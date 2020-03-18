@@ -54,9 +54,12 @@ text: >-
   (starting from July or August 2020).
 
 
-  _May 25:_ candidates start their specialization, according to your needs.\
+  _May 25:_ candidates start their specialization, according to your needs\
 
-  July 3: end of Powercoders training. Start of internships possible.
+  AWS cloud practitioner&architect, systems&networks management, web
+  development, software/application development, data analytics&AI)\
+
+  _July 3_: end of Powercoders training. Start of internships possible.
 
 
   - - -
