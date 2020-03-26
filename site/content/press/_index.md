@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 23.03.2020
+        links:
+          - link: >-
+              https://epaper.20minuten.ch/?locale=fr#read/648/Lausanne/2020-03-23/16
+            link_text: Soutenir les entreprises en intégrant les réfugiés
+            title: 20 minutes (newspaper / French)
       - date: 19.02.2020
         links:
           - link: >-
@@ -61,12 +67,6 @@ media:
             title: >-
               Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
               (magazine / French)
-      - date: 23.03.2020
-        links:
-          - link: >-
-              https://epaper.20minuten.ch/?locale=fr#read/648/Lausanne/2020-03-23/16
-            link_text: Soutenir les entreprises en intégrant les réfugiés
-            title: 20 minutes (newspaper / French)
     year: '2020'
   - entries:
       - date: 16.12.2019
