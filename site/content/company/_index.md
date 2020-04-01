@@ -3,11 +3,12 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  Is your company interested in a Corporate Social Responsibility engagement?
+  Is your company looking for IT talents and interested in a Corporate Social
+  Responsibility engagement?
 
 
-  The IT market is lacking talent and our skilled refugee participants are
-  looking for a chance – you can help solve this challenge! 
+  The IT market is lacking talents and our skilled participants are looking for
+  a chance – you can help solve this challenge! 
 
 
   **Join one of the Career Days and meet our IT talents.** 
