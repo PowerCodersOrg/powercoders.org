@@ -3,7 +3,7 @@ title: Company Engagement
 image: /img/header_companies.jpg
 section_title: Company Engagement
 text: >-
-  Is your company looking for IT talents and interested in a Corporate Social
+  Is your company looking for talents and interested in a Corporate Social
   Responsibility engagement?
 
 
