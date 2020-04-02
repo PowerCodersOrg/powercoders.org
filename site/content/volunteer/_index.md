@@ -53,7 +53,7 @@ support_as:
 
 
       **For more information**, check our
-      [factsheet](https://drive.google.com/file/d/1HhGQ8KSg620j_QOpvaoMv54oMTJa7Oph/view?usp=sharing).
+      [factsheet](https://drive.google.com/open?id=1iPA4JT5G2Tra9uMTj-yZvcF_OtN5Hs5O).
   - header: As an IT Trainer
     text: >-
       ###### You support our teachers as assistants.
@@ -102,6 +102,10 @@ support_as:
       **Current dates of the program: check them out in the city closest to your
       place of residence (**[**Lausanne**](/city/lausanne)**,**
       [**Zurich**](/city/zurich/)**).**
+
+
+      **For more information**, check our
+      [factsheet](https://drive.google.com/file/d/1xw5wG4qax-vJI9SqbyWJzuPvoiOWacwE/view?usp=sharing).
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_companyandvolunteers.png
