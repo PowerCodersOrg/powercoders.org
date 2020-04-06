@@ -61,7 +61,7 @@ team:
       visible:
         - participants
     - description: Participant / Zurich
-      image: /img/amani_izzatollah.jpg
+      image: /img/amani_izzatollah1.jpg
       name: Amani Izzatollah
       visible:
         - participants
@@ -166,7 +166,7 @@ team:
         - participants
     - description: Project Lead – Powercoders Italy
       email: francesco.ecclesie@powercoders.org
-      image: /img/francesco-ecclesie.jpeg
+      image: /img/francesco_ecclesie.jpg
       name: Francesco Ecclesie
       visible:
         - team_turin
@@ -182,7 +182,7 @@ team:
         - participants
     - description: Industry Lead – Powercoders Italy
       email: gregorio.caporale@powercoders.org
-      image: /img/gregorio-caporale.jpg
+      image: /img/gregorio_caporale.jpg
       name: Gregorio Caporale
       visible:
         - team_turin
@@ -268,7 +268,7 @@ team:
       visible:
         - participants
     - description: Media producer
-      image: /img/luana-laederach.jpg
+      image: /img/luana_laederach.jpg
       name: Luana Läderach
       visible:
         - community
@@ -304,13 +304,13 @@ team:
       visible:
         - community
     - description: Teaching Council
-      image: /img/marco-jakob.jpg
+      image: /img/marco_jakob.jpg
       name: Marco Jakob
       visible:
         - board_powercoders
     - description: Finance & Community Management / Bern
       email: maria.multani@powercoders.org
-      image: /img/maria_multani-1-.jpg
+      image: /img/maria_multani.jpg
       name: Maria Multani
       visible:
         - office_powercoders
@@ -341,7 +341,7 @@ team:
         - community
     - description: Teaching Lead – Powercoders Italy
       email: antony.mistretta@powercoders.org
-      image: /img/matteo-antony-mistretta.jpg
+      image: /img/matteo_antony_mistretta.jpg
       name: Matteo Antony Mistretta
       visible:
         - team_turin
@@ -483,12 +483,12 @@ team:
         - community
     - description: Teaching Lead / Powerhouse Lausanne
       email: sorin.paun@powercoders.org
-      image: /img/sorin_paun-1-.jpg
+      image: /img/sorin_paun.jpg
       name: Sorin Paun
       visible:
         - team_lausanne
     - description: Coach / Bern
-      image: /img/stefan-schaermeli.jpg
+      image: /img/stefan_schaermeli.jpg
       name: Stefan Schärmeli
       visible:
         - community
@@ -499,7 +499,7 @@ team:
         - community
     - description: Social Lead – Powercoders Italy
       email: stella.gianfreda@powercoders.org
-      image: /img/stella_gianfreda.jpeg
+      image: /img/stella_gianfreda.jpg
       name: Stella Gianfreda
       visible:
         - team_turin
