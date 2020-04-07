@@ -1,5 +1,5 @@
 {
-  "remove_after": "2019-11-28T16:00:00.000Z",
+  "remove_after": "2020-06-17T22:00:00.000Z",
   "audience": [
     "home",
     "student",
@@ -9,10 +9,10 @@
     "zurich"
   ],
   "header_icon": "fa-users",
-  "text": "Every Thursday at 4:00pm, we open our class to the community to join us, meet our participants, and enjoy a cultural and progress presentation, and the snacks and drinks afterwards. \n\n**Every Thursday, 4 PM,  MBSZ – Marketing & Business School Zürich**",
-  "meetup_link": "https://www.meetup.com/Powercoders/events/mgmwhryzmbzb/",
+  "text": "Every Thursday during our Bootcamp, we hold online skill-sharing sessions for our community, supporters, and companies to join us online, meet our participants, the team and enjoy cultural and recap presentations from 16:00 pm to 17:30 pm (Official part from 16:00 till 17:00)\r\n\n**Every Thursday, 4 PM**",
+  "meetup_link": "https://www.meetup.com/Powercoders/",
   "title": "Culture & Skill Sharing",
   "call_to_action": "Join",
   "when": "",
-  "link": "https://web.facebook.com/events/931648597170910/"
+  "link": "https://www.facebook.com/pg/PowercodersHQ/events/"
 }
