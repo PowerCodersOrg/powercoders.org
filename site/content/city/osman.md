@@ -1,6 +1,6 @@
 ---
 title: Success Story Osman Mohammed Osman
-image: /img/osman.png
+image: /img/bildschirmfoto-2020-04-17-um-17.58.05.png
 section_title: Success Story Osman
 text: >-
   **OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
