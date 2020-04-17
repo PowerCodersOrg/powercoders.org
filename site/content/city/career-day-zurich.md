@@ -5,8 +5,8 @@ section_title: Career Day Zurich
 text: >-
   Are you an IT company or do you have an IT department in the Deutschschweiz? \
 
-  We are looking for companies who would be willing in potentially offering an
-  internship for our Powercoders graduates from July/August 2020 on. \
+  We are looking for companies who would be willing in potentially offering
+  internships for our Powercoders graduates from July/August 2020 on. \
 
   \
 
@@ -16,8 +16,6 @@ text: >-
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSf1T5P9bRJHxH9CbJmGfQ5AFo5qI3dLr4ovSI2Ybt78lkJHqA/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
-
-
 
 
   Due to the current crises with Corona-virus, we have adapted our program to be
@@ -46,8 +44,6 @@ text: >-
 
   June 19: end of Powercoders training. Start of internships possible at any
   date after this date.
-
-
 
 
   - - -
