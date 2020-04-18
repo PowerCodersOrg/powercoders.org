@@ -1,9 +1,9 @@
 ---
 title: Success Story Osman Mohammed Osman
 image: /img/osman_header.jpg
-section_title: Osman
+section_title: Success Story Osman
 text: >-
-  **SUCCESS STORY: OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
+  **OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
 
 
   **To become a computer scientist – his dream since childhood ((came true))**
