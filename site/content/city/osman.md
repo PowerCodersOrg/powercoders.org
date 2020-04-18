@@ -1,12 +1,12 @@
 ---
 title: Success Story Osman Mohammed Osman
 image: /img/osman_header.jpg
-section_title: Success Story Osman
+section_title: Osman
 text: >-
-  **OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
+  **SUCCESS STORY: OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
 
 
-  **To become a computer scientist - his dream since childhood**
+  **To become a computer scientist – his dream since childhood ((came true))**
 
 
   Osman is a 24-year old man from Eritrea who now lives in Switzerland and who
