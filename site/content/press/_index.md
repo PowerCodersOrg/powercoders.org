@@ -16,7 +16,7 @@ media:
           - link: >-
               https://drive.google.com/file/d/11mOLtD__juRBl1qWCYuUCiOORuVsT7ua/view?usp=sharing
             link_text: Powercoders – Ein Sprungbrett in die IT-Branche für Geflüchtete
-            title: 'Radio RaBe (radion /German) '
+            title: Radio RaBe (radio /German)
       - date: 23.03.2020
         links:
           - link: >-
