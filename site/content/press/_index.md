@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 15.04.2020
+        links:
+          - link: >-
+              https://drive.google.com/file/d/11mOLtD__juRBl1qWCYuUCiOORuVsT7ua/view?usp=sharing
+            link_text: Powercoders – Ein Sprungbrett in die IT-Branche für Geflüchtete
+            title: 'Radio RaBe (radion /German) '
       - date: 23.03.2020
         links:
           - link: >-
