@@ -52,13 +52,15 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: Next batch is starting on the 23 March 2020. Applications are open now.
+      text: |-
+        The program in Zurich started in March 2020. \
+        Applications are open for the next batch starting in September 2020.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: Next batch is starting on the 6th April 2020. Applications are open now.
+      text: The program in Lausanne started in April 2020.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
