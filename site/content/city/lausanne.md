@@ -3,10 +3,10 @@ title: Lausanne
 image: /img/header_lausanne.jpg
 section_title: Lausanne
 text: >-
-  The Powercoders program in Lausanne is run by Powerhouse Lausanne.
+  The Powercoders program in Lausanne is run by the Powerhouse Lausanne.
 
 
-  **LAUSANNE SESSION SPRING 2020**
+  **LAUSANNE BATCH SPRING 2020**
 
 
   School phase and IT training: 6th April – 3rd July 2020\
@@ -28,7 +28,7 @@ text: >-
   - - -
 
 
-  We accept applications continuously for the program starting in Spring 2020\
+  We accept applications continuously for our programs. \
 
   **Get involved!**
 
@@ -71,15 +71,15 @@ team:
   members:
     - description: Industry Lead
       email: magaly.mathys@powercoders.org
-      image: /img/magaly-mathis.jpg
+      image: /img/magaly_mathys.jpg
       name: Magaly Mathys
     - description: Social Lead
       email: coline.sauzet@powercoders.org
-      image: /img/coline-sauzet.jpg
+      image: /img/coline_sauzet.jpg
       name: Coline Sauzet
     - description: Teaching Lead
       email: sorin.paun@powercoders.org
-      image: /img/sorin.jpg
+      image: /img/sorin_paun-1-.jpg
       name: Sorin Paun
 ---
 
