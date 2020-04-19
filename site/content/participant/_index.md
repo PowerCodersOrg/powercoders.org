@@ -2,7 +2,7 @@
 title: Participants
 image: /img/header_participants.jpg
 section_title: We are looking for talented participants
-text: >
+text: >-
   Our program is meant for refugees and disadvantaged citizens. We believe that
   in the 21st century coding skills will help you to start a new life wherever
   you are forced to go.
@@ -43,8 +43,7 @@ programme:
     ###### NEXT PROGRAMS IN 2020
 
 
-    We accept applications on an ongoing basis for our next programs starting in
-    2020.
+    We are constantly accepting applications for our programs. 
 
 
     **Apply to the program closest to your place of residence.** \
