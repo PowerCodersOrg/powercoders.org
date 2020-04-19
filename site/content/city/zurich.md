@@ -13,7 +13,7 @@ text: >-
   Internship & Job Coaching: 6–12 months, starting July 2020
 
 
-  **ZURICH BATCH AUTOMN 2020**\
+  **ZURICH BATCH AUTUMN 2020**\
 
   Applications: Ongoing; Interviews: May - July 2020\
 
