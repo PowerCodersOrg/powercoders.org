@@ -28,7 +28,7 @@ text: >-
   - - -
 
 
-  We accept applications continuously for our programs in 2020.\
+  Applications are open for the next batch starting in September 2020.\
 
   **Get involved!**
 
