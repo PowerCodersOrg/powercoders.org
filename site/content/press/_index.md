@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 30.4.2020
+        links:
+          - link: >-
+              https://www.itmagazine.ch/artikel/72030/Powercoders_macht_Fluechtlinge_zu_IT-Spezialisten.html
+            link_text: 'Powercoders macht Flüchtlinge zu IT-Spezialisten '
+            title: Swiss IT Magazine (magazine / German)
       - date: 15.04.2020
         links:
           - link: >-
