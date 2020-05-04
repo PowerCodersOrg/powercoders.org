@@ -3,9 +3,11 @@ title: Participants
 image: /img/header_participants.jpg
 section_title: We are looking for talented participants
 text: >-
-  Powercoders believes in promoting equal opportunities for diverse talents in
-  the IT industry. We train candidates of diverse backgrounds to fulfil their
-  potential in a digital future. 
+  **Powercoders believes in promoting equal opportunities for diverse talents in
+  the IT industry.**\
+
+  We train candidates of diverse backgrounds to fulfil their potential in a
+  digital future. 
 
 
   We offer a 13 week full-time coding bootcamp followed by a 6 to 12-month
@@ -13,7 +15,7 @@ text: >-
   departments and IT companies.
 
 
-  Our program is for you if:
+  **Our program is for you if:**
 
 
   * You are living in Switzerland and have the right to work in Switzerland
