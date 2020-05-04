@@ -62,8 +62,6 @@ programme:
     * You have solid IT skills in one field
 
 
-
-
     ###### WHAT WE OFFER
 
 
@@ -90,8 +88,6 @@ programme:
     **Next Generation Fund**: Participants commit to paying forward a
     scholarship for a future participant once they are in a comfortable
     financial situation through Powercoders.
-
-
 
 
     - - -
@@ -178,6 +174,19 @@ programme:
     (by University of Zurich)
 
 
-    ****
+
+
+    ###### APPLY NOW
+
+
+    **Apply to the program closest to your place of residence.** \
+
+    <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    waves-light pwc-red">APPLY FOR ZURICH</a>  ****
+
+
+    - - -
 ---
 
