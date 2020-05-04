@@ -36,9 +36,9 @@ text: >-
 
   **Apply to the program closest to your place of residence.** \
 
-  <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+  <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
   waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-  href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+  href="https://form.jotform.com/200991419287362" class="btn waves-effect
   waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
   header: Our program
@@ -98,6 +98,8 @@ programme:
     financial situation through Powercoders.
 
 
+
+
     - - -
 
 
@@ -109,9 +111,9 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    href="https://form.jotform.com/200991419287362" class="btn waves-effect
     waves-light pwc-red">APPLY FOR ZURICH</a>  
 
 
@@ -185,9 +187,9 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+    href="https://form.jotform.com/200991419287362" class="btn waves-effect
     waves-light pwc-red">APPLY FOR ZURICH</a> 
 
 
