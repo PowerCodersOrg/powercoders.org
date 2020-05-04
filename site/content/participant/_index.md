@@ -3,14 +3,35 @@ title: Participants
 image: /img/header_participants.jpg
 section_title: We are looking for talented participants
 text: >-
-  Our program is meant for refugees and disadvantaged citizens. We believe that
-  in the 21st century coding skills will help you to start a new life wherever
-  you are forced to go.
+  Powercoders believes in promoting equal opportunities for diverse talents in
+  the IT industry. We train candidates of diverse backgrounds to fulfil their
+  potential in a digital future. 
 
 
-  We offer you 13 weeks of full-time coding bootcamp followed by a 6 to 12-month
-  internship. The goal of Powercoders is the permanent placement of trained
-  refugees in IT-companies and IT-departments.
+  We offer a 13 week full-time coding bootcamp followed by a 6 to 12-month
+  internship. Our goal is to support our candidates to get a permanent job in IT
+  departments and IT companies.
+
+
+  Our program is for you if:
+
+
+  * You are living in Switzerland and have the right to work in Switzerland
+
+  * You are facing barriers to enter the IT job market (and can’t access similar
+  programs)
+
+  * You are 18-55 years old
+
+
+  Our program is for candidates of diverse backgrounds who are facing barriers
+  to enter the IT job market. The majority of our seats are reserved for people
+  with a refugee status. If you don’t have a refugee status, you can apply,
+  too. 
+
+
+  We encourage women to apply for our program. Our aim is that women make one
+  third of our participants.
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_participants.png
