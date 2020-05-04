@@ -38,8 +38,8 @@ text: >-
 
   **Apply to the program closest to your place of residence.** \
 
-  <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-  waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a target=”_blank”
   href="https://form.jotform.com/200991419287362" class="btn waves-effect
   waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
@@ -111,10 +111,10 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a>  
+    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
 
 
     **For social workers:** download the factsheet in
@@ -187,10 +187,10 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a> 
+    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
 
 
     - - -
