@@ -113,8 +113,6 @@ programme:
     [English](https://drive.google.com/file/d/19tQZnVWWO_naa5I1m4lPcIzG0rX7Y51B/view?usp=sharing)
 
 
-
-
     - - -
 
 
@@ -174,8 +172,6 @@ programme:
     (by University of Zurich)
 
 
-
-
     ###### APPLY NOW
 
 
@@ -184,7 +180,7 @@ programme:
     <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
     waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
     href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a>  ****
+    waves-light pwc-red">APPLY FOR ZURICH</a> 
 
 
     - - -
