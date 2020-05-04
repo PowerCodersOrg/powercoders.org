@@ -32,6 +32,14 @@ text: >-
 
   We encourage women to apply for our program. Our aim is that women make one
   third of our participants.
+
+
+  **Apply to the program closest to your place of residence.** \
+
+  <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+  waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+  href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
+  waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_program_participants.png
