@@ -78,7 +78,7 @@ programme:
     * 13-week intensive programming course with dedicated specialisation tracks
     (Web Design, Advanced JavaScript, Java, Testing, DevOps, etc.)
 
-    * Weekly social & business skills curriculum during school phase
+    * Weekly social & business skills curriculum during the IT bootcamp
 
     * Scholarships to cover the participation fee (5,000 CHF) for those who are
     not funded by social assistance
@@ -98,8 +98,6 @@ programme:
     **Next Generation Fund**: Participants commit to paying forward a
     scholarship for a future participant once they are in a comfortable
     financial situation through Powercoders.
-
-
 
 
     - - -
@@ -145,7 +143,7 @@ programme:
     HTML/CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) and
     [Javascript](https://eu.udacity.com/course/intro-to-javascript--ud803)
 
-    * [Freecodecamp](https://eu.udacity.com/course/intro-to-javascript--ud803)
+    * [Freecodecamp](http://freecodecamp.com/)
 
     * [Codeacademy.com](http://codeacademy.com/)
 
