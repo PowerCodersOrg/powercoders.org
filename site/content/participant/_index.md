@@ -3,9 +3,11 @@ title: Participants
 image: /img/header_participants.jpg
 section_title: We are looking for talented participants
 text: >-
-  Powercoders believes in promoting equal opportunities for diverse talents in
-  the IT industry. We train candidates of diverse backgrounds to fulfil their
-  potential in a digital future. 
+  **Powercoders believes in promoting equal opportunities for diverse talents in
+  the IT industry.**\
+
+  We train candidates of diverse backgrounds to fulfil their potential in a
+  digital future. 
 
 
   We offer a 13 week full-time coding bootcamp followed by a 6 to 12-month
@@ -13,7 +15,7 @@ text: >-
   departments and IT companies.
 
 
-  Our program is for you if:
+  **Our program is for you if:**
 
 
   * You are living in Switzerland and have the right to work in Switzerland
@@ -36,8 +38,8 @@ text: >-
 
   **Apply to the program closest to your place of residence.** \
 
-  <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-  waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a target=”_blank”
   href="https://form.jotform.com/200991419287362" class="btn waves-effect
   waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
@@ -76,7 +78,7 @@ programme:
     * 13-week intensive programming course with dedicated specialisation tracks
     (Web Design, Advanced JavaScript, Java, Testing, DevOps, etc.)
 
-    * Weekly social & business skills curriculum during school phase
+    * Weekly social & business skills curriculum during the IT bootcamp
 
     * Scholarships to cover the participation fee (5,000 CHF) for those who are
     not funded by social assistance
@@ -98,8 +100,6 @@ programme:
     financial situation through Powercoders.
 
 
-
-
     - - -
 
 
@@ -111,10 +111,10 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a>  
+    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
 
 
     **For social workers:** download the factsheet in
@@ -143,7 +143,7 @@ programme:
     HTML/CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) and
     [Javascript](https://eu.udacity.com/course/intro-to-javascript--ud803)
 
-    * [Freecodecamp](https://eu.udacity.com/course/intro-to-javascript--ud803)
+    * [Freecodecamp](http://freecodecamp.com/)
 
     * [Codeacademy.com](http://codeacademy.com/)
 
@@ -187,10 +187,10 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    href="https://form.jotform.com/200991419287362" class="btn waves-effect
-    waves-light pwc-red">APPLY FOR ZURICH</a> 
+    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+    target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
 
 
     - - -
