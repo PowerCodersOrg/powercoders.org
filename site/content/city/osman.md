@@ -49,7 +49,7 @@ text: >-
 
 
   Learning French quickly came very easy to Osman. He really has a knack for
-  learning languages, since he speaks five alread! He joined a study program by
+  learning languages, since he speaks five already! He joined a study program by
   the city of Lausanne while he was looking for an apprenticeship. He gave it
   his all: “I applied to ALL the places in the Romandie where they have an IT
   department.” Unfortunately, with little success: only one company would invite
