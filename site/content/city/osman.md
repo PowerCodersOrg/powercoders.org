@@ -67,7 +67,7 @@ text: >-
   At the Powercoders “Career Day” he realized that he would really like to work
   at Swisscom and - they chose him as their intern! Towards the end of his
   6-month internship, he was again looking for an apprenticeship. But this time,
-  he was successful: Campotocamp offered him a contract and he is now working
+  he was successful: Camptocamp offered him a contract and he is now working
   there to become a certified computer scientist. 
 
 
