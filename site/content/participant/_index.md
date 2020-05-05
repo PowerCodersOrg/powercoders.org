@@ -44,7 +44,7 @@ text: >-
   waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
   header: Our program
-  image: /img/powercoders_graphic_program_participants.png
+  image: /img/powercoders_graphic_program_participants_mai2020.png
   text: >-
     ###### WHAT WE EXPECT
 
