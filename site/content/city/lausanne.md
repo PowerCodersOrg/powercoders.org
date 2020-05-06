@@ -33,25 +33,25 @@ text: >-
   **Get involved!**
 
 
-  **AS A STUDENT**\
+  **AS A PARTICIPANT**\
 
-  <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
-  waves-light pwc-red">APPLY</a>\
+  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
 
 
   **AS A COMPANY**\
 
-  <a href="/city/career-day/" class="btn waves-effect waves-light pwc-red">GET
-  IN TOUCH</a>\
+  <a target=”_blank” href="/city/career-day/" class="btn waves-effect
+  waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
 
 
   **AS A JOB COACH**\
 
-  <a
+  <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
@@ -60,7 +60,7 @@ text: >-
 
   **AS AN IT TRAINER**\
 
-  <a
+  <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
