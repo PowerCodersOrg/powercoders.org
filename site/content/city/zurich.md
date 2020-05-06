@@ -35,7 +35,7 @@ text: >-
 
   **AS A PARTICIPANT**\
 
-  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  <a target="_blank" href="https://form.jotform.com/200991419287362" class="btn
   waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
@@ -43,7 +43,7 @@ text: >-
 
   **AS A COMPANY**\
 
-  <a target=”_blank” href="/city/career-day-zurich/" class="btn waves-effect
+  <a target="_blank" href="/city/career-day-zurich/" class="btn waves-effect
   waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
@@ -51,7 +51,7 @@ text: >-
 
   **AS A JOB COACH**\
 
-  <a target=”_blank”
+  <a target="_blank"
   href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
@@ -60,7 +60,7 @@ text: >-
 
   **AS AN IT TRAINER**\
 
-  <a target=”_blank”
+  <a target="_blank"
   href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
