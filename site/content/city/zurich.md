@@ -15,7 +15,7 @@ text: >-
 
   **ZURICH BATCH AUTUMN 2020**\
 
-  Applications: Ongoing; Interviews: May - July 2020\
+  Applications: Ongoing; Interviews: June - July 2020\
 
   School phase / IT training: 7 September - 11 December 2020\
 
@@ -35,23 +35,23 @@ text: >-
 
   **AS A PARTICIPANT**\
 
-  <a href="https://form.jotformeu.com/91563613144353" class="btn waves-effect
-  waves-light pwc-red">APPLY</a>\
+  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
 
 
   **AS A COMPANY**\
 
-  <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-  pwc-red">GET IN TOUCH</a>\
+  <a target=”_blank” href="/city/career-day-zurich/" class="btn waves-effect
+  waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
 
 
   **AS A JOB COACH**\
 
-  <a
+  <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
@@ -60,7 +60,7 @@ text: >-
 
   **AS AN IT TRAINER**\
 
-  <a
+  <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
