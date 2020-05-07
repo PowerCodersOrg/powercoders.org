@@ -1,6 +1,6 @@
 ---
 title: Startpage
-subtitle: Impacting lives by teaching how to code
+subtitle: Impacting Lives by Teaching how to Code
 link_text: Our program
 link_url: /program
 image: /img/team_basel_header.jpg
