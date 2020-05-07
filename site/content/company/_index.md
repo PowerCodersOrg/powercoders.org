@@ -158,7 +158,7 @@ support_as:
       magaly.mathys@powercoders.org
 programme:
   header: Our program
-  image: /img/powercoders_graphic_programme_companyandvolunteers.png
+  image: /img/powercoders_graphic_programme_mai20202_companiesandvolunteers.png
   text: ''
 ---
 
