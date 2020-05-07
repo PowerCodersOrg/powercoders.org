@@ -1,7 +1,7 @@
 ---
 title: Participants
 image: /img/header_participants.jpg
-section_title: We are looking for talented participants
+section_title: We are Looking for Talented Participants
 text: >-
   **Powercoders believes in promoting equal opportunities for diverse talents in
   the IT industry.**\
