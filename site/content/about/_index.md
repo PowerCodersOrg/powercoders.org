@@ -1,7 +1,7 @@
 ---
 title: About
 image: /img/header_about.jpg
-section_title: Our Team and the precious Community
+section_title: Our Team and the Precious Community
 text: >-
   It all started with a trip to the United States in 2016. At this time, the
   refugee crisis in Europe was all over the news. Founder Christian Hirsig met
