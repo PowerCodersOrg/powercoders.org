@@ -19,7 +19,7 @@ text: >-
   ## The program
 
 
-  ![](/img/powercoders_graphic_program_general.png)
+  ![](/img/powercoders_graphic_programme_mai2020_participants.png)
 
 
   In order to be able to run the program, we are dependent on the support of the
