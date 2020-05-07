@@ -1,7 +1,7 @@
 ---
 title: Volunteer
 image: /img/header_volunteers.jpg
-section_title: How you can get involved
+section_title: How You Can Get Involved
 text: >-
   We are a non-profit organisation that depends on the commitment of many
   incredible volunteers – people who truly make a difference.
@@ -108,7 +108,7 @@ support_as:
       [factsheet](https://drive.google.com/file/d/1xw5wG4qax-vJI9SqbyWJzuPvoiOWacwE/view?usp=sharing).
 programme:
   header: Our program
-  image: /img/powercoders_graphic_programme_companyandvolunteers.png
+  image: /img/powercoders_graphic_programme_mai20202_companiesandvolunteers.png
   text: ''
 ---
 
