@@ -1,7 +1,7 @@
 ---
 title: Participants
 image: /img/header_participants.jpg
-section_title: We Are Looking for Talented Participants
+section_title: We Are Looking for Participants
 text: >-
   **Powercoders believes in promoting equal opportunities for diverse talents in
   the IT industry.**\
@@ -33,7 +33,8 @@ text: >-
 
 
   We encourage women to apply for our program. Our aim is that women make one
-  third of our participants.
+  third of our participants. (Reasons: Diversity helps teams. And companies are
+  looking for female talents.)
 
 
   **Apply to the program closest to your place of residence.** \
