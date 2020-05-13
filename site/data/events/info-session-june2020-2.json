@@ -1,0 +1,18 @@
+{
+  "remove_after": "",
+  "audience": [
+    "home",
+    "student"
+  ],
+  "where": "Online (Zoom)",
+  "display_name": "Info Session Zurich",
+  "city": [
+    "zurich"
+  ],
+  "header_icon": "fa-users",
+  "text": "We’re looking for women and men of diverse backgrounds to join us in September 2020.\n\nAre you interested in applying to our program as a participant? Do you want to learn more and get your questions answered?",
+  "title": "Info Session June2020-2",
+  "call_to_action": "Sign Up",
+  "when": "2020-06-15T18:00:00.000Z",
+  "link": "https://www.eventbrite.com/e/powercoders-info-session-learn-it-skills-and-start-your-internship-tickets-105240208296"
+}
