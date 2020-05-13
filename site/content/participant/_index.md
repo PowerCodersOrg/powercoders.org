@@ -6,7 +6,7 @@ text: >-
   **Powercoders believes in promoting equal opportunities for diverse talents in
   the IT industry.**\
 
-  We train candidates of diverse backgrounds to fulfil their potential in a
+  We train women and men of diverse backgrounds to fulfil their potential in a
   digital future. 
 
 
