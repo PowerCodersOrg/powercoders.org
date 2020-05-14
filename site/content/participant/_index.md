@@ -137,16 +137,20 @@ programme:
     **Learn digital skills**
 
 
-    * [Windows Basic Tutorial](https://edu.gcfglobal.org/en/windowsbasics/)
-    (text-based)
+    * GCF Global: [Windows Basic
+    Tutorial](https://edu.gcfglobal.org/en/windowsbasics/) (text-based)
 
     * Udacity: [Intro to
     HTML/CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) and
     [Javascript](https://eu.udacity.com/course/intro-to-javascript--ud803)
 
-    * [Freecodecamp](http://freecodecamp.com/)
+    * Udemy: [Web Development By Doing - HTML / CSS From
+    Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/)
 
-    * [Codeacademy.com](http://codeacademy.com/)
+    * Freecodecamp: [Various Courses](http://freecodecamp.com/)
+
+    * Coursera: [HTML, CSS, and Javascript for Web
+    Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
     * Various mobile apps (e.g. [SoloLearn](https://www.sololearn.com/))
 
