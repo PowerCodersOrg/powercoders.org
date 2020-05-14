@@ -131,7 +131,7 @@ programme:
 
 
     In the meantime, we strongly encourage you to keep practicing your coding
-    and language skills. We recommend the following resources: 
+    and language skills. We recommend the following (free) resources: 
 
 
     **Learn digital skills**
@@ -157,8 +157,6 @@ programme:
 
     **Learn English**
 
-
-    * Free resources for learning English
 
     * Mobile Apps (like [Hello
     English](https://play.google.com/store/apps/details?id=com.CultureAlley.japanese.english),
