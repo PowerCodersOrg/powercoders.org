@@ -137,8 +137,8 @@ programme:
     **Learn digital skills**
 
 
-    * [Windows Basic Tutorial](https://edu.gcfglobal.org/en/windowsbasics/)
-    (text-based)
+    * GCF Global: [Windows Basic
+    Tutorial](https://edu.gcfglobal.org/en/windowsbasics/) (text-based)
 
     * Udacity: [Intro to
     HTML/CSS](https://www.udacity.com/course/intro-to-html-and-css--ud001) and
