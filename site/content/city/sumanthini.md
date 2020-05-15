@@ -1,9 +1,9 @@
 ---
-title: Sumanthini
+title: Success Story Sumanthini Majutharan
 image: /img/sumanthini.jpg
-section_title: Sumanthini
+section_title: Success Story Sumanthini Majutharan
 text: >-
-  Success Story Sumanthini Majutharan
+  **SUMANTHINI WHO** ....
 
 
   If it hadn’t been for Gajendran Packiyanathan, who knows, perhaps Sumanthini
