@@ -3,7 +3,7 @@ title: Success Story Sumanthini Majutharan
 image: /img/sumanthini.jpg
 section_title: Success Story Sumanthini Majutharan
 text: >-
-  **SUMANTHINI WHO** ....
+  **SUMANTHINI'S STORY OR HOW FAR YOU CAN GET WITH HARD WORK AND DEDICATION**
 
 
   If it hadn’t been for Gajendran Packiyanathan, who knows, perhaps Sumanthini
