@@ -27,7 +27,7 @@ text: >-
   that’s what Sumanthini did: She chose Computer Science as her subject for her
   Bachelor’s studies. To her, this seemed like the easy choice! Then, when
   Sumanthini came to Switzerland, she got married. Her husband came to
-  Switzerland from Sri Lanka in 2019. The two had met through Skype and spent
+  Switzerland from Sri Lanka in 2009. The two had met through Skype and spent
   hour after hour getting to know each other this way.
 
 
