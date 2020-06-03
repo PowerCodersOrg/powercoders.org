@@ -81,5 +81,9 @@ team:
       email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
+    - description: Teaching Assistant
+      email: 'zivi@powercoders.org '
+      image: /img/newsletter-photo-zivi-mark.jpg
+      name: Mark Iandovka
 ---
 
