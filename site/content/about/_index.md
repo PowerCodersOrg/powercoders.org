@@ -314,13 +314,14 @@ team:
       name: Maria Multani
       visible:
         - office_powercoders
+    - description: Teaching Assistant
+      email: 'zivi@powercoders.org '
+      image: /img/newsletter-photo-zivi-mark.jpg
+      name: Mark Iandovka
+      visible:
+        - team_zurich
     - description: Coach / Bern
       image: /img/markus_gallagher-1-.jpg
-      name: Markus Gallagher
-      visible:
-        - community
-    - description: Job Coach / Bern
-      image: /img/markus_gallagher.jpg
       name: Markus Gallagher
       visible:
         - community
