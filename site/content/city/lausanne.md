@@ -71,7 +71,7 @@ team:
   members:
     - description: Industry Lead
       email: magaly.mathys@powercoders.org
-      image: /img/magaly_mathys.jpg
+      image: /img/magaly-mathis.jpg
       name: Magaly Mathys
     - description: Social Lead
       email: coline.sauzet@powercoders.org
