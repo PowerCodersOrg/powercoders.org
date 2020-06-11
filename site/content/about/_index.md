@@ -284,7 +284,7 @@ team:
         - community
     - description: Industry Lead / Powerhouse Lausanne
       email: magaly.mathys@powercoders.org
-      image: /img/magaly-mathis.jpg
+      image: /img/magaly_filter.jpg
       name: Magaly Mathys
       visible:
         - team_lausanne
