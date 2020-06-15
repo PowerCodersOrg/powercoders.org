@@ -28,8 +28,7 @@ text: >-
 
   Our program is for candidates of diverse backgrounds who are facing barriers
   to enter the IT job market. The majority of our seats are reserved for people
-  with a refugee status. If you don’t have a refugee status, you can apply,
-  too. 
+  with a refugee status. 
 
 
   We encourage women to apply for our program. Our aim is that women make one
@@ -52,7 +51,7 @@ programme:
 
     * You have started to learn digital skills on your own (see resources below)
 
-    * You understand, speak and write English (B1 level)
+    * You understand, speak and write English well
 
     * You are a fast learner
 
