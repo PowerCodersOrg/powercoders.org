@@ -1,5 +1,5 @@
 {
-  "remove_after": "2020-06-19T11:35:00.000Z",
+  "remove_after": "2020-06-19T13:35:00.000Z",
   "audience": [
     "home",
     "volunteer",
@@ -11,9 +11,9 @@
     "zurich"
   ],
   "header_icon": "fa-graduation-cap",
-  "text": "Powercoders Zürich 2020-1 is coming to an end. Join our online graduation ceremony and let's celebrate together the start of a new chapter in our participants' life with their internships.",
+  "text": "Powercoders Zürich 2020-1 is coming to an end. Join our online graduation ceremony and let's celebrate together the start of a new chapter in our participants' life with their internships. \n\nFriday 19th June, 12:30 PM",
   "title": "Graduation Ceremony - Powercoders Zürich",
   "call_to_action": "Sign Up",
-  "when": "2020-06-19T10:30:00.000Z",
+  "when": "",
   "link": "https://forms.gle/kCi2xdKnz1EYUGyD6"
 }
