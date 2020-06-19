@@ -530,7 +530,7 @@ team:
         - participants
     - description: Participant / Bern
       image: /img/tesfamichael_afewerki.jpg
-      name: Tesfamichael Afewerki
+      name: Michael Afewerki
       visible:
         - participants
     - description: IT Trainer / Zurich
