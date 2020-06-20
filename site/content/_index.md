@@ -12,12 +12,15 @@ intro:
   video_id: IKuz7vA30sI
 get_involved:
   content: >-
-    # Our purpose & impact
+    # Our purpose
 
 
     We believe in promoting equal opportunities for diverse talents in the IT
     industry. We are a non-profit association and our program ist self-funded
-    and free of charge for the selected participants.
+    and free of charge for the selected participants. 
+
+
+    # Our impact
 donuts:
   - description: of our participants get an internship
     percentage: 90
