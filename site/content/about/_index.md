@@ -3,6 +3,15 @@ title: About
 image: /img/header_about.jpg
 section_title: Our Team and the Precious Community
 text: >-
+  **Our association** \
+
+  We believe in promoting equal opportunities for diverse talents in the IT
+  industry. We are a non-profit association and our program ist self-funded and
+  free of charge for the selected participants.
+
+
+  **How it all began**\
+
   It all started with a trip to the United States in 2016. At this time, the
   refugee crisis in Europe was all over the news. Founder Christian Hirsig met
   two other entrepreneurs in the US: one with a cooking school for refugees, one
