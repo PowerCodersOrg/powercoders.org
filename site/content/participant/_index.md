@@ -12,7 +12,10 @@ text: >-
 
   We offer a 13 week full-time coding bootcamp followed by a 6 to 12-month
   internship. Our goal is to support our candidates to get a permanent job in IT
-  departments and IT companies.
+  departments and IT companies. 
+
+
+  The program ist fully funded and free of charge for the selected participants.
 
 
   **Our program is for you if:**
