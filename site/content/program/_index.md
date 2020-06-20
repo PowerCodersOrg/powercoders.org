@@ -6,19 +6,19 @@ text: "Powercoders believes in promoting equal opportunities for diverse talents
 city_program:
   header: We offer the program in 3 cities
   items:
-    - call_to_action: More
+    - call_to_action: Zurich
       color: teal lighten-4
       fade_in: Up
       header: Zurich
       link: /city/zurich
       text: Applications are open for the next batch starting in September 2020.
-    - call_to_action: More
+    - call_to_action: Lausanne
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
       text: Powercoders Lausanne accept applications on a ongoing base.
-    - call_to_action: More
+    - call_to_action: Turin
       color: teal lighten-4
       fade_in: Left
       header: Turin
