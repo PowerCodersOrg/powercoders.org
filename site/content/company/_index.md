@@ -11,17 +11,11 @@ text: >-
   a chance – you can help solve this challenge! 
 
 
-  **Join one of the Career Days and meet our IT talents.** 
+  **Join our next Career Day and meet our IT talents.** 
 
 
   For more information about the Career Day:
 
-
-  <a href="/city/career-day/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY LAUSANNE</a> 
-
-
-  \
 
   <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
   pwc-red">CAREER DAY ZURICH</a>
@@ -29,7 +23,7 @@ support_as:
   - header: Internship/Job
     text: >-
       Interested in offering an internship and in becoming our partner in
-      empowering refugees?
+      empowering refugees & migrants?
 
 
       ###### WHAT WE ARE LOOKING FOR
@@ -64,14 +58,8 @@ support_as:
 
 
       In order to get an impression of our program and meet our candidates
-      (without oligation), take part in one of our career days:
+      (without oligation), take part in our next Career Day:
 
-
-      <a href="/city/career-day/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY LAUSANNE</a> 
-
-
-      \
 
       <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
       pwc-red">CAREER DAY ZURICH</a>
