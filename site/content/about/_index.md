@@ -571,21 +571,18 @@ team:
     ## MEET THE COMMUNITY
 
 
-    The Team
-
+    **The Team**\
 
     The Powercoders team is a talented and motivated group of people that work
     hard to change the lives of refugees. We work in Zurich, Berne, Lausanne and
     Turin and sometimes anywhere in between.
 
 
-    The Community
-
+    **The Community**\
 
     Since we are a non-profit organisation, we rely heavily on the engagement of
     volunteers. So, we want to thank all these great people who are making a
     difference, time and again. Also, we are proud to be able to show you a
-    glimpse of who these amazing people are, our volunteers and (former)
-    participants.
+    glimpse of who these amazing people are, our volunteers and alumni.
 ---
 
