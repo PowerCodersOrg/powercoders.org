@@ -21,17 +21,21 @@ text: >-
   - - -
 
 
-  Applications are open for the next batch starting in September 2020.\
-
-  **Get involved!**
+  Applications are open for the next batch starting in September 2020.
 
 
-  **AS A PARTICIPANT**\
+  **APPLY AS A PARTICIPANT**\
 
   <a target="_blank" href="https://form.jotform.com/200991419287362" class="btn
   waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
+
+
+  We are looking for companies and volunteers for our next batch starting in
+  September 2020.\
+
+  **Get involved!**
 
 
   **AS A COMPANY**\
