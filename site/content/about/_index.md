@@ -5,9 +5,15 @@ section_title: Our Team and the Precious Community
 text: >-
   **Our association** \
 
+  Powercoders is a non-profit association and the program ist self-funded and
+  free of charge for the selected participants. \
+
+  \
+
+  **Our purpose**\
+
   We believe in promoting equal opportunities for diverse talents in the IT
-  industry. We are a non-profit association and our program ist self-funded and
-  free of charge for the selected participants.
+  industry.
 
 
   **How it all began**\
