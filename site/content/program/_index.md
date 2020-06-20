@@ -10,7 +10,10 @@ text: >-
 
   We offer a 3-month coding boot camp, followed by an internship. The ultimate
   goal of Powercoders is the permanent placement of trained refugees & migrants
-  in IT-companies and IT-departments.
+  in IT-companies and IT-departments. 
+
+
+  The program ist fully funded and free of charge for the selected participants.
 
 
   - - -
