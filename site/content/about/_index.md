@@ -3,10 +3,8 @@ title: About
 image: /img/header_about.jpg
 section_title: Our Team and the Precious Community
 text: >-
-  **Our purpose**\
-
-  We believe in promoting equal opportunities for diverse talents in the IT
-  industry.
+  **We believe in promoting equal opportunities for diverse talents in the IT
+  industry.**
 
 
   **Our association** \
