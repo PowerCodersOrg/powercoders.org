@@ -2,51 +2,7 @@
 title: Powercoders Program
 image: /img/about-powercoders.jpg
 section_title: Our Program
-text: >-
-  Powercoders is a coding academy for refugees & migrants. We believe that in
-  the 21st century coding skills will help refugees & migrants start a new life
-  wherever they are forced to go.
-
-
-  We offer a 3-month coding boot camp, followed by an internship. The ultimate
-  goal of Powercoders is the permanent placement of trained refugees & migrants
-  in IT-companies and IT-departments. 
-
-
-  The program ist fully funded and free of charge for the selected participants.
-
-
-  - - -
-
-
-  ## The program
-
-
-  ![](/img/powercoders_graphic_programme_mai2020_participants.png)
-
-
-  In order to be able to run the program, we are dependent on the support of the
-  IT industry providing internships as well as on volunteers who either support
-  the class teacher during school phase as IT Trainers or accompany participants
-  during their internships as Job Coaches.
-
-
-  - - -
-
-
-  ## Get involved as
-
-
-  <a href="/participant/" class="btn waves-effect waves-light
-  pwc-red">PARTICIPANT</a> 
-
-  <a href="/company/" class="btn waves-effect waves-light pwc-red">COMPANY</a> 
-
-  <a href="/volunteer/" class="btn waves-effect waves-light pwc-red">JOB
-  COACH</a> 
-
-  <a href="/volunteer/" class="btn waves-effect waves-light pwc-red">IT
-  TRAINER</a>
+text: "Powercoders believes in promoting equal opportunities for diverse talents in the IT industry.\L We train women and men of diverse backgrounds to fulfil their potential in a digital future.\n\nWe offer a 3-month coding boot camp, followed by an internship. The ultimate goal of Powercoders is the permanent placement of trained refugees & migrants in IT-companies and IT-departments. \n\nThe program ist fully funded and free of charge for the selected participants.\n\n- - -\n\n## The program\n\n![](/img/powercoders_graphic_programme_mai2020_participants.png)\n\nIn order to be able to run the program, we are dependent on the support of the IT industry providing internships as well as on volunteers who either support the class teacher during school phase as IT Trainers or accompany participants during their internships as Job Coaches.\n\n- - -\n\n## Get involved as\n\n<a href=\"/participant/\" class=\"btn waves-effect waves-light pwc-red\">PARTICIPANT</a> \n<a href=\"/company/\" class=\"btn waves-effect waves-light pwc-red\">COMPANY</a> \n<a href=\"/volunteer/\" class=\"btn waves-effect waves-light pwc-red\">JOB COACH</a> \n<a href=\"/volunteer/\" class=\"btn waves-effect waves-light pwc-red\">IT TRAINER</a>"
 city_program:
   header: We offer the program in 3 cities
   items:
