@@ -16,10 +16,8 @@ get_involved:
 
 
     We believe in promoting equal opportunities for diverse talents in the IT
-    industry. \
-
-    We are a non-profit association and our program ist self-funded and free of
-    charge for the selected participants.
+    industry. We are a non-profit association and our program ist self-funded
+    and free of charge for the selected participants.
 donuts:
   - description: of our participants get an internship
     percentage: 90
