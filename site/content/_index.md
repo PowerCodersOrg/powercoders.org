@@ -8,19 +8,25 @@ intro:
   header: >-
     Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
-  text: A coding academy for refugees
+  text: A coding academy for refugees & migrants
   video_id: IKuz7vA30sI
 get_involved:
   content: >-
-    # Our purpose & impact
+    We are a non-profit association and our program ist self-funded and free of
+    charge for the selected participants. 
 
 
-    We believe that coding skills are a stepping stone to a new beginning and
-    that talented people will benefit the technology sector as much as it can
-    benefit them.
+    # Our purpose
+
+
+    We believe in promoting equal opportunities for diverse talents in the IT
+    industry. 
+
+
+    # Our impact
 donuts:
   - description: of our participants get an internship
-    percentage: 97
+    percentage: 90
   - description: of participants find a job (ongoing estimation)
     percentage: 60
 program:
