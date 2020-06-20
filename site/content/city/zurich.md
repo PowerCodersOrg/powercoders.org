@@ -6,18 +6,11 @@ text: >-
   The Powercoders program in Zurich is run by the Powerhouse Zurich.
 
 
-  **ZURICH BATCH SPRING 2020**\
-
-  School phase / IT training: 23 March - 19 June 2020\
-
-  Internship & Job Coaching: 6–12 months, starting July 2020
-
-
   **ZURICH BATCH AUTUMN 2020**\
 
-  Applications: Ongoing; Interviews: June - July 2020\
+  Applications: Ongoing; Interviews: June – July 2020\
 
-  School phase / IT training: 7 September - 11 December 2020\
+  School phase / IT training: 7 September – 11 December 2020\
 
   Internship & Job Coaching: 6–12 months, starting January 2021
 
