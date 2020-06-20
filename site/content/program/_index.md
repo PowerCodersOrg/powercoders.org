@@ -52,21 +52,19 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: >-
-        The program in Zurich started in March 2020. Applications are open for
-        the next batch starting in September 2020.
+      text: Applications are open for the next batch starting in September 2020.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Right
       header: Lausanne
       link: /city/lausanne/
-      text: The program in Lausanne started in April 2020.
+      text: Powercoders Lausanne accept applications on a ongoing base.
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
       header: Turin
       link: /city/turin/
-      text: The program in Turin started in January 2020.
+      text: Powercoders Italy accept applications on a ongoing base.
 past_program:
   header: Past Programs
   items:
