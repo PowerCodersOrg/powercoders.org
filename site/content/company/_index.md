@@ -18,7 +18,10 @@ text: >-
 
 
   <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY ZURICH</a>
+  pwc-red">CAREER DAY ZURICH</a> 
+
+
+  For more information about internships, check the box below.
 support_as:
   - header: Internship/Job
     text: >-
