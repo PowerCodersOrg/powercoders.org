@@ -11,14 +11,15 @@ text: >-
   a chance – you can help solve this challenge! 
 
 
-  **Join our next Career Day and meet our IT talents.** 
+  **Join our next Career Day and meet our IT talents.** \
 
-
-  For more information about the Career Day:
-
+  For more information about the Career Day: \
 
   <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY ZURICH</a>
+  pwc-red">CAREER DAY ZURICH</a> 
+
+
+  For more information about internships, check the box below.
 support_as:
   - header: Internship/Job
     text: >-
