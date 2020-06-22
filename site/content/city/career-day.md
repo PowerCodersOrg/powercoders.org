@@ -6,7 +6,7 @@ text: >-
   Do you work for an IT company or an IT department in the Romandie? \
 
   We are looking for companies who are potentially willing to offer an
-  internship for the Powercoders graduates as of July/August 2020. \
+  internship for the Powercoders graduates or alumni. \
 
   \
 
@@ -14,9 +14,8 @@ text: >-
   talents.** 
 
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career days</a>
+  <a href="https://forms.gle/GkDR9kUprkUWdrhL8" class="btn waves-effect
+  waves-light pwc-red">SIGN UP career days</a>
 
 
   The Career Days are one of the most important milestones of our program since
@@ -37,37 +36,26 @@ text: >-
   **NEXT CAREER DAYS**  
 
 
-  **From May 11 to 20, 2020**
+  **October 2020 (dates to be fixed soon)**
 
 
   **Program**\
 
-  _May 5:_ receive the CVs and 1 min video presentation of each Powercoders
+  1. Receive the CVs and 1 min video presentation of each Powercoders
   candidate.\
 
-  _May 7:_ choose your top 5-6 pick.\
+  2. Choose your top 5-6 pick.\
 
-  _May 11-20:_ invite your top picks for an interview (remotely or in your
-  office).\
+  3. Invite your top picks for an interview (remotely or in your office).\
 
-  _May 20:_ tell us if and to whom you would like to offer an internship
-  (starting from July or August 2020).
-
-
-  _May 25:_ candidates start their specialization, according to your needs\
-
-  (AWS cloud practitioner&architect, systems&networks management, web
-  development, software/application development, data analytics&AI)\
-
-  _July 3_: end of Powercoders training. Start of internships possible.
+  4. Tell us if and to whom you would like to offer an internship.
 
 
   - - -
 
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSeYkU2obv_4MvrFA8HgWsLAy3en70TLbEddCZg1ie0C3dwzuw/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career days</a>
+  <a href="https://forms.gle/GkDR9kUprkUWdrhL8" class="btn waves-effect
+  waves-light pwc-red">SIGN UP for career days</a>
 
 
   Are you interested but have some more questions? Leave us your email and we
@@ -79,7 +67,7 @@ text: >-
   class="btn waves-effect waves-light pwc-red">Get in touch</a>
 apply_as: []
 team:
-  header: Team Lauanne
+  header: Team Lausanne
   members:
     - description: 'Industry Lead '
       email: magaly.mathys@powercoders.org
