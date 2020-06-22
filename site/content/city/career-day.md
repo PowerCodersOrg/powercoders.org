@@ -39,7 +39,8 @@ text: >-
   **October 2020 (dates to be fixed soon)**
 
 
-  **Program**\
+  **Program:**
+
 
   1. Receive the CVs and 1 min video presentation of each Powercoders
   candidate.\
