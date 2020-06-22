@@ -1,21 +1,12 @@
 ---
-title: Turin
+title: Milan
 image: /img/start.jpg
 section_title: Turin
 text: >-
-  The Powercoders program in Turin, Italy is run by Le Wagon Italy. 
+  The Powercoders program in Milan, Italy is run by Le Wagon Italy. 
 
 
-  **TORINO BATCH 2020** \
-
-  The current Torino batch runs from 20 January to 24 April 2020 (school phase),
-  followed by a 6–12 month internship as of May 2020. Our classes will take
-  place at Toolbox in Turin
-  ([map](https://www.google.com/maps/place/Toolbox+Coworking/@45.050238,7.669286,15z/data=!4m5!3m4!1s0x0:0x2adc0b0e358ddb6c!8m2!3d45.050238!4d7.669286)).\
-
-  For student applicants, please keep in mind that the school is full time
-  (09:00 – 18:00).
-
+  **MILAN BATCH 2020** \
 
   If you would like to get involved as a volunteer, student or company, please
   apply below for our current program!
@@ -27,17 +18,10 @@ text: >-
   - - -
 
 
-  _Powercoders a Torino sarà gestito da Le Wagon Italia._ 
+  _Powercoders a Milano sarà gestito da Le Wagon Italia._ 
 
 
-  _**PROGRAMMA TORINO 2020**_ \
-
-  _Il primo corso di programmazione di Powercoders in Italia si terrà a Torino
-  dal 20 gennaio al 24 aprile 2020, presso Toolbox Coworking (mappa). Il corso
-  prevede la frequenza obbligatoria full-time, dal lunedì al venerdì, dalle 9:00
-  alle 18:00. Dopo il corso è previsto un tirocinio retribuito di 6-12 mesi a
-  partire da maggio 2020._ 
-
+  **_PROGRAMMA MILANO 2020_** \
 
   _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
