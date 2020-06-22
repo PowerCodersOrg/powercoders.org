@@ -19,6 +19,10 @@ text: >-
   pwc-red">CAREER DAY ZURICH</a> 
 
 
+  <a href="/city/career-day/" class="btn waves-effect waves-light
+  pwc-red">CAREER DAY LAUSANNE</a> 
+
+
   For more information about internships, check the box below.
 support_as:
   - header: Internship/Job
@@ -64,6 +68,10 @@ support_as:
 
       <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
       pwc-red">CAREER DAY ZURICH</a>
+
+
+      <a href="/city/career-day/" class="btn waves-effect waves-light
+      pwc-red">CAREER DAY LAUSANNE</a>
   - header: Corporate Volunteering
     text: >-
       ###### YOUR EMPLOYEES SUPPORT US AS VOLUNTEERS
