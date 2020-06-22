@@ -1,5 +1,5 @@
 ---
-title: Career Days Lausanne
+title: Career Day Lausanne
 image: /img/header_companies_2.jpg
 section_title: Career Days Lausanne
 text: >-
