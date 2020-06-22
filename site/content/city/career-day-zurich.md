@@ -6,52 +6,46 @@ text: >-
   Are you an IT company or do you have an IT department in the Deutschschweiz? \
 
   We are looking for companies who would be willing in potentially offering
-  internships for our Powercoders graduates from July/August 2020 on. \
-
-  \
-
-  **Are you interested? Then join us and get an idea of our IT talents.** 
+  internships for our Powercoders graduates from January 2021 on. 
 
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSf1T5P9bRJHxH9CbJmGfQ5AFo5qI3dLr4ovSI2Ybt78lkJHqA/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
-
-
-  Due to the current crises with Corona-virus, we have adapted our program to be
-  fully online. Also the matching process is improved to be as efficient and
-  remote as possible.
+  **Are you interested? Then join our next Career Day and get an idea of our IT
+  talents.** 
 
 
   - - -
 
 
-  **Program**\
-
-  April 27_:_ receive the CVs and 1 min video presentation of each Powercoders
-  candidate.\
-
-  _May 4:_ choose your top 5-6 pick.\
-
-  _May 8-15:_ invite your top picks for an interview (remotely or in your
-  office).\
-
-  _May 15:_ tell us if and to whom you would like to offer an internship
-  (starting from July or August 2020).
+  **CAREER DAY**
 
 
-  _May 18:_ candidates start their specialization, according to your needs.\
-
-  June 19: end of Powercoders training. Start of internships possible at any
-  date after this date.
+  **What:** Career Day Powercoders (meet 20 – 24 students who like to start
+  their internships in January 2021)
 
 
-  - - -
+  **When:** **20th October 2020**, 2 slots available: 9:00 am till 13:30 pm or
+  12:00 till 16:30 pm.
+
+
+  **Where:** IBM Switzerland AG, Vulkanstrasse 106, Zürich
+  ([map](https://www.google.ch/maps/place/IBM+Schweiz+AG/@47.3930317,8.4837004,17z/data=!3m1!4b1!4m5!3m4!1s0x47900bb83254083d:0xea641dc9eb3f975d!8m2!3d47.3930281!4d8.4858891))
+
+
+  **How:** 1. Receive all the CVs mid-October; 2. Join the Career Day pick your
+  top candidates; 3. Invite them for an interview the week after; 4. Decide if
+  and to whom you like to offer an internship.
+
+
+  **Cost:** Free 
 
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSf1T5P9bRJHxH9CbJmGfQ5AFo5qI3dLr4ovSI2Ybt78lkJHqA/viewform"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSesE4_-4rppSFIcbAgk7syXOf3yUjbSYKQSvQfpzxKRdIDpkA/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+
+   
+
+  - - -
 
 
   Are you interested but have some more questions? Leave us your email and we
