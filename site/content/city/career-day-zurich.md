@@ -23,8 +23,8 @@ text: >-
   their internships in January 2021)
 
 
-  **When:** **20th October 2020**, 2 slots available: 9:00 am till 13:30 pm or
-  12:00 till 16:30 pm.
+  **When:** **Tuesday** **20th October 2020**, 2 slots available: 9:00 am till
+  13:30 pm or 12:00 till 16:30 pm.
 
 
   **Where:** IBM Switzerland AG, Vulkanstrasse 106, Zürich
@@ -43,7 +43,6 @@ text: >-
   href="https://docs.google.com/forms/d/e/1FAIpQLSesE4_-4rppSFIcbAgk7syXOf3yUjbSYKQSvQfpzxKRdIDpkA/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
-   
 
   - - -
 
