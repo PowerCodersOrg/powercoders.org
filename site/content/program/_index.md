@@ -18,10 +18,10 @@ city_program:
       header: Lausanne
       link: /city/lausanne/
       text: Powercoders Lausanne accept applications on a ongoing base.
-    - call_to_action: Turin
+    - call_to_action: Milan
       color: teal lighten-4
       fade_in: Left
-      header: Turin
+      header: Milan
       link: /city/turin/
       text: Powercoders Italy accept applications on a ongoing base.
 past_program:
