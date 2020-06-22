@@ -10,13 +10,22 @@ text: >-
 
 
   **Are you interested? Then join our next Career Day and get an idea of our IT
-  talents.** 
+  talents.** \
+
+  <a
+  href="https://docs.google.com/forms/d/e/1FAIpQLSesE4_-4rppSFIcbAgk7syXOf3yUjbSYKQSvQfpzxKRdIDpkA/viewform"
+  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
   - - -
 
 
-  **CAREER DAY**
+  **CAREER DAY** 
+
+
+  The Career Days are one of the most important milestones of our program since
+  it’s the days when the companies meet the participants. It is an efficient way
+  for you to get a personal impression of the candidates.
 
 
   **What:** Career Day Powercoders (meet 20 – 24 students who like to start
@@ -31,9 +40,15 @@ text: >-
   ([map](https://www.google.ch/maps/place/IBM+Schweiz+AG/@47.3930317,8.4837004,17z/data=!3m1!4b1!4m5!3m4!1s0x47900bb83254083d:0xea641dc9eb3f975d!8m2!3d47.3930281!4d8.4858891))
 
 
-  **How:** 1. Receive all the CVs mid-October; 2. Join the Career Day pick your
-  top candidates; 3. Invite them for an interview the week after; 4. Decide if
-  and to whom you like to offer an internship.
+  **Program:**\
+
+  1. Receive all the CVs mid-October. \
+
+  2. Join the Career Day on the 20th of October and pick your top candidates. \
+
+  3. Invite them for an interview the week after. \
+
+  4. Decide if and to whom you like to offer an internship.
 
 
   **Cost:** Free 
