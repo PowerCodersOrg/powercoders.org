@@ -1,5 +1,5 @@
 ---
-title: Turin
+title: Milan
 image: /img/start.jpg
 section_title: Turin
 text: >-
