@@ -63,15 +63,17 @@
 
 <!-- TODO: This should probably be turned in to a partial that creates the whole
      section, and takes parameters for the city and the types -->
-<div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>Partner</h2>
-    </div>
-  </div>
+<!--<div class="container section">-->
+<!--  <div class="row">-->
+<!--    <div class="col s12">-->
+<!--      <h2>Partner</h2>-->
+<!--    </div>-->
+<!--  </div>-->
 
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "community_partner" "title" "Community Partners")}}
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "type" "company_member" "title" "Internship Partner")}}
-</div>
+<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Funding Partner")}}-->
+<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Internship Partner")}}-->
+<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partners")}}-->
+<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "implementation_partner" "title" "Implementation Partner")}}-->
+<!--</div>-->
 
 {{ end }}

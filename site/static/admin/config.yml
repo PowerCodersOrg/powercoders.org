@@ -650,7 +650,7 @@ collections:
         options:
           - {label: "Partner", value: "partner"}
           - {label: "Community Partner", value: "community_partner"}
-          - {label: "Company Member", value: "company_member"}
+          - {label: "Internship Member", value: "company_member"}
           - {label: "Implementation Partner", value: "implementation_partner"}
         hint: "Choose the type of partner"
       - label: City
