@@ -28,10 +28,10 @@ Call with a dict as the single parameter with the following keys:
 
 {{ with $thesePartners }}
   <div class="row">
-    <h3 class="col s12">{{ $.title }}</h3>
+    <h3 class="col s12 partner">{{ $.title }}</h3>
   </div>
 
-  <div class="row flex valign-wrapper">
+  <div class="row flex valign-wrapper partner">
     {{ range $el := $thesePartners }}
       {{ $imageConfig := imageConfig (printf "static/%s" $el.image) }}
       <div class="col s12 m4 l3">

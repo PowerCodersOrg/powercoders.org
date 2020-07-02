@@ -551,6 +551,15 @@ img.partner {
 	filter: grayscale( 1);
 }
 
+h3.partner {
+	font-size: 1.5rem;
+}
+
+
+.row.partner {
+	margin-bottom: 80px;
+}
+
 
 /* ---------------- video-images ---------------- */
 

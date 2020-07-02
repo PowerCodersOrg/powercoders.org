@@ -108,10 +108,10 @@
       <h2>Partner</h2>
     </div>
   </div>
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "implementation_partner" "title" "Powercoders is run in partnership by")}}
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Powercoders is supported by")}}
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partners")}}
-  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Company Members")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Funding Partner")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Internship Partner")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partners")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "implementation_partner" "title" "Implementation Partner")}}
 </div>
 
 {{ end }}
