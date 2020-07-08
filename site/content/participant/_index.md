@@ -87,9 +87,6 @@ programme:
 
     * Job coach accompanying you during your internship
 
-    * Scholarships to cover the participation fee (5,000 CHF) for those who are
-    not funded by social assistance
-
     * Additional support for laptop, food and transportation where needed
 
 
