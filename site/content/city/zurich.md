@@ -10,7 +10,7 @@ text: >-
 
   Bootcamp / IT training: 7 September – 11 December 2020\
 
-  Internship & Job Coaching: 6–12 months, starting January 2021
+  Internship & Job Coaching: 6–12 months, starting February 2021
 
 
   - - -
