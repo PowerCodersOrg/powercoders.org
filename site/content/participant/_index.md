@@ -103,10 +103,12 @@ programme:
     - - -
 
 
-    ###### NEXT PROGRAMS IN 2020
+    ###### NEXT PROGRAMS IN 2020/21
 
 
-    We are continuously accepting applications for our programs. 
+    We are accepting applications for our programs starting in 2021.\
+
+    Applications for programs in 2020 are now closed. 
 
 
     **Apply to the program closest to your place of residence.** \
