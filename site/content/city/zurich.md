@@ -8,11 +8,9 @@ text: >-
 
   **ZURICH BATCH AUTUMN 2020**\
 
-  Applications: Ongoing; Interviews: June – July 2020\
+  Bootcamp / IT training: 7 September – 11 December 2020\
 
-  School phase / IT training: 7 September – 11 December 2020\
-
-  Internship & Job Coaching: 6–12 months, starting January 2021
+  Internship & Job Coaching: 6–12 months, starting February 2021
 
 
   - - -
@@ -21,7 +19,7 @@ text: >-
   - - -
 
 
-  Applications are open for the next batch starting in September 2020.
+  Applications are open for the program starting in February / March 2021.
 
 
   **APPLY AS A PARTICIPANT**\
