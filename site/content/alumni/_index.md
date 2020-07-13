@@ -1,10 +1,10 @@
 ---
-title: Our Success stories
+title: Our Success Stories
 image: /img/header_alumni.jpg
-section_title: Our Success stories
+section_title: Our Success Stories
 text: >-
   Our goal is to place disadvantaged people into permanent jobs so that they get
-  their independence back. Read some of our great Success stories here.
+  their independence back. Read some of our great success stories here.
 call_to_action:
   link_text: 'OFFER AN INTERNSHIP OR A JOB '
   link_url: /company/
