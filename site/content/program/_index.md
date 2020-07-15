@@ -11,7 +11,7 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: Applications are open for the next batch starting in September 2020.
+      text: Applications are open for the program starting in February/March 2021.
     - call_to_action: Lausanne
       color: teal lighten-4
       fade_in: Right
