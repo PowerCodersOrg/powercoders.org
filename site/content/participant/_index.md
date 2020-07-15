@@ -103,7 +103,7 @@ programme:
     - - -
 
 
-    ###### NEXT PROGRAMS IN 2020/21
+    ###### NEXT PROGRAM IN 2021
 
 
     We are accepting applications for our next program starting in
