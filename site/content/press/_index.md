@@ -11,6 +11,14 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 13.07.2020
+        links:
+          - link: >-
+              https://www.rts.ch/play/tv/12h45/video/une-association-vaudoise-propose-une-formation-en-informatique-aux-migrants-?id=11466076
+            link_text: >-
+              Une association vaudoise propose une formation en informatique aux
+              migrants
+            title: RTS Suisse (national TV / French)
       - date: 30.06.2020
         links:
           - link: >-
