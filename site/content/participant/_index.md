@@ -106,7 +106,8 @@ programme:
     ###### NEXT PROGRAMS IN 2020/21
 
 
-    We are accepting applications for our programs starting in 2021.\
+    We are accepting applications for our next program starting in
+    February/March 2021.\
 
     Applications for programs in 2020 are now closed. 
 
