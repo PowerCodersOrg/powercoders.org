@@ -19,6 +19,8 @@ text: >-
   - - -
 
 
+  **ZURICH BATCH SPRING 2021**\
+
   Applications are open for the program starting in February / March 2021.
 
 
