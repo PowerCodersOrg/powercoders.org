@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 16.7.2020
+        links:
+          - link: >-
+              https://www.nau.ch/ort/baden/ozra-rezaie-mit-coding-zum-traumjob-65743897
+            link_text: 'Nau.ch (online news / German) '
+            title: 'Ozra Rezaie aus Baden: Mit Coding zum Traumjob'
       - date: 13.07.2020
         links:
           - link: >-
