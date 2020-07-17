@@ -15,8 +15,8 @@ media:
         links:
           - link: >-
               https://www.nau.ch/ort/baden/ozra-rezaie-mit-coding-zum-traumjob-65743897
-            link_text: 'Nau.ch (online news / German) '
-            title: 'Ozra Rezaie aus Baden: Mit Coding zum Traumjob'
+            link_text: 'Ozra Rezaie aus Baden: Mit Coding zum Traumjob'
+            title: Nau.ch (online news / German)
       - date: 13.07.2020
         links:
           - link: >-
