@@ -319,7 +319,7 @@ team:
       image: /img/marco_jakob.jpg
       name: Marco Jakob
       visible:
-        - board_powercoders
+        - community
     - description: Finance & Community Management / Bern
       email: maria.multani@powercoders.org
       image: /img/maria_multani.jpg
