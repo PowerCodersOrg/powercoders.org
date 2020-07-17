@@ -289,6 +289,11 @@ team:
       name: Luc Hutter
       visible:
         - community
+    - description: Board Member
+      image: /img/lynn.jpg
+      name: Lynn Blattmann
+      visible:
+        - board_powercoders
     - description: Lead Teacher / Zurich
       image: /img/madam_monorom.jpg
       name: Madam Monorom
