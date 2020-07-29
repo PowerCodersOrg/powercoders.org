@@ -41,10 +41,11 @@ text: >-
 
   **Apply to the program closest to your place of residence.** \
 
-  <a target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
-  waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a target=”_blank”
-  href="https://form.jotform.com/200991419287362" class="btn waves-effect
-  waves-light pwc-red">APPLY FOR ZURICH</a>
+  <a target=”_blank”
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
+  class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
+  target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
+  waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai2020_participants.png
@@ -114,7 +115,8 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    <a target=”_blank”
+    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
     target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
     waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
@@ -190,7 +192,8 @@ programme:
 
     **Apply to the program closest to your place of residence.** \
 
-    <a target=”_blank” href="https://form.jotform.com/200991419287362"
+    <a target=”_blank”
+    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
     target=”_blank” href="https://form.jotform.com/200991419287362" class="btn
     waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
