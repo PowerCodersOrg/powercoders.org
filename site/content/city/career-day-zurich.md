@@ -45,11 +45,12 @@ text: >-
 
   1. Receive all the CVs mid-October. \
 
-  2. Join the Career Day on the 20th of October and pick your top candidates. \
+  2. Join the Career Day on the 20th of October either morning or afternoon and
+  pick your top candidates. \
 
   3. Invite them for an interview the week after. \
 
-  4. Decide if and to whom you like to offer an internship.
+  4. Decide to whom you like to offer an internship.
 
 
   **Cost:** Free 
