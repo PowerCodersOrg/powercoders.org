@@ -33,7 +33,7 @@ text: >-
 
   * Sign up on the link below to be part of this impactful journey
 
-  * Receive the candidates CVs and invite your top candidates for interviews
+  * Receive the candidates' CVs and invite them for interviews
 
   * Decide whom you would like to offer internships to
 
