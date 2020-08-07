@@ -4,12 +4,12 @@ image: /img/header_lausanne.jpg
 section_title: Remote Internships
 text: >-
   **The IT industry is growing rapidly and the need for talented people is too.
-  We will train refugees in Turkey on the technologies you need and with your
+  We will train refugees on the technologies companies need and with companies'
   help, we will be able to offer them an opportunity to get back on their career
   paths in the countries they are living in without moving to Switzerland.**
 
 
-  ****
+  - - -
 
 
   **Powercoders** is expanding internationally with the support of the Swiss
@@ -26,6 +26,16 @@ text: >-
 
   We need your support by offering remote internships (6 to 12 months) to our
   participants. The conditions are flexible and can be defined together.
+
+
+  **The process:**
+
+
+  * Sign up on the link below to be part of this impactful journey
+
+  * Receive the candidates CVs and invite your top candidates for interviews
+
+  * Decide whom you would like to offer internships to
 
 
   <a href="https://forms.gle/s6TuV1jtTbAGXjneA" class="btn waves-effect
