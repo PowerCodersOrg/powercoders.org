@@ -28,6 +28,16 @@ text: >-
   participants. The conditions are flexible and can be defined together.
 
 
+  **The process:**
+
+
+  * Sign up on the link below to be part of this impactful journey
+
+  * Receive the candidates CVs and invite your top candidates for interviews
+
+  * Decide whom you would like to offer internships to
+
+
   <a href="https://forms.gle/s6TuV1jtTbAGXjneA" class="btn waves-effect
   waves-light pwc-red">Sign Up</a>
 
