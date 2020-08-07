@@ -4,12 +4,12 @@ image: /img/header_lausanne.jpg
 section_title: Remote Internships
 text: >-
   **The IT industry is growing rapidly and the need for talented people is too.
-  We will train refugees in Turkey on the technologies you need and with your
+  We will train refugees on the technologies companies need and with companies'
   help, we will be able to offer them an opportunity to get back on their career
   paths in the countries they are living in without moving to Switzerland.**
 
 
-  ****
+  - - -
 
 
   **Powercoders** is expanding internationally with the support of the Swiss
