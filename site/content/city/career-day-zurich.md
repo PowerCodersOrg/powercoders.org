@@ -32,8 +32,8 @@ text: >-
   their internships in January 2021)
 
 
-  **When:** Tuesday **20th October 2020**, 2 slots available: 9:00 am till 13:30
-  pm or 12:00 till 16:30 pm.
+  **When:** Tuesday, **20th October 2020**, 2 slots available: 9:00 am till
+  13:30 pm or 12:00 till 16:30 pm.
 
 
   **Where:** IBM Switzerland AG, Vulkanstrasse 106, Zürich
