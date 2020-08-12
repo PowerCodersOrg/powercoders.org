@@ -31,11 +31,11 @@ text: >-
   **The process:**
 
 
-  * Sign up on the link below to be part of this impactful journey
+  * Sign up below to be part of this impactful journey
 
   * Receive the candidates' CVs and invite them for interviews
 
-  * Decide whom you would like to offer internships to
+  * Decide to whom you would like to offer internships
 
 
   <a href="https://forms.gle/s6TuV1jtTbAGXjneA" class="btn waves-effect
