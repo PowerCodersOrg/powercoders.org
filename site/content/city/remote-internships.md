@@ -31,7 +31,7 @@ text: >-
   **The process:**
 
 
-  * Sign up on the link below to be part of this impactful journey
+  * Sign up below to be part of this impactful journey
 
   * Receive the candidates' CVs and invite them for interviews
 
