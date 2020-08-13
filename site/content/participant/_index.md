@@ -44,9 +44,8 @@ text: >-
   <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
   class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-  target=”_blank”
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-  class="btn waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>
+  target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai2020_participants.png
@@ -108,10 +107,8 @@ programme:
     ###### NEXT PROGRAM IN 2021
 
 
-    We are accepting applications for our next program starting in
-    February/March 2021.\
-
-    Applications for programs in 2020 are now closed. 
+    Applications for programs in 2020 are now closed. Sign up now to be informed
+    when we accept applications for our spring batches 2021.
 
 
     **Apply to the program closest to your place of residence.** \
@@ -119,9 +116,8 @@ programme:
     <a target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    target=”_blank”
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
+    target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
 
 
     **For social workers:** download the
@@ -197,9 +193,8 @@ programme:
     <a target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    target=”_blank”
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
+    target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
 
 
     - - -
