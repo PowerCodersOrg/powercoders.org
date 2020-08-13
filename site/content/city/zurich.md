@@ -26,8 +26,8 @@ text: >-
   Internship & Job Coaching: 6–12 months, starting August / September 2021
 
 
-  Applications will be accepted from November 2020 to mid-January 2021. Sign up
-  now to be reminded to apply.
+  Applications will be accepted from November 2020 to mid-January 2021. [Sign up
+  now](https://forms.gle/c22yXnyqKDYHx2dFA) to be reminded to apply.
 
 
   - - -
@@ -35,8 +35,8 @@ text: >-
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://form.jotform.com/200991419287362" class="btn
-  waves-effect waves-light pwc-red">APPLY NOW</a> \
+  <a target="_blank" href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  waves-effect waves-light pwc-red">SIGN UP NOW</a> \
 
   [More information](/participant/)
 
