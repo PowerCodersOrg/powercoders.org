@@ -11,7 +11,7 @@ city_program:
       fade_in: Up
       header: Zurich
       link: /city/zurich
-      text: The next program in Zurich will be held in spring 2021.
+      text: The next program in Zurich will take place in spring 2021.
     - call_to_action: Lausanne
       color: teal lighten-4
       fade_in: Right
