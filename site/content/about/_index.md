@@ -575,6 +575,11 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
+    - description: Job Coach Zurich
+      image: /img/lydia_02.jpg
+      name: Lydia Tracey
+      visible:
+        - community
   text: >-
     ## MEET THE COMMUNITY
 
