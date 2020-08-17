@@ -43,8 +43,8 @@ support_as:
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
       class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSfDU5n7Z-bMF4is8Bg07SD-0wv_PC40MPqiCtDA5nsZgCtlOg/viewform"
-      class="btn waves-effect waves-light pwc-red">ZURICH</a>
+      href="https://form.jotform.com/202293089693363" class="btn waves-effect
+      waves-light pwc-red">ZURICH</a>
 
 
       **Current dates of the program: check them out in the city closest to your
