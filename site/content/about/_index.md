@@ -580,6 +580,11 @@ team:
       name: Lydia Tracey
       visible:
         - community
+    - description: Participant / Zurich
+      image: /img/aiman-nazaal.jpg
+      name: Aiman Nazaal
+      visible:
+        - participants
   text: >-
     ## MEET THE COMMUNITY
 
