@@ -57,6 +57,10 @@ apply_as: []
 team:
   header: Team
   members:
+    - description: CEO Powercoders
+      email: priya.burci@powercoders.org
+      image: /img/photo-priya-profile-powercoders_600x600.jpg
+      name: Priya Burci
     - description: International Project Manager
       email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_0.jpg
