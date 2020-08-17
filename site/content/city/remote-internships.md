@@ -43,7 +43,16 @@ text: >-
 
 
   If you have any questions or need more details, don't hesitate to reach out to
-  us via <a href = "mailto: industry@powercoders.org">Send Email</a>
+  us.
+
+
+  ```
+
+  <div class="pipedriveWebForms"
+  data-pd-webforms="https://webforms.pipedrive.com/f/2ZayULiZfjuiMulhV0nXLNfRpfWlQFWZC8a3mx73ih1WEOITiq2axhpg7CGZiGu1d"><script
+  src="https://webforms.pipedrive.com/f/loader"></script></div>
+
+  ```
 apply_as: []
 team:
   header: Team
