@@ -6,11 +6,11 @@ text: >-
   ###### What is Powercoders?
 
 
-  Powercoders is a coding academy for refugees. It consists of a coding bootcamp
-  of 13 weeks and an internship that lasts 6 to 12 months. The ultimate goal of
-  Powercoders is the permanent placement of trained refugees in IT-companies and
-  IT-departments. While the project started in Switzerland, we now hope to grow
-  and bring our impact to other cities across the world.
+  Powercoders is a coding academy for refugees & migrants. It consists of a
+  coding bootcamp of 13 weeks and an internship that lasts 6 to 12 months. The
+  ultimate goal of Powercoders is the permanent placement of trained refugees in
+  IT-companies and IT-departments. While the project started in Switzerland, we
+  now hope to grow and bring our impact to other cities across the world.
 sections:
   - items:
       - header: How was Powercoders started?
