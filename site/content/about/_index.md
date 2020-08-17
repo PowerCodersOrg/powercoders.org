@@ -608,6 +608,26 @@ team:
       name: Helena Grimm
       visible:
         - community
+    - description: Job Coach / Zurich
+      image: /img/marcel-greimel_3.jpg
+      name: Marcel Greimel
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/mustafa-hakimi.jpg
+      name: Mustafa Hakimi
+      visible:
+        - participants
+    - description: Participant / Zurich
+      image: /img/nour-alayouby.jpg
+      name: Nour Alayouby
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/selamawit-tekleab.jpg
+      name: Selamawit Tekleab
+      visible:
+        - participants
   text: >-
     ## MEET THE COMMUNITY
 
