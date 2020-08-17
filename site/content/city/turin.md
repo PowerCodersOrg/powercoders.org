@@ -1,7 +1,7 @@
 ---
-title: Milan
+title: Turin and Milan
 image: /img/start.jpg
-section_title: Turin
+section_title: Turin and Milan
 text: >-
   The Powercoders program in Milan, Italy is run by Le Wagon Italy. 
 
