@@ -17,15 +17,15 @@ sections:
         text: "It all started with a trip to the United States. The American government invited an entrepreneur of each European country.\r\n\nFounder Christian Hirsig met two entrepreneurs there, one with a cooking school for refugees, one with a coding academy for women. At this time, the refugee crisis in Europe was all over the news. Driven by the energy to help, the idea of Powercoders was born."
       - header: Who can participate?
         text: >-
-          Talented refugees, independent from their place of living, as long as
-          they are allowed to travel.
+          Talented refugees and migrants, independent from their place of
+          living, as long as they are allowed to travel.
       - header: What does it cost?
         text: >-
           While the program is free for our participants, there are two main
           parties who support Powercoders. Firstly, companies donate money what
-          is about 60% of our revenue. Secondly, Swiss cantons support
-          Powercoders for every student who participates with CHF 5'000 what
-          accounts for about 40% of the budget.
+          is about 50% of our revenue. Secondly, Swiss cantons support
+          Powercoders for every student who participates with CHF 7'000–9'000
+          what accounts for about 50% of the budget.
       - header: How is Powercoders financed?
         text: >-
           Powercoders is a non profit organisation that depends on volunteers.
@@ -93,7 +93,7 @@ sections:
   - items:
       - header: What requirements are needed to apply?
         text: |-
-          * Refugees with B and F status and in rare cases N.
+          * Refugees with B and F status and in rare cases N or migrants.
           * Basic knowledge in IT
           * English fluency
           * Commitment
@@ -177,11 +177,10 @@ sections:
           subsequently, the work permit can easily be adapted accordingly. A
           work permit is always only valid for the employment at the company it
           was applied for.
-      - header: What is the recommended salary? Why?
+      - header: What is the recommended salary?
         text: >-
-          An internship lasts at least 6 months. During this time the intern is
-          hired at Powercoders. After the internship we recommend a salary
-          between CHF 60'000 and CHF 90'000 per year.
+          After the internship we recommend a salary between CHF 60'000 and CHF
+          90'000 per year.
       - header: >-
           What happens to the work permit if the internship is followed up by a
           apprenticeship?
@@ -221,10 +220,10 @@ sections:
           that Canton where the permit was issued.
       - header: Who are the participants?
         text: >-
-          The participants are highly skilled refugees from various countries.
-          Most of them already have a background in IT or engineering. But, the
-          most important strength they bring to the table are their quick
-          learning skills.
+          The participants are highly skilled refugees or migrants from various
+          countries. Most of them already have a background in IT or
+          engineering. But, the most important strength they bring to the table
+          are their quick learning skills.
       - header: How did Powercoders select the participants?
         text: >-
           We invite applicants to apply online through a form, and if the
@@ -251,7 +250,7 @@ sections:
       - header: 'Do your participants speak the local languages? '
         text: >-
           Yes, all participants speak the local language in their residence
-          canton. Some are very advanced and some are between B1 and B2  and
+          canton. Some are very advanced and some are between B1 and B2 and
           still progressing.
     name: Company
 ---
