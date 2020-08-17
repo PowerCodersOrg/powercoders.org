@@ -575,6 +575,59 @@ team:
       name: Yusup Khashbulatov
       visible:
         - participants
+    - description: Job Coach Zurich
+      image: /img/lydia_02.jpg
+      name: Lydia Tracey
+      visible:
+        - community
+    - description: Participant / Zurich
+      image: /img/aiman-nazaal.jpg
+      name: Aiman Nazaal
+      visible:
+        - participants
+    - description: IT Trainer / Lausanne
+      image: /img/christophe-tafani-dereeper.jpg
+      name: Christophe Tafani-Dereeper
+      visible:
+        - community
+    - description: Participant / Zurich
+      image: /img/delberin-ali.jpg
+      name: Delberin Ali
+    - description: Participant / Lausanne
+      image: /img/eugenia-papageorgiou.jpg
+      name: Eugenia Papageorgiou
+      visible:
+        - participants
+    - description: Job Coach / Zurich
+      image: /img/florina-vilciu.jpg
+      name: Florian Vilciu
+      visible:
+        - community
+    - description: Job Coach / Zurich
+      image: /img/helena-grimm.jpg
+      name: Helena Grimm
+      visible:
+        - community
+    - description: Job Coach / Zurich
+      image: /img/marcel-greimel_3.jpg
+      name: Marcel Greimel
+      visible:
+        - community
+    - description: Participant / Lausanne
+      image: /img/mustafa-hakimi.jpg
+      name: Mustafa Hakimi
+      visible:
+        - participants
+    - description: Participant / Zurich
+      image: /img/nour-alayouby.jpg
+      name: Nour Alayouby
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/selamawit-tekleab.jpg
+      name: Selamawit Tekleab
+      visible:
+        - participants
   text: >-
     ## MEET THE COMMUNITY
 
