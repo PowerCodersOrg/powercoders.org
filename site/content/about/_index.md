@@ -585,6 +585,25 @@ team:
       name: Aiman Nazaal
       visible:
         - participants
+    - description: IT Trainer / Zurich
+      image: /img/christophe-tafani-dereeper.jpg
+      name: Christophe Tafani-Dereeper
+    - description: Participant / Zurich
+      image: /img/delberin-ali.jpg
+      name: Delberin Ali
+    - description: Participant / Lausanne
+      image: /img/eugenia-papageorgiou.jpg
+      name: Eugenia Papageorgiou
+      visible:
+        - participants
+    - description: Job Coach / Zurich
+      image: /img/florina-vilciu.jpg
+      name: Florian Vilciu
+      visible:
+        - community
+    - description: Job Coach / Zurich
+      image: /img/helena-grimm.jpg
+      name: Helena Grimm
   text: >-
     ## MEET THE COMMUNITY
 
