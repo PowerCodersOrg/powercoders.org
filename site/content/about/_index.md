@@ -419,6 +419,11 @@ team:
       visible:
         - participants
     - description: Participant / Lausanne
+      image: /img/mustafa-hakimi_02.jpg
+      name: Mustafa Hakimi
+      visible:
+        - participants
+    - description: Participant / Lausanne
       image: /img/mustafa_noorhussin.jpg
       name: Mustafa Noorhussin
       visible:
@@ -613,11 +618,6 @@ team:
       name: Marcel Greimel
       visible:
         - community
-    - description: Participant / Lausanne
-      image: /img/mustafa-hakimi.jpg
-      name: Mustafa Hakimi
-      visible:
-        - participants
     - description: Participant / Zurich
       image: /img/nour-alayouby.jpg
       name: Nour Alayouby
