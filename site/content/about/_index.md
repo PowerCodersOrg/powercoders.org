@@ -171,6 +171,11 @@ team:
       name: Ebrahim Mehrno
       visible:
         - participants
+    - description: Participant / Lausanne
+      image: /img/eugenia-papageorgiou_02.jpg
+      name: Eugenia Papageorgiou
+      visible:
+        - participants
     - description: Participant / Bern
       image: /img/farid_saberi.jpg
       name: Farid Saberi
@@ -593,11 +598,6 @@ team:
     - description: Participant / Zurich
       image: /img/delberin-ali.jpg
       name: Delberin Ali
-    - description: Participant / Lausanne
-      image: /img/eugenia-papageorgiou.jpg
-      name: Eugenia Papageorgiou
-      visible:
-        - participants
     - description: Job Coach / Zurich
       image: /img/florina-vilciu.jpg
       name: Florian Vilciu
