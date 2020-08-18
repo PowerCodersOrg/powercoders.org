@@ -150,6 +150,11 @@ team:
       name: Christoph Ackermann
       visible:
         - community
+    - description: IT Trainer / Lausanne
+      image: /img/christophe-tafani-dereeper.jpg
+      name: Christophe Tafani-Dereeper
+      visible:
+        - community
     - description: Social Lead / Powerhouse Lausanne
       email: coline.sauzet@powercoders.org
       image: /img/coline_sauzet.jpg
@@ -161,6 +166,9 @@ team:
       name: Damian Senn
       visible:
         - community
+    - description: Participant / Zurich
+      image: /img/delberin-ali.jpg
+      name: Delberin Ali
     - description: IT Trainer / Lausanne
       image: /img/dinesh_bolkensteyn.jpg
       name: Dinesh Bolkensteyn
@@ -181,6 +189,11 @@ team:
       name: Farid Saberi
       visible:
         - participants
+    - description: Job Coach / Zurich
+      image: /img/florina-vilciu.jpg
+      name: Florina Vilciu
+      visible:
+        - community
     - description: Participant / Zurich
       image: /img/fortuna_mebratu.jpg
       name: Fortuna Mebratu
@@ -213,6 +226,11 @@ team:
       name: Hannes Gassert
       visible:
         - board_powercoders
+    - description: Job Coach / Zurich
+      image: /img/helena-grimm.jpg
+      name: Helena Grimm
+      visible:
+        - community
     - description: Lead Teacher / Lausanne
       image: /img/hçläne_portier.jpg
       name: Hélène Portier
@@ -299,6 +317,11 @@ team:
       name: Luc Hutter
       visible:
         - community
+    - description: Job Coach Zurich
+      image: /img/lydia_02.jpg
+      name: Lydia Tracey
+      visible:
+        - community
     - description: Board Member
       image: /img/lynn.jpg
       name: Lynn Blattmann
@@ -328,6 +351,11 @@ team:
     - description: Job Coach / Bern
       image: /img/manuel_linder.jpg
       name: Manuel Linder
+      visible:
+        - community
+    - description: Job Coach / Zurich
+      image: /img/marcel-greimel_3.jpg
+      name: Marcel Greimel
       visible:
         - community
     - description: Teaching Council
@@ -443,6 +471,11 @@ team:
       name: 'Nisar Ahmed Hatami '
       visible:
         - participants
+    - description: Participant / Zurich
+      image: /img/nour-alayouby.jpg
+      name: Nour Alayouby
+      visible:
+        - participants
     - description: IT Trainer / Zurich
       image: /img/oktawia_kata.jpg
       name: Oktawia Kata
@@ -502,6 +535,11 @@ team:
     - description: Participant / Zurich
       image: /img/sangeerththani_ramesh.jpg
       name: Sangeerththani Ramesh
+      visible:
+        - participants
+    - description: Participant / Lausanne
+      image: /img/selamawit-tekleab.jpg
+      name: Selamawit Tekleab
       visible:
         - participants
     - description: Job Coach / Zurich
@@ -588,44 +626,6 @@ team:
     - description: Participant / Bern
       image: /img/yusup_khashbulatov.jpg
       name: Yusup Khashbulatov
-      visible:
-        - participants
-    - description: Job Coach Zurich
-      image: /img/lydia_02.jpg
-      name: Lydia Tracey
-      visible:
-        - community
-    - description: IT Trainer / Lausanne
-      image: /img/christophe-tafani-dereeper.jpg
-      name: Christophe Tafani-Dereeper
-      visible:
-        - community
-    - description: Participant / Zurich
-      image: /img/delberin-ali.jpg
-      name: Delberin Ali
-    - description: Job Coach / Zurich
-      image: /img/florina-vilciu.jpg
-      name: Florian Vilciu
-      visible:
-        - community
-    - description: Job Coach / Zurich
-      image: /img/helena-grimm.jpg
-      name: Helena Grimm
-      visible:
-        - community
-    - description: Job Coach / Zurich
-      image: /img/marcel-greimel_3.jpg
-      name: Marcel Greimel
-      visible:
-        - community
-    - description: Participant / Zurich
-      image: /img/nour-alayouby.jpg
-      name: Nour Alayouby
-      visible:
-        - participants
-    - description: Participant / Lausanne
-      image: /img/selamawit-tekleab.jpg
-      name: Selamawit Tekleab
       visible:
         - participants
   text: >-
