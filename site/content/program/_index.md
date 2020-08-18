@@ -12,8 +12,8 @@ city_program:
       header: Zurich
       link: /city/zurich
       text: >-
-        The next program in Zurich will take place in spring 2021, applications
-        will be accepted from December 2020.
+        The next program in Zurich will start in spring 2021. Applications will
+        be accepted as of December 2020.
     - call_to_action: Lausanne
       color: teal lighten-4
       fade_in: Right
