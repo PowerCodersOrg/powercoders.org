@@ -68,6 +68,11 @@ team:
       visible:
         - participants
     - description: Participant / Zurich
+      image: /img/aiman-nazaal_02.jpg
+      name: Aiman Nazaal
+      visible:
+        - participants
+    - description: Participant / Zurich
       image: /img/alan_omar.jpg
       name: Alan Omar
       visible:
@@ -580,11 +585,6 @@ team:
       name: Lydia Tracey
       visible:
         - community
-    - description: Participant / Zurich
-      image: /img/aiman-nazaal.jpg
-      name: Aiman Nazaal
-      visible:
-        - participants
     - description: IT Trainer / Lausanne
       image: /img/christophe-tafani-dereeper.jpg
       name: Christophe Tafani-Dereeper
