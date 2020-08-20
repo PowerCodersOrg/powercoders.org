@@ -15,7 +15,7 @@ text: >-
 
 
   <a href="https://forms.gle/GkDR9kUprkUWdrhL8" class="btn waves-effect
-  waves-light pwc-red">SIGN UP career days</a>
+  waves-light pwc-red">SIGN UP for career days</a>
 
 
   The Career Days are one of the most important milestones of our program since
@@ -36,18 +36,17 @@ text: >-
   **NEXT CAREER DAYS**  
 
 
-  **October 2020 (dates to be fixed soon)**
+  **5-16 October 2020**
 
 
   **Program:**
 
 
-  1. Receive the CVs and 1 min video presentation of each Powercoders
-  candidate.\
+  1. Receive the CVs and 1 min video presentation of each Powercoders candidate.
 
-  2. Choose your top 5-6 pick.\
+  2. Choose your top 3-4 pick.
 
-  3. Invite your top picks for an interview (remotely or in your office).\
+  3. Invite your top picks for an interview (remotely or in your office).
 
   4. Tell us if and to whom you would like to offer an internship.
 
