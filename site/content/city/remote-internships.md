@@ -55,9 +55,6 @@ text: >-
   <div class="">
 
 
-  <h4>Funding Partner</h4>
-
-
   <img src="https://powercoders.org/img/_0001_eidgenosschenschaft.png">
 
 
@@ -65,9 +62,6 @@ text: >-
 
 
   <div>
-
-
-  <h4>Local Partner</h4>
 
 
   <img
