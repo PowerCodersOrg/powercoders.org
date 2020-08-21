@@ -49,10 +49,13 @@ text: >-
   <br>
 
 
-  <h1>Partners</h1>
+  ## Partners
 
 
   <div class="">
+
+
+  <h3>Funding Partners</h3>
 
 
   <a href="/"><img
@@ -63,6 +66,9 @@ text: >-
 
 
   <div>
+
+
+  <h3>Teaching Partners</h3>
 
 
   <a href="/"><img
