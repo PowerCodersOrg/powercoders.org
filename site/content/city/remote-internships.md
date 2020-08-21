@@ -68,7 +68,7 @@ text: >-
   <div>
 
 
-  <h4>Teaching Partner</h4>
+  <h4>Partner</h4>
 
 
   <a href="/"><img
