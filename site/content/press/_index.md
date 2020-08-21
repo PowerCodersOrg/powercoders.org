@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 21.8.2020
+        links:
+          - link: >-
+              https://www.netzwoche.ch/news/2020-08-21/projekt-powercoders-schliesst-pilotphase-ab
+            link_text: Projekt Powercoders schliesst Pilotphase ab
+            title: Netzwoche (ICT magazine / German)
       - date: 16.7.2020
         links:
           - link: >-
