@@ -55,7 +55,8 @@ text: >-
   <div class="">
 
 
-  <img src="https://powercoders.org/img/_0001_eidgenosschenschaft.png">
+  <a href="/"><img
+  src="https://powercoders.org/img/_0001_eidgenosschenschaft.png"></a>
 
 
   </div>
@@ -64,8 +65,8 @@ text: >-
   <div>
 
 
-  <img
-  src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png">
+  <a href="/"><img
+  src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png"></a>
 
 
   </div>
