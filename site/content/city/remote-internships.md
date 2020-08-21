@@ -52,13 +52,10 @@ text: >-
   ## Partner
 
 
-  <div class="row">
+  <div>
 
 
   <h4>Funding Partner</h4>
-
-
-  <div class="row">
 
 
   <a href="/"><img
@@ -68,17 +65,14 @@ text: >-
   </div>
 
 
+  <div>
+
+
   <h4>Teaching Partner</h4>
-
-
-  <div class="row">
 
 
   <a href="/"><img
   src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png"></a>
-
-
-  </div>
 
 
   </div>
