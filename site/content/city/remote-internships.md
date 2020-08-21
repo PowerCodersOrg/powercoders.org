@@ -55,13 +55,7 @@ text: >-
   <div class="row">
 
 
-  <div class="row">
-
-
   <h4>Funding Partner</h4>
-
-
-  </div>
 
 
   <div class="row">
@@ -74,13 +68,7 @@ text: >-
   </div>
 
 
-  <div class="row">
-
-
   <h4>Teaching Partner</h4>
-
-
-  </div>
 
 
   <div class="row">
