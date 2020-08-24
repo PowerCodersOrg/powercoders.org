@@ -1,11 +1,14 @@
 ---
-title: Youthcamp
+title: DÉCOUVRE LES TECHNOLOGIES EN T’AMUSANT!
 image: /img/header_kidscamp.jpg
-section_title: Youthcamp
+section_title: YOUTHCAMP
 text: >-
-  **En collaboration avec Futurekids, Powercoders organise 2 camps destinés à la
+  **Apprends les bases de la programmation et de la robotique.**
+
+
+  En collaboration avec Futurekids, Powercoders organise 2 camps destinés à la
   familiarisation aux technologies pour les jeunes, dans un environnement
-  ludique et convivial.** 
+  ludique et convivial. 
 
 
   Les camps sont accessibles pour des enfants et adolescences venant de familles
