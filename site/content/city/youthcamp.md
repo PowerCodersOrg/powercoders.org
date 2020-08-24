@@ -1,7 +1,7 @@
 ---
 title: DÉCOUVRE LES TECHNOLOGIES EN T’AMUSANT!
 image: /img/header_kidscamp.jpg
-section_title: YOUTHCAMP
+section_title: DÉCOUVRE LES TECHNOLOGIES EN T’AMUSANT!
 text: >-
   **Apprends les bases de la programmation et de la robotique.**
 
