@@ -1,7 +1,7 @@
 ---
 title: DÉCOUVRE LES TECHNOLOGIES EN T’AMUSANT!
 image: /img/header_kidscamp.jpg
-section_title: DÉCOUVRE LES TECHNOLOGIES EN T’AMUSANT!
+section_title: Youthcamp
 text: >-
   **Apprends les bases de la programmation et de la robotique.**
 
@@ -25,12 +25,10 @@ text: >-
   **19–23 octobre 2020**, 10–16h 
 
 
-  **Lieu:** Place de la Gare 10, 1003 Lausanne.
+  **Lieu:** Place de la Gare 10, 1003 Lausanne 
 
 
-  **Délai d'inscription:** 18 septembre 2020, 12h00 \
-
-  places limitées): \
+  **Délai d'inscription:** 18 septembre 2020, 12h00 (places limitées): \
 
   <a href="http://tiny.cc/view_kidscamp" class="btn waves-effect waves-light
   pwc-red">Inscription Camp</a> 
@@ -47,5 +45,14 @@ text: >-
   L'équipe de Powercoders
 team:
   header: TEAM KIDS & TEENAGERS CAMP
+  members:
+    - description: Social Lead
+      email: coline.sauzet@powercoders.org
+      image: /img/coline_sauzet.jpg
+      name: Coline Sauzet
+    - description: Industry Lead
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly_filter.jpg
+      name: Magaly Mathys
 ---
 
