@@ -17,12 +17,12 @@ text: >-
 
   **CAMP #1** / 8–12 ans \
 
-  **12–16 octobre 2020**, 10–16h 
+  **12–16 octobre 2020** 
 
 
   **CAMP #2** / 13–17 ans\
 
-  **19–23 octobre 2020**, 10–16h 
+  **19–23 octobre 2020**
 
 
   **Lieu:** Place de la Gare 10, 1003 Lausanne 
