@@ -5,9 +5,7 @@ section_title: Lausanne
 text: >-
   The Powercoders program in Lausanne is run by the Powerhouse Lausanne.
 
-
-  We accept applications continuously for our programs. \
-
+   \
   **Get involved!**
 
 
