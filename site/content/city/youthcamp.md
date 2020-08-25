@@ -6,13 +6,10 @@ text: >-
   **Apprends les bases de la programmation et de la robotique.**
 
 
-  En collaboration avec Futurekids, Powercoders organise 2 camps destinés à la
-  familiarisation aux technologies pour les jeunes, dans un environnement
-  ludique et convivial. 
-
-
-  Les camps sont accessibles pour des enfants et adolescences venant de familles
-  réfugiées ou dans le besoin.
+  En collaboration avec Futurekids, Powercoders organise 2 camps de une semaine
+  destinés aux jeunes qui veulent découvrir les technologies, dans un
+  environnement ludique et convivial. Ces camps sont destinés aux enfants et
+  adolescents venant de familles réfugiées ou dans le besoin. 
 
 
   **CAMP #1** / 8–12 ans \
