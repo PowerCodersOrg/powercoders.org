@@ -5,7 +5,14 @@ section_title: Lausanne
 text: >-
   The Powercoders program in Lausanne is run by the Powerhouse Lausanne.
 
-   \
+
+  The next program in Lausanne will start in early 2021. [Sign
+  up](https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform)
+  to be informed when the recruitment starts.
+
+
+  \
+
   **Get involved!**
 
 
