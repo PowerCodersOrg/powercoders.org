@@ -20,8 +20,8 @@ city_program:
       header: Lausanne
       link: /city/lausanne/
       text: >-
-        The next program in Lausanne will start in early 2021. Applications will
-        be open in December 2020.
+        The next program in Lausanne will start early next year, in 2021.
+        Applications will be open in December 2020.
     - call_to_action: Milan
       color: teal lighten-4
       fade_in: Left
