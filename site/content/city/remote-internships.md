@@ -84,9 +84,15 @@ team:
       email: priya.burci@powercoders.org
       image: /img/priya_burci.jpg
       name: Priya Burci
-    - description: International Project Manager
+    - description: International Project Manager - Powercoders
       email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
+    - description: Talent Solutions Consultant - Kodluyoruz
+      image: /img/female-user1.jpg
+      name: Alev Orbay
+    - description: 'Business Development Specialist - Kodluyoruz '
+      image: /img/male-user.jpg
+      name: Tolga Yüce
 ---
 
