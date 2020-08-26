@@ -1,5 +1,6 @@
 ---
 title: Success Story Nisar
+image: /img/nisar_header.jpg
 section_title: Success Story Nisar Ahmed Hatami
 text: >-
   **REGAINING TRUST IN HIMSELF AND HIS CAPABILITIES**
