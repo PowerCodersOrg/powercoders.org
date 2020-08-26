@@ -50,6 +50,6 @@ text: >-
 
   >
 team:
-  header: Powercoders Romandie
+  header: Powercoders Lausanne
 ---
 
