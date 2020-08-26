@@ -21,7 +21,8 @@ text: >-
 
   **ZURICH BATCH SPRING 2021**\
 
-  Bootcamp / IT Training: 6 April – 2 July 2021\
+  Bootcamp / IT Training: 6 April – 2 July 2021 (Interviews, Testing & Prep in
+  Feb/March)\
 
   Internship & Job Coaching: 6–12 months, starting August / September 2021
 
