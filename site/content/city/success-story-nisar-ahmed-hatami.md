@@ -37,7 +37,7 @@ text: >-
 
 
   Nisar made it. He managed the journey to a safe country. He is a junior
-  developer at a company he likes. It seems like the perfect story. Through it
+  consultant at a company he likes. It seems like the perfect story. Through it
   all however, there were many times when he felt like giving up. “It’s just so
   hard to be away from your family and everyone you know and love.” He was
   lacking the kind of support network that reminds one of “home”. Now, he is
