@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 25.08.2020
+        links:
+          - link: >-
+              https://www.20min.ch/story/fluechtling-nematollah-22-wird-zum-it-crack-316635478503
+            link_text: Flüchtling Nematollah (22) wird zum IT-Crack
+            title: 20 Minuten (newspaper / German)
       - date: 21.8.2020
         links:
           - link: >-
@@ -105,12 +111,6 @@ media:
             title: >-
               Magazine "Demain" – Chambre vaudoise du commerce et de l'industrie
               (magazine / French)
-      - date: 25.08.2020
-        links:
-          - link: >-
-              https://www.20min.ch/story/fluechtling-nematollah-22-wird-zum-it-crack-316635478503
-            link_text: Flüchtling Nematollah (22) wird zum IT-Crack
-            title: 20 Minuten (newspaper / German)
     year: '2020'
   - entries:
       - date: 16.12.2019
