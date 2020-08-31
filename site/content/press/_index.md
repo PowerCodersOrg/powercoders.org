@@ -43,6 +43,12 @@ media:
               https://www.swissbanking.org/en/services/insight/insight-2.20/refugees-2013-the-new-up-and-coming-talents-in-the-it-industry?set_language=en
             link_text: Refugees – the new up-and-coming talents in the IT industry
             title: Swiss Banking "Insight" (online magazine / EN DE FR)
+      - date: 18.06.2020
+        links:
+          - link: >-
+              https://www.eastdigital.ch/news/gefluechtete-die-neuen-nachwuchstalente-fuer-die-it-312.html
+            link_text: Geflüchtete – die neuen Nachwuchstalente für die IT
+            title: 'east#digital (IT news platform / German) '
       - date: 30.4.2020
         links:
           - link: >-
