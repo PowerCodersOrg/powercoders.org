@@ -1,0 +1,11 @@
+{
+  "title": "Industry SBB",
+  "image": "/img/industry_sbb.png",
+  "link": "https://powercoders.org/",
+  "type": "company_member",
+  "city": [
+    "zurich",
+    "home",
+    "lausanne"
+  ]
+}
