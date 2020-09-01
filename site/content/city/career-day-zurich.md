@@ -5,8 +5,9 @@ section_title: Career Day Zurich
 text: >-
   Are you an IT company or do you have an IT department in the Deutschschweiz? \
 
-  We are looking for companies who would be willing in potentially offering
-  internships for our Powercoders graduates from January 2021 on. 
+  We are looking for companies who would be willing to potentially offer
+  internships or apprenticeships for our Powercoders graduates from January 2021
+  on. 
 
 
   **Are you interested? Then join our next Career Day and get an idea of our IT
@@ -23,12 +24,13 @@ text: >-
   **CAREER DAY** 
 
 
-  The Career Days are one of the most important milestones of our program since
-  it’s the days when the companies meet the participants. It is an efficient way
-  for you to get a personal impression of the candidates.
+  The Career Day is the day when the companies meet the participant for speed
+  interviews (5 minutes per participant) and decide whom they are interested in
+  to invite for interviews the week after. It is an efficient way for you to get
+  a personal impression of the candidates.
 
 
-  **What:** Career Day Powercoders (meet 20 – 24 students who like to start
+  **What:** Career Day Powercoders (meet 18 – 22 students who like to start
   their internships in January 2021)
 
 
@@ -36,8 +38,7 @@ text: >-
   13:30 pm or 12:00 till 16:30 pm.
 
 
-  **Where:** IBM Switzerland AG, Vulkanstrasse 106, Zürich
-  ([map](https://www.google.ch/maps/place/IBM+Schweiz+AG/@47.3930317,8.4837004,17z/data=!3m1!4b1!4m5!3m4!1s0x47900bb83254083d:0xea641dc9eb3f975d!8m2!3d47.3930281!4d8.4858891))
+  **Where:** to be confimirmed
 
 
   **Program:**\
@@ -53,7 +54,7 @@ text: >-
   4. Decide to whom you like to offer an internship.
 
 
-  **Cost:** Free 
+  **Cost:** Free
 
 
   <a
