@@ -38,7 +38,7 @@ text: >-
   13:30 pm or 12:00 till 16:30 pm.
 
 
-  **Where:** to be confimirmed
+  **Where:** to be confirmed
 
 
   **Program:**\
