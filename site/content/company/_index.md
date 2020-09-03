@@ -30,7 +30,7 @@ text: >-
   pwc-red">REMOTE INTERNSHIP</a> 
 
 
-  For more information about internships, check the box below.
+  For more information about internships in general, check the box below.
 support_as:
   - header: Internship/Job
     text: >-
@@ -78,7 +78,13 @@ support_as:
 
 
       <a href="/city/career-day/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY LAUSANNE</a>
+      pwc-red">CAREER DAY LAUSANNE</a> 
+
+
+      If you have remote teams, you can have a remote intern. \
+
+      <a href="/city/remote-internships/" class="btn waves-effect waves-light
+      pwc-red">REMOTE INTERNSHIP</a>
   - header: Corporate Volunteering
     text: >-
       ###### YOUR EMPLOYEES SUPPORT US AS VOLUNTEERS
