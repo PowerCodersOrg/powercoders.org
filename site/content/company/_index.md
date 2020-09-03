@@ -30,7 +30,7 @@ text: >-
   pwc-red">REMOTE INTERNSHIP</a> 
 
 
-  For more information about internships in general, check the box below.
+  For more information about internships in general, please check the box below.
 support_as:
   - header: Internship/Job
     text: >-
@@ -81,7 +81,8 @@ support_as:
       pwc-red">CAREER DAY LAUSANNE</a> 
 
 
-      If you have remote teams, you can have a remote intern. \
+      If you have remote teams and are interested in a remote intern, please
+      check here:  \
 
       <a href="/city/remote-internships/" class="btn waves-effect waves-light
       pwc-red">REMOTE INTERNSHIP</a>
