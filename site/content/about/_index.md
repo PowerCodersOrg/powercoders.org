@@ -319,7 +319,7 @@ team:
         - community
     - description: Job Coach Zurich
       image: /img/lydia_02.jpg
-      name: Lydia Tracey
+      name: Lydia Tracy
       visible:
         - community
     - description: Board Member
