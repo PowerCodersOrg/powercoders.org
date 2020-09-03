@@ -24,6 +24,12 @@ text: >-
   pwc-red">CAREER DAY LAUSANNE</a> 
 
 
+  For information about remote internships, please checke here: \
+
+  <a href="/city/remote-internships/" class="btn waves-effect waves-light
+  pwc-red">REMOTE INTERNSHIP</a> 
+
+
   For more information about internships, check the box below.
 support_as:
   - header: Internship/Job
