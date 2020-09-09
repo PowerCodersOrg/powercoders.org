@@ -6,10 +6,15 @@ text: >-
   **Apprends les bases de la programmation et de la robotique.**
 
 
-  En collaboration avec Futurekids, Powercoders organise 2 camps de une semaine
-  destinés aux jeunes qui veulent découvrir les technologies, dans un
-  environnement ludique et convivial. Ces camps sont destinés aux enfants et
-  adolescents venant de familles réfugiées ou dans le besoin. 
+  En collaboration avec [Futurekids](https://futurekids.io/), Powercoders
+  organise 2 camps de une semaine destinés aux jeunes qui veulent découvrir les
+  technologies, dans un environnement ludique et convivial. Ces camps sont
+  destinés en priorité aux enfants et adolescents venant de familles réfugiées
+  ou dans le besoin. 
+
+
+  Quelques places sont disponibles pour les familles qui peuvent couvrir les
+  frais de participation.
 
 
   **CAMP #1** / 8–12 ans \
@@ -25,13 +30,14 @@ text: >-
   **Lieu:** Place de la Gare 10, 1003 Lausanne 
 
 
-  **Délai d'inscription:** 18 septembre 2020, 12h00 (places limitées): \
+  **Délai d'inscription:** 25 septembre 2020, 12h00 (places limitées): \
 
   <a href="http://tiny.cc/view_kidscamp" class="btn waves-effect waves-light
   pwc-red">Inscription Camp</a> 
 
 
-  **Frais:** Le camp est gratuit pour les participant-e-s. 
+  **Frais:** 335 CHF / participant-e-s. Le camp est GRATUIT pour les
+  participant-e-s réfugié-e-s ou dans le besoin.
 
 
   **Personne de contact:** Coline Sauzet, coline.sauzet@powercoders.org
