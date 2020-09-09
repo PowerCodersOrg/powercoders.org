@@ -17,12 +17,12 @@ text: >-
   frais de participation.
 
 
-  **CAMP #1** / 8–12 ans \
+  **CAMP #1** "Les robots et moi" / 8–12 ans \
 
   **12–16 octobre 2020** 
 
 
-  **CAMP #2** / 13–17 ans\
+  **CAMP #2** "Sur les pas d'un-e développeur-euse / 13–17 ans\
 
   **19–23 octobre 2020**
 
