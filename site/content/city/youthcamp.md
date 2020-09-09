@@ -17,6 +17,10 @@ text: >-
   frais de participation.
 
 
+  Les camps sont en français et sont accessibles à des jeunes qui n'ont jamais
+  fait de robotique ou de programmation informatique.
+
+
   **CAMP #1** "Les robots et moi" / 8–12 ans \
 
   **12–16 octobre 2020** 
