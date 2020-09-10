@@ -38,7 +38,10 @@ text: >-
   13:30 pm or 12:00 till 16:30 pm.
 
 
-  **Where:** to be confirmed
+  **Where:** Conference and Congress Centre [SIX
+  ConventionPoint](https://www.conventionpoint.ch/de/home.html),
+  Pfingstweidstrasse 110, 8005 Zürich,
+  [map](https://www.google.com/maps/place/SIX+ConventionPoint/@47.3914045,8.5069716,15z/data=!4m2!3m1!1s0x0:0x27f43b055c0afb32?sa=X&ved=2ahUKEwioidyemt7rAhUNtYsKHSLAAAYQ_BIwCnoECBcQCA)
 
 
   **Program:**\
