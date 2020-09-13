@@ -1,8 +1,8 @@
 {
-  "title": "Witty Works",
-  "image": "/img/wittyworks.png",
+  "title": "Industry Witty Works",
+  "image": "/img/industry_wittyworks.png",
   "link": "https://powercoders.org/",
-  "type": "community_partner",
+  "type": "company_member",
   "city": [
     "home",
     "zurich"
