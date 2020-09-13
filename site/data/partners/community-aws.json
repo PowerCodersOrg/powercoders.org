@@ -1,0 +1,11 @@
+{
+  "title": "Community AWS",
+  "image": "/img/community_aws.png",
+  "link": "https://aws.amazon.com",
+  "type": "community_partner",
+  "city": [
+    "zurich",
+    "home",
+    "lausanne"
+  ]
+}
