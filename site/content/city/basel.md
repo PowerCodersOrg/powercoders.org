@@ -2,8 +2,8 @@
 title: Basel
 section_title: Basel Program
 text: >-
-  <h4 class="center">Powercoders Basel (004) batch start is on November 26 with
-  20 new participants, 4 females, 16 males and from 7 nations. 
+  <h4 class="center">Powercoders Basel (004) batch was held in 2018/19 with 20
+  participants; 4 females and 16 males from 7 nations. 
 
 
   </h4>
