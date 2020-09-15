@@ -18,8 +18,9 @@ text: >-
 
   **AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://form.jotform.com/200991419287362" class="btn
-  waves-effect waves-light pwc-red">APPLY NOW</a> \
+  <a target="_blank"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
+  class="btn waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
 
