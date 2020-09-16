@@ -126,7 +126,24 @@ faqs:
 
       Or if you need more information, reach out to us via
       [industry@powercoders.org](industry@powercoders.org)
-  - header: 'I am a refugees, can I apply?'
-    text: "Yes, you can apply if you fulfill the following criteria:\n\n1. You are a refugee living in Turkey\r\n2. You are facing barriers to entering the IT job market (and can’t access similar programs)\r\n3. You are 18-55 years old"
+  - header: 'I am a refugees, can I apply? and how?'
+    text: >-
+      Yes, you can apply if you fulfill the following criteria:
+
+
+      1. You are a refugee living in Turkey
+
+      2. You are facing barriers to entering the IT job market (and can’t access
+      similar programs)
+
+      3. You are 18-55 years old
+
+
+      You can apply to any bootcamp at Kodluyoruz listed
+      [here](https://www.kodluyoruz.org/bootcamp/). But if you are not
+      interested in these current openings, you can fill in the pre-application
+      form [here
+      ](https://docs.google.com/forms/d/e/1FAIpQLSc3GSHoUCRgJdc-VMfXXpM0mwGrrsE6_Rk3JaIi7_Z-zES7YA/viewform)to
+      convey their interest.
 ---
 
