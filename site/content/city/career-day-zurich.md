@@ -75,16 +75,6 @@ text: >-
   <a
   href="https://docs.google.com/forms/d/e/1FAIpQLScKihryYTPBCvYmu8nVwkdeTbCYN-nC99qUtWbXmVmbd0hFTw/viewform"
   class="btn waves-effect waves-light pwc-red">Get in touch</a>
-
-
-  You Journey at Powercoders in brief:
-
-
-  <div style="width: 480px; height: 360px; margin: 10px; position:
-  relative;"><iframe allowfullscreen frameborder="0" style="width:480px;
-  height:360px"
-  src="https://app.lucidchart.com/documents/embeddedchart/ce0919f7-207d-4af2-be39-7708a15a74ee"
-  id="Nxmw.RvgEvmi"></iframe></div>
 team:
   header: Team
   members:
