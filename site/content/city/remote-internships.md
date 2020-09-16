@@ -103,7 +103,12 @@ faqs:
       career paths in the countries they are living in without the need to move
       to Switzerland.
   - header: What is Powercoders?
-    text: "Powercoders is a nonprofit coding bootcamp designed for the integration of disadvantaged people in the IT s\rector. The programme has been implemented in Switzerland with a 97% placement rate for trainees and a 60% employment integration rate. With this proof of concept, Powercoders International plans to expand abroad with a sustainable model."
+    text: >-
+      Powercoders is a coding academy for refugees designed for the integration
+      of refugees in the IT sector. The programme has been implemented in
+      Switzerland with a 97% placement rate for trainees and a 60% employment
+      integration rate. With this proof of concept, Powercoders International
+      plans to expand abroad with a sustainable model.
   - header: What is Kodluyoruz?
     text: >-
       Kodluyoruz is a nonprofit working to make Turkey a talent hub by creating
