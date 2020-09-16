@@ -1,7 +1,7 @@
 ---
 title: Career Day Zurich
 image: /img/header_companies_2.jpg
-section_title: Career Day Zurich
+section_title: Career Day Deutschschweiz
 text: >-
   Are you an IT company or do you have an IT department in the Deutschschweiz? \
 
