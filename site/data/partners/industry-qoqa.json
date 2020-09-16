@@ -1,8 +1,8 @@
 {
-  "title": "Industry Qoqa",
+  "title": "Community Qoqa",
   "image": "/img/industry_qoqa.png",
   "link": "https://powercoders.org/",
-  "type": "company_member",
+  "type": "community_partner",
   "city": [
     "home",
     "lausanne"
