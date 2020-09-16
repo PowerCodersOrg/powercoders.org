@@ -94,5 +94,39 @@ team:
     - description: 'Business Development Specialist - Kodluyoruz '
       image: /img/male-user.jpg
       name: Tolga Yüce
+faqs:
+  - header: What is the Digital School for Refugees?
+    text: >-
+      It is a project in which Powercoders started with the support of the Swiss
+      government and in partnership with Kodluyoruz, a coding school in Turkey,
+      to offer highly qualified refugees the opportunity to get back on their
+      career paths in the countries they are living in without the need to move
+      to Switzerland.
+  - header: What is Powercoders?
+    text: "Powercoders is a nonprofit coding bootcamp designed for the integration of disadvantaged people in the IT s\rector. The programme has been implemented in Switzerland with a 97% placement rate for trainees and a 60% employment integration rate. With this proof of concept, Powercoders International plans to expand abroad with a sustainable model."
+  - header: What is Kodluyoruz?
+    text: >-
+      Kodluyoruz is a nonprofit working to make Turkey a talent hub by creating
+      employment pathways for young people, especially women, seeking careers in
+      technology sector. Kodluyoruz Academy provides bootcamps (3-month
+      technical and soft skills trainings) that prepare driven, disadvantaged
+      young people, ages 20-29, for employment in high value technology fields.
+  - header: 'I am a company, how can I support?'
+    text: >-
+      If you are an IT company or you have an IT department, you can support us
+      by offering our participants internship (remote) and support them to
+      sharpen their skills and get ready for a job.  This is a win-win You
+      invest in the human capital and eventually hire this person.
+
+
+
+
+      Apply on this link: [SIGN UP](https://forms.gle/s6TuV1jtTbAGXjneA)
+
+
+      Or if you need more information, reach out to us via
+      [industry@powercoders.org](industry@powercoders.org)
+  - header: 'I am a refugees, can I apply?'
+    text: "Yes, you can apply if you fulfill the following criteria:\n\n1. You are a refugee living in Turkey\r\n2. You are facing barriers to entering the IT job market (and can’t access similar programs)\r\n3. You are 18-55 years old"
 ---
 
