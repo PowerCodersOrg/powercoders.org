@@ -1,7 +1,7 @@
 ---
-title: Remote Internships
+title: Digital School for refugees
 image: /img/header_lausanne.jpg
-section_title: Remote Internships
+section_title: Digital School for Refugees
 text: >-
   **The IT industry is growing rapidly and the need for talented people is too.
   We will train refugees on the technologies companies need and with companies'
