@@ -16,8 +16,8 @@ get_involved:
 
 
     We believe in promoting equal opportunities for diverse talents in the IT
-    industry. We are a non-profit association and our program ist self-funded
-    and free of charge for the selected participants. 
+    industry. We are a non-profit association and our program is self-funded and
+    free of charge for the selected participants. 
 
 
     # Our impact
@@ -31,7 +31,7 @@ program:
     header: Participant
     link: /participant
     link_text: more
-    text: Are you a refugee eager to find your way into the IT industry?
+    text: Are you a refugee or migrant eager to find your way into the IT industry?
   - fade_in: Right
     header: Company
     link: /company
