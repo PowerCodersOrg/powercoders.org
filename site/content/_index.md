@@ -31,7 +31,7 @@ program:
     header: Participant
     link: /participant
     link_text: more
-    text: Are you a refugee eager to find your way into the IT industry?
+    text: Are you a refugee or migrant eager to find your way into the IT industry?
   - fade_in: Right
     header: Company
     link: /company
