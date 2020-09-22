@@ -24,7 +24,7 @@ text: >-
   **CAREER DAY** 
 
 
-  The Career Day is the day when the companies meet the participant for speed
+  The Career Day is the day when the companies meet the participants for speed
   interviews (5 minutes per participant) and decide whom they are interested in
   to invite for interviews the week after. It is an efficient way for you to get
   a personal impression of the candidates.
