@@ -1,7 +1,7 @@
 ---
 title: Success Story Mohammad Al Mestarihi
 image: /img/mohammad_header.jpg
-section_title: Mohammad
+section_title: Success Story Mohammad Al Mestarihi
 text: >-
   **Following his Calling**
 
