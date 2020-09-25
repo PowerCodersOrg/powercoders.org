@@ -12,7 +12,7 @@ text: >-
   - - -
 
 
-  **Powercoders** is expanding internationally with the support of the Swiss
+  Powercoders is expanding internationally with the support of the Swiss
   government to empower Swiss IT companies to fill their lack of IT talents
   besides creating social impact.
 
