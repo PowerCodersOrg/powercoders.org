@@ -2,7 +2,85 @@
 title: Digital School for refugees
 image: /img/header_lausanne.jpg
 section_title: Digital School for Refugees
-text: "**The IT industry is growing rapidly and the need for talented people is too. We will train refugees on the technologies companies need and with companies' help, we will be able to offer them an opportunity to get back on their career paths in the countries they are living in without moving to Switzerland.**\n\n- - -\n\nPowercoders is expanding internationally with the support of the Swiss government to empower Swiss IT companies to fill their lack of IT talents besides creating social impact.\n\nIn a pilot project, we have teamed up with an organization called Kodluyoruz. Together we will be offering in Turkey talented refugees intensive training on the technologies you need followed by remote internships to sharpen their skills with industry experience. This means our participants stay in Turkey and work for you remotely.\n\n**<div class=\"float-container\">**\n\n**<div class=\"float-child\">**\n\n**<h5>Are you a company in IT or have an IT department? Are you looking for talented people? and willing to invest in human capital and support a great cause?</h5>**\n\nWe need your support by offering remote internships (6 to 12 months) to our participants. The conditions are flexible and can be defined together.\n\n**The process:**\n\n* Sign up below to be part of this impactful journey\n* Receive the candidates' CVs and invite them for interviews\n* Decide to whom you would like to offer internships\n\n<a href=\"https://forms.gle/s6TuV1jtTbAGXjneA\" class=\"btn waves-effect waves-light pwc-red\">Sign Up</a>\n\nIf you have any questions or need more details, don't hesitate to reach out to us via <a href = \"mailto: hussam.allaham@powercoders.org\">Send Email</a>\n\n<br>\n\n</div>\n\n<div class=\"float-child\">\n\n**<h5>Are you a refugee and looking to restart your career life?</h5>**\n\nYou can apply to any bootcamp at Kodluyoruz listed [here](https://www.kodluyoruz.org/bootcamp/). But if you are not interested in these current openings, you can fill in the pre-application form [here ](https://docs.google.com/forms/d/e/1FAIpQLSc3GSHoUCRgJdc-VMfXXpM0mwGrrsE6_Rk3JaIi7_Z-zES7YA/viewform)to convey your interest.\r\n\n</div>\n\n</div>\n\n## Partner\n\n<div>\n\n<h4>Funding Partner</h4>\n\n<a href=\"/\"><img src=\"https://powercoders.org/img/_0001_eidgenosschenschaft.png\"></a>\n\n</div>\n\n<div>\n\n<h4>Partner</h4>\n\n<a href=\"/\"><img src=\"https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png\"></a>\n\n</div>"
+text: >-
+  **The IT industry is growing rapidly and the need for talented people is too.
+  We will train refugees on the technologies companies need and with companies'
+  help, we will be able to offer them an opportunity to get back on their career
+  paths in the countries they are living in without moving to Switzerland.**
+
+
+  - - -
+
+
+  Powercoders is expanding internationally with the support of the Swiss
+  government to empower Swiss IT companies to fill their lack of IT talents
+  besides creating social impact.
+
+
+  In a pilot project, we have teamed up with an organization called Kodluyoruz.
+  Together we will be offering in Turkey talented refugees intensive training on
+  the technologies you need followed by remote internships to sharpen their
+  skills with industry experience. This means our participants stay in Turkey
+  and work for you remotely.
+
+
+  **<h5>Are you a company in IT or have an IT department? Are you looking for
+  talented people? and willing to invest in human capital and support a great
+  cause?</h5>**
+
+
+  We need your support by offering remote internships (6 to 12 months) to our
+  participants. The conditions are flexible and can be defined together.
+
+
+  **The process:**
+
+
+  * Sign up below to be part of this impactful journey
+
+  * Receive the candidates' CVs and invite them for interviews
+
+  * Decide to whom you would like to offer internships
+
+
+  <a href="https://forms.gle/s6TuV1jtTbAGXjneA" class="btn waves-effect
+  waves-light pwc-red">Sign Up</a>
+
+
+  If you have any questions or need more details, don't hesitate to reach out to
+  us via <a href = "mailto: hussam.allaham@powercoders.org">Send Email</a>
+
+
+  <br>
+
+
+  ## Partner
+
+
+  <div>
+
+
+  <h4>Funding Partner</h4>
+
+
+  <a href="/"><img
+  src="https://powercoders.org/img/_0001_eidgenosschenschaft.png"></a>
+
+
+  </div>
+
+
+  <div>
+
+
+  <h4>Partner</h4>
+
+
+  <a href="/"><img
+  src="https://cdn.sanity.io/images/9kdepi1d/production/65c832d202a503b15d99e628f4313782f3ef50db-300x62.png"></a>
+
+
+  </div>
 apply_as: []
 team:
   header: Team
