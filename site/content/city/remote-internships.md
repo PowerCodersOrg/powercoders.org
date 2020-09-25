@@ -24,6 +24,12 @@ text: >-
   and work for you remotely.
 
 
+  **<div class="float-container">**
+
+
+  **<div class="float-child">**
+
+
   **<h5>Are you a company in IT or have an IT department? Are you looking for
   talented people? and willing to invest in human capital and support a great
   cause?</h5>**
@@ -52,6 +58,24 @@ text: >-
 
 
   <br>
+
+
+  </div>
+
+
+  <div class="float-child">
+
+
+  **<h5>Are you a refugee and looking to restart your career life?</h5>**
+
+
+  Apply to one of Kodluyoruz ootcamps and 
+
+
+  </div>
+
+
+  </div>
 
 
   ## Partner
@@ -152,6 +176,6 @@ faqs:
       interested in these current openings, you can fill in the pre-application
       form [here
       ](https://docs.google.com/forms/d/e/1FAIpQLSc3GSHoUCRgJdc-VMfXXpM0mwGrrsE6_Rk3JaIi7_Z-zES7YA/viewform)to
-      convey their interest.
+      convey your interest.
 ---
 
