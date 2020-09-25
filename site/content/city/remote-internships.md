@@ -124,11 +124,9 @@ faqs:
   - header: 'I am a company, how can I support?'
     text: >-
       If you are an IT company or you have an IT department, you can support us
-      by offering our participants internship (remote) and support them to
-      sharpen their skills and get ready for a job.  This is a win-win You
-      invest in the human capital and eventually hire this person.
-
-
+      by offering our participants internships (remotely) and support them to
+      sharpen their skills and get ready for a job.  This is a win-win, you
+      invest in the human capital and eventually hire a talented person.
 
 
       Apply on this link: [SIGN UP](https://forms.gle/s6TuV1jtTbAGXjneA)
