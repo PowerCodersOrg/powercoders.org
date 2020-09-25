@@ -24,7 +24,7 @@ text: >-
   and work for you remotely.
 
 
-  **<h4>Are you a company in IT or have an IT department? Are you looking for
+  **<h5>Are you a company in IT or have an IT department? Are you looking for
   talented people? and willing to invest in human capital and support a great
   cause?</h5>**
 
