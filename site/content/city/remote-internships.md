@@ -24,6 +24,11 @@ text: >-
   and work for you remotely.
 
 
+  **<h4>Are you a company in IT or have an IT department? Are you looking for
+  talented people? and willing to invest in human capital and support a great
+  cause?</h5>**
+
+
   We need your support by offering remote internships (6 to 12 months) to our
   participants. The conditions are flexible and can be defined together.
 
