@@ -16,7 +16,7 @@ media:
           - link: 'https://www.sko-leader.ch/artikel/bettina-hirsig'
             link_text: 'Kopf bis Fusss – Powercoders CEO Bettina Hirsig '
             title: >-
-              Magazine "Leader" from SKO/ASC, Swiss Manager Association
+              Magazine "Leader" from the Swiss Manager Association SKO/ASC
               (magazine / DE, FR)
       - date: 25.08.2020
         links:
