@@ -11,6 +11,13 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 15.09.2020
+        links:
+          - link: 'https://www.sko-leader.ch/artikel/bettina-hirsig'
+            link_text: Kopf bis Fusss
+            title: >-
+              Magazine "Leader" from SKO, Swiss Manager Association (magazine /
+              DE, FR)
       - date: 25.08.2020
         links:
           - link: >-
