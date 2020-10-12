@@ -3,8 +3,8 @@ title: Press
 image: /img/header_press.jpg
 section_title: What the Press Says About Us
 text: >-
-  **If you are a media person please get in touch with us:** [Contact
-  press](press@powercoders.org)
+  **If you are a media person please get in touch with us:**
+  press@powercoders.org
 
 
   **Download** [press
