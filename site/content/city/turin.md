@@ -6,10 +6,24 @@ text: >-
   The Powercoders program in Milan, Italy is run by Le Wagon Italy. 
 
 
-  **MILAN BATCH 2020** \
+  **MILAN BATCH WINTER/SPRING 2021** \
 
   If you would like to get involved as a volunteer, student or company, please
-  apply below for our current program!
+  apply below for our current program! 
+
+
+  **Applications**: will be accepted from September to end of November 2020. \
+
+  **Bootcamp**: 18 January - 19 March 2021 (Interviews, Testing & Prep in
+  November/December 2020)\
+
+  **Career Day**: March 2021\
+
+  **Internships**: 6 months, starting in May/June 2021
+
+
+  Based on the progression of the covid-19 crisis, the courses may be held
+  partially or completely remotely.
 
 
   - - -
@@ -21,7 +35,7 @@ text: >-
   _Powercoders a Milano sarà gestito da Le Wagon Italia._ 
 
 
-  **_PROGRAMMA MILANO 2020_** \
+  _**PROGRAMMA MILANO INVERNO/PRIMAVERA 2021**_ \
 
   _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
@@ -36,9 +50,8 @@ text: >-
 
   **AS A PARTICIPANT**\
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLScK4SwVfEIYVNwgdlrvAMNeIeYncIALT_PH1ClL4VYsEpGwxw/viewform"
-  class="btn waves-effect waves-light pwc-red">APPLY</a>\
+  <a href="https://forms.gle/wzTrzTo6MUsz1hft6" class="btn waves-effect
+  waves-light pwc-red">APPLY</a>\
 
   [More information](/participant/)
 
@@ -46,7 +59,7 @@ text: >-
   **AS A COMPANY**\
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdaOR8CzmyJvs-7T4H7JoFgOjskZ9TkK98CunYcwnmYmQ_2HQ/viewform"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSfJwFmEIGAG44oSfO04gA60yq9RwoI3VmvWI2fXefy1fAMRqw/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/company/)
@@ -69,16 +82,12 @@ text: >-
 
   [More information](/volunteer/)
 team:
-  header: TEAM TURIN
+  header: TEAM
   members:
     - description: CEO Powercoders International
       email: priya.burci@powercoders.org
       image: /img/photo-priya-profile-powercoders_600x600.jpg
       name: Priya Burci
-    - description: Teaching Lead
-      email: antony.mistretta@powercoders.org
-      image: /img/matteo-antony-mistretta.jpg
-      name: Matteo Antony Mistretta
     - description: Social Lead
       email: stella.gianfreda@powercoders.org
       image: /img/stella_gianfreda.jpeg
