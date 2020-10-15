@@ -552,12 +552,6 @@ team:
       name: Sharol Süess-O’Reggio
       visible:
         - community
-    - description: Teaching Lead / Powerhouse Lausanne
-      email: sorin.paun@powercoders.org
-      image: /img/sorin_paun_02.jpg
-      name: Sorin Paun
-      visible:
-        - team_lausanne
     - description: Coach / Bern
       image: /img/stefan_schaermeli.jpg
       name: Stefan Schärmeli
