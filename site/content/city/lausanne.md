@@ -61,9 +61,5 @@ team:
       email: coline.sauzet@powercoders.org
       image: /img/coline_sauzet.jpg
       name: Coline Sauzet
-    - description: Teaching Lead
-      email: sorin.paun@powercoders.org
-      image: /img/sorin_paun-1-.jpg
-      name: Sorin Paun
 ---
 
