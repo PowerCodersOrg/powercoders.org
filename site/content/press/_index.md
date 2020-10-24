@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 20.10.2020
+        links:
+          - link: >-
+              https://srf.ch/play/tv/redirect/detail/928bd28d-15f8-4467-9eca-de2358676ca7
+            link_text: Erfolgreiche Integration von Flüchtlingen
+            title: SRF (national TV / Deutsch)
       - date: 15.09.2020
         links:
           - link: 'https://www.sko-leader.ch/artikel/bettina-hirsig'
