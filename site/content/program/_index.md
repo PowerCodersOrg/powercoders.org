@@ -27,7 +27,9 @@ city_program:
       fade_in: Left
       header: Milan
       link: /city/turin/
-      text: Powercoders Italy accept applications on a ongoing base.
+      text: >-
+        The next program in Italy will start in January 2021 in Milan.
+        Applications will be accepted until end of November 2020.
 past_program:
   header: Past Programs
   items:
