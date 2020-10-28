@@ -120,8 +120,8 @@ programme:
     waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
 
 
-    **For social workers:** download the
-    [factsheet(DE)](https://drive.google.com/file/d/1RMy4UQtutMpinHFW6QLRmzN5h0omne3w/view?usp=sharing),
+    **For social workers:** download the [factsheet
+    (DE)](https://drive.google.com/file/d/1RMy4UQtutMpinHFW6QLRmzN5h0omne3w/view?usp=sharing),
     [factsheet
     (FR)](https://drive.google.com/file/d/1GZqXGA87a1wtI28OPADNsivS3bbuGNPb/view?usp=sharing)
 
