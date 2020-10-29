@@ -6,8 +6,8 @@ text: >-
   Are you an IT company or do you have an IT department in the Deutschschweiz? \
 
   We are looking for companies who would be willing to potentially offer
-  internships or apprenticeships for our Powercoders graduates from January 2021
-  on. 
+  internships or apprenticeships for our Powercoders graduates from
+  August/September 2021 on. 
 
 
   **Are you interested? Then join our next Career Day and get an idea of our IT
@@ -31,26 +31,23 @@ text: >-
 
 
   **What:** Career Day Powercoders (meet 18 – 22 students who like to start
-  their internships in January 2021)
+  their internships in August/September 2021)
 
 
-  **When:** Tuesday, **20th October 2020**, 2 slots available: 9:00 am till
-  13:30 pm or 12:00 till 16:30 pm.
+  **When:** End of **Mai 2021** (date will be defined), 2 slots available: 9:00
+  am till 13:30 pm or 12:00 till 16:30 pm.
 
 
-  **Where:** Conference and Congress Centre [SIX
-  ConventionPoint](https://www.conventionpoint.ch/de/home.html),
-  Pfingstweidstrasse 110, 8005 Zürich,
-  [map](https://www.google.com/maps/place/SIX+ConventionPoint/@47.3914045,8.5069716,15z/data=!4m2!3m1!1s0x0:0x27f43b055c0afb32?sa=X&ved=2ahUKEwioidyemt7rAhUNtYsKHSLAAAYQ_BIwCnoECBcQCA)
+  **Where:** tbd
 
 
   **Program:**\
 
 
-  1. Receive all the CVs mid-October. \
+  1. Receive all the CVs mid-Mai 2021. \
 
-  2. Join the Career Day on the 20th of October either morning or afternoon and
-  pick your top candidates. \
+  2. Join the Career Day either morning or afternoon and pick your top
+  candidates. \
 
   3. Invite them for an interview the week after. \
 
