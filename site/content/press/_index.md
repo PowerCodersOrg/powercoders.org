@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 30.10.2020
+        links:
+          - link: >-
+              https://www.srf.ch/play/radio/trend/audio/wie-asylsuchende-in-den-arbeitsmarkt-integrieren?id=a06cac23-a710-42e7-9e33-5a02893690f2
+            link_text: Wie Asylsuchende in den Arbeitsmarkt integrieren?
+            title: 'Wirtschaftsmagazin "Trend", Radio SRF (national radio / German)'
       - date: 20.10.2020
         links:
           - link: >-
