@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 01.11.2020
+        links:
+          - link: >-
+              https://www.20min.ch/story/was-mir-passiert-ist-koennte-jedem-passieren-692689820116
+            link_text: '«Was mir passiert ist, könnte jedem passieren»'
+            title: 20 Minuten (News magazine / German)
       - date: 30.10.2020
         links:
           - link: >-
