@@ -16,7 +16,7 @@ media:
           - link: >-
               https://www.20min.ch/story/was-mir-passiert-ist-koennte-jedem-passieren-692689820116
             link_text: '«Was mir passiert ist, könnte jedem passieren»'
-            title: 20 Minuten (News magazine / German)
+            title: 20 Minuten (online news / German)
       - date: 30.10.2020
         links:
           - link: >-
