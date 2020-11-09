@@ -86,7 +86,7 @@ collections:
               - label: Fade In Animation
                 name: fade_in
                 widget: select
-                options: ["Left", "Right", "Up", "Down"]
+                options: [ "Left", "Right", "Up", "Down" ]
           - label: Teaser Image 2
             name: teaser_image2
             widget: object
@@ -163,13 +163,13 @@ collections:
                     multiple: true
                     required: false
                     options:
-                      - {label: "Team Zurich", value: "team_zurich"}
-                      - {label: "Team Lausanne", value: "team_lausanne"}
-                      - {label: "Team Turin", value: "team_turin"}
-                      - {label: "Office", value: "office_powercoders"}
-                      - {label: "Board", value: "board_powercoders"}
-                      - {label: "Participants", value: "participants"}
-                      - {label: "Community", value: "community"}
+                      - { label: "Team Zurich", value: "team_zurich" }
+                      - { label: "Team Lausanne", value: "team_lausanne" }
+                      - { label: "Team Turin", value: "team_turin" }
+                      - { label: "Office", value: "office_powercoders" }
+                      - { label: "Board", value: "board_powercoders" }
+                      - { label: "Participants", value: "participants" }
+                      - { label: "Community", value: "community" }
       - file: site/content/alumni/_index.md
         label: Alumni
         name: alumni
@@ -268,7 +268,7 @@ collections:
               - label: Align
                 name: align
                 widget: select
-                options: ["left", "right"]
+                options: [ "left", "right" ]
 
       - file: site/content/press/_index.md
         label: Press
@@ -390,7 +390,7 @@ collections:
                   - label: Fade In
                     name: fade_in
                     widget: select
-                    options: ["Left", "Right", "Up", "Down"]
+                    options: [ "Left", "Right", "Up", "Down" ]
                   - label: Call to action
                     name: call_to_action
                     widget: string
@@ -574,24 +574,24 @@ collections:
         name: header_icon
         widget: select
         options:
-          - {label: "Graduation Party", value: "fa-graduation-cap"}
-          - {label: "Handshake", value: "fa-handshake"}
-          - {label: "Launch Party", value: "fa-rocket"}
-          - {label: "People", value: "fa-users"}
-          - {label: "Video", value: "fa-video"}
+          - { label: "Graduation Party", value: "fa-graduation-cap" }
+          - { label: "Handshake", value: "fa-handshake" }
+          - { label: "Launch Party", value: "fa-rocket" }
+          - { label: "People", value: "fa-users" }
+          - { label: "Video", value: "fa-video" }
         hint: "Choose an icon for this event"
       - label: Audience
         name: audience
         widget: select
         multiple: true
-        options: ["home", "student", "volunteer", "company"]
+        options: [ "home", "student", "volunteer", "company" ]
         hint: "The event will be shown on these pages. You must choose at least one"
       - label: City
         name: city
         widget: select
         multiple: true
         required: false
-        options: ["lausanne", "zurich"]
+        options: [ "lausanne", "zurich" ]
         hint: "The event will be shown on the home page, and the pages for all the cities you choose here"
       - label: Text
         name: text
@@ -648,35 +648,34 @@ collections:
         name: type
         widget: select
         options:
-          - {label: "Partner", value: "partner"}
-          - {label: "Community Partner", value: "community_partner"}
-          - {label: "Internship Member", value: "company_member"}
-          - {label: "Implementation Partner", value: "implementation_partner"}
+          - { label: "Partner", value: "partner" }
+          - { label: "Community Partner", value: "community_partner" }
+          - { label: "Internship Member", value: "company_member" }
+          - { label: "Implementation Partner", value: "implementation_partner" }
         hint: "Choose the type of partner"
       - label: City
         name: city
         required: false
         widget: select
         multiple: true
-        options: ["lausanne", "zurich", "turin", "home"]
+        options: [ "basel", "bern", "career-day-zurich", "company", "volunteer", "lausanne", "zurich", "turin", "home" ]
 
   - name: alumni
     label: "Alumni"
-    format: json
-    folder: "site/data/alumni"
+    folder: "site/content/alumni"
     create: true
     fields:
       - label: Name
         name: title
         widget: string
         hint: Must be unique across all alumni, use "Display name"
-      - label: "Display Name"
-        name: display_name
-        widget: string
-        required: false
       - label: Image
         name: image
         widget: image
+      - label: HeaderImage
+        name: header_image
+        widget: image
+        required: false
       - label: Background
         name: background
         widget: string
@@ -712,7 +711,7 @@ collections:
             name: search_exclude
             widget: select
             default: "no"
-            options: ["yes", "no"]
+            options: [ "yes", "no" ]
 
       - file: site/content/terms-and-conditions/_index.md
         label: Terms and Conditions
@@ -734,4 +733,4 @@ collections:
             name: search_exclude
             widget: select
             default: "no"
-            options: ["yes", "no"]
+            options: [ "yes", "no" ]

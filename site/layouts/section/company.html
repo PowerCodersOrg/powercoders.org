@@ -5,75 +5,109 @@
 {{ partial "paragraph" (dict "paragraph" (dict "content" .Params.text)) }}
 
 <div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>How you can support us</h2>
+    <div class="row">
+        <div class="col s12">
+            <h2>How you can support us</h2>
+        </div>
     </div>
-  </div>
 
-  <div class="row">
-    <div class="col s12">
-      <ul class="collapsible">
-        {{ range $el := .Params.support_as }}
-          <li>
-            <div id="{{ $el.header }}" class="collapsible-header">
-              <h6>{{ $el.header }}</h6>
-            </div>
+    <div class="row">
+        <div class="col s12">
+            <ul class="collapsible">
+                {{ range $el := .Params.support_as }}
+                <li>
+                    <div id="{{ $el.header }}" class="collapsible-header">
+                        <h6>{{ $el.header }}</h6>
+                    </div>
 
-            <div class="collapsible-body markdown">
-              {{ partial "markdownify-block" $el.text }}
-            </div>
-          </li>
-        {{ end }}
-      </ul>
+                    <div class="collapsible-body markdown">
+                        {{ partial "markdownify-block" $el.text }}
+                    </div>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
     </div>
-  </div>
 </div>
 
 <div class="container section">
-  <div class="row">
-    <div class="col s12">
-      <h2>{{ .Params.programme.header}}</h2>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col s12">
-      <img src="{{ .Params.programme.image }}" class="responsive-img">
-    </div>
-  </div>
-
-  {{ if .Params.programme.text}}
     <div class="row">
-      <div class="col s12">
-        {{ partial "markdownify-block" .Params.programme.text }}
-      </div>
+        <div class="col s12">
+            <h2>{{ .Params.programme.header}}</h2>
+        </div>
     </div>
-  {{ end }}
+
+    <div class="row">
+        <div class="col s12">
+            <img src="{{ .Params.programme.image }}" class="responsive-img">
+        </div>
+    </div>
+
+    {{ if .Params.programme.text}}
+    <div class="row">
+        <div class="col s12">
+            {{ partial "markdownify-block" .Params.programme.text }}
+        </div>
+    </div>
+    {{ end }}
+</div>
+
+<div class="container section">
+    <div class="row">
+        <div class="col s12">
+            <h2>WHAT COMPANIES SAY ABOUT US</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s12 m12 l6">
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/ZEqc5ccly40" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            <h6>Adobe</h6>
+        </div>
+        <div class="col s12 m12 l6">
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/hFr8UORkMx0" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            <h6>Divio</h6>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s12 m12 l6">
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/VGmarIoEmyw" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            <h6>UBS</h6>
+        </div>
+        <div class="col s12 m12 l6">
+            <iframe width="280" height="158" src="https://www.youtube.com/embed/KJcg7MBgYik" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            <h6>Evolusys</h6>
+        </div>
+    </div>
 </div>
 
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}
-  {{ if (and (in $event.audience "company") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
-    {{ $activeEvents = $activeEvents | append $event }}
-  {{ end }}
+{{ if (and (in $event.audience "company") (or (eq $event.remove_after "") (lt now (time $event.remove_after)))) }}
+{{ $activeEvents = $activeEvents | append $event }}
+{{ end }}
 {{ end }}
 
 {{ partial "events" $activeEvents }}
 
-<!-- TODO: This should probably be turned in to a partial that creates the whole
-     section, and takes parameters for the city and the types -->
-<!--<div class="container section">-->
-<!--  <div class="row">-->
-<!--    <div class="col s12">-->
-<!--      <h2>Partner</h2>-->
-<!--    </div>-->
-<!--  </div>-->
 
-<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "partner" "title" "Funding Partner")}}-->
-<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "company_member" "title" "Internship Partner")}}-->
-<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "community_partner" "title" "Community Partner")}}-->
-<!--  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" $.Page.File.BaseFileName "type" "implementation_partner" "title" "Implementation Partner")}}-->
-<!--</div>-->
+<div class="container section">
+    <div class="row">
+        <div class="col s12">
+            <h2>Partner</h2>
+        </div>
+    </div>
 
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "company" "type" "partner" "title" "Funding Partner")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "company" "type" "company_member" "title" "Internship Partner")}}
+    {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "company" "type" "community_partner" "title" "Community Partner")}}
+</div>
 {{ end }}
+

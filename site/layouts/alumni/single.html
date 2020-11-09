@@ -1,0 +1,9 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.header_image "title" .Title "section_title" (printf "Success Story %s" .Params.title)) }}
+
+{{ if .Params.story }}
+{{ partial "paragraph" (dict "paragraph" (dict "content" .Params.story)) }}
+{{end}}
+
+{{end}}

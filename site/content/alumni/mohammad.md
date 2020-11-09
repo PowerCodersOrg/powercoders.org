@@ -1,8 +1,8 @@
 ---
-title: Success Story Mohammad Al Mestarihi
-image: /img/mohammad_header.jpg
-section_title: Success Story Mohammad Al Mestarihi
-text: >-
+title: Mohammad Al Mestarihi
+image: /img/mohammad.jpg
+header_image: /img/mohammad_header.jpg
+story: >-
   **Following his Calling**
 
 

@@ -61,4 +61,16 @@
 
 {{ partial "events" $activeEvents }}
 
+<div class="container section">
+  <div class="row">
+    <div class="col s12">
+      <h2>Partner</h2>
+    </div>
+  </div>
+
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "volunteer" "type" "partner" "title" "Funding Partner")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "volunteer" "type" "company_member" "title" "Internship Partner")}}
+  {{ partial "partner" (dict "partners" $.Site.Data.partners "city" "volunteer" "type" "community_partner" "title" "Community Partner")}}
+</div>
 {{ end }}
+

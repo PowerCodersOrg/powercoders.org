@@ -1,8 +1,8 @@
 ---
-title: Success Story Sumanthini Majutharan
+title: Sumanthini Majutharan
 image: /img/sumanthini.jpg
-section_title: Success Story Sumanthini Majutharan
-text: >-
+header_image: /img/sumanthini_header.jpg
+story: >-
   **SUMANTHINI'S STORY OR HOW FAR YOU CAN GET WITH HARD WORK AND DEDICATION**
 
 

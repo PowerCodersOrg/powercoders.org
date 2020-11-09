@@ -1,8 +1,8 @@
 ---
-title: Success Story Osman Mohammed Osman
-image: /img/osman_header.jpg
-section_title: Success Story Osman Mohammed Osman
-text: >-
+title: Osman Mohammed Osman
+image: /img/osman.jpg
+header_image: /img/osman_header.jpg
+story: >-
   **OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
 
 
