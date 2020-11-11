@@ -62,12 +62,12 @@ media:
               Une association vaudoise propose une formation en informatique aux
               migrants
             title: RTS Suisse (national TV / French)
-      - date: 30.06.2020
+      - date: 28.06.2020
         links:
           - link: >-
               https://www.swissbanking.org/en/services/insight/insight-2.20/refugees-2013-the-new-up-and-coming-talents-in-the-it-industry?set_language=en
             link_text: Refugees – the new up-and-coming talents in the IT industry
-            title: Swiss Banking "Insight" (online magazine / EN DE FR)
+            title: SwissBanking "Insight" (online magazine / EN DE FR)
       - date: 18.06.2020
         links:
           - link: >-
