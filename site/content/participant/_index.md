@@ -148,11 +148,19 @@ programme:
 
     * Udemy: [Web Development By Doing - HTML / CSS From
     Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/)
+    (1 hour)
 
     * Freecodecamp: [Various Courses](http://freecodecamp.com/)
 
     * Coursera: [HTML, CSS, and Javascript for Web
     Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+    * Chris Dixon : [Code Your First
+    Website](https://chrisdixon.io/p/code-your-first-website-using-html-css-project-learning)
+    (4 hours)
+
+    * Scrimba: [HTML & CSS Crash Course](<https://scrimba.com/learn/htmlcss/
+    (4hrs)>) (4 hours)
 
     * Various mobile apps (e.g. [SoloLearn](https://www.sololearn.com/))
 
