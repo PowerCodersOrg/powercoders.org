@@ -34,9 +34,7 @@ text: >-
   with a refugee status. 
 
 
-  We encourage women to apply for our program. Our aim is that women make one
-  third of our participants. (Reasons: Diversity helps teams. And companies are
-  looking for female talents.)
+  We encourage women to apply for our program. 
 
 
   **Apply to the program closest to your place of residence.** \
@@ -84,7 +82,7 @@ programme:
 
     * Weekly social & business skills curriculum during the IT bootcamp
 
-    * Chance to get various interviews for 6-12 month internship
+    * Chance to get various interviews for a 6-12 month internship
 
     * Job coach accompanying you during your internship
 
@@ -148,11 +146,19 @@ programme:
 
     * Udemy: [Web Development By Doing - HTML / CSS From
     Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/)
+    (1 hour)
 
     * Freecodecamp: [Various Courses](http://freecodecamp.com/)
 
     * Coursera: [HTML, CSS, and Javascript for Web
     Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+    * Chris Dixon : [Code Your First
+    Website](https://chrisdixon.io/p/code-your-first-website-using-html-css-project-learning)
+    (4 hours)
+
+    * Scrimba: [HTML & CSS Crash Course](<https://scrimba.com/learn/htmlcss/
+    (4hrs)>) (4 hours)
 
     * Various mobile apps (e.g. [SoloLearn](https://www.sololearn.com/))
 
