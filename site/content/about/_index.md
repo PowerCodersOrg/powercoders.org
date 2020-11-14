@@ -134,7 +134,7 @@ team:
       name: Christian Zosel
       visible:
         - community
-    - description: Public Relations
+    - description: Public Relations & Industry Support
       email: christina.graeni@powercoders.org
       image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
