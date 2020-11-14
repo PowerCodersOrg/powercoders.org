@@ -87,5 +87,9 @@ team:
       email: hussam.allaham@powercoders.org
       image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
+    - description: Industry Support
+      email: christina.graeni@powercoders.org
+      image: /img/graeni_christina.jpg
+      name: Christina Gräni
 ---
 
