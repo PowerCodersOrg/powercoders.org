@@ -2,9 +2,10 @@
   "title": "Industry UNHCR",
   "image": "/img/industry_unhcr.png",
   "link": "https://powercoders.org/",
-  "type": "company_member",
+  "type": "community_partner",
   "city": [
     "lausanne",
-    "home"
+    "home",
+    "zurich"
   ]
 }
