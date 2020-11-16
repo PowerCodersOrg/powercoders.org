@@ -2,6 +2,7 @@
 title: Mohammad Al Mestarihi
 image: /img/mohammad.jpg
 header_image: /img/mohammad_header.jpg
+background: 'From Syria, 30 years old, now UI/UX Designer at Deep Impact. '
 story: >-
   **Following his Calling**
 
@@ -58,7 +59,5 @@ story: >-
   over the years. But without Powercoders’ network I don’t think I would have
   been able to take the step into the IT industry in Switzerland, no matter how
   much experience I had.”
-team:
-  header: POWERCODERS DEUTSCHSCHWEIZ
 ---
 
