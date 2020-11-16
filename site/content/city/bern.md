@@ -33,6 +33,16 @@ text: >-
   **Class Istanbul 2019**
 
   ![Class Istanbul 2019](/img/20190628_122550.jpg "Class Istanbul 2019")
+
+
+  **Class Zurich 2019**
+
+  ![Class Zurich 2019](/img/graduation_zurich2019.jpg "Class Zurich 2019")
+
+
+  **Class Zurich 2020**
+
+  ![Class Zurich 2020](/img/graduation_zrh-2020-1.jpg "Class Zurich 2020")
 team:
   header: Team
   members: []
