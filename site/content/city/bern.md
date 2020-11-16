@@ -1,40 +1,22 @@
 ---
-title: Bern
-section_title: Bern Program
+title: Classes 2017 – 2020
+section_title: Classes 2017 – 2020
 text: >-
-  ## 001 Bern
+  From 2017 to 2020 we had over 190 participants who successfully completed the
+  Powercoders programm. For about 90% we found an internship (6–12 months)
+  afterwards and about 60% got a permanent job or an apprenticeship. 
 
 
-  The Powercoders team in Bern consisted of Sunita Asnani, Christian Hirsig and
-  Marco Jakob. Out of 150 applications received, they selected 15 participants
-  who proceeded to start our twelve week coding bootcamp in January 2017. The
-  participants graduated in April and every participant started an internships.
-  In September, Farid Saberi was the first participant to receive a full-time
-  job, and was followed by many more We thank Migros Kulturprozent, Raiffeisen
-  Bank, Effinger, Impact Hub Bern and over 50 volunteers for their great
-  support.
 
+  **Class Bern 2017** 
 
   ![PowerCoders Bern](/img/001-graduation.jpg)
 
 
-  Graduation: 07. April 2017
 
+  **Class Basel 2018** 
 
-  We keep track on how our participants are doing. Here a summary:
-
-
-  * 15 participants
-
-  * 7 IT-job
-
-  * 3 IT-apprenticeship
-
-  * 2 IT-studies
-
-  * 1 internship
-
-  * 2 drop-outs
+  ![Class Basel 2018](/img/about_graduation.png "Class Basel 2018")
 team:
   header: Team Bern
   members:
