@@ -2,9 +2,7 @@
 title: Izzatollah Amani
 image: /img/izzatollah_amani.jpg
 header_image: /img/izzatollah_amani_header.jpg
-background: >-
-  From Afghanistan, 29 years old, now Junior Software Engineer at Netcentric, a
-  Cognizant company.
+background: 'From Afghanistan, 29 years old, now Junior Software Engineer at Netcentric.'
 quote: >-
   Every day when I left my house, I was never sure if I will get back in the
   evening.
