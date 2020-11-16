@@ -59,7 +59,7 @@ teaser_image2:
   video_id: kILDP3NmA6A
 email_signup:
   button_text: 'SIGN UP NOW '
-  header: Add impact to your mailbox
+  header: Add impact to your mailbox – receive our monthly newsletter
   link: >-
     https://powercoders.us14.list-manage.com/subscribe?u=2a42a364dd3183e63617d355b&id=dd4d5d82f8
   text: Stay updated about our programs and events
