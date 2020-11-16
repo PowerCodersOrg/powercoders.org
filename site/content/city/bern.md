@@ -42,7 +42,6 @@ text: >-
 
   **Class Zurich 2020**
 
-
   ![Class Zurich 2020](/img/graduation_zrh-2020-1.jpg "Class Zurich 2020")
 team:
   header: Team
