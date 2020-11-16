@@ -6,7 +6,7 @@ text: "Powercoders believes in promoting equal opportunities for diverse talents
 city_program:
   header: We offer the program in 2 countries
   items:
-    - call_to_action: Zurich
+    - call_to_action: More Info
       color: teal lighten-4
       fade_in: Up
       header: Switzerland
@@ -14,7 +14,7 @@ city_program:
       text: >-
         The next program in Switzerland (Zurich) will start in spring 2021.
         Applications will be accepted from December 2020 to mid-January 2021.
-    - call_to_action: Milan
+    - call_to_action: More Info
       color: teal lighten-4
       fade_in: Left
       header: Italy (Milan)
