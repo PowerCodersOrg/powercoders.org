@@ -2,6 +2,9 @@
 title: Osman Mohammed Osman
 image: /img/osman.jpg
 header_image: /img/osman_header.jpg
+background: >-
+  From Eritrea, 24 years old, now apprenticeship as computer scientist at
+  Camptocamp. 
 story: >-
   **OSMAN, WHO NEVER GAVE UP ON HIS DREAM**
 
@@ -77,7 +80,5 @@ story: >-
   Osman’s story proves his perseverance and courage. He now lives with his
   girlfriend and says he’s very happy and grateful that his dream has become
   true: to live in peace and to work in IT.
-team:
-  header: Powercoders Romandie
 ---
 
