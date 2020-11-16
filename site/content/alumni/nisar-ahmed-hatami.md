@@ -2,6 +2,7 @@
 title: Nisar Ahmed Hatami
 image: /img/hatami_nisar_ahmed.jpg
 header_image: /img/nisar_header.jpg
+background: 'From Afghanistan, now Junior Consultant at Evolusys/Bechtle. '
 story: >-
   **REGAINING TRUST IN HIMSELF AND HIS CAPABILITIES**
 
@@ -50,7 +51,5 @@ story: >-
 
 
   >
-team:
-  header: Powercoders Lausanne
 ---
 
