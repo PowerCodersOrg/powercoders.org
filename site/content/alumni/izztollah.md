@@ -3,15 +3,18 @@ title: Izzatollah Amani
 image: /img/izzatollah_amani.jpg
 header_image: /img/izzatollah_amani_header.jpg
 background: >-
-  From Afghanistan, 29 years old, now Junior Software Engineer at Cognizant and
-  student of informatics at Fachhochschule Rapperswil.
+  From Afghanistan, 29 years old, now Junior Software Engineer at Netcentric, a
+  Cognizant company.
 quote: >-
   Every day when I left my house, I was never sure if I will get back in the
   evening.
 story: >-
-  Every day when I left my house, I was never sure if I will get back in the
-  evening.” These are the words of Izzatollah Amani who was forced to flee his
-  home country Afghanistan as a 26 year-old and was able to take refuge in
+  **"Every day when I left my house, I was never sure if I will get back in the
+  evening.”** 
+
+
+  These are the words of Izzatollah Amani who was forced to flee his home
+  country Afghanistan as a 26 year-old and was able to take refuge in
   Switzerland. Here, he started a life quickly by learning German and completing
   two “Schnuppersemester” at the ETH Zurich. However, he wasn’t allowed to
   continue his studies because he couldn’t provide the required documents. 
