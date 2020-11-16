@@ -25,9 +25,9 @@ city_program:
 past_program:
   header: Past Programs
   items:
-    - header: Bern
+    - header: 'Switzerland, Turkey, Italy:'
       link: /city/bern/
-      text: Graduation 7.4.2017
+      text: 'Bern, Zürich, Lausanne, Basel, Istanbul, Turin'
     - header: Zürich
       link: /city/zuerich002/
       text: Graduation 22.12.17
