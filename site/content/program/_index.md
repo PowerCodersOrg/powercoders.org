@@ -25,20 +25,8 @@ city_program:
 past_program:
   header: Past Programs
   items:
-    - header: 'Switzerland, Turkey, Italy:'
+    - header: Graduates
       link: /city/bern/
       text: 'Bern, Zürich, Lausanne, Basel, Istanbul, Turin'
-    - header: Zürich
-      link: /city/zuerich002/
-      text: Graduation 22.12.17
-    - header: Lausanne
-      link: /city/lausanne-003/
-      text: Graduation 20.07.18
-    - header: Basel
-      link: /city/basel/
-      text: Graduation 08.03.19
-    - header: Istanbul
-      link: /city/istanbul
-      text: Graduation 01.07.19
 ---
 
