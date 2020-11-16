@@ -1,5 +1,5 @@
 ---
-title: Osman Mohammed Osman
+title: Osman Mohammed
 image: /img/osman.jpg
 header_image: /img/osman_header.jpg
 background: >-
