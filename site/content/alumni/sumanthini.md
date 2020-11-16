@@ -2,6 +2,7 @@
 title: Sumanthini Majutharan
 image: /img/sumanthini.jpg
 header_image: /img/sumanthini_header.jpg
+background: 'Computer scientist from Sri Lanka, 31 years old, now SAP developer at UBS.'
 story: >-
   **SUMANTHINI'S STORY OR HOW FAR YOU CAN GET WITH HARD WORK AND DEDICATION**
 
@@ -52,7 +53,5 @@ story: >-
   in Switzerland. I would have had to take on any job I could get, just to earn
   something.” Well, we are also very happy that it all turned out the way it
   did. As Sumanthini would say: “Everything that happens, happens for good.”
-team:
-  header: Powercoders Deutschschweiz
 ---
 
