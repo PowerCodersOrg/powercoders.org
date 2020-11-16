@@ -25,8 +25,8 @@ city_program:
 past_program:
   header: Past Programs
   items:
-    - header: Graduates
+    - header: Our Graduates
       link: /city/bern/
-      text: 'Bern, Zurich, Lausanne, Basel, Istanbul, Turin'
+      text: Bern / Zurich / Lausanne / Basel / Istanbul / Turin
 ---
 
