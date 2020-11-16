@@ -28,7 +28,8 @@ text: >-
   overwhelming amount of volunteers participating as Job Coaches or IT trainers
   and with many IT companies who were enthusiastic about offering internships.
   After this promising start, the Powercoders community kept on growing and we
-  are currently running two school centers in Switzerland and one in Italy.
+  are currently running a permanent school center in Switzerland and one in
+  Italy.
 
 
   ## **Our Impact Report 2019**
