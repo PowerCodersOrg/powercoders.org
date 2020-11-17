@@ -17,6 +17,10 @@ story: >-
   success once he joined Powercoders, and they provided the community and
   network he needed in addition to the skills he already had. Vevey is now his
   home, Evolusys his employer, and Ali sums it all up with the words “I am at
-  the happiest time in my life right now.”
+  the happiest time in my life right now.” 
+
+
+  **Interview with Ali Alshweiki and the newspaper ZEIT:** read the
+  [article](https://www.zeit.de/2019/49/flucht-syrien-ali-alshweiki-it-firma-selbststaendigkeit-rolex?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
 ---
 
