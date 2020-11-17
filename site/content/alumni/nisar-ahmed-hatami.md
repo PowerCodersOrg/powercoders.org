@@ -2,7 +2,7 @@
 title: Nisar Ahmed Hatami
 image: /img/hatami_nisar_ahmed.jpg
 header_image: /img/nisar_header.jpg
-background: 'From Afghanistan, now Junior Web Developer at Evolusys/Bechtle. '
+background: Afghanistan
 story: >-
   **REGAINING TRUST IN HIMSELF AND HIS CAPABILITIES**
 
