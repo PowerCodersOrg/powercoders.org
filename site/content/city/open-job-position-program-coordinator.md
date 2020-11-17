@@ -7,7 +7,9 @@ text: >-
 
 
   **Please apply with a short motivation email and your CV until the latest 30
-  November 2020 to:** andrina.beuggert@powercoders.org
+  November 2020 to:** \
+
+  andrina.beuggert@powercoders.org
 team:
   header: Team Zurich/Bern
 ---
