@@ -6,17 +6,12 @@ link_url: /program
 image: /img/donation_action.jpg
 intro:
   header: >-
-    ***  DECEMBER-CAMPAIGN  ***  Are you eager to support our meaningful cause
-    but are just too busy to volunteer, especially at this time of year? No
-    problem! How about donating 1 hour in the form of your hourly wage? This way
-    you sort of work for us for an hour without straining your calendar even
+    *****  DECEMBER-CAMPAIGN  *****  Are you eager to support our meaningful
+    cause but are just too busy to volunteer, especially at this time of year?
+    No problem! How about donating 1 hour in the form of your hourly wage? This
+    way you sort of work for us for an hour without straining your calendar even
     further.
-  text: >-
-    Donate 1 hour of your life! 
-
-    <a target="_blank"
-    href="https://spenden.stiftungschweiz.ch/organizations/powercoders"
-    class="btn waves-effect waves-light pwc-red">DONATE 1 HOUR</a>
+  text: Donate 1 hour of your life!
   video_id: ''
 get_involved:
   content: >-
