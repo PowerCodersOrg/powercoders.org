@@ -6,7 +6,7 @@ link_url: /program
 image: /img/donation_action.jpg
 intro:
   header: >-
-    * * *  C H R I S T M A S – C A M P A I G N  * * *  Are you eager to support
+    * * *  C H R I S T M A S  C A M P A I G N  * * *  Are you eager to support
     our meaningful cause but are just too busy to volunteer, especially at this
     time of year? No problem! How about donating 1 hour in the form of your
     hourly wage? This way you sort of work for us for an hour without straining
