@@ -3,13 +3,15 @@ title: Startpage
 subtitle: Impacting Lives by Teaching how to Code
 link_text: Our program
 link_url: /program
-image: /img/team_basel_header.jpg
+image: /img/donation_action.jpg
 intro:
   header: >-
-    Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
-    digitalization. Two problems, one solution:
-  text: A Coding Academy for Refugees & Migrants
-  video_id: IKuz7vA30sI
+    Are you eager to support our meaningful cause but are just too busy to
+    volunteer, especially at this time of year? No problem! How about donating 1
+    hour in the form of your hourly wage? This way you sort of work for us for
+    an hour without straining your calendar even further.
+  text: Donate 1 hour of your life!
+  video_id: 'https://spenden.stiftungschweiz.ch/organizations/powercoders'
 get_involved:
   content: >-
     # Our purpose
