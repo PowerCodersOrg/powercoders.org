@@ -6,7 +6,7 @@ text: >-
   ![](/img/zrh2021_jobad_programcoordinator.jpg)
 
 
-  **Please apply with a short motivation email and your CV until the latest 30
+  **Please apply with a short motivation email and your CV best before 30
   November 2020 to:** \
 
   andrina.beuggert@powercoders.org
