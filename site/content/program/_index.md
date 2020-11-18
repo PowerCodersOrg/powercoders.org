@@ -12,8 +12,8 @@ city_program:
       header: Switzerland
       link: /city/zurich
       text: >-
-        The next program in Switzerland (Zurich) will start in spring 2021.
-        Applications will be accepted from December 2020 to mid-January 2021.
+        The next program in Switzerland will start in spring 2021. Applications
+        will be accepted from December 2020 to mid-January 2021.
     - call_to_action: More Info
       color: teal lighten-4
       fade_in: Left
