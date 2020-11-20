@@ -16,7 +16,7 @@ intro:
 get_involved:
   content: >-
     <a target="_blank"
-    href="https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life"
+    href="https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life-to-powercoders"
     class="btn waves-effect waves-light pwc-red">DONATE 1 HOUR</a>
 
 
