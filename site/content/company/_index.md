@@ -11,17 +11,13 @@ text: >-
   a chance – you can help solve this challenge! 
 
 
-  **Join one of our next Career Days and meet our IT talents.** \
+  **Join our next Career Day and meet our IT talents.** \
 
   For more information about the Career Day: 
 
 
   <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY ZURICH</a> 
-
-
-  <a href="/city/career-day/" class="btn waves-effect waves-light
-  pwc-red">CAREER DAY LAUSANNE</a> 
+  pwc-red">CAREER DAY</a> 
 
 
   For information about remote internships, please checke here: \
