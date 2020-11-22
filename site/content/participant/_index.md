@@ -37,13 +37,12 @@ text: >-
   We encourage women to apply for our program. 
 
 
-  **Apply to the program closest to your place of residence.** \
+  **Apply in your country of residence.** \
 
-  <a target=”_blank”
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-  class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-  target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
-  waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>
+  <a target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a target=”_blank”
+  href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
+  class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai2020_participants.png
@@ -109,13 +108,13 @@ programme:
     when we accept applications for our spring batches 2021.
 
 
-    **Apply to the program closest to your place of residence.** \
+    **Apply in your country of residence.** \
 
-    <a target=”_blank”
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
-    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a>   
+    <a target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
+    target=”_blank”
+    href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>   
 
 
     **For social workers:** download the [factsheet
@@ -196,13 +195,13 @@ programme:
     ###### APPLY NOW
 
 
-    **Apply to the program closest to your place of residence.** \
+    **Apply in your country of residence.** \
 
-    <a target=”_blank”
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdQ6dQLH4LekAuMf1ASwZ3lmNvDOyG_TpYfZ-l9HRoOCdNiQA/viewform"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR LAUSANNE</a> <a
-    target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
-    waves-effect waves-light pwc-red">APPLY FOR ZURICH</a> 
+    <a target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+    waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
+    target=”_blank”
+    href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>   
 
 
     - - -
