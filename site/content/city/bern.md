@@ -6,8 +6,8 @@ text: >-
 
 
   From 2017 to 2020 we had over 190 participants who successfully completed the
-  Powercoders program. For about 90% we found an internship (6–12 months)
-  afterwards and about 60% got a permanent job or an apprenticeship. 
+  Powercoders program. For about 90% we found an internship afterwards (6–12
+  months) and about 60% got a permanent job or an apprenticeship. 
 
 
   **Class Bern 2017** 
