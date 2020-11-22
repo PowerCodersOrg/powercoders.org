@@ -70,11 +70,7 @@ support_as:
 
 
       <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY ZURICH</a>
-
-
-      <a href="/city/career-day/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY LAUSANNE</a> 
+      pwc-red">CAREER DAY</a>
 
 
       If you have remote teams and are interested in a remote intern, please
@@ -154,15 +150,9 @@ support_as:
 
 
       **Interested in empowering refugees and in supporting us financially?
-      Please contact us.** \
+      Please contact us:** \
 
-      Contact for companies in German-speaking part of Switzerland: \
-
-      hussam.allaham@powercoders.org \
-
-      Contact for companies in French speaking part of Switzerland: \
-
-      magaly.mathys@powercoders.org
+      hussam.allaham@powercoders.org
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai20202_companiesandvolunteers.png
