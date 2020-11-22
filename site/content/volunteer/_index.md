@@ -40,20 +40,16 @@ support_as:
       **Interested in coaching one of our participants? Please fill in the
       following form.**\
 
-      <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSdhC4NLNQKkd9OanopdliDsFWnPKAi2YG9aqYmPpfB4iTS-_A/viewform"
-      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
-      href="https://form.jotform.com/202293089693363" class="btn waves-effect
-      waves-light pwc-red">ZURICH</a>
+      <a href="https://form.jotform.com/202293089693363" class="btn waves-effect
+      waves-light pwc-red">JOB COACH</a>
 
 
-      **Current dates of the program: check them out in the city closest to your
-      place of residence (**[**Lausanne**](/city/lausanne)**,**
-      [**Zurich**](/city/zurich/)**).**
+      **Current dates of the program: check them out**
+      [**here**](/city/zurich/)**.**
 
 
       **For more information**, check our
-      [factsheet](https://drive.google.com/open?id=1iPA4JT5G2Tra9uMTj-yZvcF_OtN5Hs5O).
+      [**factsheet**](https://drive.google.com/open?id=1iPA4JT5G2Tra9uMTj-yZvcF_OtN5Hs5O).
   - header: As an IT Trainer
     text: >-
       ###### You support our teachers as assistants.
@@ -93,19 +89,16 @@ support_as:
       form.**\
 
       <a
-      href="https://docs.google.com/forms/d/e/1FAIpQLSc0OSCS7AGBf7Zw1G85sTXdSHFN-JgJuDDODxTOikoIWBft2A/viewform"
-      class="btn waves-effect waves-light pwc-red">LAUSANNE</a> <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
-      class="btn waves-effect waves-light pwc-red">ZURICH</a>
+      class="btn waves-effect waves-light pwc-red">IT TRAINER</a>
 
 
-      **Current dates of the program: check them out in the city closest to your
-      place of residence (**[**Lausanne**](/city/lausanne)**,**
-      [**Zurich**](/city/zurich/)**).**
+      **Current dates of the program: check them out**
+      [**here**](/city/zurich/)**.**
 
 
       **For more information**, check our
-      [factsheet](https://drive.google.com/file/d/1xw5wG4qax-vJI9SqbyWJzuPvoiOWacwE/view?usp=sharing).
+      [**factsheet**](https://drive.google.com/file/d/1xw5wG4qax-vJI9SqbyWJzuPvoiOWacwE/view?usp=sharing).
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai20202_companiesandvolunteers.png
