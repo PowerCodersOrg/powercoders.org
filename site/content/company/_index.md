@@ -70,11 +70,7 @@ support_as:
 
 
       <a href="/city/career-day-zurich/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY ZURICH</a>
-
-
-      <a href="/city/career-day/" class="btn waves-effect waves-light
-      pwc-red">CAREER DAY LAUSANNE</a> 
+      pwc-red">CAREER DAY</a>
 
 
       If you have remote teams and are interested in a remote intern, please
