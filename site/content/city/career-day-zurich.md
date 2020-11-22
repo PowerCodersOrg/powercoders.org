@@ -1,9 +1,9 @@
 ---
 title: Career Day Zurich
 image: /img/header_companies_2.jpg
-section_title: Career Day Deutschschweiz
+section_title: Career Day
 text: >-
-  Are you an IT company or do you have an IT department in the Deutschschweiz? \
+  Are you an IT company or do you have an IT department? \
 
   We are looking for companies who would be willing to potentially offer
   internships or apprenticeships for our Powercoders graduates from
