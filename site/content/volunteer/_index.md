@@ -38,7 +38,7 @@ support_as:
 
 
       **Interested in coaching one of our participants? Please fill in the
-      following form.**\
+      following form:**\
 
       <a href="https://form.jotform.com/202293089693363" class="btn waves-effect
       waves-light pwc-red">JOB COACH</a>
@@ -86,7 +86,7 @@ support_as:
 
 
       **Interested in training our participants? Please fill in the following
-      form.**\
+      form:**\
 
       <a
       href="https://docs.google.com/forms/d/e/1FAIpQLSen5OqzQjlSGJqyB7iaTx-r1Lxj9Liznp8ELrB0bwgS-WGavQ/viewform"
