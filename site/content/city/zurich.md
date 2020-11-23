@@ -1,12 +1,9 @@
 ---
 title: Zurich
 image: /img/header_zurich.jpg
-section_title: Zurich
+section_title: Powercoders Switzerland
 text: >-
-  The Powercoders program in Zurich is run by the Powerhouse Zurich.
-
-
-  **ZURICH BATCH AUTUMN 2020**\
+  **BATCH AUTUMN 2020**\
 
   Bootcamp / IT Training: 7 September – 11 December 2020\
 
@@ -19,7 +16,7 @@ text: >-
   - - -
 
 
-  **ZURICH BATCH SPRING 2021**\
+  **BATCH SPRING 2021**\
 
   Bootcamp / IT Training: 6 April – 2 July 2021 (Interviews, Testing & Prep in
   Feb/March)\
@@ -43,7 +40,7 @@ text: >-
 
 
   We are looking for companies and volunteers for our next batch starting in
-  September 2020.\
+  April 2021.\
 
   **Get involved!**
 
