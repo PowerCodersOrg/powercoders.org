@@ -74,7 +74,7 @@ team:
   members:
     - description: Social Lead
       email: andrina.beuggert@powercoders.org
-      image: /img/andrina_portray_001-1-.jpg
+      image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
     - description: Teaching Lead
       email: susanne.koenig@powercoders.org
@@ -82,7 +82,7 @@ team:
       name: Susanne König
     - description: Industry Lead
       email: hussam.allaham@powercoders.org
-      image: /img/hussam-allaham_1.jpg
+      image: /img/hussam_allaham.jpg
       name: Hussam Allaham
     - description: Teaching Assistant
       email: 'zivi@powercoders.org '
