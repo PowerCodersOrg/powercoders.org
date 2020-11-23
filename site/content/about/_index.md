@@ -88,7 +88,7 @@ team:
       name: Andreas Merenyi
       visible:
         - community
-    - description: Social Lead / Powerhouse Zurich
+    - description: Social Lead Switzerland
       email: andrina.beuggert@powercoders.org
       image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
@@ -577,7 +577,7 @@ team:
       name: Sunita Asnani
       visible:
         - board_powercoders
-    - description: Teaching Lead Zurich / Powerhouse Zurich
+    - description: Teaching Lead Switzerland
       email: susanne.koenig@powercoders.org
       image: /img/susanne_kînig.jpg
       name: Susanne König
