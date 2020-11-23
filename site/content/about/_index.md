@@ -252,7 +252,7 @@ team:
       name: Hunny Bhagat
       visible:
         - participants
-    - description: Program Manager / Powerhouse Zurich
+    - description: Industry Lead Switzerland
       email: hussameddin.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
       name: Hussam Allaham
