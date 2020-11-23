@@ -20,7 +20,7 @@ story: >-
   the happiest time in my life right now.” 
 
 
-  **Interview with Ali Alshweiki and the newspaper ZEIT:** read the
+  **Interview with Ali Alshweiki in the newspaper ZEIT:** read the
   [article](https://www.zeit.de/2019/49/flucht-syrien-ali-alshweiki-it-firma-selbststaendigkeit-rolex?utm_referrer=https%3A%2F%2Fwww.google.com%2F)
 ---
 
