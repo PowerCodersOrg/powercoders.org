@@ -1,7 +1,7 @@
 ---
-title: Career Day Zurich
+title: Career Day Switzerland
 image: /img/header_companies_2.jpg
-section_title: Career Day
+section_title: Career Day Switzerland
 text: >-
   Are you an IT company or do you have an IT department? \
 
@@ -85,7 +85,7 @@ team:
       name: Susanne König
     - description: Industry Lead
       email: hussam.allaham@powercoders.org
-      image: /img/hussam-allaham_1.jpg
+      image: /img/hussam_allaham.jpg
       name: Hussam Allaham
     - description: Industry Support
       email: christina.graeni@powercoders.org
