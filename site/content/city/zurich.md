@@ -1,5 +1,5 @@
 ---
-title: Zurich
+title: Powercoders Switzerland
 image: /img/header_zurich.jpg
 section_title: Powercoders Switzerland
 text: >-
@@ -70,7 +70,7 @@ text: >-
   [More information](/volunteer/)
 apply_as: []
 team:
-  header: Team Zurich
+  header: Team Program Switzerland
   members:
     - description: Social Lead
       email: andrina.beuggert@powercoders.org
@@ -88,5 +88,17 @@ team:
       email: 'zivi@powercoders.org '
       image: /img/newsletter-photo-zivi-mark.jpg
       name: Mark Iandovka
+    - description: Industry Lead Romandie
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly_filter.jpg
+      name: Magaly Mathys
+    - description: Social Lead Romandie
+      email: coline.sauzet@powercoders.org
+      image: /img/coline_sauzet.jpg
+      name: Coline Sauzet
+    - description: Industry Support
+      email: christina.graeni@powercoders.org
+      image: /img/copy-of-graeni_christina_filter.jpg
+      name: Christina Gräni
 ---
 
