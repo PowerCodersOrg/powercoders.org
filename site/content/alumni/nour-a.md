@@ -1,6 +1,7 @@
 ---
-title: 'Nour A. '
+title: Nour
 image: /img/nour-alayouby.jpg
+header_image: /img/nour_header.jpg
 background: 'From Syria, 22 years old, now apprenticeship in Mediamatics at SBB.'
 story: >-
   **“IT is my thing”**
