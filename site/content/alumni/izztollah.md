@@ -1,6 +1,6 @@
 ---
 title: Izzatollah Amani
-image: /img/izzatollah_amani.jpg
+image: /img/amani_izzatollah.jpg
 header_image: /img/izzatolah_header.jpg
 background: 'From Afghanistan, 29 years old, now Junior Software Engineer at Netcentric.'
 quote: >-
