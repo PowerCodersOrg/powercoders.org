@@ -14,7 +14,7 @@ text: >-
   talents.** \
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSesE4_-4rppSFIcbAgk7syXOf3yUjbSYKQSvQfpzxKRdIDpkA/viewform"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdzsqCYm3zBUOwHXkrGIyv7hAKKUCg4uy7vuaVsot-CuGaXBQ/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
@@ -34,8 +34,8 @@ text: >-
   their internships in August/September 2021)
 
 
-  **When:** End of **Mai 2021** (date will be defined), 2 slots available: 9:00
-  am till 13:30 pm or 12:00 till 16:30 pm.
+  **When:** **18** **Mai 2021**, 2 slots available: 9:00 am till 13:30 pm or
+  12:00 till 16:30 pm.
 
 
   **Where:** tbd
@@ -44,7 +44,7 @@ text: >-
   **Program:**\
 
 
-  1. Receive all the CVs mid-Mai 2021. \
+  1. Receive all the CVs beginning of Mai 2021. \
 
   2. Join the Career Day either morning or afternoon and pick your top
   candidates. \
@@ -75,6 +75,10 @@ text: >-
 team:
   header: Team
   members:
+    - description: Industry Lead
+      email: hussam.allaham@powercoders.org
+      image: /img/hussam_allaham.jpg
+      name: Hussam Allaham
     - description: Social Lead
       email: andrina.beuggert@powercoders.org
       image: /img/andrina_portray_001-1-.jpg
@@ -83,10 +87,6 @@ team:
       email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
-    - description: Industry Lead
-      email: hussam.allaham@powercoders.org
-      image: /img/hussam_allaham.jpg
-      name: Hussam Allaham
     - description: Industry Support
       email: christina.graeni@powercoders.org
       image: /img/graeni_christina.jpg
