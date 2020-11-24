@@ -38,7 +38,7 @@ text: >-
   12:00 till 16:30 pm.
 
 
-  **Where:** tbd
+  **Where:** to be confirmed
 
 
   **Program:**\
@@ -58,7 +58,7 @@ text: >-
 
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSesE4_-4rppSFIcbAgk7syXOf3yUjbSYKQSvQfpzxKRdIDpkA/viewform"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSdzsqCYm3zBUOwHXkrGIyv7hAKKUCg4uy7vuaVsot-CuGaXBQ/viewform"
   class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
 
 
