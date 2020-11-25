@@ -11,6 +11,12 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 25.11.2020
+        links:
+          - link: >-
+              https://ict.swisscom.ch/2020/11/interview-with-marzieh-nopper-powercoders-academy/
+            link_text: Interview with Powercoders participant Marzieh Nopper
+            title: Swisscom ICT (blog / English)
       - date: 01.11.2020
         links:
           - link: >-
