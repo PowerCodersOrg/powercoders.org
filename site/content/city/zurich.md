@@ -28,14 +28,12 @@ text: >-
   now](https://forms.gle/c22yXnyqKDYHx2dFA) to be reminded to apply.
 
 
-  **BATCH FALL 2021**\
+  **BATCH AUTUMN 2021**\
 
   Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
   July/Aug)\
 
   Internship & Job Coaching: 6–12 months, starting Jan / Feb 2022
-
-
 
 
   - - -
