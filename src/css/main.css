@@ -640,9 +640,8 @@ footer.page-footer i {
 a.btn-intro-action{
 	background-color: #FFF;
 	color: #c32e4c;
-
 }
 
-a.btn-intro-action:hover{
+a.btn-intro-action:hover, a.btn-intro-action:focus{
 	background-color: #ebcdd3;
 }
