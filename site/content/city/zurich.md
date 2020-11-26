@@ -84,29 +84,37 @@ team:
       email: andrina.beuggert@powercoders.org
       image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
-    - description: Teaching Lead
-      email: susanne.koenig@powercoders.org
-      image: /img/me_square.jpg
-      name: Susanne König
-    - description: Industry Lead
-      email: hussam.allaham@powercoders.org
-      image: /img/hussam_allaham.jpg
-      name: Hussam Allaham
-    - description: Teaching Assistant
-      email: 'zivi@powercoders.org '
-      image: /img/newsletter-photo-zivi-mark.jpg
-      name: Mark Iandovka
-    - description: Industry Lead Romandie
-      email: magaly.mathys@powercoders.org
-      image: /img/magaly_filter.jpg
-      name: Magaly Mathys
-    - description: Social Lead Romandie
-      email: coline.sauzet@powercoders.org
-      image: /img/coline_sauzet.jpg
-      name: Coline Sauzet
+    - description: CEO Powercoders Switzerland
+      email: bettina.hirsig@powercoders.org
+      image: /img/bettina_hirsig.jpg
+      name: Bettina Hirsig
     - description: Industry Support
       email: christina.graeni@powercoders.org
       image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
+    - description: Social Lead Romandie
+      email: coline.sauzet@powercoders.org
+      image: /img/coline_sauzet.jpg
+      name: Coline Sauzet
+    - description: Industry Lead
+      email: hussam.allaham@powercoders.org
+      image: /img/hussam_allaham.jpg
+      name: Hussam Allaham
+    - description: Industry Lead Romandie
+      email: magaly.mathys@powercoders.org
+      image: /img/magaly_filter.jpg
+      name: Magaly Mathys
+    - description: Finance & Community Management
+      email: maria.multani@powercoders.org
+      image: /img/maria_multani.jpg
+      name: Maria Multani
+    - description: Teaching Assistant
+      email: 'zivi@powercoders.org '
+      image: /img/newsletter-photo-zivi-mark.jpg
+      name: Mark Iandovka
+    - description: Teaching Lead
+      email: susanne.koenig@powercoders.org
+      image: /img/me_square.jpg
+      name: Susanne König
 ---
 
