@@ -42,7 +42,7 @@ support_as:
       following form:**\
 
       <a href="https://form.jotform.com/202293089693363" class="btn waves-effect
-      waves-light pwc-red">APPLY NOW</a>
+      waves-light pwc-red">APPLY NOW AS JOB COACH</a>
 
 
       **Current dates of the program: check them out**
