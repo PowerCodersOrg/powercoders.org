@@ -1,7 +1,7 @@
 ---
-title: Turin and Milan
+title: Powercoders International – Italy
 image: /img/start.jpg
-section_title: Turin and Milan
+section_title: Powercoders International – Italy
 text: >-
   The Powercoders program in Milan, Italy is run by Le Wagon Italy. 
 
@@ -12,14 +12,14 @@ text: >-
   apply below for our current program! 
 
 
-  **Applications**: will be accepted from September to end of November 2020. \
+  **Applications:** will be accepted from September to end of December. \
 
-  **Bootcamp**: 18 January - 19 March 2021 (Interviews, Testing & Prep in
-  November/December 2020)\
+  **Bootcamp:** end of January – end of April 2021 (Interviews, Testing & Prep
+  in December 2020/January 2021) \
 
-  **Career Day**: March 2021\
+  **Career Day:** March 2021 \
 
-  **Internships**: 6 months, starting in May/June 2021
+  **Internships:** 6 months, starting in May/June 2021. 
 
 
   Based on the progression of the covid-19 crisis, the courses may be held
@@ -35,7 +35,7 @@ text: >-
   _Powercoders a Milano sarà gestito da Le Wagon Italia._ 
 
 
-  _**PROGRAMMA MILANO INVERNO/PRIMAVERA 2021**_ \
+  **_PROGRAMMA MILANO INVERNO/PRIMAVERA 2021_** \
 
   _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
