@@ -2,7 +2,7 @@
 <div class="parallax-container valign-wrapper">
     {{ if .subtitle }}
     <div class="container center">
-        <h3 class="padded-multiline"><span>{{.subtitle}}</span></h3>
+        <h3 class="padded-multiline"><span style="text-shadow: #000 0 0 5px, #000 0 0 15px;">{{.subtitle}}</span></h3>
         {{ if (and .link_text .link_url) }}
           <p class="center"><a class="btn waves-effect waves-light" href="{{ .link_url }}">{{ .link_text }}</a></p>
         {{ end }}

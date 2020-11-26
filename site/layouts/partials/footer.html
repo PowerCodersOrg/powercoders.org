@@ -15,7 +15,7 @@
 
             {{ with .Site.GetPage "/program" }}
               <div class="col s6 m3 l2">
-                <h5>Cities</h5>
+                <h5>Countries</h5>
                 <ul>
                   {{ range $entry := .Params.city_program.items }}
                     <li><a href="{{ $entry.link }}">{{ $entry.header }}</a></li>

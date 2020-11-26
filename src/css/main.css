@@ -635,3 +635,14 @@ footer.page-footer i {
 .markdown ul>li {
 	list-style-type: disc;
 }
+
+/* ---------------- index ---------------- */
+a.btn-intro-action{
+	background-color: #FFF;
+	color: #c32e4c;
+
+}
+
+a.btn-intro-action:hover{
+	background-color: #ebcdd3;
+}
