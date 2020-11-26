@@ -17,8 +17,8 @@ support_as:
       ###### WHAT TO EXPECT
 
 
-      * Be matched with a participant by the end of the school phase (matching
-      close to your place of residence) 
+      * Be matched with a participant during the bootcamp (matching close to
+      your place of residence) 
 
       * Get ready with the help of several coaching workshops
 
@@ -34,14 +34,15 @@ support_as:
       * You have a good understanding of the Swiss labour market and work
       culture
 
-      * You can commit to invest time for (bi-)weekly meetings with your coachee
+      * You can commit to invest time for regular meetings with your coachee &
+      his/her company
 
 
       **Interested in coaching one of our participants? Please fill in the
       following form:**\
 
       <a href="https://form.jotform.com/202293089693363" class="btn waves-effect
-      waves-light pwc-red">JOB COACH</a>
+      waves-light pwc-red">APPLY NOW</a>
 
 
       **Current dates of the program: check them out**
