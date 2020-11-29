@@ -5,24 +5,21 @@ link_text: Our program
 link_url: /program
 image: /img/donation_action.jpg
 intro:
-  header: 'D E C E M B E R — D O N A T I O N'   
+  header: D E C E M B E R — D O N A T I O N
   text: >-
-    Are you eager to support
-    our meaningful cause but are just too busy to volunteer, especially at this
-    time of year? No problem! How about donating 1 hour in the form of your
-    hourly wage? This way you sort of work for us for an hour without straining
-    your calendar even further.
-  action_label: Donate 1 hour of your life!
-  action_target: 'https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life-to-powercoders'
+    Are you eager to support our meaningful cause but are just too busy to
+    volunteer, especially at this time of year? No problem! How about donating 1
+    hour in the form of your hourly wage? This way you sort of work for us for
+    an hour without straining your calendar even further.
   video_id: ''
 get_involved:
-  content: >-   
+  content: >-
     # Our purpose
 
 
     We believe in promoting equal opportunities for diverse talents in the IT
-    industry. We are a non-profit association and our program is self-funded and
-    free of charge for the selected participants. 
+    industry. We are a non-profit association and our program is fully funded
+    and free of charge for the selected participants. 
 
 
     # Our impact
