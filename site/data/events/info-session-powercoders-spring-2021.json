@@ -1,0 +1,19 @@
+{
+  "remove_after": "",
+  "audience": [
+    "home",
+    "student"
+  ],
+  "where": "Zoom (online)",
+  "display_name": "Info Session: Powercoders Spring 2021",
+  "city": [
+    "zurich",
+    "lausanne"
+  ],
+  "header_icon": "fa-users",
+  "text": "Are you living in German- or French-speaking Switzerland and are interested to join our program in spring 2021?\n\nJoin our info session and get your questions answered.",
+  "title": "Info Session - Powercoders Spring 2021",
+  "call_to_action": "Sign Up Now",
+  "when": "2020-12-15T23:00:00.000Z",
+  "link": "https://forms.gle/adyRwFAjTAzggote8"
+}
