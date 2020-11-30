@@ -12,6 +12,8 @@ intro:
     hour in the form of your hourly wage? This way you sort of work for us for
     an hour without straining your calendar even further.
   video_id: ''
+  action_label: Donate 1 hour of your life!
+  action_target: 'https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life-to-powercoders'
 get_involved:
   content: >-
     # Our purpose

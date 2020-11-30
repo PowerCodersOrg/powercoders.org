@@ -43,6 +43,14 @@ collections:
               - label: Text
                 name: text
                 widget: text
+              - label: Action Label
+                name: action_label
+                widget: string
+                required: false
+              - label: Action Target
+                name: action_target
+                widget: string
+                required: false
               - label: Video Id
                 name: video_id
                 widget: string
