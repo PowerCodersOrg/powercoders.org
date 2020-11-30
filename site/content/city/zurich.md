@@ -24,24 +24,12 @@ text: >-
   Internship & Job Coaching: 6–12 months, starting August / September 2021
 
 
-  Applications will be accepted from December 2020 to mid-January 2021. [Sign up
-  now](https://forms.gle/c22yXnyqKDYHx2dFA) to be reminded to apply.
-
-
-  **BATCH AUTUMN 2021**\
-
-  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
-  July/Aug)\
-
-  Internship & Job Coaching: 6–12 months, starting Jan / Feb 2022
-
-
-  - - -
+  Applications will be accepted from December 2020 to mid-January 2021. 
 
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  <a target="_blank" href="https://form.jotform.com/203152201327338" class="btn
   waves-effect waves-light pwc-red">SIGN UP NOW</a> \
 
   [More information](/participant/)
@@ -50,7 +38,7 @@ text: >-
   We are looking for companies and volunteers for our next batch starting in
   April 2021.\
 
-  **Get involved!**
+  **GET INVOLVED:**
 
 
   **AS A COMPANY**\
@@ -76,6 +64,20 @@ text: >-
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/volunteer/)
+
+
+  - - -
+
+
+  **BATCH AUTUMN 2021**\
+
+  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
+  July/Aug)\
+
+  Internship & Job Coaching: 6–12 months, starting Jan / Feb 2022
+
+
+  - - -
 apply_as: []
 team:
   header: Team Switzerland
