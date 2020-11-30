@@ -39,7 +39,7 @@ text: >-
 
   **Apply in your country of residence.** \
 
-  <a target=”_blank” href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  <a target=”_blank” href="https://form.jotform.com/203152201327338" class="btn
   waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
   class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>
