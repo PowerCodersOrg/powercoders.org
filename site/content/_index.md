@@ -5,7 +5,7 @@ link_text: Our program
 link_url: /program
 image: /img/donation_action.jpg
 intro:
-  action_label: Donate 1 hour of your life
+  action_label: Donate 1 hour of your life!
   action_target: >-
     https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life-to-powercoders
   header: D E C E M B E R — D O N A T I O N
