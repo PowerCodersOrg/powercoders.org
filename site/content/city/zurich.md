@@ -3,42 +3,34 @@ title: Powercoders Switzerland
 image: /img/header_zurich.jpg
 section_title: Powercoders Switzerland
 text: >-
-  **BATCH AUTUMN 2020**\
-
-  Bootcamp / IT Training: 7 September – 11 December 2020\
-
-  Internship & Job Coaching: 6–12 months, starting February 2021
-
-
-  - - -
-
-
-  - - -
-
-
   **BATCH SPRING 2021**\
 
   Bootcamp / IT Training: 6 April – 2 July 2021 (Interviews, Testing & Prep in
   Feb/March)\
 
-  Internship & Job Coaching: 6–12 months, starting August / September 2021
+  Internship & Job Coaching: 6–12 months, starting August / September 2021 
+
+  - - -
 
 
-  Applications will be accepted from December 2020 to mid-January 2021. 
+  Applications will be accepted from December 2020 to mid-January 2021.
 
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://form.jotform.com/203152201327338" class="btn
-  waves-effect waves-light pwc-red">SIGN UP NOW</a> \
+  <a target="_blank" href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
+
+
+  - - -
 
 
   We are looking for companies and volunteers for our next batch starting in
   April 2021.\
 
-  **GET INVOLVED:**
+  **Get involved!**
 
 
   **AS A COMPANY**\
@@ -68,16 +60,12 @@ text: >-
 
   - - -
 
-
   **BATCH AUTUMN 2021**\
 
   Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
   July/Aug)\
 
   Internship & Job Coaching: 6–12 months, starting Jan / Feb 2022
-
-
-  - - -
 apply_as: []
 team:
   header: Team Switzerland
