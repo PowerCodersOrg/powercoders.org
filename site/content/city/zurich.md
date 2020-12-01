@@ -10,6 +10,7 @@ text: >-
 
   Internship & Job Coaching: 6–12 months, starting August / September 2021 
 
+
   - - -
 
 
@@ -18,7 +19,7 @@ text: >-
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://forms.gle/c22yXnyqKDYHx2dFA" class="btn
+  <a target="_blank" href="https://form.jotform.com/203152201327338" class="btn
   waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
@@ -59,6 +60,7 @@ text: >-
 
 
   - - -
+
 
   **BATCH AUTUMN 2021**\
 
