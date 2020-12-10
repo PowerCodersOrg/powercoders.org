@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-image: /img/header_volunteers.jpg
+image: /img/header_volunteers_2.jpg
 section_title: How You Can Get Involved
 text: >-
   We are a non-profit organisation that depends on the commitment of many
