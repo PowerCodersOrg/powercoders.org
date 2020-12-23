@@ -152,10 +152,6 @@ programme:
     * Coursera: [HTML, CSS, and Javascript for Web
     Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-    * Chris Dixon : [Code Your First
-    Website](https://chrisdixon.io/p/code-your-first-website-using-html-css-project-learning)
-    (4 hours)
-
     * Scrimba: [HTML & CSS Crash Course](<https://scrimba.com/learn/htmlcss/
     (4hrs)>) (4 hours)
 
