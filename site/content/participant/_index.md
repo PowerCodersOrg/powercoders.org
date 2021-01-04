@@ -155,6 +155,10 @@ programme:
     * Scrimba: [HTML & CSS Crash Course](<https://scrimba.com/learn/htmlcss/
     (4hrs)>) (4 hours)
 
+    * Raspberry Pi: [HTML &
+    CSS](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript)
+    (various)
+
     * Various mobile apps (e.g. [SoloLearn](https://www.sololearn.com/))
 
 
