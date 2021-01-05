@@ -5,15 +5,13 @@ link_text: Our program
 link_url: /program
 image: /img/donation_action.jpg
 intro:
-  header: D E C E M B E R — D O N A T I O N
-  text: >-
-    Are you eager to support our meaningful cause but are just too busy to
-    volunteer, especially at this time of year? No problem! How about donating 1
-    hour in the form of your hourly wage? This way you sort of work for us for
-    an hour without straining your calendar even further.
-  video_id: ''
-  action_label: Donate 1 hour of your life!
-  action_target: 'https://spenden.stiftungschweiz.ch/projects/dezember-aktion-donate-1-hour-of-your-life-to-powercoders'
+  action_label: ''
+  action_target: ''
+  header: >-
+    Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
+    digitalization. Two problems, one solution: 
+  text: A Coding Academy for Refugees & Migrants
+  video_id: IKuz7vA30sI
 get_involved:
   content: >-
     # Our purpose
