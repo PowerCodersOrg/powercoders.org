@@ -104,8 +104,7 @@ programme:
     ###### NEXT PROGRAM IN 2021
 
 
-    Applications for programs in 2020 are now closed. Sign up now to be informed
-    when we accept applications for our spring batches 2021.
+    Apply now (until 19 January) for our Spring 2021 program. 
 
 
     **Apply in your country of residence.** \
