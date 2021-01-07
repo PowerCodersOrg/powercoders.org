@@ -7,11 +7,11 @@ image: /img/donation_action.jpg
 intro:
   action_label: ''
   action_target: ''
-  header: >-
+  header: 'A Coding Academy for Refugees & Migrants '
+  text: >-
     Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
-    digitalization. Two problems, one solution:
-  text: A Coding Academy for Refugees & Migrants
-  video_id: IKuz7vA30sI
+    digitalization. Two problems, one solution.
+  video_id: ''
 get_involved:
   content: >-
     # Our purpose
