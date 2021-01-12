@@ -7,10 +7,10 @@ image: /img/donation_action.jpg
 intro:
   action_label: ''
   action_target: ''
-  header: 'A Coding Academy for Refugees & Migrants '
-  text: >-
+  header: >-
     Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
-    digitalization. Two problems, one solution: Powercoders.
+    digitalization. Two problems, one solution:
+  text: 'A Coding Academy for Refugees & Migrants '
   video_id: ''
 get_involved:
   content: >-
