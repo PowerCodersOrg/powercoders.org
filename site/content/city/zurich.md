@@ -3,7 +3,7 @@ title: Powercoders Switzerland
 image: /img/header_zurich.jpg
 section_title: Powercoders Switzerland
 text: >-
-  **BATCH SPRING 2020**\
+  **BATCH SPRING 2021**\
 
   Bootcamp / IT Training: 6 April – 2 July 2021 (Interviews, Testing & Prep in
   Feb/March)\
