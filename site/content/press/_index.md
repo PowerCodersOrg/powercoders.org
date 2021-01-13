@@ -243,8 +243,7 @@ media:
             title: 'Srf.ch (online / German), portrait Rami Jumaah'
       - date: 25.04.2019
         links:
-          - link: >-
-              https://www.cnnmoney.ch/shows/big-picture/videos/powercoders-swiss-coding-academy-train-refugees-it-job-market
+          - link: 'https://www.youtube.com/watch?v=wj2L_Nso-UQ&feature=emb_logo'
             link_text: Interview with Christian and Hussam
             title: CNN Money Switzerland (Video / English)
       - date: 08.04.19
