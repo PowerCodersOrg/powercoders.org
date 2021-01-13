@@ -372,8 +372,8 @@ collections:
           - label: Text
             name: text
             widget: markdown
-          - label: City Program
-            name: city_program
+          - label: Country Program
+            name: country_program
             widget: object
             fields:
               - label: Header

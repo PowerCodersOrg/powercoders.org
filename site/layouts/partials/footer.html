@@ -17,7 +17,7 @@
               <div class="col s6 m3 l2">
                 <h5>Countries</h5>
                 <ul>
-                  {{ range $entry := .Params.city_program.items }}
+                  {{ range $entry := .Params.country_program.items }}
                     <li><a href="{{ $entry.link }}">{{ $entry.header }}</a></li>
                   {{ end }}
                 </ul>

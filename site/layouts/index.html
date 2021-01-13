@@ -7,9 +7,9 @@
         <div class="row" style="margin-bottom: 0">
             <div class="col s12 center">
                 <h5 style="margin-bottom: 2.8rem;">{{.Params.intro.header}}</h5>
-                <p style="margin-bottom: 2.8rem; margin-top: 0">
+                <h5 style="margin-bottom: 2.8rem; margin-top: 0">
                     {{.Params.intro.text}}
-                </p>
+                </h5>
                 <a target="_blank"
                    href="{{.Params.intro.action_target}}"
                    class="btn btn-large waves-effect waves-light btn-intro-action">{{.Params.intro.action_label}}</a>
@@ -61,7 +61,7 @@
     </div>
 </div>
 
-{{ partial "city-cards" . }}
+{{ partial "country-cards" . }}
 
 {{ $activeEvents := slice }}
 {{ range $event := $.Site.Data.events }}

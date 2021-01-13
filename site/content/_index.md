@@ -5,8 +5,8 @@ link_text: Our program
 link_url: /program
 image: /img/donation_action.jpg
 intro:
-  action_label: ''
-  action_target: ''
+  action_label: Watch Video
+  action_target: https://www.youtube.com/watch?v=IKuz7vA30sI
   header: >-
     Over 70.5 million refugees in the world. Millions of vacant IT jobs due to
     digitalization. Two problems, one solution:
