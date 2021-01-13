@@ -64,9 +64,11 @@
   to = "/terms-and-conditions/"
 
 [[redirects]]
-  from = "/city/turin"
+  from = "/city/turin/"
   to = "/country/italy/"
+  force = true
 
 [[redirects]]
-  from = "/city/zurich"
+  from = "/city/zurich/"
   to = "/country/switzerland/"
+  force = true
