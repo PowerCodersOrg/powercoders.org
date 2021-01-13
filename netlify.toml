@@ -62,3 +62,11 @@
 [[redirects]]
   from = "/terms-and-conditions/index.php"
   to = "/terms-and-conditions/"
+
+[[redirects]]
+  from = "/city/turin/"
+  to = "/country/italy/"
+
+[[redirects]]
+  from = "/city/zurich/"
+  to = "/country/switzerland/"
