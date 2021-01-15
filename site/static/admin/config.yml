@@ -563,7 +563,7 @@ collections:
             name: text
             widget: markdown
 
-  - name: contries
+  - name: countries
     label: Country
     folder: site/content/country
     create: true
