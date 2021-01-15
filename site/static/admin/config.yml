@@ -563,6 +563,76 @@ collections:
             name: text
             widget: markdown
 
+  - name: contries
+    label: Country
+    folder: site/content/country
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Image
+        name: image
+        widget: image
+        required: false
+      - label: Section Title
+        name: section_title
+        widget: string
+      - label: Text
+        name: text
+        widget: markdown
+      - label: Apply as
+        name: apply_as
+        widget: list
+        required: false
+        fields:
+          - label: Header
+            name: header
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
+          - label: Application link
+            name: application_link
+            widget: string
+            hint: URL people will go to in order to apply
+            required: false
+      - label: Team
+        name: team
+        widget: object
+        fields:
+          - label: Header
+            name: header
+            widget: string
+          - label: Members
+            name: members
+            widget: list
+            fields:
+              - label: Name
+                name: name
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: Description
+                name: description
+                widget: string
+              - label: Email
+                name: email
+                widget: string
+                required: false
+      - label: FAQs
+        name: faqs
+        required: false
+        widget: list
+        fields:
+          - label: Header
+            name: header
+            widget: string
+          - label: Text
+            name: text
+            widget: markdown
+
   - label: "Events"
     name: events
     format: json
