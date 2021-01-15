@@ -19,9 +19,7 @@ country_program:
       fade_in: Left
       header: Italy (Milan)
       link: /country/italy/
-      text: >-
-        The next program in Italy will start in January 2021 in Milan.
-        Applications will be accepted until end of December 2020.
+      text: The next program in Italy will start in January 2021 in Milan.
 past_program:
   header: Past Programs
   items:
