@@ -3,7 +3,7 @@ title: Powercoders International – Italy
 image: /img/start.jpg
 section_title: Powercoders International – Italy
 text: >-
-  The Powercoders program in Milan, Italy is run by Le Wagon, Italy. 
+  The Powercoders program in Milan, Italy is run by, Le Wagon, Italy. 
 
 
   **MILAN BATCH WINTER/SPRING 2021** \
