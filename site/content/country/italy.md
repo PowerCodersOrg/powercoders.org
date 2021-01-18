@@ -68,7 +68,7 @@ text: >-
   **AS A JOB COACH**\
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLScvOM5kRNZRX-IviqI6zSQcoSyBOEwpcm3xFdlYtqCp_p8hog/viewform"
+  href="https://docs.google.com/forms/d/1iQe4u0ghByxn5G7Ekm-UwvFLsE9ovbT8NhBS9M5sHO4/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/volunteer/)
@@ -77,7 +77,7 @@ text: >-
   **AS AN IT TRAINER**\
 
   <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSc_h1NJcHyEovhI_Hla95xydN99Vp_XPc35SWRizBTfSstQYQ/viewform"
+  href="https://docs.google.com/forms/d/e/1FAIpQLScDij3mdR9zPGQcXALaairmsltIq0J07sCFlayK1uJNu9TpIw/viewform"
   class="btn waves-effect waves-light pwc-red">GET IN TOUCH</a>\
 
   [More information](/volunteer/)
