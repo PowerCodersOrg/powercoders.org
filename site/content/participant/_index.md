@@ -50,7 +50,8 @@ programme:
     ###### WHAT WE EXPECT
 
 
-    * You have started to learn digital skills on your own (see resources below)
+    * You have started to learn coding/web development skills on your own (see
+    resources below)
 
     * You understand, speak and write English well
 
