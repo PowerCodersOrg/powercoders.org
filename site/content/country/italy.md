@@ -12,10 +12,9 @@ text: >-
   apply below for our current program! 
 
 
-  **Applications:** will be accepted from September to end of December. \
+  **Probation & Preparation:** December – January 2021 \
 
-  **Bootcamp:** end of January – end of April 2021 (Interviews, Testing & Prep
-  in December 2020/January 2021) \
+  **Coding School:** beginning of February 2021 - end of April 2021 \
 
   **Career Day:** March 2021 \
 
