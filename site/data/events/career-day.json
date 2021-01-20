@@ -1,5 +1,5 @@
 {
-  "remove_after": "2020-10-20T22:00:00.000Z",
+  "remove_after": "2021-05-19T22:00:00.000Z",
   "audience": [
     "home",
     "company"
@@ -7,11 +7,12 @@
   "where": "",
   "display_name": "Career Day Zurich",
   "city": [
-    "zurich"
+    "zurich",
+    "lausanne"
   ],
   "header_icon": "fa-handshake",
-  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview. \n\n- - -\n\n**20th of October, 2020** \\\n[SIX ConventionPoint](https://www.conventionpoint.ch), Zurich",
-  "title": "Career Day Zurich",
+  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview. \n\n- - -\n\n**18th of May, 2021** \\\nLocation: to be communicated soon.\n",
+  "title": "Career Day Powercoders Switzerland",
   "call_to_action": "Learn more",
   "when": "",
   "link": "/city/career-day-zurich/"
