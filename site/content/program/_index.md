@@ -12,8 +12,8 @@ country_program:
       header: Switzerland
       link: /country/switzerland
       text: >-
-        The next program in Switzerland will start in spring 2021. Applications
-        are accepted from December 2020 to mid-January 2021.
+        The next program in Switzerland will start in spring 2021. The
+        application period is now closed. 
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
