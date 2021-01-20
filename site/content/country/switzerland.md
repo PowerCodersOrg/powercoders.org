@@ -8,18 +8,27 @@ text: >-
   Bootcamp / IT Training: 6 April – 2 July 2021 (Interviews, Testing & Prep in
   Feb/March)\
 
-  Internship & Job Coaching: 6–12 months, starting August / September 2021 
+  Internship: 6–12 months, starting August / September 2021 
+
+
+  **BATCH AUTUMN 2021**\
+
+  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
+  July/Aug)\
+
+  Internship: 6–12 months, starting Jan / Feb 2022
 
 
   - - -
 
 
-  Applications will be accepted from December 2020 to mid-January 2021.
+  Applications for Spring 2021 batch are now closed. Fill the form below if
+  you're interested in the Automn 2021 batch. 
 
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://form.jotform.com/203152201327338" class="btn
+  <a target="_blank" href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
   waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
@@ -62,12 +71,7 @@ text: >-
   - - -
 
 
-  **BATCH AUTUMN 2021**\
-
-  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
-  July/Aug)\
-
-  Internship & Job Coaching: 6–12 months, starting Jan / Feb 2022
+  ****
 apply_as: []
 team:
   header: Team Switzerland
