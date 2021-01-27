@@ -32,15 +32,15 @@ text: >-
   Italy.
 
 
-  ## **Our Impact Report 2019**
+  ## **Our Impact Report 2020**
 
 
-  ![Impact report 2018](/img/impact_report_2019_rz_page2.jpg "Impact report
-  2018")
+  ![Impact Report 2020](/img/impact_report_2019_rz_page2.jpg "Impact Report
+  2020")
 
 
-  [Download Impact report
-  2019](https://drive.google.com/file/d/1xS_Nh8A23TvVnBEA89Vb8IE2hfrktMRU/view)
+  [Download Impact Report
+  2020](https://drive.google.com/file/d/1hodgFXIVChiWM5C8Jw0caO45CmjoC1HZ/view)
 team:
   members:
     - description: Participant / Zurich
