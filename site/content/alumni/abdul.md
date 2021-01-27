@@ -4,9 +4,6 @@ image: /img/abdul-nawaz-bugti.jpg
 header_image: /img/abdul_nawaz_bugti_header.jpg
 background: 'From Pakistan, 28 years old, Solutions Engineer at Squirro.'
 story: >-
-  Success Story Abdul Nawaz Bugti 
-
-
   **“Be crazy enough to trust yourself”**
 
 
