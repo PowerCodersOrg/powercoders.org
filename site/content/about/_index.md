@@ -301,6 +301,12 @@ team:
       name: Lhamo Gakyitsang
       visible:
         - participants
+    - description: Program Coordinator
+      email: linus.murbach@powercoders.org
+      image: /img/linus-murbach.jpg
+      name: Linus Murbach
+      visible:
+        - team_zurich
     - description: Media producer
       image: /img/luana_laederach.jpg
       name: Luana Läderach
@@ -469,12 +475,6 @@ team:
       name: Nour Alayouby
       visible:
         - participants
-    - description: Program Coordinator
-      email: linus.murbach@powercoders.org
-      image: /img/linus-murbach.jpg
-      name: Linus Murbach
-      visible:
-        - team_zurich
     - description: IT Trainer / Zurich
       image: /img/oktawia_kata.jpg
       name: Oktawia Kata
