@@ -1,5 +1,5 @@
 ---
-title: Linus
+title: Linus Murbach
 image: /img/linus_header.jpg
 section_title: Linus
 text: >-
