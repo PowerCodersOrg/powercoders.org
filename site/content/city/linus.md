@@ -1,6 +1,6 @@
 ---
 title: Linus
-image: /img/scan-2.jpeg
+image: /img/linus_header.jpg
 section_title: Linus
 text: >-
   **Interview with Linus – Powercoders Program Coordinator** 
