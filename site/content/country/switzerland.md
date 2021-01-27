@@ -76,7 +76,7 @@ apply_as: []
 team:
   header: Team Switzerland
   members:
-    - description: Social Lead
+    - description: Social Lead Switzerland
       email: andrina.beuggert@powercoders.org
       image: /img/andrina_beuggert.jpg
       name: Andrina Beuggert
@@ -84,11 +84,11 @@ team:
       email: bettina.hirsig@powercoders.org
       image: /img/bettina_hirsig.jpg
       name: Bettina Hirsig
-    - description: Industry Support
+    - description: Industry Lead Romandie
       email: christina.graeni@powercoders.org
       image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
-    - description: Industry Lead
+    - description: Industry Lead Switzerland
       email: hussam.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
       name: Hussam Allaham
@@ -104,7 +104,7 @@ team:
       email: 'zivi@powercoders.org '
       image: /img/newsletter-photo-zivi-mark.jpg
       name: Mark Iandovka
-    - description: Teaching Lead
+    - description: Teaching Lead Switzerland
       email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
