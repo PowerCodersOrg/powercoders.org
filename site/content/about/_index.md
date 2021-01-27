@@ -35,8 +35,7 @@ text: >-
   ## **Our Impact Report 2020**
 
 
-  ![Impact Report 2020](/img/impact_report_2019_rz_page2.jpg "Impact Report
-  2020")
+  ![Impact Report 2020](/img/impactreport2020_web.jpg "Impact Report 2020")
 
 
   [Download Impact Report
