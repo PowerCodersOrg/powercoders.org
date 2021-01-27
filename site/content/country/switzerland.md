@@ -88,18 +88,14 @@ team:
       email: christina.graeni@powercoders.org
       image: /img/copy-of-graeni_christina_filter.jpg
       name: Christina Gräni
-    - description: Social Lead Romandie
-      email: coline.sauzet@powercoders.org
-      image: /img/coline_sauzet.jpg
-      name: Coline Sauzet
     - description: Industry Lead
       email: hussam.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
       name: Hussam Allaham
-    - description: Industry Lead Romandie
-      email: magaly.mathys@powercoders.org
-      image: /img/magaly_filter.jpg
-      name: Magaly Mathys
+    - description: Program Coordinator
+      email: linus.murbach@powercoders.org
+      image: /img/linus-murbach.jpg
+      name: Linus Murbach
     - description: Finance & Community Management
       email: maria.multani@powercoders.org
       image: /img/maria_multani.jpg
