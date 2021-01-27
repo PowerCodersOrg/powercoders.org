@@ -75,21 +75,25 @@ text: >-
 team:
   header: Team
   members:
-    - description: Industry Lead
+    - description: Industry Lead Switzerland
       email: hussam.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
       name: Hussam Allaham
-    - description: Social Lead
-      email: andrina.beuggert@powercoders.org
-      image: /img/andrina_portray_001-1-.jpg
-      name: Andrina Beuggert
-    - description: 'Teaching Lead '
-      email: susanne.koenig@powercoders.org
-      image: /img/me_square.jpg
-      name: Susanne König
-    - description: Industry Support
+    - description: Industry Lead Romandie
       email: christina.graeni@powercoders.org
       image: /img/graeni_christina.jpg
       name: Christina Gräni
+    - description: Social Lead Switzerland
+      email: andrina.beuggert@powercoders.org
+      image: /img/andrina_portray_001-1-.jpg
+      name: Andrina Beuggert
+    - description: Teaching Lead Switzerland
+      email: susanne.koenig@powercoders.org
+      image: /img/me_square.jpg
+      name: 'Susanne König '
+    - description: Program Coordinator
+      email: linus.murbach@powercoders.org
+      image: /img/linus-murbach.jpg
+      name: Linus Murbach
 ---
 
