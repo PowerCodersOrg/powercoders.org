@@ -78,7 +78,7 @@ team:
       visible:
         - participants
     - description: Participant / Zurich
-      image: /img/amani_izzatollah1.jpg
+      image: /img/amani_izzatollah.jpg
       name: Amani Izzatollah
       visible:
         - participants
@@ -155,12 +155,6 @@ team:
       name: Christophe Tafani-Dereeper
       visible:
         - community
-    - description: Social Lead / Powerhouse Lausanne
-      email: coline.sauzet@powercoders.org
-      image: /img/coline_sauzet.jpg
-      name: Coline Sauzet
-      visible:
-        - team_lausanne
     - description: Job Coach / Bern
       image: /img/damian_senn.jpg
       name: Damian Senn
@@ -332,12 +326,6 @@ team:
       name: Madam Monorom
       visible:
         - community
-    - description: Industry Lead / Powerhouse Lausanne
-      email: magaly.mathys@powercoders.org
-      image: /img/magaly_filter.jpg
-      name: Magaly Mathys
-      visible:
-        - team_lausanne
     - description: Job Coach / Bern
       image: /img/mahmoud_hallal.jpg
       name: Mahmoud Hallal
@@ -416,6 +404,11 @@ team:
       name: Meron Essayas
       visible:
         - participants
+    - description: Participant / Bern
+      image: /img/tesfamichael_afewerki.jpg
+      name: Michael Afewerki
+      visible:
+        - participants
     - description: Member
       image: /img/michael_benjamin.jpg
       name: Michael Benjamin
@@ -476,6 +469,12 @@ team:
       name: Nour Alayouby
       visible:
         - participants
+    - description: Program Coordinator
+      email: linus.murbach@powercoders.org
+      image: /img/linus-murbach.jpg
+      name: Linus Murbach
+      visible:
+        - team_zurich
     - description: IT Trainer / Zurich
       image: /img/oktawia_kata.jpg
       name: Oktawia Kata
@@ -590,11 +589,6 @@ team:
     - description: Participant / Lausanne
       image: /img/tenzin_lehpel.jpg
       name: Tenzin Lehpel
-      visible:
-        - participants
-    - description: Participant / Bern
-      image: /img/tesfamichael_afewerki.jpg
-      name: Michael Afewerki
       visible:
         - participants
     - description: IT Trainer / Zurich
