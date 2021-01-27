@@ -1,21 +1,21 @@
 ---
 title: Linus Murbach
 image: /img/linus_header.jpg
-section_title: Linus
+section_title: Linus Murbach
 text: >-
   **Interview with Linus – Powercoders Program Coordinator** 
 
 
-  _Why did you absolutely want to join the Powercoders team?_
+  _Powercoders: What did you find intriguing about working for Powercoders?_
 
 
-  I was immediately captivated by the idea of Powercoders, and the more I
+  Linus: I was immediately captivated by the idea of Powercoders and the more I
   learned about the organization, the more I got convinced by the idea. I am
-  happy to take on a task here where I am certain that it is meaningful and
+  happy to take on a task here because I am certain that it is meaningful and
   opens up new perspectives for the participants. At the same time, I also
   believe that with my profile as a primary school teacher and my experience in
   organizing events, I bring along some skills that can be useful for the work
-  at Powercoders. I am a very social person and I am really looking forward to
+  at Powercoders. I am a very sociable person and I am really looking forward to
   meeting the participants, teachers and coaches in April.
 
 
@@ -34,23 +34,23 @@ text: >-
   sense of collaboration in teams.
 
 
-  _You seem to be THE digital nomad in the team. Can you elaborate on that?_ 
+  _You seem to be THE (digital) nomad in the team. Can you elaborate on that?_
 
 
-  I am writing these lines right now in a snowy mountain hut in the canton of
-  Appenzell Ausserrhoden. After so much snow has fallen I went up here with my
-  touring skis and enjoy every afternoon a few dreamlike turns in the powder
-  snow.
+  Right now, I’m in a snowy mountain hut in the canton of Appenzell
+  Ausserrhoden. After so much snow fall I went up here with my touring skis and
+  am enjoying every afternoon a few dreamlike turns in the powder snow.
 
 
-  I have my homebase in the east of Switzerland in St. Gallen, but was and am
+  I have my homebase in the east of Switzerland in St. Gallen but was and am
   always a lot on the move, currently I keep the radius of course also as small
   as possible. I enjoy being able to work remotely for Powercoders and I think
   the current situation has shown many people and organisations that this offers
-  many advantages for both of them. During my studies, I regularly got on the
-  train to study and went someplace, for example took a walk at the lake of
-  Geneva, and continued studying on the way back. From now on I will be working
-  during my train rides.
+  many advantages for everyone. During my studies, I regularly got on the train
+  to study and went someplace, for example took a walk at the lake of Geneva,
+  and continued studying on the way back. From now on I will be working during
+  my train rides. At Powercoders, everyone kind of works from anywhere all the
+  time, so this is a good fit.
 team:
   header: 'Powercoders Switzerland '
 ---
