@@ -19,7 +19,7 @@ story: >-
 
 
   It seems that what developed out of it was worth the wait: After the
-  Powercoders bootcamp in 2018, Abdul started an internship at Bühler in St.
+  Powercoders bootcamp in 2017, Abdul started an internship at Bühler in St.
   Gallen, an opportunity that he literally jumped at. Since 2019 he is very
   happy in his current position as Solutions Engineer at Squirro. His employer
   is a tech startup that specializes in Augmented Intelligence. He likes the
