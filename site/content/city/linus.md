@@ -51,6 +51,19 @@ text: >-
   and continued studying on the way back. From now on I will be working during
   my train rides. At Powercoders, everyone kind of works from anywhere all the
   time, so this is a good fit.
+
+
+  _Is there a special reason why you specifically want to empower refugees and
+  migrants?_ 
+
+
+  To me, people with a migrant background are simply people like everyone else.
+  Unfortunately, in today's society this is seemingly not something that is
+  generally lived by. I want to help change that mindset. At the concert venue
+  in St. Gallen where I worked before the lockdown, we had a very multinational
+  team. Now, I call some of these refugees my friends. Knowing someone up close
+  made me want to do something about their overall situation and I feel I'm in
+  the right place for that at Powercoders.
 team:
   header: 'Powercoders Switzerland '
 ---
