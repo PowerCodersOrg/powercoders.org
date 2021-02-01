@@ -1,7 +1,7 @@
 ---
-title: Linus Murbach
+title: Linus Murbach – Program Coordinator
 image: /img/linus_header.jpg
-section_title: Linus Murbach
+section_title: Linus Murbach – Program Coordinator
 text: >-
   **Interview with Linus – Powercoders Program Coordinator** 
 
