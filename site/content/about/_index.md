@@ -93,6 +93,7 @@ team:
       name: Andrina Beuggert
       visible:
         - team_zurich
+        - team_lausanne
     - description: Member
       image: /img/aron_braun.jpg
       name: Aron Braun
@@ -140,6 +141,8 @@ team:
       name: Christina Gräni
       visible:
         - office_powercoders
+        - team_zurich
+        - team_lausanne
     - description: Job Coach / Bern
       image: /img/christoph_isch.jpg
       name: Christoph Isch
@@ -251,6 +254,7 @@ team:
       name: Hussam Allaham
       visible:
         - team_zurich
+        - team_lausanne
     - description: Job Coach / Zurich
       image: /img/ilya_shumilin.jpg
       name: Ilya Shumilin
@@ -307,6 +311,7 @@ team:
       name: Linus Murbach
       visible:
         - team_zurich
+        - team_lausanne
     - description: Media producer
       image: /img/luana_laederach.jpg
       name: Luana Läderach
@@ -369,6 +374,7 @@ team:
       name: Mark Iandovka
       visible:
         - team_zurich
+        - team_lausanne
     - description: Coach / Bern
       image: /img/markus_gallagher-1-.jpg
       name: Markus Gallagher
@@ -581,6 +587,7 @@ team:
       name: Susanne König
       visible:
         - team_zurich
+        - team_lausanne
     - description: Participant / Zurich
       image: /img/tenzin_gyadhotsang.jpg
       name: Tenzin Gyadhotsang
