@@ -38,7 +38,7 @@ text: >-
   ![Impact Report 2020](/img/impactreport2020_web.jpg "Impact Report 2020")
 
 
-  [Download Impact Report
+  [View Impact Report
   2020](https://powercoders.org/img/powercoders_impact-report2020_web.pdf)
 team:
   members:
