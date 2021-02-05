@@ -39,7 +39,7 @@ text: >-
 
 
   [Download Impact Report
-  2020](https://drive.google.com/file/d/1hodgFXIVChiWM5C8Jw0caO45CmjoC1HZ/view)
+  2020](https://powercoders.org/img/powercoders_impact-report2020_web.pdf)
 team:
   members:
     - description: Participant / Zurich
