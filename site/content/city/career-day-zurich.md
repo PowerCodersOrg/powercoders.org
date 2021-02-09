@@ -34,8 +34,13 @@ text: >-
   their internships in August/September 2021)
 
 
-  **When:** **18** **Mai 2021**, 2 slots available: 9:00 am till 13:30 pm or
-  12:00 till 16:30 pm.
+  **When:** \
+
+  Career Day **Deutschschweiz**: **18** **Mai 2021**, 2 slots available: 9:00 am
+  till 13:30 pm or 12:00 till 16:30 pm. \
+
+  Career Day **Romandie**: **20 Mai 2021**, 1 slot available: 9:00 am till 13:30
+  pm
 
 
   **Where:** to be confirmed
