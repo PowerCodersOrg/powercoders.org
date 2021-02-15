@@ -44,9 +44,7 @@ text: >-
   you're interested in the Automn 2021 batch. \
 
   <a target=”_blank” href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
-  waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a target=”_blank”
-  href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
-  class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>
+  waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai2020_participants.png
