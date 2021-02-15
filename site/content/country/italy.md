@@ -8,8 +8,8 @@ text: >-
 
   **MILAN BATCH WINTER/SPRING 2021** \
 
-  If you would like to get involved as a volunteer, student or company, please
-  apply below for our current program! 
+  If you would like to get involved as a volunteer or company, please apply
+  below for our current program! 
 
 
   **Probation & Preparation:** December – January 2021 \
@@ -34,7 +34,7 @@ text: >-
   _Powercoders a Milano sarà gestito da Le Wagon Italia._ 
 
 
-  **_PROGRAMMA MILANO INVERNO/PRIMAVERA 2021_** \
+  _**PROGRAMMA MILANO INVERNO/PRIMAVERA 2021**_ \
 
   _Se sei interessato/a a partecipare al nostro programma come volontario/a,
   studente/essa o azienda, inviaci la tua candidatura compilando i moduli che
@@ -45,14 +45,6 @@ text: >-
 
 
   **Get involved!**
-
-
-  **AS A PARTICIPANT**\
-
-  <a href="https://forms.gle/wzTrzTo6MUsz1hft6" class="btn waves-effect
-  waves-light pwc-red">APPLY</a>\
-
-  [More information](/participant/)
 
 
   **AS A COMPANY**\
