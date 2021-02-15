@@ -19,7 +19,7 @@ country_program:
       fade_in: Left
       header: Italy (Milan)
       link: /country/italy/
-      text: The next program in Italy will start in January 2021 in Milan.
+      text: The program in Italy started in January 2021 in Milan.
 past_program:
   header: Past Programs
   items:
