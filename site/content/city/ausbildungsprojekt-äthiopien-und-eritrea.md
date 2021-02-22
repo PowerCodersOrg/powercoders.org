@@ -113,6 +113,6 @@ apply_as:
     header: Anmeldung
     text: Hier anmelden
 team:
-  header: none
+  header: '-'
 ---
 
