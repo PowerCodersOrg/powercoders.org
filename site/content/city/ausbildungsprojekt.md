@@ -104,10 +104,7 @@ text: >-
 
   <a href="http://tiny.cc/view_ausbildungsprojekt" class="btn waves-effect
   waves-light pwc-red">Anmeldung Ausbildungsprojekt</a>
-apply_as:
-  - application_link: 'https://form.jotform.com/210521471893353'
-    header: Anmeldung
-    text: Hier anmelden
+apply_as: []
 team:
   header: none
 ---
