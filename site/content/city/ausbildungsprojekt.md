@@ -102,13 +102,8 @@ text: >-
   und Kandidatinnen erhalten alle Informationen direkt durch Powercoders.
 
 
-  ****
-
-
-  ****
-
-
-  ****
+  <a href="http://tiny.cc/view_ausbildungsprojekt" class="btn waves-effect
+  waves-light pwc-red">Anmeldung Ausbildungsprojekt</a>
 apply_as:
   - application_link: 'https://form.jotform.com/210521471893353'
     header: Anmeldung
