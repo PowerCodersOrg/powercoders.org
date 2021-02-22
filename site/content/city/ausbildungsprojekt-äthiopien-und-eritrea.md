@@ -1,5 +1,5 @@
 ---
-title: Ausbildungsprojekt
+title: Ausbildungsprojekt (to cancel)
 section_title: «Berufsbildung IT» für abgewiesene Asylsuchende aus Äthiopien und Eritrea
 text: >-
   Im November 2019 hat das Staatssekretariat für Migration (SEM) basierend auf
@@ -108,10 +108,7 @@ text: >-
 
 
   ****
-apply_as:
-  - application_link: 'https://form.jotform.com/210521471893353'
-    header: Anmeldung
-    text: Hier anmelden
+apply_as: []
 team:
   header: '-'
 ---
