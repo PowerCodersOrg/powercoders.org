@@ -1,5 +1,6 @@
 ---
 title: Ausbildungsprojekt
+image: /img/_j2a0373.png
 section_title: «Berufsbildung IT» für abgewiesene Asylsuchende aus Äthiopien und Eritrea
 text: >-
   Im November 2019 hat das Staatssekretariat für Migration (SEM) basierend auf
