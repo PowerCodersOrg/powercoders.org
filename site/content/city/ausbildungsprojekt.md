@@ -1,22 +1,18 @@
 ---
 title: Ausbildungsprojekt
 image: /img/_j2a0373.png
-section_title: «Berufsbildung IT» für abgewiesene Asylsuchende aus Äthiopien und Eritrea
+section_title: «Berufsbildung IT» für abgewiesene Asylsuchende
 text: >-
   Im November 2019 hat das Staatssekretariat für Migration (SEM) basierend auf
   einem Konzeptpapier zu möglichen Handlungsoptionen für abgewiesene
-  Asylsuchende aus Eritrea und Äthiopien die Umsetzung eines Ausbildungsprojekts
-  «Berufsbildung IT» in
-
-
-  Zusammenarbeit mit der Partnerorganisation «Powercoders»
-  (https://powercoders.org/) gutgeheissen. Das Pilotprojekt musste 2020 wegen
-  der Pandemie abgebrochen werden. Das SEM entschied im November 2020 das
-  Ausbildungsprojekt 2021/22 für je fünf Teilnehmende pro Kalenderjahr dennoch
-  zu lancieren. Dies mit dem erklärten Ziel, diese fünf Plätze mit
-  rückkehrwilligen Personen zu besetzen, falls notwendig unter Erweiterung der
-  Zielgruppe (vgl. 1.1), um den zentralen Rückkehr- und Reintegrationsprozess
-  umsetzen zu können.
+  Asylsuchende aus Äthiopien / Eritrea die Umsetzung eines Ausbildungsprojekts
+  «Berufsbildung IT» in Zusammenarbeit mit der Partnerorganisation «Powercoders»
+  gutgeheissen. Das Pilotprojekt musste 2020 wegen der Pandemie abgebrochen
+  werden. Das SEM entschied im November 2020 das Ausbildungsprojekt 2021/22 für
+  je fünf Teilnehmende pro Kalenderjahr dennoch zu lancieren. Dies mit dem
+  erklärten Ziel, diese fünf Plätze mit rückkehrwilligen Personen zu besetzen,
+  falls notwendig unter Erweiterung der Zielgruppe (vgl. 1.1), um den zentralen
+  Rückkehr- und Reintegrationsprozess umsetzen zu können.
 
 
   Das Projekt «Berufsbildung IT» ermöglicht fünf abgewiesenen Personen aus
