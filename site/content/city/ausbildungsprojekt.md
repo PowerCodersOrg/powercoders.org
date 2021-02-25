@@ -52,8 +52,8 @@ text: >-
 
 
   Voraussetzung für die Kursteilnahme sind gute Englischkenntnisse, hohe
-  Motivation und Interesse für die IT, welche Powercoders in einem Eignungstest
-  im Juli 2021 vorgängig prüft (vgl. Pkt. 2).
+  Motivation und Affinität für die IT, welche Powercoders in einer
+  Eignungsabklärung im August 2021 vorgängig prüft.
 
 
   Alle Informationen und Unterlagen an die Zielgruppe sind ausschliesslich in
@@ -65,12 +65,12 @@ text: >-
 
   Die Teilnehmenden unterzeichnen eine Absichtserklärung, in welcher sie sich
   bereit erklären, nach der Absolvierung des Kurses mit einer beruflichen
-  Anschlusslösung in ihre Heimat zurückzukehren (vgl. Beilage 3).
+  Anschlusslösung in ihre Heimat zurückzukehren.
 
 
-  Sollten sich mehr Personen für den Kurs interessieren, als Plätze zur
-  Verfügung stehen (vgl.3.2), erhalten Personen den Vorzug, welche dem SEM
-  bereits zum Zeitpunkt der Anmeldung gültige Reisedokumente vorlegen.
+  Sollten sich mehr Personen für den Kurs eignen, als Plätze zur Verfügung
+  stehen, erhalten Personen den Vorzug, welche dem SEM bereits zum Zeitpunkt der
+  Anmeldung gültige Reisedokumente vorlegen.
 
 
   Die RKB schicken die unterzeichneten Absichtserklärungen an die Sektion
@@ -78,24 +78,24 @@ text: >-
   Thomas Lory), welche mögliche Ausschlussgründe prüft.
 
 
-  Die Anmeldungen werden nach Eingang berücksichtigt («first come, first
-  served»). Personen aus Äthiopien und Eritrea haben gegenüber den geeigneten
-  Personen aus anderen Ländern Vorrang (Warteliste).
+  Personen aus Äthiopien und Eritrea haben gegenüber den geeigneten Personen aus
+  anderen Ländern Vorrang (Warteliste).
 
 
   **2. Anmeldung Eignungstest Powercoders**
 
 
   Die RKB prüft, ob die notwendigen Englischkenntnisse vorhanden sind und ob
-  allfällige Ausschlussgründe vorliegen. Die interessierten Personen füllen die
+  allfällige Ausschlussgründe vorliegen. Die geeigneten Personen füllen die
   Online-Anmeldung auf der Webseite der Powercoders selbständig aus. Die RKB
   unterstützt sie. 
 
 
   Online-Anmeldungen können bis und mit dem 14. Juni 2021 berücksichtigt werden.
-  Powercoders entscheidet anhand der Online-Anmeldungen über den Zugang zum
-  Eignungstest. Der Eignungstest findet in Bern statt. Die geeigneten Kandidaten
-  und Kandidatinnen erhalten alle Informationen direkt durch Powercoders.
+  Powercoders entscheidet anhand der Online-Anmeldungen über den Zugang zur
+  Eignungsabklärung. Die Eignungsabklärung findet in Bern statt. Die geeigneten
+  Kandidaten und Kandidatinnen erhalten alle Informationen direkt durch
+  Powercoders.
 
 
   <a href="https://form.jotform.com/210521471893353" class="btn waves-effect
