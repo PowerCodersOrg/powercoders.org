@@ -11,6 +11,14 @@ text: >-
   kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
 media:
   - entries:
+      - date: 25.2.2021
+        links:
+          - link: >-
+              https://www.berneyassocies.com/en/news/une-experience-signee-powercoders
+            link_text: Une expérience signée Powercoders
+            title: Berney Associés (blog / French)
+    year: '2021'
+  - entries:
       - date: 25.11.2020
         links:
           - link: >-
