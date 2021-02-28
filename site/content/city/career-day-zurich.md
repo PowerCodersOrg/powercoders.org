@@ -56,7 +56,7 @@ text: >-
 
   3. Invite them for an interview the week after. \
 
-  4. Decide if and to whom you like to offer an internship.
+  4. Decide if and to whom you would like to offer an internship.
 
 
   **Cost:** Free
