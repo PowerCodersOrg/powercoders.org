@@ -39,8 +39,8 @@ text: >-
   Career Day **Deutschschweiz**: **18** **Mai 2021**, 2 slots available: 9:00 am
   till 13:30 pm or 12:00 till 16:30 pm. \
 
-  Career Day **Romandie**: **20 Mai 2021**, 1 slot available: 13:00 pm till
-  16:15 pm
+  Career Day **Romandie**: **23 June 2021**, 2 slots available: 9:00 am till
+  13:30 pm or 12:00 till 16:30 pm
 
 
   **Where:** to be confirmed
@@ -49,14 +49,14 @@ text: >-
   **Program:**\
 
 
-  1. Receive all the CVs beginning of Mai 2021. \
+  1. Receive all the CVs 1 week before the Career Day. \
 
   2. Join the Career Day either morning or afternoon and pick your top
   candidates. \
 
   3. Invite them for an interview the week after. \
 
-  4. Decide to whom you like to offer an internship.
+  4. Decide if and to whom you like to offer an internship.
 
 
   **Cost:** Free
