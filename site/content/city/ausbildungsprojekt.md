@@ -16,11 +16,11 @@ text: >-
 
 
   Das Projekt «Berufsbildung IT» ermöglicht fünf abgewiesenen Personen aus
-  Äthiopien und Eritrea zwischen September und Dezember 2021 eine Ausbildung im
-  IT-Bereich und sieht eine berufliche Anschlusslösung im Heimatland nach der
-  Rückkehr im Frühjahr 2022 vor. In einem zweiten Kurs Anfang 2022 erhalten fünf
-  Personen aus der Westschweiz die Möglichkeit zur Teilnahme (Ausreise Herbst
-  2022). 
+  vollzugsschwierigen und nicht von der Visumspflicht befreiten Ländern zwischen
+  September und Dezember 2021 eine Ausbildung im IT-Bereich und sieht eine
+  berufliche Anschlusslösung im Heimatland nach der Rückkehr im Frühjahr 2022
+  vor. In einem zweiten Kurs Anfang 2022 erhalten fünf Personen aus der
+  Westschweiz die Möglichkeit zur Teilnahme (Ausreise Herbst 2022). 
 
 
   **1. Voraussetzungen für die Teilnahme am Pilotprojekt**
@@ -29,10 +29,10 @@ text: >-
   **1.1 Begünstigte Personengruppen**
 
 
-  Teilnahmeberechtigt sind alle asylsuchenden Personen aus Äthiopien und
-  Eritrea, die verpflichtet sind, die Schweiz zu verlassen, sofern sie bereit
-  sind, nach Absolvierung des Kurses in ihr Heimat- oder Herkunftsland
-  auszureisen.
+  Teilnahmeberechtigt sind alle asylsuchenden Personen aus vollzugsschwierigen
+  und nicht von der Visumspflicht befreiten Ländern, die verpflichtet sind, die
+  Schweiz zu verlassen, sofern sie bereit sind, nach Absolvierung des Kurses in
+  ihr Heimat- oder Herkunftsland auszureisen.
 
 
   Sollten Ausbildungsplätze frei bleiben, können Kandidaten und Kandidatinnen
