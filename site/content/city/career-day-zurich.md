@@ -82,7 +82,7 @@ team:
   members:
     - description: Industry Lead Switzerland
       email: hussam.allaham@powercoders.org
-      image: /img/hussam_allaham.jpg
+      image: /img/hussam-allaham_1.jpg
       name: Hussam Allaham
     - description: Industry Lead Romandie
       email: christina.graeni@powercoders.org
