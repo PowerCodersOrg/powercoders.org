@@ -736,7 +736,7 @@ collections:
         required: false
         widget: select
         multiple: true
-        options: [ "basel", "bern", "career-day-zurich", "company", "volunteer", "lausanne", "zurich", "turin", "home" ]
+        options: [ "basel", "bern", "career-day-zurich", "company", "volunteer", "lausanne", "zurich", "turin", "home", "switzerland", "italy" ]
 
   - name: alumni
     label: "Alumni"
