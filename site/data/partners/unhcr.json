@@ -1,9 +1,10 @@
 {
   "title": "UNHCR",
-  "image": "/img/community_italy_unhcr_logoweb.jpg",
+  "image": "/img/logo_unhcr.jpg",
   "link": "https://www.unhcr.org/italy.html",
   "type": "community_partner",
   "city": [
-    "turin"
+    "turin",
+    "italy"
   ]
 }
