@@ -1,0 +1,10 @@
+{
+  "title": "Industry Bedag",
+  "image": "/img/logo_bedag.jpg",
+  "link": "https://www.bedag.ch/",
+  "type": "company_member",
+  "city": [
+    "home",
+    "company"
+  ]
+}
