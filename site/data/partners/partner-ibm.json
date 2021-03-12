@@ -1,0 +1,10 @@
+{
+  "title": "Partner IBM",
+  "image": "/img/logo_ibm.jpg",
+  "link": "https://www.ibm.com/ch-de",
+  "type": "company_member",
+  "city": [
+    "home",
+    "company"
+  ]
+}
