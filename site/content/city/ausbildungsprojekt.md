@@ -98,7 +98,7 @@ text: >-
   Powercoders.
 
 
-  <a href="https://form.jotform.com/210521471893353" class="btn waves-effect
+  <a href="https://form.jotform.com/210594280674358" class="btn waves-effect
   waves-light pwc-red">Anmeldung Ausbildungsprojekt</a>
 apply_as: []
 team:
