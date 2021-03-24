@@ -1,5 +1,5 @@
 {
-  "remove_after": "2020-09-07T11:35:00.000Z",
+  "remove_after": "2021-04-06T11:35:00.000Z",
   "audience": [
     "home",
     "volunteer",
@@ -11,10 +11,10 @@
     "zurich"
   ],
   "header_icon": "fa-rocket",
-  "text": "Another batch with another group of talents is starting in September in Zürich. Join our virtual launch ceremony to get to know the new champs and to celebrate together the kick off of another batch.",
+  "text": "Join us (online) to celebrate together the start of a new batch of Powercoders Switzerland and get to know the new participants and the team.",
   "meetup_link": "https://www.meetup.com/Powercoders/events/272486969/",
-  "title": "Launch Ceremony - Powercoders Deutschschweiz",
+  "title": "Launch Ceremony - Powercoders Switzerland",
   "call_to_action": "Join",
-  "when": "2020-09-07T12:00:00.000Z",
-  "link": "https://forms.gle/9cmfcbmUxBrgqGTQ9"
+  "when": "2021-04-06T10:00:00.000Z",
+  "link": "https://zoom.us/j/92452716137?pwd=RHozek9HVzNtMEJ5UTlENGVpSFI2dz09"
 }
