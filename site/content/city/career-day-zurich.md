@@ -43,7 +43,7 @@ text: >-
   am till 13:30 pm or 12:00 till 16:30 pm
 
 
-  **Where:** to be confirmed
+  **Locations:** to be announced soon
 
 
   **Program:**\
