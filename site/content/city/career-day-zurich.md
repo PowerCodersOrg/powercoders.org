@@ -36,14 +36,14 @@ text: >-
 
   **When:** \
 
-  Career Day **Deutschschweiz**: **18** **Mai 2021**, 2 slots available: 9:00 am
-  till 13:30 pm or 12:00 till 16:30 pm. \
+  Career Day **Deutschschweiz**: **18** **Mai 2021 in Zurich**, 2 slots
+  available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm. \
 
-  Career Day **Romandie**: **23 June 2021**, 2 slots available: 9:00 am till
-  13:30 pm or 12:00 till 16:30 pm
+  Career Day **Romandie**: **23 June 2021 in Lausanne**, 2 slots available: 9:00
+  am till 13:30 pm or 12:00 till 16:30 pm
 
 
-  **Where:** to be confirmed
+  **Locations:** to be announced soon
 
 
   **Program:**\
