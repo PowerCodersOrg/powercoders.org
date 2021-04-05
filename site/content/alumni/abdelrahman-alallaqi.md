@@ -39,7 +39,7 @@ story: >-
 
   And he got his chance when he applied for the Powercoders program in 2018. The
   program in early 2019 was a success for him as it resulted in an
-  apprenticeship at adobe. To Abdelrahman, this was like a dream come true.
+  apprenticeship at Adobe. To Abdelrahman, this was like a dream come true.
   Everything about the company seemed exciting. Still, especially the first 6
   months of the internship were hard. So much learning by himself and trying to
   soak up as much information in little time as possible. His breakthrough
