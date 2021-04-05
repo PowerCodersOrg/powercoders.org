@@ -1,7 +1,7 @@
 ---
 title: Abdelrahman Alallaqi
 image: /img/9710c6a9-1ab9-4003-a75d-277febec1174.jpg
-header_image: /img/9710c6a9-1ab9-4003-a75d-277febec1174.jpg
+header_image: /img/abdelrahman_header.jpg
 background: 'From Libya, 29 years old, Junior Software Developer at Adobe'
 story: >-
   **From “School doesn’t do anything for you” to “I want to learn more of this
