@@ -11,9 +11,7 @@ country_program:
       fade_in: Up
       header: Switzerland
       link: /country/switzerland
-      text: >-
-        The next program in Switzerland will start in spring 2021. Applications
-        are closed now.  
+      text: 'The current program in Switzerland started in spring 2021.  '
     - call_to_action: More
       color: teal lighten-4
       fade_in: Left
