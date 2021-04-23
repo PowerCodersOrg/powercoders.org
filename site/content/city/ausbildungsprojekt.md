@@ -3,24 +3,18 @@ title: Ausbildungsprojekt
 image: /img/_j2a0373.png
 section_title: «Berufsbildung IT» für abgewiesene Asylsuchende
 text: >-
-  Im November 2019 hat das Staatssekretariat für Migration (SEM) basierend auf
-  einem Konzeptpapier zu möglichen Handlungsoptionen für abgewiesene
-  Asylsuchende aus Äthiopien / Eritrea die Umsetzung eines Ausbildungsprojekts
-  «Berufsbildung IT» in Zusammenarbeit mit der Partnerorganisation «Powercoders»
-  gutgeheissen. Das Pilotprojekt musste 2020 wegen der Pandemie abgebrochen
-  werden. Das SEM entschied im November 2020 das Ausbildungsprojekt 2021/22 für
-  je fünf Teilnehmende pro Kalenderjahr dennoch zu lancieren. Dies mit dem
-  erklärten Ziel, diese fünf Plätze mit rückkehrwilligen Personen zu besetzen,
-  falls notwendig unter Erweiterung der Zielgruppe (vgl. 1.1), um den zentralen
-  Rückkehr- und Reintegrationsprozess umsetzen zu können.
+  Das Ziel des Programmes ist es, geflüchteten Menschen die keine
+  Aufenthaltsbewilligung für die Schweiz erhalten haben und bereit sind
+  freiwillig in ihr Herkunftsland zurückzukehren, den Einstieg in die
+  IT-Industrie ermöglichen. Dabei ist es besonders wichtig, dass sie eine hohe
+  Motivation für das Berufsfeld ICT mitbringen.
 
 
-  Das Projekt «Berufsbildung IT» ermöglicht fünf abgewiesenen Personen aus
-  vollzugsschwierigen und nicht von der Visumspflicht befreiten Ländern zwischen
-  September und Dezember 2021 eine Ausbildung im IT-Bereich und sieht eine
-  berufliche Anschlusslösung im Heimatland nach der Rückkehr im Frühjahr 2022
-  vor. In einem zweiten Kurs Anfang 2022 erhalten fünf Personen aus der
-  Westschweiz die Möglichkeit zur Teilnahme (Ausreise Herbst 2022). 
+  Das SEM entschied im November 2020, das Ausbildungsprojekt 2021⁄22 für je fünf
+  Teilnehmende pro Kalenderjahr zu lancieren. Dies mit dem erklärten Ziel, diese
+  fünf Plätze mit Personen aus prioritär Eritrea und Äthiopien zu besetzen
+  (falls notwendig unter Erweiterung der Herkunftsländer) um den zentralen
+  Rückkehr- und Reintegrationsprozess umsetzen und testen zu können.
 
 
   **1. Voraussetzungen für die Teilnahme am Pilotprojekt**
@@ -29,19 +23,15 @@ text: >-
   **1.1 Begünstigte Personengruppen**
 
 
-  Teilnahmeberechtigt sind alle asylsuchenden Personen Eritrea und Äthiopien,
-  die verpflichtet sind, die Schweiz zu verlassen, sofern sie freiwillig bereit
-  sind, nach Absolvierung des Kurses in ihr Heimat- oder Herkunftsland
-  auszureisen.
+  Teilnahmeberechtigt sind prioritär alle asylsuchenden Personen Eritrea und
+  Äthiopien, die verpflichtet sind, die Schweiz zu verlassen, sofern sie
+  freiwillig bereit sind, nach Absolvierung des Kurses in ihr Heimat- oder
+  Herkunftsland auszureisen.
 
 
   Sollten Ausbildungsplätze frei bleiben, können Kandidaten und Kandidatinnen
   aus anderen vollzugsschwierigen und nicht von der Visumspflicht befreiten
   Ländern das Angebot nutzen.
-
-
-  Die kantonalen Rückkehrberatungsstellen (RKB) identifizieren dem
-  Anforderungsprofil entsprechende Personen und setzen sie auf eine Warteliste.
 
 
   Nicht teilnahmeberechtig sind Personen, die sich in den Bundesasylzentren
@@ -68,34 +58,14 @@ text: >-
   Anschlusslösung in ihre Heimat zurückzukehren.
 
 
-  Sollten sich mehr Personen für den Kurs eignen, als Plätze zur Verfügung
-  stehen, erhalten Personen den Vorzug, welche dem SEM bereits zum Zeitpunkt der
-  Anmeldung gültige Reisedokumente vorlegen.
-
-
-  Die RKB schicken die unterzeichneten Absichtserklärungen an die Sektion
-  Rückkehrgrundlagen und Rückkehrhilfe (Kontaktpersonen: Alexander Gisler und
-  Thomas Lory), welche mögliche Ausschlussgründe prüft.
-
-
-  Personen aus Äthiopien und Eritrea haben gegenüber den geeigneten Personen aus
-  anderen Ländern Vorrang (Warteliste).
-
-
   **2. Anmeldung Eignungstest Powercoders**
 
 
-  Die RKB prüft, ob die notwendigen Englischkenntnisse vorhanden sind und ob
-  allfällige Ausschlussgründe vorliegen. Die geeigneten Personen füllen die
-  Online-Anmeldung auf der Webseite der Powercoders selbständig aus. Die RKB
-  unterstützt sie. 
-
-
-  Online-Anmeldungen können bis und mit dem 14. Juni 2021 berücksichtigt werden.
-  Powercoders entscheidet anhand der Online-Anmeldungen über den Zugang zur
-  Eignungsabklärung. Die Eignungsabklärung findet in Bern statt. Die geeigneten
-  Kandidaten und Kandidatinnen erhalten alle Informationen direkt durch
-  Powercoders.
+  Online-Anmeldungen können bis und mit dem Ende Juni 2021 berücksichtigt
+  werden. Powercoders entscheidet anhand der Online-Anmeldungen über den Zugang
+  zur Eignungsabklärung. Die Eignungsabklärung findet in Bern statt. Die
+  geeigneten Kandidaten und Kandidatinnen erhalten alle Informationen direkt
+  durch Powercoders.
 
 
   <a href="https://form.jotform.com/210594280674358" class="btn waves-effect
@@ -106,11 +76,11 @@ team:
 faqs:
   - header: Was ist das Ziel von diesem Programm?
     text: >-
-      Wir wollen geflüchteten Menschen, die keine Aufenthaltsbewilligung für die
-      Schweiz erhalten haben und bereit sind freiwillig in ihr Herkunftsland
-      zurückzukehren, den Einstieg in die IT-Industrie ermöglichen. Dabei ist es
-      besonders wichtig, dass sie eine hohe Motivation für das Berufsfeld ICT
-      mitbringen.  
+      Das Ziel des Programmes ist es, geflüchteten Menschen die keine
+      Aufenthaltsbewilligung für die Schweiz erhalten haben und bereit sind
+      freiwillig in ihr Herkunftsland zurückzukehren, den Einstieg in die
+      IT-Industrie ermöglichen. Dabei ist es besonders wichtig, dass sie eine
+      hohe Motivation für das Berufsfeld ICT mitbringen.  
 
 
       Das SEM entschied  im November 2020, das Ausbildungsprojekt  2021/22 für
