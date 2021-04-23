@@ -227,7 +227,9 @@ faqs:
       zurückzukehren?
     text: >-
       Diese Person erhält keine Möglichkeit auf ein Praktikum bzw. befristetes
-      Arbeitsverhältnis. Die Verpflichtung, die Schweiz zu verlassen, besteht
-      weiterhin.
+      Arbeitsverhältnis. \
+
+      Die Verpflichtung, die Schweiz zu verlassen, besteht weiterhin, unabhängig
+      von diesem Programm.
 ---
 
