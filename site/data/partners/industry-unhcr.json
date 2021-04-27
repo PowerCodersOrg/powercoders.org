@@ -3,9 +3,5 @@
   "image": "/img/industry_unhcr.png",
   "link": "https://powercoders.org/",
   "type": "community_partner",
-  "city": [
-    "lausanne",
-    "home",
-    "zurich"
-  ]
+  "city": []
 }
