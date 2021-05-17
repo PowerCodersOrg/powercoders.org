@@ -13,8 +13,8 @@ text: >-
 
   **BATCH AUTUMN 2021**\
 
-  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews, Testing & Prep in
-  July/Aug)\
+  Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews: 8, 12, 19 & 21 July
+  2021, Testing & Prep in July/Aug)\
 
   Internship: 6–12 months, starting Jan / Feb 2022
 
@@ -22,8 +22,9 @@ text: >-
   - - -
 
 
-  Applications for Spring 2021 batch are now closed. Fill the form below if
-  you're interested in the Automn 2021 batch. 
+  Fill the form below if you’re interested in the Automn 2021 batch and we will
+  inform you as soon as we are accepting applications. Application period will
+  be open from 31 May to 28 June 2021.
 
 
   **APPLY AS A PARTICIPANT**\
@@ -37,8 +38,7 @@ text: >-
   - - -
 
 
-  We are looking for companies and volunteers for our next batch starting in
-  April 2021.\
+  We are looking for companies and volunteers for our next batches.\
 
   **Get involved!**
 
@@ -71,7 +71,7 @@ text: >-
   - - -
 
 
-  ****
+  - - -
 apply_as: []
 team:
   header: Team Switzerland
