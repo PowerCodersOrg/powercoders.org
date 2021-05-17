@@ -76,10 +76,10 @@ apply_as: []
 team:
   header: Team Switzerland
   members:
-    - description: Social Lead Switzerland
-      email: andrina.beuggert@powercoders.org
-      image: /img/andrina_beuggert.jpg
-      name: Andrina Beuggert
+    - description: Program Coordinator
+      email: linus.murbach@powercoders.org
+      image: /img/linus-murbach.jpg
+      name: Linus Murbach
     - description: CEO Powercoders Switzerland
       email: bettina.hirsig@powercoders.org
       image: /img/bettina_hirsig.jpg
@@ -92,10 +92,6 @@ team:
       email: hussam.allaham@powercoders.org
       image: /img/hussam_allaham.jpg
       name: Hussam Allaham
-    - description: Program Coordinator
-      email: linus.murbach@powercoders.org
-      image: /img/linus-murbach.jpg
-      name: Linus Murbach
     - description: Finance & Community Management
       email: maria.multani@powercoders.org
       image: /img/maria_multani.jpg
@@ -108,5 +104,9 @@ team:
       email: susanne.koenig@powercoders.org
       image: /img/me_square.jpg
       name: Susanne König
+    - description: Social Lead Switzerland
+      email: andrina.beuggert@powercoders.org
+      image: /img/andrina_beuggert.jpg
+      name: Andrina Beuggert
 ---
 
