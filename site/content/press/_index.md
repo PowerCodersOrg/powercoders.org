@@ -8,7 +8,7 @@ text: >-
 
 
   **Download** [press
-  kit](https://drive.google.com/drive/folders/1g1I0VZLNDVhACaPU6sKJ83biSeXW-nH5?usp=sharing)
+  kit](https://drive.google.com/drive/folders/1Of5djcMtIMvW9cvQ0KP-xPsOQoeEtgFV?usp=sharing)
 media:
   - entries:
       - date: 25.2.2021
