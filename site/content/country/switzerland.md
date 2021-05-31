@@ -11,7 +11,7 @@ text: >-
   Internship: 6–12 months, starting August / September 2021 
 
 
-  **BATCH AUTUMN 2021**\
+  **BATCH FALL 2021**\
 
   Bootcamp / IT Training: 13 Sept - 10 Dec 2021 (Interviews: 8, 12, 19 & 21 July
   2021, Testing & Prep in July/Aug)\
@@ -19,28 +19,11 @@ text: >-
   Internship: 6–12 months, starting Jan / Feb 2022
 
 
+  **Application period for our Fall Program 2021 in Switzerland is open from 31
+  May to 28 June 2021.**
+
+
   - - -
-
-
-  **INFO SESSIONS**
-
-
-  Do you have any more questions? Join one of our two info sessions that are
-  coming up:
-
-
-  Wednesday, 10 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
-
-
-  Monday, 21 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
-
-
-
-
-  Application period for our Fall Program 2021 in Switzerland is open from 31
-  May to 28 June 2021.
 
 
   **APPLY AS A PARTICIPANT**\
@@ -52,6 +35,22 @@ text: >-
 
 
   - - -
+
+
+  **INFO SESSIONS**\
+
+  Do you have any more questions? Join one of our two info sessions that are
+  coming up:\
+
+  Wednesday, 10 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)\
+
+  Monday, 21 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+
+
+
+
 
 
   We are looking for companies and volunteers for our next batches.\
