@@ -40,14 +40,13 @@ text: >-
   **Apply in your country of residence.** 
 
 
-  Fill the form below if you're interested in the Automn 2021 batch and we will
-  inform you as soon as we are accepting applications. Application period will
-  be open from 31 May to 28 June 2021.
+  Application period for our Fall Program 2021 is open from 31 May to 28 June
+  2021.
 
 
   \
 
-  <a target=”_blank” href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
+  <a target=”_blank” href="https://form.jotform.com/211362793758364" class="btn
   waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a>
 programme:
   header: Our program
