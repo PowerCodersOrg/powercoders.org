@@ -193,7 +193,7 @@ programme:
     (by University of Zurich)
 
 
-    **Info Sessions: 10 & 21 June 2021**
+    **Info Sessions**
 
 
     Do you have any more questions? Join one of our two info sessions that are
