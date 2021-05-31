@@ -22,9 +22,25 @@ text: >-
   - - -
 
 
-  Fill the form below if you’re interested in the Automn 2021 batch and we will
-  inform you as soon as we are accepting applications. Application period will
-  be open from 31 May to 28 June 2021.
+  **INFO SESSIONS**
+
+
+  Do you have any more questions? Join one of our two info sessions that are
+  coming up:
+
+
+  Wednesday, 10 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
+
+
+  Monday, 21 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+
+
+
+
+  Application period for our Fall Program 2021 in Switzerland is open from 31
+  May to 28 June 2021.
 
 
   **APPLY AS A PARTICIPANT**\
