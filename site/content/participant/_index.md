@@ -37,6 +37,20 @@ text: >-
   We encourage women to apply for our program. 
 
 
+  **Info Sessions**
+
+
+  Do you have any more questions? Join one of our two info sessions that are
+  coming up:
+
+
+  * Wednesday, 10 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
+
+  * Monday, 21 June, 6-7:00pm, [sign up
+  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+
+
   **Apply in your country of residence.** 
 
 
@@ -99,25 +113,12 @@ programme:
     benefit from their support.
 
 
-    **Next Generation Fund**: Participants commit to paying forward a
-    scholarship for a future participant once they are in a comfortable
-    financial situation through Powercoders.
+    **Alumni Club:** Participants commit to paying forward for future
+    participants once they are in a comfortable financial situation through
+    Powercoders.
 
 
     - - -
-
-
-    ###### NEXT PROGRAM IN FALL 2021 
-
-
-    Application period for our Fall Program 2021 in Switzerland is open from 31
-    May to 28 June 2021.\
-
-    <a target=”_blank” href="https://form.jotform.com/211362793758364"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
-    target=”_blank”
-    href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>  
 
 
     **For social workers:** download the [factsheet
@@ -193,6 +194,22 @@ programme:
     [CV instructions &
     example](https://www.careerservices.uzh.ch/en/ratgeber/bewerbung/bewerbungsdossier/Lebenslauf.html)
     (by University of Zurich)
+
+
+    **Info Sessions: 10 & 21 June 2021**
+
+
+    Do you have any more questions? Join one of our two info sessions that are
+    coming up:
+
+
+    * Wednesday, 10 June, 6-7:00pm, [sign up
+    here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
+
+    * Monday, 21 June, 6-7:00pm, [sign up
+    here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+
+
 
 
     ###### APPLY NOW
