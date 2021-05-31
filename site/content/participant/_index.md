@@ -37,7 +37,7 @@ text: >-
   We encourage women to apply for our program. 
 
 
-  **Info Sessions**
+  **Info Sessions** 
 
 
   Do you have any more questions? Join one of our two info sessions that are
@@ -51,7 +51,7 @@ text: >-
   here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
 
 
-  **Apply in your country of residence.** 
+  **Application (online)** 
 
 
   Application period for our Fall Program 2021 in Switzerland is open from 31
@@ -116,9 +116,6 @@ programme:
     **Alumni Club:** Participants commit to paying forward for future
     participants once they are in a comfortable financial situation through
     Powercoders.
-
-
-    - - -
 
 
     **For social workers:** download the [factsheet
@@ -208,8 +205,6 @@ programme:
 
     * Monday, 21 June, 6-7:00pm, [sign up
     here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
-
-
 
 
     ###### APPLY NOW
