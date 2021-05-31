@@ -29,7 +29,7 @@ text: >-
 
   **APPLY AS A PARTICIPANT**\
 
-  <a target="_blank" href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
+  <a target="_blank" href="https://form.jotform.com/211362793758364" class="btn
   waves-effect waves-light pwc-red">APPLY NOW</a> \
 
   [More information](/participant/)
