@@ -37,20 +37,6 @@ text: >-
   We encourage women to apply for our program. 
 
 
-  **Info Sessions** 
-
-
-  Do you have any more questions? Join one of our two info sessions that are
-  coming up:
-
-
-  * Wednesday, 10 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
-
-  * Monday, 21 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
-
-
   **Application (online)** 
 
 
@@ -193,6 +179,9 @@ programme:
     (by University of Zurich)
 
 
+    ****
+
+
     **Info Sessions**
 
 
@@ -205,6 +194,8 @@ programme:
 
     * Monday, 21 June, 6-7:00pm, [sign up
     here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+
+
 
 
     ###### APPLY NOW
