@@ -40,8 +40,8 @@ text: >-
   **Apply in your country of residence.** 
 
 
-  Application period for our Fall Program 2021 is open from 31 May to 28 June
-  2021.
+  Application period for our Fall Program 2021 in Switzerland is open from 31
+  May to 28 June 2021.
 
 
   \
@@ -107,17 +107,14 @@ programme:
     - - -
 
 
-    ###### NEXT PROGRAM IN 2021
+    ###### NEXT PROGRAM IN FALL 2021 
 
 
-    Applications for Spring 2021 batch are now closed. Fill the form below if
-    you're interested in the Automn 2021 batch.
+    Application period for our Fall Program 2021 in Switzerland is open from 31
+    May to 28 June 2021.\
 
-
-    **Apply in your country of residence.** \
-
-    <a target=”_blank” href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
-    waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
+    <a target=”_blank” href="https://form.jotform.com/211362793758364"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
     target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>  
@@ -203,8 +200,8 @@ programme:
 
     **Apply in your country of residence.** \
 
-    <a target=”_blank” href="https://forms.gle/VipCQvtBkZYSGgydA" class="btn
-    waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
+    <a target=”_blank” href="https://form.jotform.com/211362793758364"
+    class="btn waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
     target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>   
