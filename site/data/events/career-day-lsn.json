@@ -1,14 +1,13 @@
 {
   "remove_after": "2020-06-24T04:00:00.000Z",
   "audience": [
-    "company",
     "home"
   ],
-  "where": "",
+  "where": "Gotham,  Avenue d’Ouchy 4, 1006 Lausanne",
   "display_name": "Career Day Lausanne",
   "city": [],
   "header_icon": "fa-handshake",
-  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview.\n\n**June 23, 202**\n\nGotham,  Avenue d’Ouchy 4, 1006 Lausanne\n\n********",
+  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview.\n\n**June 23, 2021**\n\n- - -",
   "title": "Career Day Lausanne",
   "call_to_action": "Learn more",
   "when": "",
