@@ -1,20 +1,18 @@
 ---
-title: 'Open Job Position: Program Coordinator'
+title: 'Open Job Position: Industry Relationship Developer (60% - 100%)'
 image: /img/header_participants.jpg
-section_title: 'Open Job Position: Program Coordinator (Applications Now Closed)'
+section_title: 'Open Job Position: Industry Relationship Developer'
 text: >-
-  ![](/img/zrh2021_jobad_programcoordinator.jpg)
+  ![](/img/jobad_industryrelationshipdeveloper_2021.png)
 
-
-  **Update (30 November): Applications are now closed.** \
 
   ****\
 
-  **Please apply with a short motivation email and your CV best before 30
-  November 2020 to:** \
+  Please apply with a short motivation email and your CV best before 18 June
+  2021 to:\
 
-  andrina.beuggert@powercoders.org
+  bettina.hirsig@powercoders.org
 team:
-  header: Team Zurich/Bern
+  header: Team Powercoders
 ---
 
