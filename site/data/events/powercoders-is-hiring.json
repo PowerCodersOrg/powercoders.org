@@ -1,18 +1,16 @@
 {
-  "remove_after": "2020-12-01T05:00:00.000Z",
+  "remove_after": "2021-06-19T04:00:00.000Z",
   "audience": [
     "home",
-    "volunteer"
+    "volunteer",
+    "student"
   ],
   "display_name": "Powercoders is hiring!",
-  "city": [
-    "lausanne",
-    "zurich"
-  ],
+  "city": [],
   "header_icon": "fa-users",
-  "text": "Are you interested to work within a non-profit organization and to support our team in impacting lives of refugees and migrants in Switzerland? \n\nApply best before 30 November 2020 for our **open job position** \"Program Coordinator\".",
+  "text": "Are you interested to work within a non-profit organization and to support our team in impacting lives of refugees and migrants in Switzerland? \n\nApply best before 18 June 2021 for our **open job position** \"Industry Relationship Developer\".",
   "title": "Powercoders is hiring!",
   "call_to_action": "SEE JOB DESCRIPTION",
   "when": "",
-  "link": "https://powercoders.org/city/open-job-position-program-coordinator/"
+  "link": "https://powercoders.org/city/open-job-position-industry-relationship-developer/"
 }
