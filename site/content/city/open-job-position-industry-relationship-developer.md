@@ -3,6 +3,9 @@ title: 'Open Job Position: Industry Relationship Developer '
 image: /img/about_graduation.png
 section_title: 'Open Job Position: Industry Relationship Developer'
 text: >-
+  ## **Industry Relationship Developer (60% - 100%)**
+
+
   **We are looking for a team member who:**
 
 
