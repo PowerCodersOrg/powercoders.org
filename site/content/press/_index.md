@@ -15,7 +15,7 @@ media:
         links:
           - link: 'https://www.fer-ge.ch/'
             link_text: Un Career Day pour recruter des stagiaires en informatique
-            title: Journal "Entreprise Romande" by FER Genève (journal / French)
+            title: Journal "Entreprise Romande" of FER Genève (journal / French)
       - date: 25.2.2021
         links:
           - link: >-
