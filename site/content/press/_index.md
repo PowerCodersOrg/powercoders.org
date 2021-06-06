@@ -11,6 +11,11 @@ text: >-
   kit](https://drive.google.com/drive/folders/1Of5djcMtIMvW9cvQ0KP-xPsOQoeEtgFV?usp=sharing)
 media:
   - entries:
+      - date: 04.06.2021
+        links:
+          - link: 'https://www.fer-ge.ch/'
+            link_text: Un Career Day pour recruter des stagiaires en informatique
+            title: Journal "Entreprise Romande" by FER Genève (journal / French)
       - date: 25.2.2021
         links:
           - link: >-
