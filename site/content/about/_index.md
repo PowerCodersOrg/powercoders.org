@@ -328,7 +328,7 @@ team:
       name: Lydia Tracy
       visible:
         - community
-    - description: Board Member
+    - description: President
       image: /img/lynn.jpg
       name: Lynn Blattmann
       visible:
