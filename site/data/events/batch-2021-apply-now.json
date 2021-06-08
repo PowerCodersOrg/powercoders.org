@@ -1,17 +1,17 @@
 {
-  "remove_after": "2021-01-20T08:00:00.000Z",
+  "remove_after": "2021-06-30T07:00:00.000Z",
   "audience": [
     "home",
     "student"
   ],
-  "display_name": "Batch 2021: Apply Now! ",
+  "display_name": "Program fall 2021: Apply Now! ",
   "city": [
     "lausanne",
     "zurich"
   ],
   "header_icon": "fa-users",
-  "text": "For interested candidates: Applications for our Batch 2021 are open now!\n\nWould you like to gain a foothold in the IT industry? Apply now for the Powercoders program 2021.",
-  "title": "Batch 2021: Apply Now! ",
+  "text": "For interested candidates: Applications for our program in fall 2021 are open now!\n\nWould you like to gain a foothold in the IT industry? Apply now!",
+  "title": "Program fall 2021: Apply Now! ",
   "call_to_action": "More info",
   "when": "",
   "link": "https://powercoders.org/participant/"
