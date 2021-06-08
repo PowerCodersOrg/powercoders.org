@@ -116,20 +116,19 @@ team:
       visible:
         - office_powercoders
         - board_powercoders
-        - switzerland
+        - team_zurich
+        - team_lausanne
     - description: Participant / Zurich
       image: /img/chiar_evdi.jpg
       name: Chiar Evdi
       visible:
         - participants
-    - description: Founder / President
+    - description: Founder / Board Member
       email: christian.hirsig@powercoders.org
       image: /img/christian_hirsig.jpg
       name: Christian Hirsig
       visible:
-        - office_powercoders
         - board_powercoders
-        - switzerland
     - description: Job Coach / Bern
       image: /img/christian_zosel.jpg
       name: Christian Zosel
@@ -327,7 +326,7 @@ team:
       name: Lydia Tracy
       visible:
         - community
-    - description: Board Member
+    - description: President
       image: /img/lynn.jpg
       name: Lynn Blattmann
       visible:
@@ -368,6 +367,8 @@ team:
       name: Maria Multani
       visible:
         - office_powercoders
+        - team_lausanne
+        - team_zurich
     - description: Teaching Assistant
       email: 'zivi@powercoders.org '
       image: /img/newsletter-photo-zivi-mark.jpg
