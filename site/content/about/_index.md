@@ -116,7 +116,8 @@ team:
       visible:
         - office_powercoders
         - board_powercoders
-        - switzerland
+        - team_zurich
+        - team_lausanne
     - description: Participant / Zurich
       image: /img/chiar_evdi.jpg
       name: Chiar Evdi
