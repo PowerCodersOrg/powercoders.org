@@ -369,6 +369,8 @@ team:
       name: Maria Multani
       visible:
         - office_powercoders
+        - team_lausanne
+        - team_zurich
     - description: Teaching Assistant
       email: 'zivi@powercoders.org '
       image: /img/newsletter-photo-zivi-mark.jpg
