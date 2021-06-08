@@ -123,14 +123,12 @@ team:
       name: Chiar Evdi
       visible:
         - participants
-    - description: Founder / President
+    - description: Founder / Board Member
       email: christian.hirsig@powercoders.org
       image: /img/christian_hirsig.jpg
       name: Christian Hirsig
       visible:
-        - office_powercoders
         - board_powercoders
-        - switzerland
     - description: Job Coach / Bern
       image: /img/christian_zosel.jpg
       name: Christian Zosel
