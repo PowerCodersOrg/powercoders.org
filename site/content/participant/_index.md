@@ -41,15 +41,15 @@ text: >-
 
 
   Application period for our Spring Program 2022 in Switzerland (April-July)
-  will open in December 2021. Register in the following form and we will inform
-  you about the next registration period.
+  will open in December 2021. Register with the following form and we will
+  inform you about the next registration period.
 
 
   \
 
   <a target=”_blank”
   href="https://docs.google.com/forms/d/e/1FAIpQLSd8WyXnd1YL3tx8VdOeYzn83lOJqOe4lVetwtQQRKg3mchu7g/viewform"
-  class="btn waves-effect waves-light pwc-red">I AM INTERESTED FOR
+  class="btn waves-effect waves-light pwc-red">I AM INTERESTED TO JOIN IN
   SWITZERLAND</a>
 programme:
   header: Our program
@@ -188,7 +188,7 @@ programme:
     ###### APPLY NOW
 
 
-    ****
+    - - -
 
 
     **Apply in your country of residence.** 
@@ -198,7 +198,7 @@ programme:
 
     <a target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLSd8WyXnd1YL3tx8VdOeYzn83lOJqOe4lVetwtQQRKg3mchu7g/viewform"
-    class="btn waves-effect waves-light pwc-red">I AM INTERESTED FOR
+    class="btn waves-effect waves-light pwc-red">I AM INTERESTED TO JOIN IN
     SWITZERLAND</a> <a target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>   
