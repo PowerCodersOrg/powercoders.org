@@ -37,31 +37,20 @@ text: >-
   We encourage women to apply for our program. 
 
 
-  **Info Sessions** 
-
-
-  Do you have any more questions? Join one of our two info sessions that are
-  coming up:
-
-
-  * Wednesday, 10 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
-
-  * Monday, 21 June, 6-7:00pm, [sign up
-  here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
-
-
   **Application (online)** 
 
 
-  Application period for our Fall Program 2021 in Switzerland is open from 31
-  May to 28 June 2021.
+  Application period for our Spring Program 2022 in Switzerland (April-July)
+  will open in December 2021. Register in the following form and we will inform
+  you about the next registration period.
 
 
   \
 
-  <a target=”_blank” href="https://form.jotform.com/211362793758364" class="btn
-  waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a>
+  <a target=”_blank”
+  href="https://docs.google.com/forms/d/e/1FAIpQLSd8WyXnd1YL3tx8VdOeYzn83lOJqOe4lVetwtQQRKg3mchu7g/viewform"
+  class="btn waves-effect waves-light pwc-red">I AM INTERESTED FOR
+  SWITZERLAND</a>
 programme:
   header: Our program
   image: /img/powercoders_graphic_programme_mai2020_participants.png
@@ -193,28 +182,24 @@ programme:
     (by University of Zurich)
 
 
-    **Info Sessions**
-
-
-    Do you have any more questions? Join one of our two info sessions that are
-    coming up:
-
-
-    * Wednesday, 10 June, 6-7:00pm, [sign up
-    here](https://docs.google.com/forms/d/e/1FAIpQLScsgzlIL0sD2qqY8OfJQSEIFhynS5GEAt8KBt2hx5FoAYc_Mw/viewform)
-
-    * Monday, 21 June, 6-7:00pm, [sign up
-    here](https://docs.google.com/forms/d/e/1FAIpQLSdSgeAhnRhr1FycvZVaESqniIWvFciUxLPlVYpFYIg8O3sRXg/viewform)
+    - - -
 
 
     ###### APPLY NOW
 
 
-    **Apply in your country of residence.** \
+    ****
 
-    <a target=”_blank” href="https://form.jotform.com/211362793758364"
-    class="btn waves-effect waves-light pwc-red">APPLY FOR SWITZERLAND</a> <a
-    target=”_blank”
+
+    **Apply in your country of residence.** 
+
+
+    \
+
+    <a target=”_blank”
+    href="https://docs.google.com/forms/d/e/1FAIpQLSd8WyXnd1YL3tx8VdOeYzn83lOJqOe4lVetwtQQRKg3mchu7g/viewform"
+    class="btn waves-effect waves-light pwc-red">I AM INTERESTED FOR
+    SWITZERLAND</a> <a target=”_blank”
     href="https://docs.google.com/forms/d/e/1FAIpQLScG2IehllwI3eNA_jppQTWRLYp0WYAY10fMuJ4AHZoaQ4Qv7g/viewform"
     class="btn waves-effect waves-light pwc-red">APPLY FOR ITALY</a>   
 
