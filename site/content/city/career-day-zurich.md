@@ -36,11 +36,11 @@ text: >-
 
   **When:** \
 
-  **Career Day** **Deutschschweiz**: **18** **Mai 2021 in Zurich**, 2 slots
+  **Career Day** **Deutschschweiz**: **26 October 2021 in Zurich**, 2 slots
   available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm. \
 
-  **Career Day** **Romandie**: **23 June 2021 in Lausanne**, 2 slots available:
-  9:00 am till 13:30 pm or 12:00 till 16:30 pm
+  **Career Day** **Romandie**: **3 November 2021 in Lausanne**, 2 slots
+  available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm
 
 
   **Where:** \
@@ -68,9 +68,8 @@ text: >-
   **Cost:** Free
 
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdzsqCYm3zBUOwHXkrGIyv7hAKKUCg4uy7vuaVsot-CuGaXBQ/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+  <a href="https://forms.gle/osktNt5vcjoJ1w349" class="btn waves-effect
+  waves-light pwc-red">SIGN UP career day</a>
 
 
   - - -
