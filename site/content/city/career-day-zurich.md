@@ -45,11 +45,9 @@ text: >-
 
   **Where:** \
 
-  **Zurich**: Dynamo, [Wasserwerkstrasse 21, 8006
-  Zurich](https://www.google.com/maps/place/Dynamo+Jugendkulturhaus/@47.383401,8.5371934,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x4e8ed220e9531140!8m2!3d47.383401!4d8.5393821)\
+  **Zurich**: To be confirmed\
 
-  **Lausanne:** Gotham, [Avenue d’Ouchy 4, 1006
-  Lausanne](https://www.google.ch/maps/place/Gotham+Lausanne+Gare/@46.5164015,6.6306285,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fccc5935a97:0x648470ebed83113d!8m2!3d46.5163978!4d6.6328172)
+  **Lausanne:** To be confirmed
 
 
   **Program:**\
