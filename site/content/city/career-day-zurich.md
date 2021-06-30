@@ -36,20 +36,18 @@ text: >-
 
   **When:** \
 
-  **Career Day** **Deutschschweiz**: **18** **Mai 2021 in Zurich**, 2 slots
+  **Career Day** **Deutschschweiz**: **26 October 2021 in Zurich**, 2 slots
   available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm. \
 
-  **Career Day** **Romandie**: **23 June 2021 in Lausanne**, 2 slots available:
-  9:00 am till 13:30 pm or 12:00 till 16:30 pm
+  **Career Day** **Romandie**: **3 November 2021 in Lausanne**, 2 slots
+  available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm
 
 
   **Where:** \
 
-  **Zurich**: Dynamo, [Wasserwerkstrasse 21, 8006
-  Zurich](https://www.google.com/maps/place/Dynamo+Jugendkulturhaus/@47.383401,8.5371934,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x4e8ed220e9531140!8m2!3d47.383401!4d8.5393821)\
+  **Zurich**: To be confirmed\
 
-  **Lausanne:** Gotham, [Avenue d’Ouchy 4, 1006
-  Lausanne](https://www.google.ch/maps/place/Gotham+Lausanne+Gare/@46.5164015,6.6306285,17z/data=!3m1!4b1!4m5!3m4!1s0x478c2fccc5935a97:0x648470ebed83113d!8m2!3d46.5163978!4d6.6328172)
+  **Lausanne:** To be confirmed
 
 
   **Program:**\
@@ -68,9 +66,8 @@ text: >-
   **Cost:** Free
 
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdzsqCYm3zBUOwHXkrGIyv7hAKKUCg4uy7vuaVsot-CuGaXBQ/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+  <a href="https://forms.gle/osktNt5vcjoJ1w349" class="btn waves-effect
+  waves-light pwc-red">SIGN UP career day</a>
 
 
   - - -
