@@ -1,5 +1,5 @@
 {
-  "remove_after": "2021-05-19T22:00:00.000Z",
+  "remove_after": "2021-11-29T23:00:00.000Z",
   "audience": [
     "home",
     "company"
@@ -11,7 +11,7 @@
     "lausanne"
   ],
   "header_icon": "fa-handshake",
-  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview. \n\n- - -\n\nZurich**: 18 May 2021**\\\nLausanne**: 23 June 2021**",
+  "text": "The Career Day is the day when companies have the chance to discover our participants and select their top candidates to invite for an onsite or remote interview. \n\n- - -\n\nZurich**: 26 October 2021**\\\nLausanne**: 2 November 2021**",
   "title": "Career Day Powercoders Switzerland",
   "call_to_action": "Learn more",
   "when": "",
