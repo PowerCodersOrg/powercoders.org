@@ -31,7 +31,7 @@ text: >-
 
 
   **What:** Career Day Powercoders (meet 18 – 22 students who like to start
-  their internships in August/September 2021)
+  their internships in January/February 2022)
 
 
   **When:** \
