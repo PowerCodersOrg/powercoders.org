@@ -13,9 +13,8 @@ text: >-
   **Are you interested? Then join our next Career Day and get an idea of our IT
   talents.** \
 
-  <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSdzsqCYm3zBUOwHXkrGIyv7hAKKUCg4uy7vuaVsot-CuGaXBQ/viewform"
-  class="btn waves-effect waves-light pwc-red">SIGN UP career day</a>
+  <a href="https://forms.gle/osktNt5vcjoJ1w349" class="btn waves-effect
+  waves-light pwc-red">SIGN UP career day</a>
 
 
   - - -
