@@ -40,14 +40,14 @@ text: >-
   available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm. \
 
   **Career Day** **Romandie**: **3 November 2021 in Lausanne**, 2 slots
-  available: 9:00 am till 13:30 pm or 12:00 till 16:30 pm
+  available: 9:00 am till 12:00 pm or 13:00 till 16:00 pm
 
 
   **Where:** \
 
-  **Zurich**: To be confirmed\
+  **Zurich**: Location to be confirmed\
 
-  **Lausanne:** To be confirmed
+  **Lausanne:** Location to be confirmed
 
 
   **Program:**\
@@ -58,7 +58,7 @@ text: >-
   2. Join the Career Day either morning or afternoon and pick your top
   candidates. \
 
-  3. Invite them for an interview the week after. \
+  3. Invite them for an 2nd interview the week after. \
 
   4. Decide if and to whom you would like to offer an internship.
 
